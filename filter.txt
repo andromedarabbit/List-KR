@@ -846,10 +846,12 @@ gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com##.boardRead + DIV[align="center"]
 gmarket.co.kr##.m_ad
-hani.co.kr###power-link2
-hani.co.kr##div.ttalk150_banner
-hani.co.kr##div[class^="hani-advertise"]
-hani.co.kr##iframe[src^="/section-adv/"]
+hani.co.kr###a-left-scroll-in > DIV[style*="padding:"]:last-child
+hani.co.kr###laAdArea
+hani.co.kr##.ad-weather-banner
+hani.co.kr##DIV[class^="text-ad"]
+hani.co.kr##DIV[id^="ad_box"]
+hani.co.kr##DIV[id^="ad_home_"]
 hankookilbo.com##iframe.adiframe300x250
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[src="/sidead300x250.html"]
@@ -1673,6 +1675,7 @@ i.orbi.kr#@#.gridAd
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !------ Miscellaneous ----------
+/acecounter_*.js
 /InsightTrk/*.do?$match-case
 /weblog/nethruscriptlog.html^
 /wlo/Logging^
@@ -1708,9 +1711,7 @@ i.orbi.kr#@#.gridAd
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
-||donga.com/acecounter/acecounter_*.js^
 ||estat.zum.com^
-||gather.donga.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
