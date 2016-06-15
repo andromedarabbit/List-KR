@@ -942,6 +942,7 @@ khan.co.kr###mezzo_ad
 khan.co.kr##.ad_area
 khan.co.kr##.ad_thumb_btm
 khan.co.kr##.link_cartoon
+kin.naver.com##.broadcast_kin
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
 kookje.co.kr###bnr_newstopArea
