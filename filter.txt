@@ -559,8 +559,8 @@
 ||tvple.com/ad-banner^
 ||unionpress.co.kr/news/html_tpl/pr_ad.php^
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
-||uplus.kr/cd/cdNavi/retreieveHtml3JS.dmd^
-||uplus.kr/common/m_js/mobile_html_web4.js^
+||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
+||uplus.kr/common/m_js/mobile_html_web*.js^
 ||view.asiae.co.kr/common/ad/
 ||viewsnnews.com/image/advert/
 ||web.n2s.co.kr^
@@ -637,6 +637,10 @@
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
+ajunews.com###articleBody DIV[style*="200px"][style*="right"]
+ajunews.com###page-body > .blk675 > .inner-float + .ofw
+ajunews.com##.layer_popup[id^="POPUP_"]
+ajunews.com##a[href="http://www.ajunews.com/newsstand"]
 albamon.com###subtopAd
 anewsa.com###contents_body > DIV[style$="330px;"]
 anewsa.com###ir_bnr2 + DIV[style$="x;"]
@@ -1072,6 +1076,7 @@ m.kmib.co.kr##div.css_remon_wiki1
 m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
 m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
+m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
 m.kukinews.com##.tp_cnt_vw > .bnr
 m.media.daum.net###daumAd
@@ -1746,6 +1751,7 @@ i.orbi.kr#@#.gridAd
 ||krtarget.co.kr/tracker/
 ||linkback.contentsfeed.com^
 ||livelog.co.kr/js/*.php?
+||log.ajunews.com:8881^
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
