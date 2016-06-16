@@ -1619,8 +1619,11 @@ ytn.co.kr##div[class^="ad_zone"]
 ytn.co.kr##div[class^="sub_adbox"]
 ytn.co.kr##iframe[name="AdtopBanner"]
 ytn.co.kr##ul[class^="adnew"]
-zangsisi.net##body>center
-zangsisi.net##div.fixed-top
+zangsisi.net###fixed-top > a[style*="right:"]
+zangsisi.net###manga-list > a[href="http://zangsisi.net/"]
+zangsisi.net###recent-post > a[href="http://zangsisi.net/"]
+zangsisi.net##a[href^="http://empire.goodgamestudios.com"]
+zangsisi.net##BODY > .fixed-top:last-child > CENTER
 zdnet.co.kr###lAdContainer
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##div.ad
