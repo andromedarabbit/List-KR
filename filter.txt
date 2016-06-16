@@ -897,7 +897,7 @@ huffingtonpost.kr###modulous_right_rail_flex
 huffingtonpost.kr###modulous_sponsorship_2
 huffingtonpost.kr##div.ad_lower_right_commercials_wrapper
 hungryapp.co.kr###banner_11
-hungryapp.co.kr##div.bannersww
+hungryapp.co.kr##A[href^="javascript:skin_banner("]
 i.orbi.kr###diamondBanner
 i.orbi.kr###styleBanner
 i.orbi.kr##.commentAdv2
@@ -1811,6 +1811,7 @@ i.orbi.kr#@#.gridAd
 !
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
+hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
