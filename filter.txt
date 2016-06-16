@@ -33,6 +33,7 @@
 ||115.68.75.10/banner_*.php^
 ||211.233.4.20^$third-party
 ||211.234.119.116/pront/default.asp^
+||218.239.16.168/SWFUpload/$image,domain=cooln.kr|coolenjoy.net
 ||218.153.11.175^
 ||2cpu.co.kr/ad_board.php
 ||38.co.kr/images/banner/
@@ -326,6 +327,7 @@
 ||img.asiatoday.co.kr/adver/
 ||img.asiatoday.co.kr/images/banner/
 ||img.asiatoday.co.kr/popup/
+||img.coolenjoy.net/banner/upfile/
 ||img.dt.co.kr/unse/
 ||img.focus.kr/mnt/webdata/banner/$image
 ||img.ichannela.com/script/ad/*.js
@@ -724,6 +726,8 @@ comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
 comic.naver.com##.ads_sc
 consumernews.co.kr##span.brn
+coolenjoy.net,cooln.kr##.simple_banner_wrap
+coolenjoy.net,cooln.kr###sidebar > .tab
 dailian.co.kr##div[class^="banner"]
 dailian.co.kr##iframe[name="adv"]
 daily.hankooki.com###MobileLink
