@@ -938,6 +938,7 @@ isplus.joinsmsn.com###topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 ittoday.co.kr##dl[class$="top-banner"]
+jisiklog.com##SPAN.row SPAN[style*="10%"][style*="padding-left"]
 jjan.kr###livereContentsContainer ~ TABLE
 jobplanet.co.kr###prism_displayAD
 joins.com###divArticleAdnetworkBanner
