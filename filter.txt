@@ -442,6 +442,7 @@
 ||nanumnews.com/news_skin/nanumnews_com/main/nanum_ad_*.html^
 ||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
+||naver-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||naver.com/api/adpostRelay.nhn?
 ||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
@@ -594,6 +595,7 @@
 @@||postfiles*.naver.net^
 @@||static.post.naver.net/
 !
+@@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
@@ -1745,6 +1747,7 @@ i.orbi.kr#@#.gridAd
 ||logger.co.kr^$third-party
 ||logtracker.cjmall.com^
 ||makeshop.co.kr/js/mslog.js^
+||medialog.smartmediarep.com/api/*/tracking^
 ||miraelog.net^$third-party
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
@@ -1762,6 +1765,7 @@ i.orbi.kr#@#.gridAd
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/mod_pagespeed_beacon^
+||sbs.co.kr/news/ajax/insert*Log.do^
 ||sc*.cpcguard.com/*.asp
 ||script.auction.co.kr/ad/log.js
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
