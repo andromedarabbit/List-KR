@@ -283,6 +283,7 @@
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
 ||fun-adstore.co.kr/ad/
+||fusencead.com^$third-party
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/dc_ad_*_JH.php^
 ||gametoc.hankyung.com/banner/*rbanner
@@ -305,6 +306,7 @@
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
+||ichannela.com/newad/
 ||idnad.co.kr^$third-party
 ||ihalla.com/banner/
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
@@ -326,6 +328,8 @@
 ||img.asiatoday.co.kr/popup/
 ||img.dt.co.kr/unse/
 ||img.focus.kr/mnt/webdata/banner/$image
+||img.ichannela.com/script/ad/*.js
+||img.ichannela.com/script/playAd.js
 ||img.newspim.com/banner/$image
 ||img.ppomppu.co.kr/zboard/*/banner^
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
@@ -474,7 +478,6 @@
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
-||popin.cc^$third-party 
 ||plugin.2beon.co.kr^
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
@@ -574,8 +577,10 @@
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
 !
-!------ VAST rules -------------
+!------ VAST rules -------------------------
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+!------ Video ads in flash player ----------
+||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1701,6 +1706,7 @@ i.orbi.kr#@#.gridAd
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
+||chalog.ichannela.com^
 ||chosun.com/dhtm/js/common/collecter.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
@@ -1746,10 +1752,12 @@ i.orbi.kr#@#.gridAd
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
+||r.popin.cc/log.gif?
 ||rec.netinsight.co.kr/rec/*/view?
 ||recobell.io/rest/logs^
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
+||rlog.popin.cc/*.gif?
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/mod_pagespeed_beacon^
@@ -1772,6 +1780,7 @@ i.orbi.kr#@#.gridAd
 ||weblog.greendaily.co.kr^
 ||yes24.com//javascript/wlo.js
 ||z.o00.kr^
+||zerocounter.com/?
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
@@ -1788,6 +1797,7 @@ news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!impo
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
+tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
