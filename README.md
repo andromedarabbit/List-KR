@@ -7,7 +7,7 @@
 
 이 필터는 Adguard Windows, Mac, Android 버전에 최적화되어 있습니다. 대다수의 룰은 [Adblock Plus][]의 문법을 따르고 있으나, 몇몇 까다로운 필터링을 위한 규칙은 Adguard에서 제공하는 확장된 기능을 이용하고 있으며 다른 툴로는 활성화되지 않습니다. 또한 Adblock plus와 필터 처리 방식에 차이가 있어, 이를 사용할 경우 광고가 차단된 자리에 빈 공간이 나타날 수 있습니다. [ublock origin][]은 비록 Adguard의 모든 기능을 지원하진 않지만 일부 규칙과 호환되어 이 필터를 사용할 수 있습니다.
 
-이 필터에서는 한국어 웹 사이트에만 집중하기 때문에, English 필터와 같이 사용하는 것을 권장합니다.
+이 필터에서는 한국어 웹 사이트에만 집중하기 때문에, EasyList등 영어권 필터와 같이 사용하는 것을 권장합니다.
 
 Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 
@@ -49,7 +49,7 @@ Welcome! If you found unblocked ads, ads leftovers or any other objects that are
 #### For IE
 There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would result in unblocked ads rarely (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
 
-[Adguard]: https://adguard.com
+[Adguard]: http://adguard.com/?aid=26141
 [Adblock Plus]: https://adblockplus.org/
 [ublock origin]: https://github.com/gorhill/uBlock
 [이곳]: https://namu.wiki/w/Adguard
