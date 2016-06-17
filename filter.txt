@@ -1200,7 +1200,7 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
-mnews.joins.com##.band_ad_top
+mnews.joins.com###innerBigBanner
 mnews.joins.com##div.ad
 mnews.joins.com##div.ad_h100
 mnews.jtbc.joins.com###player_bottom_ad
