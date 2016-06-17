@@ -842,11 +842,7 @@ fnnews.com##div.news_cont>div[align="center"][style="padding-top: 1px"]
 fnnews.com##div.news_cont>div[align="center"][style="padding: 30px 0"]
 fnnews.com##div.sub_cont>div[style="width:970px;margin: 0 auto;padding-bottom:20px;"]
 fnnews.com##div.tit_banner
-focus.kr##div.g_area>div[style="display:block;width:314px;height:258px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
-focus.kr##div.g_area>div[style="width: 314px; height: 258px; text-align: center; padding-top: 7px; margin-bottom: 25px; background-color: white;"]
-focus.kr##div.g_area>div[style="width:314px;height:188px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
-focus.kr##div.g_area>div[style="width:314px;height:258px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
-focus.kr##div.header>div.wrap>div[style="position:absolute;right: 0px;bottom: 16px;width: 270px;height: 77px;background-color: white;z-index:10000"]
+focus.kr##.g_area > DIV[style*="314"][style*="height:"]
 fomos.kr###top_banner
 fomos.kr##.banner_area
 gall.dcinside.com###list_right_ad
