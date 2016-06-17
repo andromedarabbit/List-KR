@@ -546,6 +546,7 @@
 *tab*.clickmon.co.kr/pop/
 ||talklink.link/ko/ad/talklink_ad^
 ||te31.com/rgr/ad/
+||tenping.kr^$third-party
 ||tl.mmnneo.com/neovcm.js^
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
