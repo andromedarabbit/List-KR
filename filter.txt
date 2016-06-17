@@ -1776,6 +1776,7 @@ i.orbi.kr#@#.gridAd
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
 ||nextdaily.co.kr/tools/article_count*.html
+||ngc*.nsm-corp.com^$third-party
 ||nocutnews.co.kr/js/logger.htm^
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
