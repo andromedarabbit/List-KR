@@ -393,6 +393,7 @@
 ||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
+||manian.com/images/banner/$image
 ||mat.adpies.com/mat/$empty
 ||maxmovie.com/banner/img/lotte630x88.jpg^
 ||mbn.mk.co.kr/pages/ad/
@@ -1164,11 +1165,12 @@ m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
 m.zdnet.co.kr##.sub_view_cont > DIV[style*="200px"]
+manaa.space##.ad-box
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com###fbanner
 mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
-manaa.space##.ad-box
+manian.com##.top_banner
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
