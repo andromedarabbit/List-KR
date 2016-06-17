@@ -608,6 +608,8 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+! temp
+@@||m.sports.naver.com/*/gamecenter/*tab=record$document
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
 !-------------------------------------------------------------------------------!
