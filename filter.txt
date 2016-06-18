@@ -131,6 +131,7 @@
 ||adlibr.com^$third-party
 ||adlike.co.kr^$third-party
 ||adn.inven.co.kr^
+||adnavi.co.kr^$third-party
 ||adneo.co.kr^$third-party
 ||adneo.encock.com/media/
 ||adnmore.co.kr^$third-party
@@ -225,7 +226,6 @@
 ||cm*.joins.com^
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
-||cm.semanticrep.com^$third-party
 ||cm2.cjmooter.com^
 ||cnews.co.kr/uhtml/images/banner/$image
 ||contentlink.co.kr^$third-party
@@ -504,6 +504,7 @@
 ||scripts.chitika.net^
 ||search.n2s.co.kr/*_ad*.php^
 ||segye.com/Articles/Components/Ad/
+||semanticrep.com^$third-party
 ||semanticrep.net^$third-party
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
@@ -515,7 +516,6 @@
 ||sndkorea.nowcdn.co.kr/media/
 ||sndkorea.nowcdn.co.kr/xml/
 !----------------------- reviewed up to here -------------------------------------
-||sosa.semanticrep.com^$third-party
 ||sports.chosun.com/ad/
 ||sports.chosun.com/ads/
 ||sports.chosun.com/banner/240_140_100208.swf^
@@ -538,7 +538,7 @@
 ||swf.adget.co.kr/ads/
 ||tab.clickmon.co.kr/ad_img/
 *tab*.clickmon.co.kr/pop/
-||talklink.link/ko/ad/talklink_ad^
+||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
 ||theprimead.co.kr^$third-party
