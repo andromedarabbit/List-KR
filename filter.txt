@@ -359,7 +359,6 @@
 ||js.hnscom.com/etc/hns/hook_*.js^
 ||js.hnscom.com/etc/hns/pop_cook_*.js^
 ||js.keywordsconnect.com^
-||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
 ||jssearch.net^$third-party
@@ -540,6 +539,7 @@
 ||talklink.link/ko/ad/talklink_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
+||theprimead.co.kr^$third-party
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
 ||torrentmade.com/js/bpopup/scripting.min.js^
@@ -1381,20 +1381,12 @@ ohmynews.com##div.wing_gallery_banner
 ohmynews.com##div[class^="aside_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
-osen.mt.co.kr###aside2>div[style="margin:0px 1px 0px 1px;overflow:hidden;"]
-osen.mt.co.kr###left_wing_ad
-osen.mt.co.kr###mask
-osen.mt.co.kr###right_wing_ad
+osen.mt.co.kr###aside2 > DIV[style*="height:"]
+osen.mt.co.kr##.detailBox > DIV[style*="height"]
+osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
 osen.mt.co.kr##div.advertising
-osen.mt.co.kr##div.content-inner__banner
-osen.mt.co.kr##div.detailBox>div[style="margin-top:40px;"]
-osen.mt.co.kr##div.detailBox>div[style="width:0px; height:0px; position:relative;"]
-osen.mt.co.kr##div.detailBox>div[style="width:100%;text-align:center;margin-top:25px;"]
-osen.mt.co.kr##div.detailBox>div[style="width:652px;height:240px;overflow:hidden;margin-top:20px;margin-bottom:20px;"]
 osen.mt.co.kr##div.detailView>ul.articleList
-osen.mt.co.kr##div.divBox
 osen.mt.co.kr##div.mask_div
-osen.mt.co.kr##div.topBanner
 pann.nate.com###pann_brandAdWrap
 pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
@@ -1766,6 +1758,7 @@ i.orbi.kr#@#.gridAd
 ||makeshop.co.kr/js/mslog.js^
 ||medialog.smartmediarep.com/api/*/tracking^
 ||miraelog.net^$third-party
+||mt.co.kr/weblog.php?
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
 ||nextdaily.co.kr/tools/article_count*.html
@@ -1839,7 +1832,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
 !------ context menu enablers -----------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
