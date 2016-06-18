@@ -154,7 +154,6 @@
 ||ads3.adinc.co.kr^
 ||adserve.postrelease.com/init.js^
 ||adserver.adtechus.com^
-||adserver.sbtrustmedia.com^
 ||adserver.uniqube.tv^
 ||adserver.viewgames.co.kr/adi/adiPage.php^
 ||adsvc2.wisenut.co.kr^
@@ -170,7 +169,6 @@
 ||adx.turl.co.kr/toast.wif^
 ||adx-exchange.toast.com/*pub_code=$third-party
 ||adxv.zum.com^
-||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
 ||alea.adam.daum.net/imp
 ||allblet.net^$third-party
@@ -202,6 +200,7 @@
 ||boannews.com/images/banner/$image
 ||boannews.com/main_files/main_banner*.asp^ 
 ||boannews.com/main_files/main_right.asp^
+||boannews.com/media/include/media_view_banner.asp^
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -226,6 +225,7 @@
 ||cm*.joins.com^
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
+||cm.semanticrep.com^$third-party
 ||cm2.cjmooter.com^
 ||cnews.co.kr/uhtml/images/banner/$image
 ||contentlink.co.kr^$third-party
@@ -465,7 +465,7 @@
 ||nsmartad.com^$third-party
 ||nson.encock.com/media/
 ||nsonmedia.com^$third-party
-!----------------------- reviewed up to here -------------------------------------
+||ntomap.com^$third-party
 ||nv*.veta.naver.com/dr^
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com^$third-party
@@ -477,13 +477,12 @@
 ||p.lumieyes.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||plugin.2beon.co.kr^
+||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
 ||prism.pandora.tv^
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
-||pv.ntomap.com/bin/imp^
-||pv.tag.ntomap.com/bin/query^
 ||qcma.qrobo.com/QCMA/common/
 ||ra.ntwoad.co.kr^
 ||rcm.amazon.com/e/cm^
@@ -497,15 +496,17 @@
 ||rsc.adpies.com/js/
 ||s.pubmine.com/adj/
 ||s*.algovid.com/player/gpv^
+||sb.trustmedia.co.kr^
+||sbtrustmedia.com^$third-party
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/
 ||scripts.chitika.net^
 ||search.n2s.co.kr/*_ad*.php^
 ||segye.com/Articles/Components/Ad/
+||semanticrep.net^$third-party
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
-||sgate.opap.co.kr/view/
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
@@ -513,8 +514,8 @@
 ||sndkorea.nowcdn.co.kr/emart/
 ||sndkorea.nowcdn.co.kr/media/
 ||sndkorea.nowcdn.co.kr/xml/
-||sosa.semanticrep.com/soea/
-||sosa.semanticrep.com/spacead/
+!----------------------- reviewed up to here -------------------------------------
+||sosa.semanticrep.com^$third-party
 ||sports.chosun.com/ad/
 ||sports.chosun.com/ads/
 ||sports.chosun.com/banner/240_140_100208.swf^
