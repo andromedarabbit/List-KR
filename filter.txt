@@ -425,7 +425,7 @@
 ||mymyad.co.kr^
 ||myvip.feeldmc.com/code.ems/
 ||nad1.mklaud.com/ad^
-||nads.lumieyes.com/show/media/
+||nads.lumieyes.com^$third-party
 ||nadservice.co.kr^$popup,third-party
 ||nann.co.kr^$third-party
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
@@ -468,7 +468,7 @@
 !----------------------- reviewed up to here -------------------------------------
 ||nv*.veta.naver.com/dr^
 ||nw.realssp.co.kr^$third-party
-||nws.lumieyes.com/show*/media/
+||nws.lumieyes.com^$third-party
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
 ||op.neoad.co.kr/adsearch*
@@ -1080,8 +1080,11 @@ m.kukinews.com##.tp_cnt_vw > .bnr
 m.media.daum.net###daumAd
 m.media.daum.net##.bnr_service
 m.mk.co.kr##DIV[id^="mainAdSlot"]
+m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
 m.mk.co.kr##.new_ad2
+m.mt.co.kr##ul[class^="ad_list_"]
+m.mt.co.kr##ul.list_t2[style]
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
@@ -1215,6 +1218,8 @@ mosen.mt.co.kr##div[id^="adList"]
 mt.co.kr###art_ad_top1
 mt.co.kr###news_banner1
 mt.co.kr###news_banner2
+mt.co.kr##div.ad
+mt.co.kr##ul.ad.only_640un
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
@@ -1491,7 +1496,6 @@ slrclub.com##.ad2
 slrclub.com##DIV[id^="slrcf"]
 star.mt.co.kr###aside>div[style="position:absolute; top:805px; right:-140px; width:120px;"]
 star.mt.co.kr###textBody>div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
-star.mt.co.kr##div.ad
 star.mt.co.kr##div.article_area>div[style="margin-top:10px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
