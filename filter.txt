@@ -160,7 +160,6 @@
 ||adsvc2.wisenut.co.kr^
 ||adtg.widerplanet.com^
 ||adtive.co.kr^$third-party
-||adv.imadrep.co.kr^
 ||adv.mediaharbor.co.kr/nad/
 ||adv.mediakeep.co.kr^
 ||adv.segye.com:8080^
@@ -209,6 +208,7 @@
 ||busan.com/bizspring/
 ||busan.com/images/sub_banner/
 ||busan.com/w2010/$subdocument
+||buxmeto.co.kr^$third-party
 ||c.betrad.com/surly.js^
 ||cad.donga.com/*.js^
 ||cad.donga.com/M/
@@ -310,6 +310,7 @@
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
 ||ilikeclick.com^$third-party
 ||im.obel.kr/file/
+||imadrep.co.kr^$third-party
 ||imaeil.com/image/banner/ad*.swf^
 ||imaeil.com/wec/
 ||image.cauly.co.kr/websdk/multi_mini_ads/ads.js^
@@ -1794,6 +1795,7 @@ i.orbi.kr#@#.gridAd
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
 ||weblog.greendaily.co.kr^
+||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
 ||z.o00.kr^
 ||zerocounter.com/?
