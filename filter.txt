@@ -1714,6 +1714,7 @@ i.orbi.kr#@#.gridAd
 ||a*.smlog.co.kr^
 ||abcmart.co.kr/wloso.html?wlo_so=
 ||ad*-kant.kakao.com/web/track.gif?
+||adlc-exchange.toast.com/log^$third-party
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics-event.kakao.com^$empty
@@ -1794,6 +1795,7 @@ i.orbi.kr#@#.gridAd
 ||ssg.com/wloso.html?wlo_so=
 ||stat*.nate.com/stat/*stat*.tiff?
 ||statweb.egloos.com^
+||tagmanager.toast.com/tag^$third-party
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
 ||tvchosun.com/front/js/tvchosun.js
