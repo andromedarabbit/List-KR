@@ -80,7 +80,6 @@
 ||ad.naver.com/admobile^
 ||ad.naver.com/adshow^
 ||ad.newsen.com/banner/
-||ad.nsonmedia.com/media/
 ||ad.ohmynews.com/adhtmllist/adtv_
 ||ad.openmatch.co.kr^
 ||ad.osen.co.kr^$third-party
@@ -108,13 +107,12 @@
 ||adalba.co.kr^$third-party
 ||adapi.about.co.kr^
 ||adclixad.daum.net^$third-party
-||adcr.naver.com
+||adcr.naver.com^$domain=~search.naver.com
 ||adcreative.hani.naver.net/ad
 ||adcrm.co.kr/md/
 ||adday.co.kr^$third-party
 ||adddn.adotsolution.com/contents/
 ||adecorp.co.kr^$domain=~sony.co.kr,third-party
-||adexview.neoebiz.co.kr^
 ||adexview.new-star.co.kr^
 ||adfront.auction.co.kr^
 ||adget.co.kr^$third-party
@@ -133,7 +131,6 @@
 ||adlibr.com^$third-party
 ||adlike.co.kr^$third-party
 ||adn.inven.co.kr^
-||adn.nsmartad.com^
 ||adneo.co.kr^$third-party
 ||adneo.encock.com/media/
 ||adnmore.co.kr^$third-party
@@ -148,7 +145,6 @@
 ||ads.contextweb.com/TagPublish/GetAd.aspx^
 ||ads.gamemeca.com^
 ||ads.mangouni.com/mad/
-||ads.mncmedia.co.kr^
 ||ads.olpost.com^
 ||ads.priel.co.kr/cgi-bin/PelicanC.dll^
 ||ads.pubmatic.com/AdServer/js/showad.js^
@@ -225,7 +221,6 @@
 ||cdn.pandora.tv/_adv_img/
 ||cdn03.sndkorea.co.kr^
 ||cdn04.sndkorea.co.kr^
-||celeb.nann.co.kr^
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
@@ -402,14 +397,12 @@
 ||mediamixad.com/ad/webad^
 ||mediarichad.com^$third-party
 ||mediawise.co.kr/banner/script/
-||mediaus.co.kr/bannerManager/inc/
 ||mediaview.co.kr/ad_Viewer.js^
 ||mediaview.co.kr/ad_Viewer2.php^
 ||menu.mt.co.kr/banner/adPlayer.swf^
 ||microbizit.com/admaru/codes/js/
 ||microopenpop.com/banner/
 ||midas-i.com^$third-party
-!----------------------- reviewed up to here -------------------------------------
 ||minishop.linkprice.com/minishop*.php^
 ||miz-diet.co.kr/artz130.html^
 ||miz-diet.co.kr/cnb.html^
@@ -418,6 +411,8 @@
 ||mk.co.kr/index_ad.mk^
 ||mktag.mt.co.kr/code.ems/
 ||mktag.mt.co.kr/event.ems/
+||mmnneo.com^
+||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
 ||mp.mmnneo.com^
 ||mt.co.kr/ad/
@@ -430,12 +425,12 @@
 ||mydaily.co.kr/ad/right_ad*.php^
 ||mymyad.co.kr^
 ||myvip.feeldmc.com/code.ems/
-||n25.nsmartad.com/click^
-||n45.nsmartad.com/imp^
 ||na.mmnneo.com/*neoad*.js^
 ||na.mmnneo.com/banner.widget.asp^
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com/show/media/
+||nadservice.co.kr^$popup,third-party
+||nann.co.kr^$third-party
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
 ||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
 ||nanumnews.com/data/nanumnews_com/banner/2011121337586078.gif^
@@ -443,12 +438,16 @@
 ||nanumnews.com/data/nanumnews_com/upload/2012042009422130.swf^
 ||nanumnews.com/data/nanumnews_com/upload/bn_2012/mireco.gif^
 ||nanumnews.com/news_skin/nanumnews_com/main/nanum_ad_*.html^
+||nasads.com^$third-party
+||nasmedia.co.kr^$third-party
 ||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
 ||naver-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||naver.com/api/adpostRelay.nhn?
+||ndsoft.co.kr/namecheck/ad/ad.html^
 ||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
+||newfocus.co.kr/images/banner_
 ||news.chosun.com/chosun/chosunad.html^
 ||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
 ||news.chosun.com/dhtm/js/common/ad_news.js^
@@ -462,15 +461,14 @@
 ||newspim.com/js/bizspring.js
 ||newswave.kr/ad/
 ||newsway.kr/ad/
-||newsway.kr/banner/banner_110323.html^
-||newsway.kr/banner/left_banner.html^
-||newsway.kr/banner/overture.html^
-||newsway.kr/bannerManager/
+||newsway.kr/banner/banner_
 ||nextdaily.co.kr/*/article_count*.html 
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||npian.com/nbox/ad*.swf^
-||nscreen.neoebiz.co.kr/xJqScreen.php^
+||nsmartad.com^$third-party
 ||nson.encock.com/media/
+||nsonmedia.com^$third-party
+!----------------------- reviewed up to here -------------------------------------
 ||nv*.veta.naver.com/dr^
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com/show*/media/
@@ -503,7 +501,6 @@
 ||rsc.adpies.com/js/
 ||s.pubmine.com/adj/
 ||s*.algovid.com/player/gpv^
-||scr.nsmartad.com/admixer/admixer.js^
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/
@@ -637,6 +634,7 @@
 ##div[id^="sbaAbout"]
 ##ins.daum_ddn_area
 !----- Common iframes (dinamically generated) -----
+##iframe[name="ifrad"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
@@ -1105,6 +1103,7 @@ m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;mar
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
 m.news1.kr##iframe[src^="../../ads/"]
 m.news1.kr##ul.txt_padding_box
+m.newsway.co.kr##.news_body > DIV[style^="height:110px;"]
 m.nocutnews.co.kr###divContent > DIV[style*="200px"]
 m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
@@ -1364,9 +1363,8 @@ newsis.com###div_ad1
 newsis.com###div_ad2
 newspim.com##.bodynews > DIV[style^="width:455px;"]
 newspim.com##.side_wrap > DIV[style^="height:300px"]
-newsway.kr###float_1002
-newsway.kr###google_banner
-newsway.kr##div[id^="NMN_BANNER_WIDGET_"]
+newsway.co.kr,newsway.kr###body_con > DIV[style*="250"][style*="right"]
+newsway.co.kr,newsway.kr##.left > .ad
 noblesse.com###top_banner
 noblesse.com##div.bannerwrap
 nocutnews.co.kr##div.ad1
