@@ -411,10 +411,9 @@
 ||mk.co.kr/index_ad.mk^
 ||mktag.mt.co.kr/code.ems/
 ||mktag.mt.co.kr/event.ems/
-||mmnneo.com^
+||mmnneo.com^$third-party
 ||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
-||mp.mmnneo.com^
 ||mt.co.kr/ad/
 ||mtag.mman.kr^$third-party
 ||mtree.ad.wich.kr/sand.eat^
@@ -425,8 +424,6 @@
 ||mydaily.co.kr/ad/right_ad*.php^
 ||mymyad.co.kr^
 ||myvip.feeldmc.com/code.ems/
-||na.mmnneo.com/*neoad*.js^
-||na.mmnneo.com/banner.widget.asp^
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com/show/media/
 ||nadservice.co.kr^$popup,third-party
@@ -474,7 +471,6 @@
 ||nws.lumieyes.com/show*/media/
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
-||op.mmnneo.com/banner.widget.asp^
 ||op.neoad.co.kr/adsearch*
 ||outbanner.hu.co.kr/@files/human_banner/
 ||p.jwpcdn.com/*/vast.js^
@@ -544,7 +540,6 @@
 ||talklink.link/ko/ad/talklink_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
-||tl.mmnneo.com/neovcm.js^
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
 ||torrentmade.com/js/bpopup/scripting.min.js^
