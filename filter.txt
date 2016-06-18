@@ -314,7 +314,7 @@
 ||imaeil.com/image/banner/ad*.swf^
 ||imaeil.com/wec/
 ||image.cauly.co.kr/websdk/multi_mini_ads/ads.js^
-||image.cauly.co.kr:15151/websdk/caulyad*js^
+||image.cauly.co.kr:15151^
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
 ||image.news1.kr/system/ads/ad_banner/
 ||image.wownet.co.kr/static/banner/*/flash/
@@ -1414,6 +1414,7 @@ pressian.com###ad1
 pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
 pressian.com##iframe[src^="http://ad"]
+pullbbang.com###main_right_contents_wrap > [style*="250"]
 reviewstar.hankooki.com##li.ad_plex_a250
 rpm9.com###promotion
 rpm9.com##.ad_bottom728x90
@@ -1774,6 +1775,7 @@ i.orbi.kr#@#.gridAd
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
+||pullbbang.com*/js/*nlogger.js^
 ||r.popin.cc/log.gif?
 ||rec.netinsight.co.kr/rec/*/view?
 ||recobell.io/rest/logs^
