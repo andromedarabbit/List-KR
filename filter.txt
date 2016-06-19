@@ -1633,10 +1633,12 @@ ytn.co.kr##iframe[name="AdtopBanner"]
 ytn.co.kr##ul[class^="adnew"]
 zangsisi.net###fixed-top > a[style*="right:"]
 zangsisi.net###manga-list > a[href="http://zangsisi.net/"]
+zangsisi.net###menu.coop
 zangsisi.net###recent-post > a[href="http://zangsisi.net/"]
 zangsisi.net##A[href^="http://empire.goodgamestudios.com"]
 zangsisi.net##A[href^="http://partner.zzamtoon.com/event/"]
 zangsisi.net##A[href^="http://www.bananamall.co.kr/Alinker/"]
+zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]
 zdnet.co.kr###lAdContainer
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##div.ad
