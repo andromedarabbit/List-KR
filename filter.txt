@@ -370,6 +370,7 @@
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
 ||koreaportal.com/*/banners/ads_$image
+||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
