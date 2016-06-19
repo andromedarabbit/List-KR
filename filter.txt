@@ -427,6 +427,7 @@
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com^$third-party
 ||nadservice.co.kr^$popup,third-party
+||naeil.com/upload/banner/
 ||nann.co.kr^$third-party
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
 ||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
@@ -1234,6 +1235,7 @@ mydaily.co.kr###wrap>div[style="width:160px; height:600px; position:absolute; to
 mydaily.co.kr##div.read_right_ad
 mydaily.co.kr##div[id^="AD_LIVE_AREA_"]
 mydaily.co.kr##div[class^="banner_1024_1024_"]
+naeil.com##DIV[class^="bannerType"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
