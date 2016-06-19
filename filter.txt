@@ -1848,6 +1848,9 @@ ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,jjan.kr,news.kuki
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
+! naver.com
+blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
+cafe.naver.com#%#AG_onLoad( function() { setTimeout( CancelBlockMouseRight, 300); setTimeout( cancelBlockDragInFF, 300); } );
 !------ Misc ----------------------------------------
 11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
 !----------------------------------------------------!
