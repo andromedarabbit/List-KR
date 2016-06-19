@@ -602,6 +602,7 @@
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
+@@||netmarble.net/resources/scripts/adcontroller.js
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
@@ -1250,6 +1251,7 @@ naver.com###promotion1
 naver.com###promotion2
 naver.com###veta_branding
 naver.com###veta_top
+netmarble.net###divSkinBanner
 news.chosun.com##div.art_ad_ss_left
 news.chosun.com##div.art_ad_ss_right
 news.cnbnews.com##div[class^="top_bn"]
@@ -1777,7 +1779,9 @@ i.orbi.kr#@#.gridAd
 ||nastg.widerplanet.com^
 ||nextdaily.co.kr/tools/article_count*.html
 ||ngc*.nsm-corp.com^$third-party
+||nls.netmarble.net/pv.asp^
 ||nocutnews.co.kr/js/logger.htm^
+||nrd.netmarble.net^
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
