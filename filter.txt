@@ -1634,8 +1634,9 @@ ytn.co.kr##ul[class^="adnew"]
 zangsisi.net###fixed-top > a[style*="right:"]
 zangsisi.net###manga-list > a[href="http://zangsisi.net/"]
 zangsisi.net###recent-post > a[href="http://zangsisi.net/"]
-zangsisi.net##a[href^="http://empire.goodgamestudios.com"]
-zangsisi.net##BODY > .fixed-top:last-child > CENTER
+zangsisi.net##A[href^="http://empire.goodgamestudios.com"]
+zangsisi.net##A[href^="http://partner.zzamtoon.com/event/"]
+zangsisi.net##A[href^="http://www.bananamall.co.kr/Alinker/"]
 zdnet.co.kr###lAdContainer
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##div.ad
