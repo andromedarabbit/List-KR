@@ -910,6 +910,7 @@ ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110p
 ilbe.com###board_top_dummy
 ilbe.com###layer_left
 ilyo.co.kr##.ad_asideArea
+ilyo.co.kr##.ad_naver_stand
 ilyo.co.kr##.asideSection > DIV[style*="border-top"]
 ilyo.co.kr##.content-box > tbody > tr > td > DIV[style*="250"]
 ilyo.co.kr##.contentView > DIV[style*="250"][style*="right"]
