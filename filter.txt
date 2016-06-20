@@ -382,7 +382,7 @@
 ||m.adtc.daum.net/js/mobilead.js^
 ||m.chosun.com/tad.html^
 ||m.inews24.com/bnr/$image
-||m.joyninfo.com/yna/yna_m_new.asp^
+||m.joyninfo.com/yna^$domain=yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
 ||m.kukinews.com/js/ems.js
 ||m.news1.kr/ads/
@@ -1621,15 +1621,11 @@ xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
 yes24.com##.yPartnerPop
 yonhapnews.co.kr##div.aside-banner
-yonhapnews.co.kr##div.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
-yonhapnews.co.kr##div.top-banner
 yonhapnews.co.kr##div.view-ad-wrap
-yonhapnews.co.kr##div[class^="ad-ifm"]
+yonhapnews.co.kr##DIV[class^="ad-box"]
 yonhapnews.co.kr##div[class^="contents-box ad-wrap"]
 yonhapnews.co.kr##div[class^="contents-box list-style02 banner-box"]
-yonhapnews.co.kr##div[class^="floating-banner"]
-yonhapnews.co.kr##li[class^="ad-para"]
 ytn.co.kr###CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;"]
 ytn.co.kr###CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;position:relative;"]
 ytn.co.kr###Fusence
@@ -1717,6 +1713,7 @@ i.orbi.kr#@#.gridAd
 /acecounter_*.js
 /InsightTrk/*.do?$match-case
 /weblog/nethruscriptlog.html^
+/wloso.html?wlo_so=
 /wlo/Logging^
 /wlo/UserLogging^
 ||11st.co.kr/a.st?
@@ -1727,8 +1724,8 @@ i.orbi.kr#@#.gridAd
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
+||218.145.26.75/pv?
 ||a*.smlog.co.kr^
-||abcmart.co.kr/wloso.html?wlo_so=
 ||ad*-kant.kakao.com/web/track.gif?
 ||adlc-exchange.toast.com/log^$third-party
 ||analysis.afreecatv.com^
@@ -1811,7 +1808,6 @@ i.orbi.kr#@#.gridAd
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
-||ssg.com/wloso.html?wlo_so=
 ||stat*.nate.com/stat/*stat*.tiff?
 ||statweb.egloos.com^
 ||tagmanager.toast.com/tag^$third-party
