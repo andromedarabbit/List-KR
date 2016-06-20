@@ -41,6 +41,7 @@
 ||a*.acrosspf.com^$third-party
 ||a*.toup.net/analysis/analysis.js^
 ||acecounter.com^$third-party
+||acrofan.com*/img/*Banner$image,match-case
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.inews24.com^
 ||ad*.netshelter.net/adj/
@@ -640,6 +641,9 @@
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
+acrofan.com###secWrap > .viewBannerW
+acrofan.com##.viewAddW
+acrofan.com##DIV[itemprop="articleBody"] > DIV > div[style*="left"]
 ajunews.com###articleBody DIV[style*="200px"][style*="right"]
 ajunews.com###page-body > .blk675 > .inner-float + .ofw
 ajunews.com##.layer_popup[id^="POPUP_"]
@@ -1009,6 +1013,7 @@ kyeongin.com##.view_right > .today_kyeongin + DIV[style*="250px"]
 kyeongin.com##BODY > DIV > #layerBanner
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
+m.acrofan.com###aside > .whiteBox
 m.asiatoday.co.kr###swipe_center > DIV[class^="ad"]
 m.asiatoday.co.kr###swipe_center > DIV[id^="div-lumi_"]
 m.asiatoday.co.kr##.a5 > .bts_d:first-child
