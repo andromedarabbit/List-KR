@@ -1779,7 +1779,7 @@ i.orbi.kr#@#.gridAd
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
-||logger.cbs.co.kr/tracker.tsp^
+||logger.cbs.co.kr/*.tsp^
 ||logger.co.kr^$third-party
 ||logtracker.cjmall.com^
 ||makeshop.co.kr/js/mslog.js^
