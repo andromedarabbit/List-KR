@@ -1695,7 +1695,7 @@ i.orbi.kr#@#.gridAd
 ||cafe.daum.net/_pageview/
 ||click.v.daum.net/pv/click*.php^
 ! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
-||daumcdn.net/tiara/*.js
+!||daumcdn.net/tiara/*.js
 ||feature.daum.net/feature_log/impression^
 ||keyword.daumdn.com/$third-party
 ||log.inside.daum.net/dwi_log/js/dwi.js
@@ -1866,4 +1866,4 @@ cafe.naver.com#%#AG_onLoad( function() { var a = setInterval( "CancelBlockMouseR
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
-@@||daumcdn.net/tiara/js/td.min.js^
+!@@||daumcdn.net/tiara/js/td.min.js^
