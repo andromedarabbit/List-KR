@@ -909,10 +909,11 @@ ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; wi
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
 ilbe.com###board_top_dummy
 ilbe.com###layer_left
-ilyo.co.kr##.content-box > tbody > tr > td > DIV[style*="250"]
 ilyo.co.kr##.ad_asideArea
-ilyo.co.kr##.contentView > ul.otherNews
 ilyo.co.kr##.asideSection > DIV[style*="border-top"]
+ilyo.co.kr##.content-box > tbody > tr > td > DIV[style*="250"]
+ilyo.co.kr##.contentView > DIV[style*="250"][style*="right"]
+ilyo.co.kr##.contentView > ul.otherNews
 inews24.com###joynews_7th
 inews24.com##.main_top_banner
 inews24.com##[itemprop="articleBody"] > DIV[style]
