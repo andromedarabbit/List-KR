@@ -1685,6 +1685,7 @@ i.orbi.kr#@#.gridAd
 ! Section contains list of urls collecting user's information
 !
 !------ naver.com --------------
+||ace.naver.com/m?$empty
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
