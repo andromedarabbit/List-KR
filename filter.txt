@@ -591,6 +591,7 @@
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
+@@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
@@ -1093,7 +1094,6 @@ m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
 m.kukinews.com##.tp_cnt_vw > .bnr
-m.media.daum.net###daumAd
 m.media.daum.net##.bnr_service
 m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mt.co.kr##.mgt10.only_640un
@@ -1201,6 +1201,7 @@ mbn.mk.co.kr##div.relation_ad
 media.daum.net###banner250
 media.daum.net###daum-ad-root
 media.daum.net###daum-ad-root-ifrm
+media.daum.net###daumAd
 media.daum.net###EXTENSIBLE_WING_WRAP
 media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
@@ -1705,8 +1706,7 @@ i.orbi.kr#@#.gridAd
 ||tiara.daum.net^
 ||cafe.daum.net/_pageview/
 ||click.v.daum.net/pv/click*.php^
-! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
-!||daumcdn.net/tiara/*.js
+||daumcdn.net/tiara/*.js^
 ||feature.daum.net/feature_log/impression^
 ||keyword.daumdn.com/$third-party
 ||log.inside.daum.net/dwi_log/js/dwi.js
