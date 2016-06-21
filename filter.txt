@@ -590,13 +590,6 @@
 !
 ! Section contains list URL exception rules
 !
-! Stealth mode fix for naver.com
-@@||cafefiles.naver.net^$image
-@@||cafeptthumb*.phinf.naver.net^$image
-@@||dicimg.naver.net^
-@@||postfiles*.naver.net^
-@@||static.post.naver.net/
-!
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
@@ -609,8 +602,14 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
-! temp
-@@||m.sports.naver.com/*/gamecenter/*tab=record$document
+!------ Stealth mode fixes ------------------------
+@@||cafefiles.naver.net^$image
+@@||cafeptthumb*.phinf.naver.net^$image
+@@||dicimg.naver.net^
+@@||postfiles*.naver.net^
+@@||static.post.naver.net/
+!
+@@||api.dable.io/widgets/id/*/users/*id=dablewidget$stealth
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1407,6 +1406,7 @@ ohmynews.com##div.wing_gallery_banner
 ohmynews.com##div[class^="aside_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
+onlifezone.com##.gpe_pm_conban_code
 osen.mt.co.kr###aside2 > DIV[style*="height:"]
 osen.mt.co.kr##.detailBox > DIV[style*="height"]
 osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
