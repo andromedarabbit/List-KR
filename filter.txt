@@ -220,8 +220,6 @@
 ||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
 ||cdn.pandora.tv/_adv_img/
-||cdn03.sndkorea.co.kr^
-||cdn04.sndkorea.co.kr^
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
@@ -336,7 +334,6 @@
 ||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||imp.mklaud.com/ad^
-||imp.sndkorea.co.kr/php/m.php^
 ||inews24.com/common/js/ad_*.js
 ||inews24.com/inc/right_file_banner_*.php
 ||inews24.com/tools/adpresso/
@@ -603,6 +600,7 @@
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
 !------ Stealth mode fixes ------------------------
+! naver.com
 @@||cafefiles.naver.net^$image
 @@||cafeptthumb*.phinf.naver.net^$image
 @@||dicimg.naver.net^
