@@ -599,6 +599,7 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+@@||wcs.naver.net/wcslog.js^$domain=m.tvcast.naver.com
 !------ Stealth mode fixes ------------------------
 ! naver.com
 @@||cafefiles.naver.net^$image
