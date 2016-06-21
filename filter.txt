@@ -444,7 +444,7 @@
 ||nate.com/main/srv/shop_11st/
 ||naver-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||naver.com/api/adpostRelay.nhn?
-||ndsoft.co.kr/namecheck/ad/ad.html^
+||ndsoft.co.kr/namecheck/ad/$third-party
 ||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
 ||newfocus.co.kr/images/banner_
