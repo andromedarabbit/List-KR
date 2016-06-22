@@ -1418,6 +1418,7 @@ pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.view_banner
 pann.nate.com##DIV[class="sideiframe"]
+persnacons.tistory.com##DIV.adblock-on
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
@@ -1677,6 +1678,7 @@ zdnet.com##section.mpu
 !
 auction.co.kr#@#.side-ads
 i.orbi.kr#@#.gridAd
+persnacons.tistory.com#@#.adsbygoogle
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
