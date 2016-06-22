@@ -600,7 +600,6 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
-@@||wcs.naver.net/wcslog.js^$domain=m.tvcast.naver.com
 !------ Stealth mode fixes ------------------------
 ! naver.com
 @@||cafefiles.naver.net^$image
@@ -634,7 +633,7 @@
 ##div.gpt_ad_container
 ##div[id^="sbaAbout"]
 ##ins.daum_ddn_area
-!----- Common iframes (dinamically generated) -----
+!----- Common iframes (dynamically generated) -----
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
 !----------------------------------------------------!
@@ -1676,9 +1675,6 @@ zdnet.com##section.mpu
 !
 ! White list. Fixing filtration errors (false-positive)
 !
-! for ublock users
-11st.co.kr#@#.adver
-!
 auction.co.kr#@#.side-ads
 i.orbi.kr#@#.gridAd
 !-------------------------------------------------------------------------------!
@@ -1687,6 +1683,8 @@ i.orbi.kr#@#.gridAd
 !
 ! Section contains list of urls collecting user's information
 !
+! Fixing possible issues with naver wcslog.js blocked
+#%#var wcs_add = []; wcs_do = function() { };
 !------ naver.com --------------
 ||ace.naver.com/m?$empty
 ||l.m.naver.

@@ -1,0 +1,14 @@
+! Title: List-KR unbreak
+!
+! Filter that fixes filtration errors in an alternative way
+! due to limitations of adblockers other than Adguard
+! or those using Webkit content blocker API.
+!
+! Homepage: https://List-KR.github.io
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
+!
+! ---------------------------------------------------------------
+! Url exception rules
+@@||wcs.naver.net/wcslog.js^
+! Element hiding exception rules
+11st.co.kr#@#.adver
