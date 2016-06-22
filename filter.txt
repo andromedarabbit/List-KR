@@ -597,6 +597,7 @@
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
 @@||netmarble.net/resources/scripts/adcontroller.js
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
