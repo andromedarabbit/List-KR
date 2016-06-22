@@ -1773,6 +1773,7 @@ i.orbi.kr#@#.gridAd
 ||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
 ||krtarget.co.kr/tracker/
+||lezhin-logs.appspot.com^
 ||linkback.contentsfeed.com^
 ||livelog.co.kr/js/*.php?
 ||log.ajunews.com:8881^
