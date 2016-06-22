@@ -165,6 +165,7 @@
 ||adv.mediakeep.co.kr^
 ||adv.segye.com:8080^
 ||adver.clickmon.co.kr^
+||advod.smartmediarep.com^$third-party
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
 ||adwise.co.kr^$third-party
 ||adx.naonmedia.net/adx/
