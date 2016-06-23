@@ -1690,11 +1690,12 @@ persnacons.tistory.com#@#.adsbygoogle
 ! Fixing possible issues with naver wcslog.js blocked
 #%#var wcs_add = []; var wcs_do = function() { };
 !------ naver.com --------------
-||ace.naver.com/m?$empty
+||ace.naver.com/m^$empty
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
 ||pb.m.naver.com/abp^
+||nac.naver.com/m^$empty
 ||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
