@@ -1688,7 +1688,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ! Section contains list of urls collecting user's information
 !
 ! Fixing possible issues with naver wcslog.js blocked
-#%#var wcs_add = []; wcs_do = function() { };
+#%#var wcs_add = []; var wcs_do = function() { };
 !------ naver.com --------------
 ||ace.naver.com/m?$empty
 ||l.m.naver.
