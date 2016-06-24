@@ -226,6 +226,7 @@
 ||cm*.joins.com^
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
+||cm1.icontact.kr^$third-party
 ||cm2.cjmooter.com^
 ||cnews.co.kr/uhtml/images/banner/$image
 ||contentlink.co.kr^$third-party
@@ -1132,6 +1133,7 @@ m.ppomppu.co.kr###if_bbs_view_bn
 m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
 m.ppomppu.co.kr##.menu + DIV[style^="text-align"]
 m.ppomppu.co.kr##FORM + DIV[style^="padding-top"]
+m.pressian.com##.flick-container > DIV[style^="clear:both; width"]
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
 m.segye.com###textbanner
@@ -1435,10 +1437,8 @@ ppomppu.co.kr##div.banner
 ppomppu.co.kr##div.banner_336
 ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##P[class^="banner_"]
-pressian.com###ad1
-pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
-pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
-pressian.com##iframe[src^="http://ad"]
+pressian.com##.remove_ad
+pressian.com##.under_adban
 pullbbang.com###main_right_contents_wrap > [style*="250"]
 reviewstar.hankooki.com##li.ad_plex_a250
 rpm9.com###promotion
