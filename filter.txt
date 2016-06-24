@@ -1202,6 +1202,7 @@ manian.com##.top_banner
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
+matcl.com##p[align="center"][style*="height:"]
 mbiz.heraldcorp.com###adsmnctext
 mbiz.heraldcorp.com###wrap > DIV[style*="border-bottom"].section2
 mbiz.heraldcorp.com##.ad
