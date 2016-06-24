@@ -372,6 +372,7 @@
 ||koreaportal.com/*/banners/ads_$image
 ||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
+||lego.zumst.com/*/images/banner/$image
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkspot.net^$third-party
@@ -1184,6 +1185,7 @@ m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
 m.zdnet.co.kr##.sub_view_cont > DIV[style*="200px"]
+m.zum.com##.da_banner
 manaa.space##.ad-box
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
@@ -1455,6 +1457,7 @@ search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
+search.zum.com###search_result > .sponsor_sc
 segye.com###onlineissuebox
 segye.com###sideBanner
 segye.com###textadbox
@@ -1676,6 +1679,8 @@ zdnet.co.kr##ul.ad_list
 zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
+zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
+zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
 !------------------ White list (exceptions list) -------------------------------!
 !-------------------------------------------------------------------------------!
