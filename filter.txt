@@ -543,6 +543,7 @@
 ||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
+||theappl.com/images/banner/
 ||theprimead.co.kr^$third-party
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
@@ -1162,6 +1163,8 @@ m.star.mt.co.kr###content>div[style="text-align:center;"]
 m.star.mt.co.kr###content>div[style="text-align:center; background:#fff"]
 m.star.mt.co.kr##section.bxcn4>div[style="width:300px;height:250px;position:relative;margin:0 auto;"]
 m.star.mt.co.kr##ul#flick-ad
+m.theappl.com###mw_mobile > DIV[style*="background-color"]
+m.theappl.com##.google_ad_top
 m.wikitree.co.kr###contentMidBanner
 m.wikitree.co.kr##.ad50
 m.wikitree.co.kr##.ad60
@@ -1534,9 +1537,10 @@ tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
-theappl.com###pop_layer_banner
-theappl.com###rt_banner1
-theappl.com###rt_banner2
+theappl.com###contentWarp > DIV[style*="background-color"]
+theappl.com##.bnr_info
+theappl.com##.ClickChoice
+theappl.com##.pBanner
 thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
