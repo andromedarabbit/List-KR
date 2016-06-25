@@ -1081,6 +1081,9 @@ m.humoruniv.com###cauly_nad3
 m.humoruniv.com###out_banner
 m.humoruniv.com###uad_iframe
 m.humoruniv.com##TABLE[bgcolor] > tbody > tr > td > DIV[style*="height:50px"]
+m.hungryapp.co.kr###footer + .fixed-top
+m.hungryapp.co.kr##.m-main-banner
+m.hungryapp.co.kr##.pop_banner
 m.hungryapp.co.kr##A[onclick^="banner_open("]
 m.ilyo.co.kr##.adw
 m.ilyo.co.kr##DIV[id^="_2BEON"]
