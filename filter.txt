@@ -222,6 +222,7 @@
 ||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
 ||cdn.pandora.tv/_adv_img/
+||cdnprism.pandora.tv/_adv_img/prism_ad/$image
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
@@ -328,6 +329,7 @@
 ||img.asiatoday.co.kr/adver/
 ||img.asiatoday.co.kr/images/banner/
 ||img.asiatoday.co.kr/popup/
+||imgcdn.pandora.tv/_ptv_all/m/xml/prism_japan_custion.xml
 ||img.coolenjoy.net/banner/upfile/
 ||img.dt.co.kr/unse/
 ||img.focus.kr/mnt/webdata/banner/$image
@@ -391,6 +393,7 @@
 ||m.kmib.co.kr/banner/
 ||m.kukinews.com/js/ems.js
 ||m.news1.kr/ads/
+||m.pandora.tv/?c=api&m=video_url&ch_userid=*&prgid=
 ||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
@@ -421,7 +424,8 @@
 ||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
 ||mt.co.kr/ad/
-||mtag.mman.kr^$third-party
+||mtag.mman.kr/js.mezzo/$third-party
+||mtag.mman.kr/movie.mezzo/?i_request_id=
 ||mtree.ad.wich.kr/sand.eat^
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
 ||mydaily.co.kr/news/ad_news*.htm^
@@ -487,7 +491,9 @@
 ||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
-||prism.pandora.tv^
+||prism.pandora.tv^$third-party
+||prism.pandora.tv/pandora_mob/prism/mpandora_preroll/?filetype=xml
+||prism.pandora.tv/pandora/prism/pandora_preroll/?filetype=xml
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
 ||qcma.qrobo.com/QCMA/common/
@@ -1134,6 +1140,11 @@ m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
+m.pandora.tv###list_area > #native_ad
+m.pandora.tv###recom_channel > a > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
+m.pandora.tv###nx_pause_area > a[onclick^="ptvPlayer.OverlayAD"]
+m.pandora.tv###nx_pause_area > iframe[src^="http://prism.pandora"]
+m.pandora.tv###daum_ad_banner
 m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###if_bbs_view_bn
@@ -1430,6 +1441,9 @@ osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
 osen.mt.co.kr##div.advertising
 osen.mt.co.kr##div.detailView>ul.articleList
 osen.mt.co.kr##div.mask_div
+pandora.tv##.contents > a.banner > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
+pandora.tv##.sh_top_contact
+pandora.tv##.top_ban
 pann.nate.com###pann_brandAdWrap
 pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
@@ -1799,6 +1813,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||log.ajunews.com:8881^
 ||log.2beon.co.kr^
 ||log.news.joins.com^
+||log.sv.pandora.tv^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
 ||logger.cbs.co.kr/*.tsp^
