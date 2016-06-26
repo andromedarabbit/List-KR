@@ -388,7 +388,9 @@
 ||lsinfo.co.kr$third-party
 ||luxad.kr^$third-party
 ||m.adtc.daum.net/js/mobilead.js^
-||m.chosun.com/tad.html^
+||m.chosun.com/200.html^
+||m.chosun.com/*ad.html^
+||m.chosun.com/*ad2.html^
 ||m.inews24.com/bnr/$image
 ||m.joyninfo.com/yna^$domain=yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
@@ -737,6 +739,7 @@ blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
 boannews.com###right_top_banner
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
+chosun.com##.sec_sub > .sec_headline_adbox
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
@@ -1038,9 +1041,13 @@ m.asiatoday.co.kr##.news_bm > TABLE[style*="200px"]
 m.asiatoday.co.kr##DIV[id$="adopadzone"]
 m.boannews.com##.banner-zone
 m.cafe.naver.com##div.area_sa
-m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
+m.chosun.com###mobitree
+m.chosun.com##.art_sub_news::after
+m.chosun.com##.art_txt iframe[width="200"]
+m.chosun.com##.article_wrap > .ctl > iframe[height="50"]
+m.chosun.com##DIV[class^="ad iad"]
 m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
@@ -1300,8 +1307,9 @@ naver.com###promotion2
 naver.com###veta_branding
 naver.com###veta_top
 netmarble.net###divSkinBanner
-news.chosun.com##div.art_ad_ss_left
-news.chosun.com##div.art_ad_ss_right
+news.chosun.com##div[class^="art_ad_"]
+news.chosun.com##.art_aisde_ads
+news.chosun.com##iframe[class^="art_ad_aside_if"]
 news.cnbnews.com##div[class^="top_bn"]
 news.donga.com###__news.donga.com_aq2
 news.donga.com###articleBody > DIV[id^="view_body_middle_iframe"]
@@ -1792,7 +1800,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||auction.co.kr/search/searchlog.aspx?
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
 ||chalog.ichannela.com^
-||chosun.com/dhtm/js/common/collecter.js
+||chosun.com/dhtm/js/common/collecter*.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/gather$empty
@@ -1810,6 +1818,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
+||hitweb*.chosun.com^
 ||hotclick.netinsight.co.kr^$third-party
 ||http.or.kr^$third-party
 ||humoruniv.com/cpuid
