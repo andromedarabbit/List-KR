@@ -525,9 +525,6 @@
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
 ||smartposting.net/keyword/api/
-||sndkorea.nowcdn.co.kr/emart/
-||sndkorea.nowcdn.co.kr/media/
-||sndkorea.nowcdn.co.kr/xml/
 !----------------------- reviewed up to here -------------------------------------
 ||sports.chosun.com/ad/
 ||sports.chosun.com/ads/
