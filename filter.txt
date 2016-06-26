@@ -1754,7 +1754,8 @@ persnacons.tistory.com#@#.adsbygoogle
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !------ Miscellaneous ----------
-/acecounter_*.js
+/acecounter_*.js^
+/hanbiro.js^
 /InsightTrk/*.do?$match-case
 /weblog/nethruscriptlog.html^
 /wloso.html?wlo_so=
@@ -1805,7 +1806,6 @@ persnacons.tistory.com#@#.adsbygoogle
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
-||ihalla.com/analyzer/hanbiro.js^
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
