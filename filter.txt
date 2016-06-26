@@ -307,7 +307,8 @@
 ||ichannela.com/ch/*adpost*
 ||ichannela.com/newad/
 ||idnad.co.kr^$third-party
-||ihalla.com/banner/
+||ihalla.com*/banner/
+||ihalla.com/ad_banner
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
@@ -1082,6 +1083,7 @@ m.hungryapp.co.kr###footer + .fixed-top
 m.hungryapp.co.kr##.m-main-banner
 m.hungryapp.co.kr##.pop_banner
 m.hungryapp.co.kr##A[onclick^="banner_open("]
+m.ihalla.com###ad_bottom_p
 m.ilyo.co.kr##.adw
 m.ilyo.co.kr##DIV[id^="_2BEON"]
 m.inews24.com###bn
@@ -1803,6 +1805,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
+||ihalla.com/analyzer/hanbiro.js^
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
