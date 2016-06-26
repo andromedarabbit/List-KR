@@ -1772,6 +1772,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
+||211.63.158.78/*.tsp^
 ||218.145.26.75/pv?
 ||a*.smlog.co.kr^
 ||ad*-kant.kakao.com/web/track.gif?
