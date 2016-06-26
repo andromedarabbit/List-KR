@@ -980,7 +980,9 @@ joongdo.co.kr###id_header_R
 khan.co.kr###mezzo_ad
 khan.co.kr##.ad_area
 khan.co.kr##.ad_thumb_btm
+khan.co.kr##.adBanner
 khan.co.kr##.link_cartoon
+khan.co.kr##.logo_area > .issue
 kin.naver.com##.broadcast_kin
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
@@ -1328,16 +1330,17 @@ news.jtbc.joins.com##div.sponsor_link_combine
 news.jtbc.joins.com##div.wing_wrap
 news.khan.co.kr###photoAD
 news.khan.co.kr###topLeft
-news.khan.co.kr##div.ad_about
-news.khan.co.kr##div.ad_adFlex
-news.khan.co.kr##div.ad_hotIssue
-news.khan.co.kr##div.ad_interestInfo
-news.khan.co.kr##div.ad_popularInfo
-news.khan.co.kr##div.ad_subwing_mid
-news.khan.co.kr##div.ad_subwing_wrap
-news.khan.co.kr##div.ad_todayFocus
-news.khan.co.kr##div.ad_two
-news.khan.co.kr##div.ad_two_top
+news.khan.co.kr##.ad_top
+news.khan.co.kr##.ad_about
+news.khan.co.kr##.ad_adFlex
+news.khan.co.kr##.ad_hotIssue
+news.khan.co.kr##.ad_interestInfo
+news.khan.co.kr##.ad_popularInfo
+news.khan.co.kr##.ad_subwing_mid
+news.khan.co.kr##.ad_subwing_wrap
+news.khan.co.kr##.ad_todayFocus
+news.khan.co.kr##.ad_two
+news.khan.co.kr##.ad_two_top
 news.khan.co.kr##div[class^="ad_movFocus"]
 news.kmib.co.kr##body>div[style="height:150px;margin:5px 0 0;"]
 news.kmib.co.kr##body>div[style="height:250px;margin:0px 0 0;"]
@@ -1809,6 +1812,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
+||khan.co.kr/gnb/template/_khan_logger.js^
 ||krtarget.co.kr/tracker/
 ||lezhin-logs.appspot.com^
 ||linkback.contentsfeed.com^
@@ -1880,7 +1884,8 @@ hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
-metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; } 
+metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
+news.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
