@@ -734,6 +734,7 @@ biz.heraldcorp.com,news.heraldcorp.com##div.right_side_section>div[class="clear 
 biz.heraldcorp.com,news.heraldcorp.com##div.subtop_webzinestyle_hd
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
+blog.daum.net###blogTopAd
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
