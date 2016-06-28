@@ -774,6 +774,9 @@ daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
+dealbada.com###aside > .dealtabs + DIV[style*="border-bottom"]
+dealbada.com###aside > a[href="http://www.dealbada.com/bbs/board_lotto.php"]
+dealbada.com###container > CENTER > a[href="http://www.dealbada.com/bbs/board_lotto.php"]
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
