@@ -586,8 +586,6 @@
 ||xportsnews.hankyung.com/contents/upload/pds/2012/0425/1335335866605.jpg^
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
-||zdnet.co.kr/ads/
-||zdnet.co.kr/pixel2/pixel_top.htm^
 !----------------------------------------------------!
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
@@ -1219,6 +1217,7 @@ m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
 m.zdnet.co.kr##.sub_view_cont > DIV[style*="200px"]
+m.zdnet.co.kr##DIV[class^="view_ad_"]
 m.zum.com##.da_banner
 manaa.space##.ad-box
 mangafox.me##div.ad
@@ -1704,17 +1703,10 @@ zangsisi.net##A[href^="http://empire.goodgamestudios.com"]
 zangsisi.net##A[href^="http://partner.zzamtoon.com/event/"]
 zangsisi.net##A[href^="http://www.bananamall.co.kr/Alinker/"]
 zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]
-zdnet.co.kr###lAdContainer
 zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr##.right_cont > .power_center
 zdnet.co.kr##div.ad
-zdnet.co.kr##div.main_zdnet_sponsor
-zdnet.co.kr##div.newsmediaBanner
-zdnet.co.kr##div.sub_cont_ad_iframe_area_a
-zdnet.co.kr##div.s_r_adbr
-zdnet.co.kr##div.s_r_down_bn
-zdnet.co.kr##div.s_zdnet_sponsor
 zdnet.co.kr##div[class^="right_bn"]
-zdnet.co.kr##table#tbFadeIn
 zdnet.co.kr##ul.ad_list
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
