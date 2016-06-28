@@ -480,6 +480,7 @@
 ||nson.encock.com/media/
 ||nsonmedia.com^$third-party
 ||ntomap.com^$third-party
+||nuriclick.co.kr^$third-party
 ||nv*.veta.naver.com/dr^
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com^$third-party
