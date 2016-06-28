@@ -1716,9 +1716,6 @@ zdnet.co.kr##div.s_zdnet_sponsor
 zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##table#tbFadeIn
 zdnet.co.kr##ul.ad_list
-zdnet.com##section.leader-bottom
-zdnet.com##section.leader-top
-zdnet.com##section.mpu
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
