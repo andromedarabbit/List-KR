@@ -749,7 +749,7 @@ chosun.com##.sec_sub > .sec_headline_adbox
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
-clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
+clien.net##.srch > li:not([class="mytr"])
 cnews.co.kr##.leftBanner
 cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
 cnews.co.kr##.rightBanner
