@@ -1549,16 +1549,10 @@ snulife.com##DIV[style*="450px;"][style*="120px;"]
 snulife.com###comment > DIV:first-child > DIV.cmt_editor + DIV[style*="border"]
 snulife.com##DIV.rd_ft + DIV[style*="600px"]
 snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
-sports.chosun.com###rad
-sports.chosun.com##div.bn
-sports.chosun.com##div.f_ad2
-sports.chosun.com##div.f_ad3
-sports.chosun.com##div.fly_ad02
-sports.chosun.com##div.gisa_banner
+sports.chosun.com##.snb > .bn
+sports.chosun.com##DIV[class^="ad_box"]
 sports.chosun.com##div.thum8_box
 sports.chosun.com##div.top_banner
-sports.chosun.com##p.ad
-sports.chosun.com##p.m_btn
 sports.donga.com##div.left_AD_list
 sports.donga.com##div.top_sport_AD
 sports.donga.com##div.ttalk_ad_list
