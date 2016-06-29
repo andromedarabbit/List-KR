@@ -291,6 +291,8 @@
 ||gsad.gameshot.net^
 ||guide.allblet.net^
 ||h*.adscope.co.kr^
+||hackers.ac/site/*_banner.php^
+||hackers.gscdn.com/*_baner/
 ||hani.co.kr/section-adv/
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
@@ -738,6 +740,10 @@ blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
 boannews.com###right_top_banner
+champstudy.co.kr,champstudy.com###lineBannerBottom
+champstudy.co.kr,champstudy.com###nav li > a.banner
+champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##.layer_pop
+champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##[class^="top_line_ban_"]
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 chosun.com##.sec_sub > .sec_headline_adbox
 clien.net##div.aside_sponser
@@ -883,6 +889,12 @@ gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com##.boardRead + DIV[align="center"]
 gmarket.co.kr##.m_ad
+hackers.ac##DIV[class^="footer_layerban"]
+hackers.co.kr###floor_layer_pop
+hackers.co.kr##.sub_menu > TABLE > TBODY > TR > TD.banner
+hackers.co.kr##a.widget-banner
+hackerschina.co.kr###bnr_layer
+hackerschina.co.kr###Outer_Quick > [class^="q_bn"]
 hani.co.kr###a-left-scroll-in > DIV[style*="padding:"]:last-child
 hani.co.kr###laAdArea
 hani.co.kr##.ad-weather-banner
@@ -1043,6 +1055,8 @@ m.asiatoday.co.kr##.news_bm > TABLE[style*="200px"]
 m.asiatoday.co.kr##DIV[id$="adopadzone"]
 m.boannews.com##.banner-zone
 m.cafe.naver.com##div.area_sa
+m.champstudy.com###free_popup
+m.champstudy.com##.header > DIV[class^="pop_"]
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
 m.chosun.com##.art_sub_news::after
@@ -1076,6 +1090,7 @@ m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
+m.hackers.co.kr###app_down_wrap
 m.hankooki.com###ad_img_div
 m.hankooki.com##div.adpromotion
 m.hankooki.com##div[class^="ads_"]
@@ -1775,6 +1790,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
+||14.49.30.115/tracker*.tsp?
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
