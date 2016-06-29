@@ -173,6 +173,7 @@
 ||adx.turl.co.kr/toast.wif^
 ||adx-exchange.toast.com/*pub_code=$third-party
 ||adxv.zum.com^
+||afreecatv.com/player/videoad*.swf^
 ||alea.adam.ad.daum.net/mobilead^
 ||alea.adam.daum.net/imp
 ||allblet.net^$third-party
@@ -658,6 +659,7 @@
 acrofan.com###secWrap > .viewBannerW
 acrofan.com##.viewAddW
 acrofan.com##DIV[itemprop="articleBody"] > DIV > div[style*="left"]
+afbbs.afreecatv.com###div_video_ad_banner
 ajunews.com###articleBody DIV[style*="200px"][style*="right"]
 ajunews.com###page-body > .blk675 > .inner-float + .ofw
 ajunews.com##.layer_popup[id^="POPUP_"]
