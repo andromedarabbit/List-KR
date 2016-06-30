@@ -298,6 +298,8 @@
 ||hani.co.kr/section-adv/
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
+||hankookilbo.com/*ad250x250*.html^
+||hankookilbo.com/*ad300x250*.html^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
 ||hello-dm.kr^$third-party
 ||heraldcorp.com/common_xml/ad/*.json^
@@ -908,9 +910,8 @@ hani.co.kr##.ad-weather-banner
 hani.co.kr##DIV[class^="text-ad"]
 hani.co.kr##DIV[id^="ad_box"]
 hani.co.kr##DIV[id^="ad_home_"]
-hankookilbo.com##iframe.adiframe300x250
 hankookilbo.com##DIV.article-ad-align-left
-hankookilbo.com##iframe[src="/sidead300x250.html"]
+hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
 hankyung.com###ad_ti
 hankyung.com##.main-ad-md
