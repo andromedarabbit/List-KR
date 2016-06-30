@@ -561,7 +561,7 @@
 ||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
-||tf.co.kr/*/ad/ad_read_content*.html^
+||tf.co.kr/*/ad/ad_*.html^
 ||tf.co.kr/*/tf.ad.js^
 ||tf.co.kr/js/ss_ad.js^
 ||theappl.com/images/banner/
