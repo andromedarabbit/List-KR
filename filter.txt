@@ -90,6 +90,7 @@
 ||ad.priel.co.kr^$third-party
 ||ad.reople.co.kr^$third-party
 ||ad.sponsorad.co.kr^$third-party
+||ad.tf.co.kr:8080/js.kti/
 ||ad.touchwise.co.kr^
 ||ad.tving.com^
 ||ad.tvreport.co.kr^
@@ -470,6 +471,7 @@
 ||news.maxmovie.com/movie_info/sha_news_view_tlinkAD.asp^
 ||news.nate.com/etc/ad*
 ||news.sportsseoul.com/public_new4/ad/
+||news.tf.co.kr/ad/
 ||news1.kr/iframe/ad/
 ||newscomm.nate.com/Etc/SocialAD^
 ||newspim.com/js/bizspring.js
@@ -559,6 +561,9 @@
 ||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
 ||tenping.kr^$third-party
+||tf.co.kr/*/ad/ad_read_content*.html^
+||tf.co.kr/*/tf.ad.js^
+||tf.co.kr/js/ss_ad.js^
 ||theappl.com/images/banner/
 ||theprimead.co.kr^$third-party
 ||torrentkim*.net/banner/$image
@@ -1218,6 +1223,10 @@ m.star.mt.co.kr###content>div[style="text-align:center;"]
 m.star.mt.co.kr###content>div[style="text-align:center; background:#fff"]
 m.star.mt.co.kr##section.bxcn4>div[style="width:300px;height:250px;position:relative;margin:0 auto;"]
 m.star.mt.co.kr##ul#flick-ad
+m.tf.co.kr###viewarea > DIV[style="padding-top:12px;padding-bottom:12px; width:99%; overflow:hidden;"]
+m.tf.co.kr##.adbox
+m.tf.co.kr##.tbRight>div[style="height:84px; position:relative; left:0px; top:0px; "]
+m.tf.co.kr##iframe[src^="http://adexpert.ad4989.co.kr"]
 m.theappl.com###mw_mobile > DIV[style*="background-color"]
 m.theappl.com##.google_ad_top
 m.wikitree.co.kr###contentMidBanner
@@ -1432,6 +1441,10 @@ news.sportsseoul.com##ul.pad_top20
 news.sportsseoul.com##ul[class^="bottomAd"]
 news.sportsseoul.com##ul[class^="readAd"]
 news.sportsseoul.com##ul[class^="topAd"]
+news.tf.co.kr###right_ad
+news.tf.co.kr##.readRight > .mg_b30 > DIV[id$="_INSERT_SLOT_ID_HERE"]
+news.tf.co.kr##.readTopAd
+news.tf.co.kr##DIV[id^="AD_LIVE_AREA"]
 news.tvchosun.com##.leftWrap > iframe[name="rank"] + iframe[src*="/ad/"]
 news.tvchosun.com##.news_body + * + .article
 news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
@@ -1593,6 +1606,8 @@ tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
+tf.co.kr##.AD_box
+tf.co.kr##SPAN[id$="_spanTag_ad"]
 theappl.com###contentWarp > DIV[style*="background-color"]
 theappl.com##.bnr_info
 theappl.com##.ClickChoice
