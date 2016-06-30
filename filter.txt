@@ -667,6 +667,9 @@ acrofan.com###secWrap > .viewBannerW
 acrofan.com##.viewAddW
 acrofan.com##DIV[itemprop="articleBody"] > DIV > div[style*="left"]
 afbbs.afreecatv.com###div_video_ad_banner
+agora.daum.net###rBanner
+agora.daum.net##.bnr_agora
+agora.daum.net##A.bnr_livboard
 ajunews.com###articleBody DIV[style*="200px"][style*="right"]
 ajunews.com###page-body > .blk675 > .inner-float + .ofw
 ajunews.com##.layer_popup[id^="POPUP_"]
@@ -1077,6 +1080,7 @@ m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.comic.sportsseoul.com##.comics > .comicsBox + DIV[style$="0px;"]
 m.comic.sportsseoul.com##.comicsBox > DIV[style^="margin-top"]
+m.daum.net##.bnr_add
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
 m.dcinside.com###div_adnmore_area
@@ -1274,6 +1278,7 @@ media.daum.net###banner250
 media.daum.net###daum-ad-root
 media.daum.net###daum-ad-root-ifrm
 media.daum.net###daumAd
+media.daum.net###mAside > .bnr_ad
 media.daum.net###EXTENSIBLE_WING_WRAP
 media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
