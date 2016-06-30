@@ -233,6 +233,7 @@
 ||cm1.icontact.kr^$third-party
 ||cm2.cjmooter.com^
 ||cnews.co.kr/uhtml/images/banner/$image
+||compass.adop.cc^$third-party
 ||contentlink.co.kr^$third-party
 ||contentsbridge.com^$third-party
 ||crossmedia.co.kr^$third-party
@@ -1221,6 +1222,11 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
+m.sportschosun.com###caulyad
+m.sportschosun.com###caulyad + DIV[style*="height"]
+m.sportschosun.com##.ac_cont > DIV[style*="right;"][style*="width:"]
+m.sportschosun.com##.atl + * + DIV[style*="150"]
+m.sportschosun.com##.atl + DIV[style*="margin:0 10px;"]
 m.sportsseoul.com###container > DIV[style^="margin-top:5px;"]
 m.sportsseoul.com##[id^="ad_"]
 m.sportsseoul.com###photoINAD_area
@@ -1866,6 +1872,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||lezhin-logs.appspot.com^
 ||linkback.contentsfeed.com^
 ||livelog.co.kr/js/*.php?
+||log.adop.cc^
 ||log.ajunews.com:8881^
 ||log.2beon.co.kr^
 ||log.news.joins.com^
@@ -1969,4 +1976,3 @@ snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getEleme
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
-!@@||daumcdn.net/tiara/js/td.min.js^
