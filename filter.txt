@@ -1908,7 +1908,6 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||tracking.cyad*.nate.com^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
-||vlog.heraldcorp.com/tracker
 ||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
 ||z.o00.kr^
