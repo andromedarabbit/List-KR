@@ -1761,7 +1761,7 @@ persnacons.tistory.com#@#.adsbygoogle
 ! Section contains list of urls collecting user's information
 !
 ! Fixing possible issues with naver wcslog.js blocked
-#%#var wcs_add = []; var wcs_do = function() { };
+#%#var wcs_add = {}; var wcs_do = function() { };
 storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOrder:function(){},inflow:function(){},isCPA:!1,mileageWhitelist:[],norefresh:0,ref:"",getBaseAccumRate:function(){},getAddAccumRate:function(){},getMileageInfo:function(){},getClickTime:function(){},getClickID:function(){},getInflowRoute:function(){},setReferer:function(){}};
 !------ naver.com --------------
 ||ace.naver.com/m^$empty
@@ -1909,7 +1909,6 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
-||weblog.greendaily.co.kr^
 ||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
 ||z.o00.kr^
