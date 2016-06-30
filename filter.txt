@@ -758,6 +758,11 @@ champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##.layer_pop
 champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##[class^="top_line_ban_"]
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 chosun.com##.sec_sub > .sec_headline_adbox
+cine21.com##.banner_footer
+cine21.com##.banner_iframe_wrap
+cine21.com##.banner_top
+cine21.com##.main_content_banner
+cine21.com##DIV[class^="banner_han_"]
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
@@ -1074,6 +1079,7 @@ m.chosun.com##.art_sub_news::after
 m.chosun.com##.art_txt iframe[width="200"]
 m.chosun.com##.article_wrap > .ctl > iframe[height="50"]
 m.chosun.com##DIV[class^="ad iad"]
+m.cine21.com##.hanad_area
 m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
@@ -1919,6 +1925,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
+cine21.com#$##wrap > #header { padding-top: 0px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
