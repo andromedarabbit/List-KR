@@ -1791,6 +1791,9 @@ persnacons.tistory.com#@#.adsbygoogle
 /acecounter_*.js^
 /hanbiro.js^
 /InsightTrk/*.do?$match-case
+/tracker.tsp?
+/tracker.*.tsp?
+/tracker_*.tsp?
 /weblog/nethruscriptlog.html^
 /wloso.html?wlo_so=
 /wlo/Logging^
@@ -1801,11 +1804,9 @@ persnacons.tistory.com#@#.adsbygoogle
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
-||14.49.30.115/tracker*.tsp?
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
-||211.63.158.78/*.tsp^
 ||218.145.26.75/pv?
 ||a*.smlog.co.kr^
 ||ad*-kant.kakao.com/web/track.gif?
@@ -1858,7 +1859,6 @@ persnacons.tistory.com#@#.adsbygoogle
 ||log.sv.pandora.tv^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
-||logger.cbs.co.kr/*.tsp^
 ||logger.co.kr^$third-party
 ||logtracker.cjmall.com^
 ||makeshop.co.kr/js/mslog.js^
