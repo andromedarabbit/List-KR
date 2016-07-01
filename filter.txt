@@ -144,6 +144,7 @@
 ||adpingpong.co.kr^$third-party
 ||adpingpong1.co.kr^$third-party
 ||adpnut.com^$third-party
+||adpopcorn.com^$empty
 ||ads-by.yieldselect.com^
 ||ads.adop.kr^
 ||ads.contextweb.com/TagPublish/GetAd.aspx^
