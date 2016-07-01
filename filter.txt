@@ -1536,12 +1536,7 @@ rpm9.com###promotion
 rpm9.com##.ad_bottom728x90
 rpm9.com##.ad_maintextWrap
 rpm9.com##.ad_right300x250
-ruliweb.daum.net###inventories
-ruliweb.daum.net###mAside > DIV > .side_bnr
-ruliweb.daum.net##.wrap_ad
-ruliweb.daum.net##.bnr_info
-ruliweb.daum.net##.bnr_mobile
-ruliweb.daum.net##.lnb_bnr
+ruliweb.com##.ad
 search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
