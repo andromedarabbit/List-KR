@@ -250,7 +250,7 @@
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
-||dn.naver.com/ad3/*.mp4$mp4
+||dn.naver.com/ad3/*.mp4
 ||dp25.kr^
 ||drbig.co.kr^$third-party
 ||ecoadproject.co.kr^$third-party
@@ -601,9 +601,8 @@
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
 !
-!------ VAST rules -------------------------
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
-!------ Video ads in flash player ----------
+||play.rmcnmv.naver.com/vod/play/*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
