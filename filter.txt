@@ -510,6 +510,7 @@
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
 ||qcma.qrobo.com/QCMA/common/
+||quasarzone.co.kr/data/file/qsz_banner/$image
 ||ra.ntwoad.co.kr^
 ||rcm.amazon.com/e/cm^
 ||rcm-na.amazon-adsystem.com/e/cm^
