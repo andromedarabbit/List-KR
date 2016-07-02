@@ -320,7 +320,7 @@
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
-||ilikeclick.com^$third-party
+!||ilikeclick.com^$third-party
 ||im.obel.kr/file/
 ||imadrep.co.kr^$third-party
 ||imaeil.com/image/banner/ad*.swf^
@@ -1479,6 +1479,7 @@ newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com###div_ad1
 newsis.com###div_ad2
+newsjoy.co.kr##a[href^="http://www.ilikesponsorad.com"]
 newspim.com##.bodynews > DIV[style^="width:455px;"]
 newspim.com##.side_wrap > DIV[style^="height:300px"]
 newsway.co.kr,newsway.kr###body_con > DIV[style*="250"][style*="right"]
