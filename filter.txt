@@ -603,7 +603,8 @@
 !----------------------------------------------------!
 !
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
-||play.rmcnmv.naver.com/vod/play/*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
+||play.rmcnmv.naver.com/vod/play/*&doct=json*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
+||play.rmcnmv.naver.com/vod/play/*&doct=xml*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
