@@ -1083,6 +1083,7 @@ m.chosun.com##.art_txt iframe[width="200"]
 m.chosun.com##.article_wrap > .ctl > iframe[height="50"]
 m.chosun.com##DIV[class^="ad iad"]
 m.cine21.com##.hanad_area
+m.clien.net##.tb_lst_normal TD[style*="center"][style^="text-align:"]
 m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
