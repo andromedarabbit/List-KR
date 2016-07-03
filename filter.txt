@@ -590,7 +590,7 @@
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||viewsnnews.com/image/advert/
-||web.n2s.co.kr^
+||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
 ! combining ||wikitree.co.kr/_tpl/default/_images/ad/, ||wikitree.co.kr/_tpl/default/ad/, ||wikitree.co.kr/ad/
 ||wikitree.co.kr*/ad/
@@ -599,6 +599,7 @@
 ||wowtv.co.kr/AD/
 ||wstatic.dcinside.com/gallery/top/ad_top/
 ||xportsnews.hankyung.com/contents/upload/pds/2012/0425/1335335866605.jpg^
+||ygosu.com/realclick/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 !----------------------------------------------------!
@@ -1735,6 +1736,8 @@ xportsnews.hankyung.com##div.btn_event
 xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
 yes24.com##.yPartnerPop
+ygosu.com##.ad700
+ygosu.com##iframe[src^="/realclick/"]
 yonhapnews.co.kr##div.aside-banner
 yonhapnews.co.kr##div.goolge-banner
 yonhapnews.co.kr##div.view-ad-wrap
@@ -1938,6 +1941,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||tvchosun.com/js/daumview.js
 ||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
+||ygosu.com/empty.yg^
 ||z.o00.kr/*/nsense.js^
 ||zerocounter.com/?
 !----------------------------------------------------!
@@ -1964,7 +1968,8 @@ vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!import
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
-www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; } 
+www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
+www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!

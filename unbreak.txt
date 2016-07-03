@@ -10,5 +10,6 @@
 ! ---------------------------------------------------------------
 ! Url exception rules
 @@||wcs.naver.net/wcslog.js^
+@@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
 ! Element hiding exception rules
 11st.co.kr#@#.adver
