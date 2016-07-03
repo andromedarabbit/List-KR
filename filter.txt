@@ -234,6 +234,7 @@
 ||compass.adop.cc^$third-party
 ||contentlink.co.kr^$third-party
 ||contentsbridge.com^$third-party
+||contextads.net^
 ||crossmedia.co.kr^$third-party
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
@@ -287,6 +288,7 @@
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/dc_ad_*_JH.php^
 ||gametoc.hankyung.com/banner/*rbanner
+||gesomoon.com/*/ad_*.html^
 ||get.keywordsconnect.com^
 ||get2.keywordsconnect.com^
 ||gsad.gameshot.net^
@@ -909,6 +911,10 @@ gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com##.boardRead + DIV[align="center"]
 gmarket.co.kr##.m_ad
+gesomoon.com##.conLeft > DIV:not([id]):not([style])
+gesomoon.com##.cnt > p + DIV:last-child
+gesomoon.com##[id^="layerBanner"]
+gesomoon.com##P.btmBan
 hackers.ac##DIV[class^="footer_layerban"]
 hackers.co.kr###floor_layer_pop
 hackers.co.kr##.sub_menu > TABLE > TBODY > TR > TD.banner
