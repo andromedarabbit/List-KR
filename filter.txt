@@ -18,7 +18,7 @@
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
 /about_*_shopbox.
-/mobitree_*.js^
+!/mobitree_*.js^ - ||js.hnscom.com/etc/hns/mobitree_*.js^
 /nad/media/
 /naon_*.html^
 /naon_*.jsp^
@@ -116,6 +116,7 @@
 ||adday.co.kr^$third-party
 ||adddn.adotsolution.com/contents/
 ||adecorp.co.kr^$domain=~sony.co.kr,third-party
+||adex.ednplus.com^
 ||adexview.new-star.co.kr^
 ||adfront.auction.co.kr^
 ||adget.co.kr^$third-party
@@ -186,10 +187,6 @@
 ||api.wiseclick.co.kr/api/web_directad/
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
-||asiae.co.kr/include/real_ad/
-||asiae.co.kr/js/logging.js^
-||asiae.co.kr/news/include/real_ad/
-||asiae.co.kr/news/include/view_ad/
 ||asiatoday.co.kr/comm/ads/
 ||asiatoday.co.kr/kn/ad/
 ||ask.nate.com/iframe/sponsor.html^
@@ -371,9 +368,11 @@
 ||joy-adstore.co.kr^$third-party
 ||joynews.inews24.com/ad*
 ||joynews.inews24.com/php/ad/
-||js.hnscom.com/etc/hns/hnsIframe_*.html^
-||js.hnscom.com/etc/hns/hook_*.js^
-||js.hnscom.com/etc/hns/pop_cook_*.js^
+!||js.hnscom.com/etc/hns/hnsIframe_*.html^
+!||js.hnscom.com/etc/hns/hook_*.js^
+!||js.hnscom.com/etc/hns/pop_cook_*.js^
+||js.hnscom.com/etc/hns/
+!
 ||js.keywordsconnect.com^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
@@ -387,6 +386,7 @@
 ||koreaportal.com/*/banners/ads_$image
 ||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
+||landingmaker.com^$third-party
 ||lego.zumst.com/*/images/banner/$image
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
@@ -571,6 +571,7 @@
 ||tf.co.kr/js/ss_ad.js^
 ||theappl.com/images/banner/
 ||theprimead.co.kr^$third-party
+||ti-center.co.kr^$third-party
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
 ||torrentmade.com/js/bpopup/scripting.min.js^
@@ -586,7 +587,6 @@
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
-||view.asiae.co.kr/common/ad/
 ||viewsnnews.com/image/advert/
 ||web.n2s.co.kr^
 ||wec.co.kr/banner/
@@ -698,10 +698,10 @@ artsnews.mk.co.kr##div[id="IDContents"]>div>table
 artsnews.mk.co.kr##div[id="joinskmbox"]>div[class="NEWSCONTENT"]>div:last-of-type
 artsnews.mk.co.kr##iframe#about_asiae_shopbox
 artsnews.mk.co.kr##iframe#ad-fist
-asiae.co.kr###view_adtop
+asiae.co.kr##.aside_view_ad
+asiae.co.kr##.news_view_ad
+asiae.co.kr##[class^="ad_"]
 asiae.co.kr##div[class^="view_ad"]
-asiae.co.kr##div[id^="ad"]
-asiae.co.kr##span#realclick_view
 asiatoday.co.kr###ad_optima_wrap
 asiatoday.co.kr###headline_ad_wrap
 asiatoday.co.kr###scrolling_banner
@@ -1324,11 +1324,13 @@ mnews.sbs.co.kr###ggadsense2
 mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
 mosen.mt.co.kr##div[id^="adList"]
+mstoo.asiae.co.kr##.btm_banner
 mt.co.kr###art_ad_top1
 mt.co.kr###news_banner1
 mt.co.kr###news_banner2
 mt.co.kr##div.ad
 mt.co.kr##ul.ad.only_640un
+mtvdaily.asiae.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
@@ -1614,6 +1616,7 @@ star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
 starin.edaily.co.kr##div.View_TPAd
+stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###divpop
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###s_word>div.section_ol>ol>li>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:first-of-type>td:nth-of-type(2)>table>tbody>tr>td>table>tbody>tr>td.dp
@@ -1660,6 +1663,8 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvchosun.com##iframe[src$="front/ad/tc_b.html"]
 tvchosun.com##iframe[src$="front/ad/tc_m_b.html"]
+tvdaily.asiae.co.kr###readtopad
+tvdaily.asiae.co.kr##.read > TABLE[align][style^="margin-"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
@@ -1809,6 +1814,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !------ Miscellaneous ----------
 /acecounter_*.js^
+/?cookie|
 /hanbiro.js^
 /InsightTrk/*.do?$match-case
 /tracker.tsp?
@@ -1820,7 +1826,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 /wlo/UserLogging^
 ||11st.co.kr/a.st?
 ||11st.co.kr/track.st?
-||112.175.76.*/count/get_count.php^
+||112.175.76.*/count/get_count*.php^
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
@@ -1836,6 +1842,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||analytics.bandi.so^
 ||analytics-event.kakao.com^$empty
 ||api.tvple.com/*/stat/send?
+||asiae.co.kr/js/logging*.js^
 ||asiatoday.co.kr/comm/_counter_check*.php^
 ||asiatoday.co.kr/js/atoo_abc.js^
 ||at.mklaud.com/at/at_log*.php^
@@ -1964,7 +1971,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.me,blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
