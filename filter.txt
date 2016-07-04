@@ -384,6 +384,7 @@
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||kado.net/banner/
 ||khan.co.kr/ad/
+||kimcloud.kr/template/js/fadblock*.js^
 ||kmib.co.kr/cp/realclick/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
