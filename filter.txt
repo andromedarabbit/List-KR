@@ -92,6 +92,7 @@
 ||ad.sponsorad.co.kr^$third-party
 ||ad.tf.co.kr:8080/js.kti/
 ||ad.touchwise.co.kr^
+||ad.tpmn.co.kr/adReq*.tpmn^
 ||ad.tving.com^
 ||ad.tvreport.co.kr^
 ||ad.wo.to^
@@ -246,6 +247,7 @@
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
 ||dcd.adotsolution.com/dcd/
+||dcinside.com/_js/ad.js^
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
@@ -1861,6 +1863,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
+||cdn-exchange.toastoven.net/cdn/adx/js/rta_all.js^
 ||chalog.ichannela.com^
 ||chosun.com/dhtm/js/common/collecter*.js
 ||clicklog.gmarket.co.kr/click_log/
