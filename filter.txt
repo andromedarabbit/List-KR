@@ -1027,7 +1027,6 @@ khan.co.kr##.ad_about
 khan.co.kr##.ad_adFlex
 khan.co.kr##.ad_area
 khan.co.kr##.ad_hotIssue
-khan.co.kr##.ad_interestInfo
 khan.co.kr##.ad_popularInfo
 khan.co.kr##.ad_subwing_mid
 khan.co.kr##.ad_subwing_wrap
@@ -1039,7 +1038,7 @@ khan.co.kr##.ad_two_top
 khan.co.kr##.adBanner
 khan.co.kr##.link_cartoon
 khan.co.kr##.logo_area > .issue
-khan.co.kr##div[class^="ad_movFocus"]
+khan.co.kr##DIV[id^="AD_LIVE_AREA"]
 kin.naver.com##.broadcast_kin
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
@@ -1413,6 +1412,8 @@ news.jtbc.joins.com##div.netizen_link_area
 news.jtbc.joins.com##div.right_banner250_area
 news.jtbc.joins.com##div.sponsor_link_combine
 news.jtbc.joins.com##div.wing_wrap
+news.khan.co.kr##.ad_interestInfo
+news.khan.co.kr##div[class^="ad_movFocus"]
 news.kmib.co.kr##body>div[style="height:150px;margin:5px 0 0;"]
 news.kmib.co.kr##body>div[style="height:250px;margin:0px 0 0;"]
 news.kmib.co.kr##body>div[style="height:250px;margin:5px 0 0;"]
@@ -1719,6 +1720,8 @@ vop.co.kr##div.listAD
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
+weekly.khan.co.kr##.ad_movFocus
+weekly.khan.co.kr##.banner_main
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wowtv.co.kr###absBannerRight
@@ -1781,6 +1784,7 @@ zum.com##.box_bottom_banner
 auction.co.kr#@#.side-ads
 i.orbi.kr#@#.gridAd
 persnacons.tistory.com#@#.adsbygoogle
+weekly.khan.co.kr#@##ad_banner
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1965,6 +1969,7 @@ orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
+weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
