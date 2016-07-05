@@ -1877,6 +1877,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
+||eclog*.cafe24.com^
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
@@ -1912,6 +1913,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||makeshop.co.kr/js/clickmap.js^
 ||makeshop.co.kr/js/mslog.js^
 ||medialog.smartmediarep.com/api/*/tracking^
+||megadata.co.kr^$third-party
 ||miraelog.net^$third-party
 ||mt.co.kr/weblog.php?
 ||mywebtrends.co.kr^$third-party
@@ -1946,10 +1948,12 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||stat*.nate.com/stat/*stat*.tiff?
 ||statweb.egloos.com^
 ||tagmanager.toast.com/tag^$third-party
+||trace.sta1.co.kr^
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
+||wcts.coocha.co.kr^
 ||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
 ||ygosu.com/empty.yg^
