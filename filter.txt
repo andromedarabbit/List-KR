@@ -1824,10 +1824,10 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
 ||sl.search.daum.net^
 !------ danawa.com -------------
-||logger.danawa.com/tracker
-||static.danawa.com/js/logger_inc.js
+||danawa.com/*/adweb_counter_danawa.min.js^
+||danawa.com/*/logger_*.js^
+||danawa.com/*/wcslog.js^
 ||las.danawa.com/log/logging.json
-||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !------ Miscellaneous ----------
 /acecounter_*.js^
 /?cookie|
