@@ -1547,6 +1547,9 @@ persnacons.tistory.com##DIV.adblock-on
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
+playwares.com##.bx-wrapper
+playwares.com##.two-column-right > DIV[style^="height:"]
+playwares.com##a[href*="../api/redirectAd.php?document_srl="]
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###search_bbsList + .section
 ppomppu.co.kr###shoppingbox
