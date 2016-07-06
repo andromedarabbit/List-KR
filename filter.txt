@@ -549,6 +549,7 @@
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
 ||smartposting.net/keyword/api/
+||smrmembers-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 !----------------------- reviewed up to here -------------------------------------
 ||sports.chosun.com/ad/
 ||sports.chosun.com/ads/
@@ -1924,6 +1925,7 @@ storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOr
 ||mt.co.kr/weblog.php?
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
+||nelo*-col.navercorp.com/_store^
 ||nextdaily.co.kr/tools/article_count*.html
 ||ngc*.nsm-corp.com^$third-party
 ||nls.netmarble.net/pv.asp^
