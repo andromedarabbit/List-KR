@@ -196,6 +196,7 @@
 ||astg.widerplanet.com^
 ||auction.co.kr/mail/mailcounter.html^
 ||auction.co.kr/wlas_code.html^
+||autobrain.khan.co.kr/banner/
 ||bayabar.com/adworking/
 ||betanews.net/banner.html^
 ||biz.chosun.com/dhtm/js/2012_ad_biz.js^
@@ -1614,6 +1615,8 @@ sports.donga.com##div[class^="aside_AD"]
 sports.donga.com##div[class^="subCont_AD"]
 sports.hankooki.com###SponsorLink
 sports.hankooki.com###listLifeSponsor
+sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
+sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr/"]
 sports.mk.co.kr##div[id^="slidemenu"]
 sports.mk.co.kr##iframe[id^="sptb_"]
@@ -1731,8 +1734,6 @@ vop.co.kr##div.listAD
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
-weekly.khan.co.kr##.ad_movFocus
-weekly.khan.co.kr##.banner_main
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wowtv.co.kr###absBannerRight
@@ -1796,7 +1797,7 @@ auction.co.kr#@#.side-ads
 hayan.tv#@##zergnet
 i.orbi.kr#@#.gridAd
 persnacons.tistory.com#@#.adsbygoogle
-weekly.khan.co.kr#@##ad_banner
+sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1988,9 +1989,9 @@ news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!impo
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
+sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
-weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
