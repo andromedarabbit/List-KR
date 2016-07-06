@@ -1016,6 +1016,7 @@ isplus.joins.com##span[id^="realclick_view2"]
 isplus.joinsmsn.com###topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
+issue.chosun.com##.qzart_article > .qz_art_promo
 ittoday.co.kr##dl[class$="top-banner"]
 jisiklog.com##SPAN.row SPAN[style*="10%"][style*="padding-left"]
 jjan.kr###livereContentsContainer ~ TABLE
