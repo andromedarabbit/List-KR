@@ -623,7 +623,7 @@
 !------------------ URL exception rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
 !
-! Section contains list URL exception rules
+! URL exception rules. Fixing filtration errors (false-positive)
 !
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
@@ -954,6 +954,8 @@ hankyung.com##div.fltAd
 hankyung.com##div.ft_ad
 hankyung.com##div.r_ad_rec300
 hankyung.com##iframe[src^="/m/inc/fixed_mobile_ad_area_view.html"]
+hayan.tv###close
+hayan.tv###overlay
 headlinejeju.co.kr##.edit_inner_content > .banner_box
 headlinejeju.co.kr##.float_banner
 healthmedi.net##div.imagead-taskbar-anchor
@@ -1782,12 +1784,13 @@ zdnet.co.kr##ul.ad_list
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
-!------------------ White list (exceptions list) -------------------------------!
+!------------------ Element hiding exception rules -----------------------------!
 !-------------------------------------------------------------------------------!
 !
-! White list. Fixing filtration errors (false-positive)
+! Section contains list of element hiding exception rules
 !
 auction.co.kr#@#.side-ads
+hayan.tv#@##zergnet
 i.orbi.kr#@#.gridAd
 persnacons.tistory.com#@#.adsbygoogle
 weekly.khan.co.kr#@##ad_banner
