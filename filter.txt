@@ -386,6 +386,7 @@
 ||khan.co.kr/ad/
 ||kimcloud.kr/template/js/fadblock*.js^
 ||kmib.co.kr/cp/realclick/
+||kookje.co.kr/*/banner/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
 ||koreaportal.com/*/banners/ads_$image
@@ -472,6 +473,7 @@
 ||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
 ||newfocus.co.kr/images/banner_
+||news.busan.go.kr/ArticleBanner.do?$third-party
 ||news.chosun.com/chosun/chosunad.html^
 ||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
 ||news.chosun.com/dhtm/js/common/ad_news.js^
@@ -1043,18 +1045,13 @@ khan.co.kr##.link_cartoon
 khan.co.kr##.logo_area > .issue
 khan.co.kr##DIV[id^="AD_LIVE_AREA"]
 kin.naver.com##.broadcast_kin
-kookje.co.kr###bnr_newsmiddleArea
-kookje.co.kr###bnr_newsmiddlebottomArea
-kookje.co.kr###bnr_newstopArea
-kookje.co.kr###bnr_rightmiddleArea
-kookje.co.kr###bnr_rightTopArea
-kookje.co.kr###news_relGisa2>p[style="width:250px;height:250px;border:1px solid #ddd"]
-kookje.co.kr###news_textArea>div[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
-kookje.co.kr###news_textArea>div[style="float:right;width:300px;height:255px;margin-left:10px;"]
-kookje.co.kr###top>div[style="margin:10px auto 0;width:728px;"]
-kookje.co.kr##div.leftArea>div[style="padding:10px 49px 0px"]
-kookje.co.kr##div[id^="flow_banner"]
-kookje.co.kr##iframe[src^="/service/banner/"]
+kookje.co.kr###hs_bnr
+kookje.co.kr###news_textArea > DIV[style*="border:"][style*="468"]
+kookje.co.kr###news_textArea > DIV[style*="right;"][style*="255"]
+kookje.co.kr###top > DIV[style^="margin:"]
+kookje.co.kr##.trans_box
+kookje.co.kr##DIV[id^="bnr_"]
+kookje.co.kr##DIV[id^="news_relGisa"] > p[style*="height:"]
 koreadaily.com###google_ad1
 koreadaily.com##div.right_b_banner
 koreadaily.com##div.shopping2
