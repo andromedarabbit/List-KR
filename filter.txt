@@ -245,6 +245,7 @@
 ! Adguard Eng filter contains some similar rules. 
 ||d.a1comm.co.kr^
 ||d1hn8mrtxasu7m.cloudfront.net^
+||d1swklt9res5jr.cloudfront.net/*/tvple.ad.js^
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
@@ -629,6 +630,7 @@
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
+@@||google-analytics.com/collect|$domain=tvple.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
@@ -638,6 +640,7 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+@@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
 ! naver.com
 @@||cafefiles.naver.net^$image
