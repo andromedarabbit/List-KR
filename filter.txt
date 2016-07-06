@@ -593,7 +593,8 @@
 ||tvchosun.com/front/ad/pan_ad.html
 ||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
-||tvple.com/ad-banner^
+||tvple.com/ab/MW-
+||tvple.com/ab/PC-
 ||typemoon.net/bn/ad/
 ||unionpress.co.kr/news/html_tpl/pr_ad.php^
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
