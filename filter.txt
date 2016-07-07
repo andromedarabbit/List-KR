@@ -1197,6 +1197,7 @@ m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
 m.kukinews.com##.tp_cnt_vw > .bnr
 m.media.daum.net##.bnr_service
+m.mediatoday.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
 m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
