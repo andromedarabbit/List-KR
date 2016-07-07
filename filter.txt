@@ -299,6 +299,7 @@
 ||get2.keywordsconnect.com^
 ||gsad.gameshot.net^
 ||guide.allblet.net^
+||fancug.com/img/*_banner$image
 ||h*.adscope.co.kr^
 ||hackers.ac/site/*_banner.php^
 ||hackers.gscdn.com/*_baner/
@@ -893,6 +894,7 @@ etoday.co.kr##div.view_body>div[style="padding: 30px 17px 40px 18px;border-top: 
 ezday.co.kr###bodyContainer>div[style="width:278px; padding-left:1px; float:left;"]>div[style="width:100%;padding-left:15px;height:250px;"]
 ezday.co.kr###idPigEvent
 ezday.co.kr##div.topr_banner
+fancug.com###ad_front_popup
 fnnews.com###bylineaAd1
 fnnews.com##div.fn_ad_part
 fnnews.com##div.fn_left_side
