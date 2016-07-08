@@ -1760,6 +1760,7 @@ yes24.com##.yPartnerPop
 ygosu.com##.ad700
 ygosu.com##iframe[src^="/realclick/"]
 yonhapnews.co.kr##div.aside-banner
+yonhapnews.co.kr##.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
 yonhapnews.co.kr##div.view-ad-wrap
 yonhapnews.co.kr##DIV[class^="ad-box"]
