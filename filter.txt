@@ -963,6 +963,11 @@ hayan.tv###close
 hayan.tv###overlay
 headlinejeju.co.kr##.edit_inner_content > .banner_box
 headlinejeju.co.kr##.float_banner
+health.chosun.com###bestdoctor_banner
+health.chosun.com###new_center_600_ad_2015f
+health.chosun.com##.contents_newsq:nth-last-child(3)
+health.chosun.com##.left_banner
+health.chosun.com##dd[class^="rel_ad"]
 healthmedi.net##div.imagead-taskbar-anchor
 heyheyfriends.com###mvotd
 heyheyfriends.com###real_pop_bnr_floating
