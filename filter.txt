@@ -911,10 +911,11 @@ gamechosun.co.kr###leftBoxBanner
 gamechosun.co.kr###over_articleB
 gamechosun.co.kr###topLayoutRight
 gamechosun.co.kr##div.banner_wrap
+gamemeca.com##.ads_title_bottom
+gamemeca.com##.aside > .pb32
+gamemeca.com##.rBtmBanner
+gamemeca.com##.blogList > ul > li[class$="Event"]
 gamemeca.com##div.btmBannerTwo
-gamemeca.com##div.pb32
-gamemeca.com##div.rBannerMain
-gamemeca.com##div.rBtmBanner
 gamemeca.com##div[class^="ad"]
 gigglehd.com###column > a[href="http://coolenjoy.net/"]
 gigglehd.com###column > DIV:not([style]) > A[href]
