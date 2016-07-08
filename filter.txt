@@ -481,7 +481,6 @@
 ||news.busan.go.kr/ArticleBanner.do?$third-party
 ||news.chosun.com/chosun/chosunad.html^
 ||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
-||news.chosun.com/dhtm/js/common/ad_news.js^
 ||news.hankooki.com/service/v04/frm_photoScroll.htm^
 ||news.maxmovie.com/movie_info/Realclick/
 ||news.maxmovie.com/movie_info/sha_news_view_tlinkAD.asp^
@@ -553,13 +552,7 @@
 ||smartposting.net/keyword/api/
 ||smrmembers-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 !----------------------- reviewed up to here -------------------------------------
-||sports.chosun.com/ad/
-||sports.chosun.com/ads/
-||sports.chosun.com/banner/240_140_100208.swf^
-||sports.chosun.com/banner/subr/nson_*.html^
-||sports.chosun.com/banner/subr/r_baseball.htm^
-||sports.chosun.com/banner/subr/r_osearch.htm^
-||sports.chosun.com/banner/subr/r_tv.htm^
+||sports.chosun.com/banner/
 ||sports.chosun.com/js/scrollBanner*.js^
 ||sports.chosun.com/js2/popup_ad.js^
 ||sports.chosun.com/lphoto3.htm^
