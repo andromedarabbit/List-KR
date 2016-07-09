@@ -641,7 +641,8 @@
 !------ Stealth mode fixes ------------------------
 ! naver.com
 @@||cafefiles.naver.net^$image
-@@||cafeptthumb*.phinf.naver.net^$image
+@@||cafe*thumb*.phinf.naver.net/*?type=
+@@||cafethumb.naver.net/*?type=
 @@||dicimg.naver.net^
 @@||postfiles*.naver.net^
 @@||static.post.naver.net/
