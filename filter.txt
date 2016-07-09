@@ -1817,7 +1817,7 @@ sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 #%#var wcs_add = {}; var wcs_do = function() { };
 storefarm.naver.com#%#var wcs={bt:-1,checkoutWhitelist:[],cnv:function(){},CPAOrder:function(){},inflow:function(){},isCPA:!1,mileageWhitelist:[],norefresh:0,ref:"",getBaseAccumRate:function(){},getAddAccumRate:function(){},getMileageInfo:function(){},getClickTime:function(){},getClickID:function(){},getInflowRoute:function(){},setReferer:function(){}};
 ! Disable hyperlink auditing
-naver.com#%#AG_onLoad( function() { var a = setInterval("window.clickcr = function() { };", 300); setTimeout("clearInterval("+a+");",3000); } );
+naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLoaded', function() { window.clickcr = window.nclk = function() { }; } ); }
 !------ naver.com --------------
 ||ace.naver.com/m^$empty
 ||l.m.naver.
@@ -1973,6 +1973,7 @@ naver.com#%#AG_onLoad( function() { var a = setInterval("window.clickcr = functi
 ||trace.sta1.co.kr^
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
+||tvcast.naver.com/resources/*/clickcr_*.js^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||wcts.coocha.co.kr^
