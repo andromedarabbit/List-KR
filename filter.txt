@@ -1973,7 +1973,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||trace.sta1.co.kr^
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
-||tvcast.naver.com/resources/*/clickcr_*.js^
+||tvcast.naver.com/resources/*/clickcr_*.js^$empty
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||wcts.coocha.co.kr^
