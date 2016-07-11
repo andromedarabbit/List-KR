@@ -1610,6 +1610,9 @@ snulife.com##DIV[style*="450px;"][style*="120px;"]
 snulife.com###comment > DIV:first-child > DIV.cmt_editor + DIV[style*="border"]
 snulife.com##DIV.rd_ft + DIV[style*="600px"]
 snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
+spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-child
+spojoy.com##[class^="banner_ad"]
+spojoy.com##TR:nth-child(2) > TD > TABLE[height="250"][width="970"]
 sports.chosun.com##.snb > .bn
 sports.chosun.com##DIV[class^="ad_box"]
 sports.chosun.com##div.thum8_box
@@ -2022,7 +2025,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.me,blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
