@@ -1885,6 +1885,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||adlc-exchange.toast.com/log^$third-party
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
+||analytics.bandisoft.co.kr^
 ||analytics-event.kakao.com^$empty
 ||api.tvple.com/*/stat/send?
 ||asiae.co.kr/js/logging*.js^
