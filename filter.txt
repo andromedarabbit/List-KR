@@ -623,12 +623,12 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
+@@&.com/ad/$domain=tvple.com
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
-@@||google-analytics.com/collect|$domain=tvple.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
