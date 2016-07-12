@@ -339,7 +339,6 @@
 ||image.devpia.com/NewDevpia/AD/
 ||image.devpia.com/NewDevpia/main/*banner/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
-||image.news1.kr/system/ads/ad_banner/
 ||image.wownet.co.kr/static/banner/*/flash/
 ||image2.inews24.com/ad*
 ||img.appstory.co.kr/@files/human_banner/
@@ -416,7 +415,6 @@
 ||m.joyninfo.com/yna^$domain=yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
 ||m.kukinews.com/js/ems.js
-||m.news1.kr/ads/
 ||m.pandora.tv/?c=api&m=video_url&ch_userid=*&prgid=
 ||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
@@ -489,7 +487,8 @@
 ||news.nate.com/etc/ad*
 ||news.sportsseoul.com/public_new4/ad/
 ||news.tf.co.kr/ad/
-||news1.kr/iframe/ad/
+||news1.kr/system/ads_*/
+||news1.kr/template/ads/
 ||newscomm.nate.com/Etc/SocialAD^
 ||newspim.com/js/bizspring.js
 ||newswave.kr/ad/
@@ -1225,10 +1224,9 @@ m.mydaily.co.kr##div.read_wrap>div[style="background:#fff; border-bottom:1px sol
 m.mydaily.co.kr##p.mobitree
 m.naver.com##div.grid_ad
 m.news.naver.com##div.ad_area
-m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;margin:10px 0 10px 10px;"]
-m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
-m.news1.kr##iframe[src^="../../ads/"]
-m.news1.kr##ul.txt_padding_box
+m.news1.kr##.article_bottom > .wrap_m_title
+m.news1.kr##[class^="ads_"]
+m.news1.kr##iframe[src^="/template/ads/"]
 m.newsway.co.kr##.news_body > DIV[style^="height:110px;"]
 m.nocutnews.co.kr###divContent > DIV[style*="200px"]
 m.nocutnews.co.kr##.ct1 > .con_b
@@ -1502,12 +1500,12 @@ news.tvchosun.com##.leftWrap > iframe[name="rank"] + iframe[src*="/ad/"]
 news.tvchosun.com##.news_body + * + .article
 news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
 news.tvchosun.com##iframe[src*="front/rnbAdplex"]
+news1.kr###article_body_content > a[href="http://comic.news1.kr"]
+news1.kr##.ad_wing_l
+news1.kr##.s_news_list > ul > DIV[style*="200px"]
+news1.kr##.tit > DIV[style] > a[href="http://comic.news1.kr"]
+news1.kr##[itemprop="articleBody"] + * + DIV[style*="padding-bottom:"]
 news1.kr##a.stat_check_link
-news1.kr###article_body_content>div[style="margin:0 auto; padding-bottom:10px;"]
-news1.kr##div.ad_wing_l
-news1.kr##div.ad_wing_r
-news1.kr##div.article>div[style="margin: 0 auto; padding-bottom: 10px;"]
-news1.kr##div.link_news.s_news_list>ul>div[style="padding:5px; background:#EBEBEB; margin-top:-200px; right:0; position:absolute; width:200px; height:200px;"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com###div_ad1
@@ -1978,6 +1976,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
 ||stat*.nate.com/stat/*stat*.tiff?
+||statistics.news1.kr/logger/
 ||statweb.egloos.com^
 ||tagmanager.toast.com/tag^$third-party
 ||trace.sta1.co.kr^
