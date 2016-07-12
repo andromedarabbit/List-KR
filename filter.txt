@@ -245,6 +245,7 @@
 ||cwstatic.heraldm.com/adcont/
 ! Adguard Eng filter contains some similar rules. 
 ||d.a1comm.co.kr^
+||daumkakao-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||d1hn8mrtxasu7m.cloudfront.net^
 ||d1swklt9res5jr.cloudfront.net/*/tvple.ad.js^
 ||dable.io/*checksum^
@@ -1883,6 +1884,8 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||a*.smlog.co.kr^
 ||ad*-kant.kakao.com/web/track.gif?
 ||adlc-exchange.toast.com/log^$third-party
+||ams.rmcnmv.naver.com/vts/trace/
+||ams.rmcnmv.naver.com/*/tracking/
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
@@ -1911,6 +1914,8 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
+||global.apis.naver.com/etc/pc.nhn^
+||global.apis.naver.com/pt.html^
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
@@ -1986,6 +1991,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||tvcast.naver.com/resources/*/clickcr_*.js^$empty
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
+||videost.nmv.naver.com/pt.html^
 ||wcts.coocha.co.kr^
 ||wl.osen.co.kr/loga/*.php^
 ||yes24.com//javascript/wlo.js
