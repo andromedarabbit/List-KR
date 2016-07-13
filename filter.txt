@@ -230,7 +230,6 @@
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
-||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
 ||cm1.icontact.kr^$third-party
 ||cm2.cjmooter.com^
@@ -363,9 +362,8 @@
 ||inews24.com/tools/adpresso/
 ||ingfac.co.kr^$third-party
 ||ingrtg.com^$third-party
-||interface.interworksmedia.co.kr/js/iwmads.min.js^
-||interface.interworksmedia.co.kr/js/mobitree.js^
 ||interich.com^$third-party
+||interworksmedia.co.kr^$third-party
 ||inven.co.kr/ad/
 ||inven.co.kr/common/lib/js/ad.slot.js^
 ||inven.co.kr/common/lib/js/adns.js^
