@@ -1021,6 +1021,7 @@ isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 issue.chosun.com##.qzart_article > .qz_art_promo
 ittoday.co.kr##dl[class$="top-banner"]
+iworldtoday.com##.mask_div[id^="mask_ad"]
 jisiklog.com##SPAN.row SPAN[style*="10%"][style*="padding-left"]
 jjan.kr###livereContentsContainer ~ TABLE
 jobplanet.co.kr###prism_displayAD
@@ -1185,6 +1186,7 @@ m.inven.co.kr###boardPart > [style$="50px;"]
 m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
 m.inven.co.kr##DIV[data-n="widerplanet"]
+m.iworldtoday.com###articleBody > .body > DIV[style*="float:"]
 m.khan.co.kr###article_bottom_ad
 m.khan.co.kr###photoAD
 m.khan.co.kr##div.contBn
