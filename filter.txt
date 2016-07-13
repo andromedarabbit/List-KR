@@ -449,6 +449,7 @@
 ||mt.co.kr/ad/
 ||mtag.mman.kr/js.mezzo/$third-party
 ||mtag.mman.kr/movie.mezzo/?i_request_id=
+||mtn.co.kr/img/m/banner/m_adbanner_$image
 ||mtn.co.kr/program/native.mtn^
 ||mtree.ad.wich.kr/sand.eat^
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
