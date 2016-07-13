@@ -348,7 +348,6 @@
 ||img.asiatoday.co.kr/popup/
 ||imgcdn.pandora.tv/_ptv_all/m/xml/prism_japan_custion.xml
 ||img.coolenjoy.net/banner/upfile/
-||img.dt.co.kr/unse/
 ||img.focus.kr/mnt/webdata/banner/$image
 ||img.ichannela.com/script/ad/*.js
 ||img.ichannela.com/script/playAd.js
@@ -822,13 +821,8 @@ dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
 donga.com##.main_AD02
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
-dt.co.kr###gisa>table
-dt.co.kr###side_content>div[style="margin-top:10px;"]
-dt.co.kr###side_content>div[style="margin-top:20px;"]
-dt.co.kr##div.cntWrap>div[style="margin-top:10px;"]
-dt.co.kr##div.cntWrap>div[style="padding-top:10px "]
-dt.co.kr##div.cntWrap>div[style="padding-top:10px;"]
-dt.co.kr##div.cntWrap>div[style="text-align:left;margin-left:5px;"]
+dt.co.kr###side_content>div[style$="0px;"][style^="margin-top:"]
+dt.co.kr##.cntWrap>div[style]:not([class]):not([id])
 economy.hankooki.com###ad2uShop
 economy.hankooki.com###ad690100
 economy.hankooki.com###ad690120
@@ -1139,7 +1133,7 @@ m.dcinside.com###mmaDisplay
 m.dcinside.com##div[data-adam-elem="banner_wrapper"]
 m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
-m.dt.co.kr###nav2 > NAV > DIV[style$="270px;"]
+m.dt.co.kr##.slink + section
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
