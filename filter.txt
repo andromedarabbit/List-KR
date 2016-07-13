@@ -835,9 +835,8 @@ economy.hankooki.com##div[id^="ad2LineText"]
 economy.hankooki.com##span#AD_GISA_PHOTO_LINE
 economy.hankooki.com##span#AD_GISA_TEXT_LINE
 econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
-edaily.co.kr##div.topbanner
-edaily.co.kr##div[class^="viewcontent_ad"]
-edaily.co.kr##iframe[src^="/adview/"]
+edaily.co.kr##[class^="banner"]
+edaily.co.kr##div[id^="w_read"]
 egloos.com##DIV[class^="main_banner_wrap"]
 ent.joseilbo.com##div.adplus_banner
 ent.joseilbo.com##div.news_txt_banner
@@ -1134,6 +1133,9 @@ m.dcinside.com##div[data-adam-elem="banner_wrapper"]
 m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
 m.dt.co.kr##.slink + section
+m.edaily.co.kr###ad_view_list
+m.edaily.co.kr##[class^="AD_"]
+m.edaily.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
@@ -1644,7 +1646,6 @@ star.mt.co.kr##div.article_area>div[style="margin-top:10px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
-starin.edaily.co.kr##div.View_TPAd
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###divpop
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###s_word>div.section_ol>ol>li>center
@@ -2019,6 +2020,7 @@ wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!i
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
 www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
+www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
