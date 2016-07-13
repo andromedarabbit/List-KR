@@ -53,6 +53,7 @@
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
 ||ad.auction.co.kr/Common/NhnAdPost.aspx?
+||ad.bandi.so^
 ||ad.cache.newdaily.co.kr/site/banner/
 ||ad.cache.newdaily.co.kr/web/newdaily/bn/
 ||ad.cauly.co.kr*caulyImpress^$third-party
