@@ -52,6 +52,7 @@
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
+||ad.afreecatv.com/RealMedia/ads/adstream_sx.ads/$empty
 ||ad.auction.co.kr/Common/NhnAdPost.aspx?
 ||ad.bandi.so^
 ||ad.cache.newdaily.co.kr/site/banner/
@@ -496,6 +497,7 @@
 ||newsway.kr/banner/banner_
 ||nextdaily.co.kr/*/article_count*.html 
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
+||nowcom.ad.nowcdn.co.kr^
 ||npian.com/nbox/ad*.swf^
 ||nsmartad.com^$third-party
 ||nson.encock.com/media/
