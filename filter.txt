@@ -18,7 +18,7 @@
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
 /about_*_shopbox.
-!/mobitree_*.js^ - ||js.hnscom.com/etc/hns/mobitree_*.js^
+!/mobitree_*.js^ - ||js.hnscom.com/etc/hns/mobitree_*.js^ ||mtn.co.kr/news/mobitree_*.js
 /nad/media/
 /naon_*.html^
 /naon_*.jsp^
@@ -448,6 +448,7 @@
 ||mt.co.kr/ad/
 ||mtag.mman.kr/js.mezzo/$third-party
 ||mtag.mman.kr/movie.mezzo/?i_request_id=
+||mtn.co.kr/program/native.mtn^
 ||mtree.ad.wich.kr/sand.eat^
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
 ||mydaily.co.kr/news/ad_news*.htm^
@@ -1210,6 +1211,7 @@ m.mk.co.kr##.new_ad
 m.mk.co.kr##.new_ad2
 m.mt.co.kr##ul[class^="ad_list_"]
 m.mt.co.kr##ul.list_t2[style]
+m.mtn.co.kr##.m_list > li[style^="padding:"]:not([onclick])
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
@@ -1368,6 +1370,8 @@ mt.co.kr###news_banner1
 mt.co.kr###news_banner2
 mt.co.kr##div.ad
 mt.co.kr##ul.ad.only_640un
+mtn.co.kr###contentsBody > #banner230
+mtn.co.kr##.advertisement
 mtvdaily.asiae.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
@@ -1469,6 +1473,8 @@ news.mt.co.kr##div.aside_bundle>div.mgt16
 news.mt.co.kr##div.mt_books
 news.mt.co.kr##div.mtflash
 news.mt.co.kr##div[id^="art_ad_top"]
+news.mtn.co.kr###contentWrap > DIV[style*="text-align:"]
+news.mtn.co.kr##.sideContainer > .common:first-child
 news.nate.com###AdCommerce
 news.nate.com###ad_sponsorBar
 news.nate.com###googleAd_wrap
