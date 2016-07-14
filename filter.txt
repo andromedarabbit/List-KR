@@ -228,7 +228,7 @@
 ||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
 ||cdn.pandora.tv/_adv_img/
-||cdnprism.pandora.tv/_adv_img/prism_ad/$image
+||cdnprism.pandora.tv/_adv_img/prism_ad/
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
@@ -520,9 +520,7 @@
 ||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
-||prism.pandora.tv^$third-party
-||prism.pandora.tv/pandora_mob/prism/mpandora_preroll/?filetype=xml
-||prism.pandora.tv/pandora/prism/pandora_preroll/?filetype=xml
+||prism.pandora.tv^
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
 ||qcma.qrobo.com/QCMA/common/
@@ -1237,11 +1235,7 @@ m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
-m.pandora.tv###list_area > #native_ad
-m.pandora.tv###recom_channel > a > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
-m.pandora.tv###nx_pause_area > a[onclick^="ptvPlayer.OverlayAD"]
-m.pandora.tv###nx_pause_area > iframe[src^="http://prism.pandora"]
-m.pandora.tv###daum_ad_banner
+m.pandora.tv###native_ad
 m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###if_bbs_view_bn
@@ -1553,6 +1547,7 @@ osen.mt.co.kr##div.detailView>ul.articleList
 osen.mt.co.kr##div.mask_div
 pandora.tv##.contents > a.banner > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
 pandora.tv##.sh_top_contact
+pandora.tv##.top100
 pandora.tv##.top_ban
 pann.nate.com###pann_brandAdWrap
 pann.nate.com###psypannAd
