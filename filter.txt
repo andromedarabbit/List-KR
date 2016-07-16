@@ -244,6 +244,7 @@
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
 ||cwstatic.heraldm.com/adcont/
+||cyad*.nate.com/js.kti/nate/
 ! Adguard Eng filter contains some similar rules. 
 ||d.a1comm.co.kr^
 ||daumkakao-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
@@ -404,6 +405,7 @@
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkspot.net^$third-party
+||lithium.*/trendad.min.js^
 ||loadnet.co.kr^$third-party
 ||longkeyone.co.kr^
 ||lsinfo.co.kr$third-party
