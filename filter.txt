@@ -1863,9 +1863,10 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 !------ Miscellaneous ----------
 /?cookie|
 /acecounter_*.js^
-/Eclog/main/?$match-case
+/Eclog/main/?*&rserv=$match-case
 /hanbiro.js^
 /InsightTrk/*.do?$match-case
+/realconn.php?*&rserv=
 /tracker.tsp?
 /tracker.*.tsp?
 /tracker_*.tsp?
