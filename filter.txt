@@ -1911,6 +1911,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||countory.com/counterService/serviceAPI.asp?
 ||crashua.com^$empty
 ||ctc.news.nate.com/ctc.tiff?
+||cv.mklaud.com^
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
@@ -1969,6 +1970,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||pds*.gmarket.co.kr^
 ||pullbbang.com*/js/*nlogger.js^
 ||r.popin.cc/log.gif?
+||rcv.mklaud.com^
 ||rec.netinsight.co.kr/rec/*/view?
 ||recobell.io/rest/logs^
 ||recopick.com^$third-party
@@ -1993,6 +1995,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||trace.sta1.co.kr^
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
+||tracking.reeket.com^
 ||tvcast.naver.com/resources/*/clickcr_*.js^$empty
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
