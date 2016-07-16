@@ -1901,6 +1901,8 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
 ||cdn-exchange.toastoven.net/cdn/adx/js/rta_all.js^
 ||chalog.ichannela.com^
+||checkout.naver.net/*/analysis.js^
+||checkout.naver.net/*/nclk_evt.js^
 ||chosun.com/dhtm/js/common/collecter*.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
