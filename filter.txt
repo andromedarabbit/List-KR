@@ -1861,8 +1861,9 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||danawa.com/*/wcslog.js^
 ||las.danawa.com/log/logging.json
 !------ Miscellaneous ----------
-/acecounter_*.js^
 /?cookie|
+/acecounter_*.js^
+/Eclog/main/?$match-case
 /hanbiro.js^
 /InsightTrk/*.do?$match-case
 /tracker.tsp?
@@ -1898,6 +1899,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||asiatoday.co.kr/js/atoo_abc.js^
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
+||cafe24.com/weblog.js^
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
 ||cdn-exchange.toastoven.net/cdn/adx/js/rta_all.js^
 ||chalog.ichannela.com^
@@ -1915,7 +1917,6 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
-||eclog*.cafe24.com^
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
