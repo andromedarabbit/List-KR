@@ -17,6 +17,10 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 ```
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
+ublock (origin)을 사용하고 있다면, 위 기본 필터와 함께 다음 보충 필터도 구독하십시오. 호환성 문제를 보정하기 위한 필터링 규칙을 모아놓고 있습니다.
+```
+https://github.com/SlowMemory/List-KR/raw/master/unbreak.txt
+```
 
 #### 목록 향상에 기여하는 법
 
