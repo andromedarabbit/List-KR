@@ -1992,6 +1992,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||ssg.com/comm/ssgGnbAjax.ssg^
 ||stat*.nate.com/stat/*stat*.tiff?
 ||statistics.news1.kr/logger/
+||statistics.videofarm.daum.net^
 ||statweb.egloos.com^
 ||tagmanager.toast.com/tag^$third-party
 ||trace.sta1.co.kr^
