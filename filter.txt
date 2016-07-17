@@ -1908,6 +1908,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||asiae.co.kr/js/logging*.js^
 ||asiatoday.co.kr/comm/_counter_check*.php^
 ||asiatoday.co.kr/js/atoo_abc.js^
+||at.artistchai.co.kr^
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
 ||cafe24.com/weblog.js^
@@ -2017,6 +2018,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||videost.nmv.naver.com/pt.html^
 ||wcts.coocha.co.kr^
 ||wl.osen.co.kr/loga/*.php^
+||wlog.tmon.co.kr^
 ||yes24.com//javascript/wlo.js
 ||ygosu.com/empty.yg^
 ||z.o00.kr/*/nsense.js^
