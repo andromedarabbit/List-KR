@@ -33,7 +33,6 @@
 ||115.68.75.10/banner_*.php^
 ||211.233.4.20^$third-party
 ||211.234.119.116/pront/default.asp^
-||218.239.16.168/SWFUpload/$image,domain=coolenjoy.net|cooln.kr|cooln.net
 ||218.153.11.175^
 ||2cpu.co.kr/ad_board.php
 ||38.co.kr/images/banner/
