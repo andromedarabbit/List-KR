@@ -1189,6 +1189,7 @@ m.insight.co.kr##.page-more-ad
 m.inven.co.kr###boardPart > [style$="50px;"]
 m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
+m.inven.co.kr###page > [style$="height:50px;"]
 m.inven.co.kr##DIV[data-n="widerplanet"]
 m.iworldtoday.com###articleBody > .body > DIV[style*="float:"]
 m.khan.co.kr###article_bottom_ad
