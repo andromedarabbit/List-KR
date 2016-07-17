@@ -1366,6 +1366,10 @@ mnews.sbs.co.kr###ggadsense2
 mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
 mosen.mt.co.kr##div[id^="adList"]
+mpop.heraldcorp.com##.story > [id^="ad4989"]
+mpop.heraldcorp.com##.story > [id^="newslist"]
+mpop.heraldcorp.com##.story > .shopping
+mpop.heraldcorp.com##.story > .story2
 mstoo.asiae.co.kr##.btm_banner
 mt.co.kr###art_ad_top1
 mt.co.kr###news_banner1
