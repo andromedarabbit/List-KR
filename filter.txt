@@ -963,6 +963,9 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_ad"]
 healthmedi.net##div.imagead-taskbar-anchor
+heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
+heraldcorp.com###photoINAD_area
+heraldcorp.com##[id^="adsmnc"]
 heyheyfriends.com###mvotd
 heyheyfriends.com###real_pop_bnr_floating
 huffingtonpost.kr###modulous_article_bottom
@@ -1319,15 +1322,13 @@ marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 matcl.com##p[align="center"][style*="height:"]
-mbiz.heraldcorp.com###adsmnctext
+mbiz.heraldcorp.com###wrap > .story
 mbiz.heraldcorp.com###wrap > DIV[style*="border-bottom"].section2
 mbiz.heraldcorp.com##.ad
-mbiz.heraldcorp.com##.story
 mbiz.heraldcorp.com##DIV[class^="photoAd"]
 mbiz.heraldcorp.com##SPAN[id^="adintext"]
 mbiz.heraldcorp.com##SPAN[id^="mfarm"]
 mbiz.heraldcorp.com##SPAN[id^="lumiText"]
-mbiz.heraldcorp.com##span[id^="adsmnc_t_"]
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
 media.daum.net###banner250
@@ -1952,6 +1953,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||log.sv.pandora.tv^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
+||logger.bizzaru.com^
 ||logger.co.kr^$third-party
 ||loginside.co.kr^$third-party
 ||logtracker.cjmall.com^
