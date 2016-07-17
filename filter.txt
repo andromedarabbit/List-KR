@@ -1843,9 +1843,10 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
-||pb.m.naver.com/abp^
+||mts.naver.com/napp^$empty
 ||nac.naver.com/m^$empty
 ||nil.naver.com/m^
+||pb.m.naver.com/abp^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
 !------ naver.com search -------
@@ -1997,6 +1998,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seetoc.com/logging/log.do^
 ||seoul.co.kr/weblog^
+||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
