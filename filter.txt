@@ -1365,6 +1365,8 @@ mnews.sbs.co.kr###ggadsense1
 mnews.sbs.co.kr###ggadsense2
 mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
+mobile.newsis.com###article > DIV[style="padding:30px 0 0 12px;"]
+mobile.newsis.com##.bxcn[style^="padding:"]
 mosen.mt.co.kr##div[id^="adList"]
 mpop.heraldcorp.com##.story > [id^="ad4989"]
 mpop.heraldcorp.com##.story > [id^="newslist"]
