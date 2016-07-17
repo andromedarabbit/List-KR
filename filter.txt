@@ -1588,6 +1588,7 @@ rpm9.com##.ad_bottom728x90
 rpm9.com##.ad_maintextWrap
 rpm9.com##.ad_right300x250
 ruliweb.com##.ad
+ruliweb.com##.board_main_top > .right_wrapper
 search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
