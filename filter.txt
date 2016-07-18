@@ -1160,6 +1160,10 @@ m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
 m.hackers.co.kr###app_down_wrap
 m.hankooki.com###ad_img_div
+m.hankooki.com##.rank_ad
+m.hankooki.com##.shopping[class*="ads_"]
+m.hankooki.com##.wrap > .ads_t2 + * + .promotion:nth-child(8)
+m.hankooki.com##.wrap > section.ranking + DIV.promotion
 m.hankooki.com##div.adpromotion
 m.hankooki.com##div[class^="ads_"]
 m.headlinejeju.co.kr##.m_min_size > .not_print
