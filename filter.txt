@@ -1574,6 +1574,7 @@ persnacons.tistory.com##DIV.adblock-on
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
+player.kmpmedia.net##.taboola-link-view
 playwares.com##.bx-wrapper
 playwares.com##.two-column-right > DIV[style^="height:"]
 playwares.com##a[href*="../api/redirectAd.php?document_srl="]
@@ -1898,6 +1899,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
+||127.0.0.1:65156/EXECLOG^$empty
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
@@ -1965,6 +1967,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||log.adop.cc^
 ||log.ajunews.com:8881^
 ||log.edgebook.com^
+||log.kmplayer.com^
 ||log.news.joins.com^
 ||log.sv.pandora.tv^
 ||log-aggregator.vcnc.co.kr^
