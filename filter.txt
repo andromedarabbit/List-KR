@@ -23,8 +23,6 @@
 /naon_*.html^
 /naon_*.jsp^
 /NetInsight/$match-case
-!------ Common URL with domain specification --------!
-/skin/images/adblockblock.js$domain=ruinses.tistory.com
 !----------------------------------------------------!
 !------ Domain-Specific URL Filters -----------------!
 !----------------------------------------------------!
@@ -612,6 +610,10 @@
 ||ygosu.com/realclick/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
+!------ Url components for multiple domains ---------
+/cdsbData_gal/bannerFile/$image,domain=mybogo.net|zipbogo.net
+/NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
+/skin/images/adblockblock.js$domain=ruinses.tistory.com
 !----------------------------------------------------!
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
@@ -1383,6 +1385,10 @@ mtn.co.kr##.advertisement
 mtvdaily.asiae.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
+mybogo.net,zipbogo.net##.sidebar > ul > li:nth-of-type(2)
+mybogo.net,zipbogo.net###sidebar1 > ul > li:nth-of-type(3)
+mybogo.net,zipbogo.net###sidebar2 > ul > li > a[href="http://filecast.co.kr/?p_id=bogo"]
+mybogo.net,zipbogo.net###logo-ad
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
 mydaily.co.kr###ad_left_wing
 mydaily.co.kr###read_left>div[style="margin-left:5px;"]
@@ -1815,6 +1821,7 @@ zdnet.co.kr##.right_cont > .power_center
 zdnet.co.kr##div.ad
 zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##ul.ad_list
+zipbogo.net##.sidebar > ul > [id^="popup_"]
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
