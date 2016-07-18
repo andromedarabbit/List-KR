@@ -250,7 +250,7 @@
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
-||dcd.adotsolution.com/dcd/
+||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
