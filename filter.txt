@@ -793,8 +793,9 @@ comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
 comic.naver.com##.ads_sc
 consumernews.co.kr##span.brn
-coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
 coolenjoy.net,cooln.kr,cooln.net###sidebar > .tab
+coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
+coolenjoy.net,cooln.kr,cooln.net##[role="banner"] > br:nth-child(-n+6)
 dailian.co.kr##div[class^="banner"]
 dailian.co.kr##iframe[name="adv"]
 daily.hankooki.com###MobileLink
