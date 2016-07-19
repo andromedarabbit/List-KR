@@ -1928,6 +1928,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||218.145.26.75/pv?
 ||222.122.232.101^*log^
 ||a*.smlog.co.kr^
+||action.adzcore.com^$empty
 ||ad*-kant.kakao.com/web/track.gif?
 ||adlc-exchange.toast.com/log^$third-party
 ||ams.rmcnmv.naver.com/vts/trace/
@@ -2033,6 +2034,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||seetoc.com/logging/log.do^
 ||seoul.co.kr/weblog^
 ||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
+||setting.adzcore.com^$empty
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
