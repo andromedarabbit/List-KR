@@ -800,10 +800,10 @@ coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
 coolenjoy.net,cooln.kr,cooln.net##[role="banner"] > br:nth-child(-n+6)
 dailian.co.kr##div[class^="banner"]
 dailian.co.kr##iframe[name="adv"]
+daily.hankooki.com###luminous
 daily.hankooki.com###MobileLink
-daily.hankooki.com###montvLayer
 daily.hankooki.com###Page_NewsSponsor
-daily.hankooki.com##div.bantop
+daily.hankooki.com##.Right_Promo > [id^="slot0"]:not(#slot01):not(#slot03):not(#slot07):not(#slot09)
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
 danawa.com##.header_banner
