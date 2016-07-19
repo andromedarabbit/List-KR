@@ -940,6 +940,11 @@ hani.co.kr##.ad-weather-banner
 hani.co.kr##DIV[class^="text-ad"]
 hani.co.kr##DIV[id^="ad_box"]
 hani.co.kr##DIV[id^="ad_home_"]
+hankooki.com##.ad300600
+hankooki.com##.adnum
+hankooki.com##.adsum
+hankooki.com##.adsum2
+hankooki.com##.wrap_over_72890
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
