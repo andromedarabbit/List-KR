@@ -875,6 +875,7 @@ etnews.com###wingLeftSticky
 etnews.com##.ad1
 etnews.com##.ad2
 etnews.com##.ad3
+etnews.com##.ad4
 etnews.com##div.ad_txt
 etnews.com##div.box_type1
 etnews.com##div.box_type2
