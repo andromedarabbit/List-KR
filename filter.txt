@@ -142,6 +142,7 @@
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
 ||adp.adpies.com/adp/$empty
+||adpick.co.kr^$third-party
 ||adpingpong.co.kr^$third-party
 ||adpingpong1.co.kr^$third-party
 ||adpnut.com^$third-party
