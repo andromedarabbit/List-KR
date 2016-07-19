@@ -1225,7 +1225,6 @@ m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
 m.kukinews.com##.tp_cnt_vw > .bnr
 m.media.daum.net##.bnr_service
-m.mediatoday.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
 m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
@@ -1353,6 +1352,8 @@ media.daum.net###mAside > .bnr_ad
 media.daum.net###EXTENSIBLE_WING_WRAP
 media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
+mediatoday.co.kr###banner_header_wide
+mediatoday.co.kr##[itemprop="articleBody"] > DIV[style*="float:"]
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
 mediaus.co.kr##iframe[src^="/banner/"]
