@@ -634,6 +634,7 @@
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
+@@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
@@ -1657,8 +1658,17 @@ sports.donga.com##div.top_sport_AD
 sports.donga.com##div.ttalk_ad_list
 sports.donga.com##div[class^="ad"]
 sports.donga.com##div[class^="subCont_AD"]
-sports.hankooki.com###SponsorLink
+sports.hankooki.com###AD_GISA_PHOTO_LINE
+sports.hankooki.com###adIssueTrend
+sports.hankooki.com###contents > DIV[style] > DIV[style*="600px"]
 sports.hankooki.com###listLifeSponsor
+sports.hankooki.com###SponsorLink
+sports.hankooki.com##.lifebanner > .w690 > DIV:not(:last-child)
+sports.hankooki.com##.num_pro:not(.golfhk)
+sports.hankooki.com##[id^="ad2LineText"]
+sports.hankooki.com##DIV[style*="695"] > h4[style]:not([class])
+sports.hankooki.com##DIV[style*="695"] > .num3_1
+sports.hankooki.com##iframe[src*=".com/ad/"]
 sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
 sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr/"]
