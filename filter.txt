@@ -946,6 +946,7 @@ hankooki.com##.adnum
 hankooki.com##.adsum
 hankooki.com##.adsum2
 hankooki.com##.wrap_over_72890
+hankooki.com##iframe[src*="/ad/"]
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
@@ -1668,7 +1669,6 @@ sports.hankooki.com##.num_pro:not(.golfhk)
 sports.hankooki.com##[id^="ad2LineText"]
 sports.hankooki.com##DIV[style*="695"] > h4[style]:not([class])
 sports.hankooki.com##DIV[style*="695"] > .num3_1
-sports.hankooki.com##iframe[src*=".com/ad/"]
 sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
 sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr/"]
