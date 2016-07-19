@@ -1616,6 +1616,7 @@ search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
 search.zum.com###search_result > .sponsor_sc
+sedaily.com##[class^="sub_ad_banner"]
 segye.com###onlineissuebox
 segye.com###sideBanner
 segye.com###textadbox
