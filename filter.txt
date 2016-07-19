@@ -22,7 +22,7 @@
 /nad/media/
 /naon_*.html^
 /naon_*.jsp^
-/NetInsight/$match-case
+/NetInsight/*$match-case
 !----------------------------------------------------!
 !------ Domain-Specific URL Filters -----------------!
 !----------------------------------------------------!
