@@ -1935,6 +1935,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||218.145.26.75/pv?
 ||222.122.232.101^*log^
 ||a*.smlog.co.kr^
+||aceclick.co.kr^$third-party
 ||action.adzcore.com^$empty
 ||ad*-kant.kakao.com/web/track.gif?
 ||adlc-exchange.toast.com/log^$third-party
