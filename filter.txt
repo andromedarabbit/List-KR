@@ -249,7 +249,6 @@
 ||d.a1comm.co.kr^
 ||daumkakao-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||d1hn8mrtxasu7m.cloudfront.net^
-||d1swklt9res5jr.cloudfront.net/*/tvple.ad.js^
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
@@ -631,7 +630,6 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
-@@&.com/ad/$domain=tvple.com
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
@@ -1942,7 +1940,6 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
 ||analytics-event.kakao.com^$empty
-||api.tvple.com/*/stat/send?
 ||asiae.co.kr/js/logging*.js^
 ||asiatoday.co.kr/comm/_counter_check*.php^
 ||asiatoday.co.kr/js/atoo_abc.js^
