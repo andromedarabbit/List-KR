@@ -636,6 +636,7 @@
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
+@@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
@@ -802,8 +803,8 @@ consumernews.co.kr##span.brn
 coolenjoy.net,cooln.kr,cooln.net###sidebar > .tab
 coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
 coolenjoy.net,cooln.kr,cooln.net##[role="banner"] > br:nth-child(-n+6)
-dailian.co.kr##div[class^="banner"]
-dailian.co.kr##iframe[name="adv"]
+dailian.co.kr###baner_1
+dailian.co.kr###view_page > DIV[style*="10px;"]:nth-child(-n+4)
 daily.hankooki.com###luminous
 daily.hankooki.com###MobileLink
 daily.hankooki.com###Page_NewsSponsor
