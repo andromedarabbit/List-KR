@@ -1293,6 +1293,7 @@ m.sportsseoul.com###container > DIV[style^="margin-top:5px;"]
 m.sportsseoul.com##[id^="ad_"]
 m.sportsseoul.com###photoINAD_area
 m.sportsseoul.com###wrap > #footer + DIV[style$="4px;"]
+m.sportsworldi.com##section > .titArea.mt10.line
 m.star.mt.co.kr##body>div[style="height:80px; background:#424242"]
 m.star.mt.co.kr###ad_lumieyes_new
 m.star.mt.co.kr###ad_sclist
