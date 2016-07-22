@@ -185,6 +185,7 @@
 ||alea.adam.daum.net/imp
 ||allblet.net^$third-party
 ||allsee.co.kr/js/allsee_banner.js$third-party
+||amazonaws.com/avdbs.new/banner/
 ||amsv2.daum.net/ad/
 ||anewsa.com/_ad/real/
 ||anewsa.com/img/mainBanner
