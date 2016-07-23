@@ -2002,6 +2002,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||log.adop.cc^
 ||log.ajunews.com:8881^
 ||log.edgebook.com^
+||log.kcisa.kr/tag/
 ||log.kmplayer.com^
 ||log.news.joins.com^
 ||log.sv.pandora.tv^
