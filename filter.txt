@@ -1403,6 +1403,12 @@ mt.co.kr##ul.ad.only_640un
 mtn.co.kr###contentsBody > #banner230
 mtn.co.kr##.advertisement
 mtvdaily.asiae.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
+mule.co.kr##.ad1
+mule.co.kr##.ad6
+mule.co.kr##.ad7
+mule.co.kr##.hfvContentAd
+mule.co.kr##.read_con > TABLE[width="620"]
+mule.co.kr##[class^="group_ad"]:not([class$="4"])
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
 mybogo.net,zipbogo.net##.sidebar > ul > li:nth-of-type(2)
@@ -2079,7 +2085,8 @@ i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
-news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; } 
+www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
+news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
