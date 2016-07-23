@@ -739,10 +739,10 @@ asiatoday.co.kr##iframe[src^="/comm/ads/"]
 asiatoday.co.kr##[class^="bm_ad"]
 asiatoday.co.kr##[class^="main_ad"]
 auction.co.kr##.plan-affiliate
-baykoreans.net##.boardRead > DIV > .clear
-baykoreans.net##.board > .clear
-baykoreans.net##.viewDocument > .clear
-baykoreans.net##DIV[style*="opacity"]
+baykoreans.com,baykoreans.net##.boardRead > DIV > .clear
+baykoreans.com,baykoreans.net##.board > .clear
+baykoreans.com,baykoreans.net##.viewDocument > .clear
+baykoreans.com,baykoreans.net##DIV[style*="opacity"]
 betanews.heraldcorp.com##iframe[src*="?refData"]
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
@@ -2109,7 +2109,7 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-baykoreans.net$$script[tag-content="div.adsbygoogle"]
+baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !------ disable auto scroll -------------------------
