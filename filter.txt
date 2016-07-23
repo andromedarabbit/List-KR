@@ -2045,7 +2045,6 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||sbs.co.kr/mod_pagespeed_beacon^
 ||sbs.co.kr/news/ajax/insert*Log.do^
 ||sc*.cpcguard.com/*.asp
-||script.auction.co.kr/ad/log.js
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seetoc.com/logging/log.do^
 ||seoul.co.kr/weblog^
