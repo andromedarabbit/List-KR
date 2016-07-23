@@ -553,6 +553,7 @@
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
+||smart.linkprice.com/*.php?$third-party
 ||smartposting.net/keyword/api/
 ||smrmembers-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 !----------------------- reviewed up to here -------------------------------------
@@ -975,6 +976,7 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_ad"]
 healthmedi.net##div.imagead-taskbar-anchor
+hentaku.net##a[href^="http://www.netfile.co.kr/banner/ad_banner"]
 heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
 heraldcorp.com###photoINAD_area
 heraldcorp.com##[id^="adsmnc"]
@@ -2048,6 +2050,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||statweb.egloos.com^
 ||tagmanager.toast.com/tag^$third-party
 ||trace.sta1.co.kr^
+||track.linkprice.com/lpshow.php?
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
 ||tracking.reeket.com^
