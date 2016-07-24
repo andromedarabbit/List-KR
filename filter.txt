@@ -1860,6 +1860,7 @@ zangsisi.net##A[href^="http://partner.zzamtoon.com/event/"]
 zangsisi.net##A[href^="http://www.bananamall.co.kr/Alinker/"]
 zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]
 zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr##.ad_txt
 zdnet.co.kr##.right_cont > .power_center
 zdnet.co.kr##div.ad
 zdnet.co.kr##div[class^="right_bn"]
