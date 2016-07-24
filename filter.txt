@@ -689,6 +689,7 @@
 !----- Common iframes (dynamically generated) -----
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
+##iframe[src^="http://adv.mediaharbor.co.kr/nad/"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
@@ -1418,7 +1419,6 @@ mule.co.kr##.hfvContentAd
 mule.co.kr##.read_con > TABLE[width="620"]
 mule.co.kr##[class^="group_ad"]:not([class$="4"])
 munhwa.com##iframe[name="denta_adv"]
-munhwa.com##iframe[src^="http://adv.mediaharbor.co.kr"]
 munhwa.com##table[width="680"] > tbody > tr > td[valign="top"][width="120"]
 music.daum.net##div.banner_250
 mybogo.net,zipbogo.net##.sidebar > ul > li:nth-of-type(2)
@@ -1569,7 +1569,6 @@ nocutnews.co.kr##div.ad1
 nocutnews.co.kr##div.ad_sky2
 nocutnews.co.kr##div.ad_view
 nocutnews.co.kr##div.view_ban
-nocutnews.co.kr##iframe[src^="http://adv.mediaharbor.co.kr"]
 nownews.seoul.co.kr##.cnt_footer + p[style] 
 nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
