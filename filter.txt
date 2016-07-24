@@ -343,6 +343,7 @@
 ||image.devpia.com/NewDevpia/AD/
 ||image.devpia.com/NewDevpia/main/*banner/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
+||image.munhwa.com/www/banner/
 ||image.wownet.co.kr/static/banner/*/flash/
 ||image2.inews24.com/ad*
 ||img.appstory.co.kr/@files/human_banner/
@@ -1241,6 +1242,10 @@ m.mk.co.kr##.new_ad2
 m.mt.co.kr##ul[class^="ad_list_"]
 m.mt.co.kr##ul.list_t2[style]
 m.mtn.co.kr##.m_list > li[style^="padding:"]:not([onclick])
+m.munhwa.com###news_content > DIV[style*="200"][style*="float:right;"]
+m.munhwa.com###newstar_ad_area
+m.munhwa.com##BODY > .footer ~ .footer_white
+m.munhwa.com##[class^="article_ad"]
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
@@ -1413,6 +1418,8 @@ mule.co.kr##.hfvContentAd
 mule.co.kr##.read_con > TABLE[width="620"]
 mule.co.kr##[class^="group_ad"]:not([class$="4"])
 munhwa.com##iframe[name="denta_adv"]
+munhwa.com##iframe[src^="http://adv.mediaharbor.co.kr"]
+munhwa.com##table[width="680"] > tbody > tr > td[valign="top"][width="120"]
 music.daum.net##div.banner_250
 mybogo.net,zipbogo.net##.sidebar > ul > li:nth-of-type(2)
 mybogo.net,zipbogo.net###sidebar1 > ul > li:nth-of-type(3)
