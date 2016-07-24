@@ -244,8 +244,7 @@
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
 ||cwstatic.heraldm.com/adcont/
-||cyad*.nate.com/js.kti/nate/
-! Adguard Eng filter contains some similar rules. 
+||cyad*.nate.com/js.kti/
 ||d.a1comm.co.kr^
 ||daumkakao-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
 ||d1hn8mrtxasu7m.cloudfront.net^
