@@ -1420,6 +1420,7 @@ mybogo.net,zipbogo.net###sidebar2 > ul > li > a[href="http://filecast.co.kr/?p_i
 mybogo.net,zipbogo.net###logo-ad
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
 mydaily.co.kr###ad_left_wing
+mydaily.co.kr###article > div[style^="float:"]
 mydaily.co.kr###read_left>div[style="margin-left:5px;"]
 mydaily.co.kr###read_left>div[style="width:680px; border:1px solid #dddddd; background:#ffffff; /**/overflow:hidden; margin-bottom:10px; padding:10px 13px;"]
 mydaily.co.kr###read_left>div[style="width:706px; /**/overflow:hidden; margin-bottom:10px; padding:10px 0;"]
