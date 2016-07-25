@@ -251,6 +251,7 @@
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
+||danawa.com/NBP/powerLink.js.php^
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
 ||dgate.*/hc.aspx^
@@ -1615,6 +1616,7 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##P[class^="banner_"]
 pressian.com##.remove_ad
 pressian.com##.under_adban
+prod.danawa.com##.content_900 > [class^="banner_"]
 pullbbang.com###main_right_contents_wrap > [style*="250"]
 rec.netinsight.co.kr##.side_nw > #netinsight_rec_contents + DIV[style]
 reviewstar.hankooki.com##li.ad_plex_a250
@@ -1919,7 +1921,8 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||sl.search.daum.net^
 !------ danawa.com -------------
 ||danawa.com/*/adweb_counter_danawa.min.js^
-||danawa.com/*/logger_*.js^
+||danawa.com/*/logger_inc.js^
+||danawa.com/*/logger_Insight_WebAnalytics.js^
 ||danawa.com/*/wcslog.js^
 ||las.danawa.com/log/logging.json
 !------ Miscellaneous ----------
