@@ -925,10 +925,11 @@ gamechosun.co.kr###topLayoutRight
 gamechosun.co.kr##div.banner_wrap
 gamemeca.com##.ads_title_bottom
 gamemeca.com##.aside > .pb32
-gamemeca.com##.rBtmBanner
 gamemeca.com##.blogList > ul > li[class$="Event"]
+gamemeca.com##.google_ad_bottom_728x90
+gamemeca.com##.rBtmBanner
+gamemeca.com##.toastBanner
 gamemeca.com##div.btmBannerTwo
-gamemeca.com##div[class^="ad"]
 gigglehd.com###column > a[href="http://coolenjoy.net/"]
 gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
@@ -2099,6 +2100,7 @@ cine21.com#$##wrap > #header { padding-top: 0px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
+m.gamemeca.com#$##footer { height:138px!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
