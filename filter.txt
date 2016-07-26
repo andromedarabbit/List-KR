@@ -265,6 +265,7 @@
 ||emforce.co.kr^$third-party
 ||emnet.co.kr^$third-party
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
+||esports.dailygame.co.kr/prog/ext_banner.php^
 ||etc.gamechosun.co.kr/banner/
 ||etnews.com/*tools/article_count*.html
 ||etnews.com/ek_js/detail_ad_combinepop.js^
@@ -815,6 +816,10 @@ daily.hankooki.com###Page_NewsSponsor
 daily.hankooki.com##.Right_Promo > [id^="slot0"]:not(#slot01):not(#slot03):not(#slot07):not(#slot09)
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
+dailygame.co.kr###BigDDRightSkyID
+dailygame.co.kr###talklink_chatAd
+dailygame.co.kr##.banner_1024_1024
+dailygame.co.kr##.sub_rightbox > div[style*="290"][style^="margin:"]
 danawa.com##.header_banner
 danawa.com##.rnb_unit_banner
 danawa.com##.ttop_ad_banner
@@ -859,16 +864,6 @@ ent.joseilbo.com##div.read_banner
 ent.joseilbo.com##div[class^="adya_shopping"]
 ent.joseilbo.com##div[class^="banner_area"]
 ent.joseilbo.com##li.rank_banner
-esports.dailygame.co.kr###talklink_chatAd
-esports.dailygame.co.kr###wrap>div[style="clear:both;width: 900px;margin: 10px auto;"]
-esports.dailygame.co.kr##div.banner_1024_1024
-esports.dailygame.co.kr##div.header>div[style="position: absolute;margin-top: -64px;margin-left: 167px;"]
-esports.dailygame.co.kr##div.sub_rightbox>div[style="margin:0px auto;width:290px;"]
-esports.dailygame.co.kr##div.sub_rightbox>div[style="margin:0px auto;width:290px;padding-top:15px;"]
-esports.dailygame.co.kr##iframe[src^="/comment/ad_readclick.php"]
-esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_bot.html"]
-esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_right.html"]
-esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_top.html"]
 etnews.com###articleBody > DIV[style$="20px;"]
 etnews.com###articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
 etnews.com###articleBody>div[style="text-align:center"]
