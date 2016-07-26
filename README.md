@@ -17,7 +17,9 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 ```
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
-ublock (origin)을 사용하고 있다면, 위 기본 필터와 함께 다음 보충 필터도 구독하십시오. 호환성 문제를 보정하기 위한 필터링 규칙을 모아놓고 있습니다.
+Adguard 윈도우, 맥, 크롬 확장 프로그램 베타 버전의 경우, 사용 가능한 필터 목록에 List-KR이 포함되어, 이를 찾아서 활성화하면 됩니다.
+
+ublock (origin)의 경우, 위 기본 필터와 함께 다음 보충 필터도 구독하십시오. 이는 ublock origin에서 지원하지 않는 규칙으로 인해 발생하는 호환성 문제를 보정하기 위해 필요합니다.
 ```
 https://github.com/SlowMemory/List-KR/raw/master/unbreak.txt
 ```
@@ -46,12 +48,19 @@ In the program you would like to use, use the following url to subscribe to or i
 ```
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
+In Adguard Windows, Mac, Chrome browser extension beta (above v2.4), List-KR is included in a list of available filters, so you can activate it without manually adding url above.
+
+To use with ublock (origin), add a following url as well. It is needed to fix filtration errors caused by incompatibility of ublock (origin) with Adguard's syntax.
+```
+https://github.com/SlowMemory/List-KR/raw/master/unbreak.txt
+```
+
 
 #### How to contribute
 Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues][]. When reporting issues, it would be helpful to include the exact url where ads can be found and the description of its location. To suggest a rule to block the object is even better.
 
 #### For IE
-There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would result in unblocked ads rarely (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
+There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would rarely allow some ads to be displayed. (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
 
 [Adguard]: http://adguard.com/?aid=26141
 [Adblock Plus]: https://adblockplus.org/
