@@ -738,7 +738,7 @@ asiatoday.co.kr###headline_ad_wrap
 asiatoday.co.kr###scrolling_banner
 asiatoday.co.kr###scrolling_left_banner
 asiatoday.co.kr###section > .main_popup
-asiatoday.co.kr###section_aside>div[class^="aside_google_"]
+asiatoday.co.kr###section_aside div[class^="aside_google_"]
 asiatoday.co.kr###section_main>div[class^="view_ad_"]
 asiatoday.co.kr##.article_body > DIV[style*="148px"]
 asiatoday.co.kr##.gad_wrap
