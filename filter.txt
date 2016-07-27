@@ -630,6 +630,7 @@
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
+||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>(.|\s)*?<\/ad>//
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
@@ -653,6 +654,7 @@
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+@@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
 ! naver.com
@@ -2063,6 +2065,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||statistics.videofarm.daum.net^
 ||statweb.egloos.com^
 ||sublog.co.kr^
+||tag-log.makeshop.co.kr/*.php^
 ||tagmanager.toast.com/tag^$third-party
 ||tdisk.co.kr/mod_pagespeed_beacon?
 ||trace.sta1.co.kr^
