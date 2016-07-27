@@ -621,7 +621,8 @@
 !------ Url components for multiple domains ---------
 /cdsbData_gal/bannerFile/$image,domain=mybogo.net|zipbogo.net
 /NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
-/skin/images/adblockblock.js$domain=ruinses.tistory.com
+/skin/images/adblockblock.js^$domain=ruinses.tistory.com
+/skin/images/fuckadblock.js^$domain=linsoo.co.kr
 !----------------------------------------------------!
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
@@ -2124,8 +2125,9 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !
 !------ anti-adblock neutralizers -------------------
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
-minitoon.net#%#var fuckAdBlock = false
-ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
+minitoon.net#%#var fuckAdBlock = false;
+linsoo.co.kr#%#var fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
+ruinses.tistory.com#%#var fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
 ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { get: function() { return; } });
 ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
