@@ -1595,7 +1595,10 @@ pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.view_banner
 pann.nate.com##DIV[class="sideiframe"]
-persnacons.tistory.com##DIV.adblock-on
+persnacons.tistory.com###adhere
+persnacons.tistory.com##[class="article clearfix"] > .adsbygoogle
+persnacons.tistory.com##.adblock-on
+persnacons.tistory.com##.bottomAD > .txc-textbox:first-child
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
