@@ -2140,10 +2140,10 @@ ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.k
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.me,blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
-cafe.naver.com#%#Object.defineProperty( document, 'oncontextmenu', { set: function(i) { } }); Object.defineProperty( document, 'onselectstart', { set: function(i) { } }); Object.defineProperty( document, 'ondragstart', { set: function(i) { } });
+cafe.naver.com,tistory.com#%#Object.defineProperty( document, 'oncontextmenu', { set: function(i) { } }); Object.defineProperty( document, 'onselectstart', { set: function(i) { } }); Object.defineProperty( document, 'ondragstart', { set: function(i) { } });
 cafe.naver.com,m.etnews.com,ptware.net,snulife.com#$#* { -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; -moz-user-select: auto!important;}
 comic.naver.com,ptware.net#%#AG_onLoad( function() { (function(w){ var arr = ['contextmenu','copy','cut','paste','mousedown','mouseup','beforeunload','beforeprint','dragstart','selectstart']; for(var i = 0, x; x = arr[i]; i++){ if(w['on' + x])w['on' + x] = null; w.addEventListener(x, function(e){e.stopPropagation()}, true); }; for(var j = 0, f; f = w.frames[j]; j++){try{arguments.callee(f)}catch(e){}}})(window); } );
-snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
+snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !------ Misc ----------------------------------------
 11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
