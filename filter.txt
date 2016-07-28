@@ -149,6 +149,7 @@
 ||adpnut.com^$third-party
 ||adpopcorn.com^$empty
 ||ads-by.yieldselect.com^
+||ads-optima.com^$third-party
 ||ads.adop.kr^
 ||ads.contextweb.com/TagPublish/GetAd.aspx^
 ||ads.gamemeca.com^
@@ -432,6 +433,8 @@
 ||mediamixad.com/ad/liveAd^
 ||mediamixad.com/ad/webad^
 ||mediarichad.com^$third-party
+||mediaus.co.kr/banner/
+||mediaus.co.kr/popupManagerVer2/
 ||mediawise.co.kr/banner/script/
 ||mediaview.co.kr/ad_Viewer.js^
 ||mediaview.co.kr/ad_Viewer2.php^
@@ -1236,6 +1239,7 @@ m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
 m.kukinews.com##.tp_cnt_vw > .bnr
 m.media.daum.net##.bnr_service
+m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
 m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
@@ -1371,8 +1375,7 @@ mediatoday.co.kr###adbnFloating
 mediatoday.co.kr###banner_header_wide
 mediatoday.co.kr##[itemprop="articleBody"] > DIV[style*="float:"]
 mediatoday.co.kr##iframe[src*="/adItem/"]
-mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
-mediaus.co.kr##iframe[src^="/banner/"]
+mediaus.co.kr##iframe[src^="http://adv.realclick.co.kr/ad_headcopy/"]
 metroseoul.co.kr###adop_top_banner
 metroseoul.co.kr##.ad-box
 metroseoul.co.kr##.body-right-box > DIV[style$="eaeaea;"]
@@ -2138,8 +2141,8 @@ minitoon.net#%#var fuckAdBlock = false;
 linsoo.co.kr#%#var fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#var fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { get: function() { return; } });
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,mediaus.co.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { get: function() { return; } });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,mediaus.co.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr$$script[type="text/javascript"][tag-content="scrollTop: position.top-bOffset"]
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.me,blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
