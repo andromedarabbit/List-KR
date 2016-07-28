@@ -331,6 +331,7 @@
 ||idnad.co.kr^$third-party
 ||ihalla.com*/banner/
 ||ihalla.com/ad_banner
+||ikoreadaily.co.kr/popupManagerVer2/
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
@@ -1010,6 +1011,7 @@ ibabynews.com###divContentBanner
 ibabynews.com##div.LeftDiv>div[style="zoom:1; border:1px solid #DDD; height:150px; padding-top:10px;"]
 ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; width:230px; height:55px;"]
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
+ikoreadaily.co.kr##.mask_div[id^="mask_ad"]
 ilbe.com###board_top_dummy
 ilbe.com###layer_left
 ilwar.com##.welcome > .wrap + .ash.w
@@ -1207,6 +1209,7 @@ m.hungryapp.co.kr##.m-main-banner
 m.hungryapp.co.kr##.pop_banner
 m.hungryapp.co.kr##A[onclick^="banner_open("]
 m.ihalla.com###ad_bottom_p
+m.ikoreadaily.co.kr##.body > DIV[style*="height:205px"]
 m.ilyo.co.kr##.adw
 m.ilyo.co.kr##DIV[id^="_2BEON"]
 m.inews24.com###bn
