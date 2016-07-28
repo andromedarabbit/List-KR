@@ -1774,6 +1774,7 @@ tvdaily.mk.co.kr###readtopad
 tvdaily.mk.co.kr##div[class="read"]>table
 tvdaily.mk.co.kr##div[id="joinskmbox"]>table
 tvple.com##.bnp-stream-logo
+tvple.com##.col-info > .bg-google-plus
 tvple.com##.col-playlist > [style$="100px;"]
 tvple.com##.container > .text-center
 tvple.com##.container-fluid > [style$="300px;"]
