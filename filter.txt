@@ -1676,7 +1676,7 @@ snulife.com##DIV[style*="450px;"][style*="120px;"]
 snulife.com###comment > DIV:first-child > DIV.cmt_editor + DIV[style*="border"]
 snulife.com##DIV.rd_ft + DIV[style*="600px"]
 snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
-spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-child
+spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-of-type
 spojoy.com##[class^="banner_ad"]
 spojoy.com##TR:nth-child(2) > TD > TABLE[height="250"][width="970"]
 sports.chosun.com##.snb > .bn
