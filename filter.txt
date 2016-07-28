@@ -666,6 +666,7 @@
 @@||static.post.naver.net/
 !
 @@||api.dable.io/widgets/id/*/users/*id=dablewidget$stealth
+@@||serviceapi.nmv.naver.com/flash/convertIframeTag.nhn^$stealth
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -716,6 +717,7 @@ anewsa.com##.viewAddW
 anewsa.com##DIV[id^="ir_bnr"]
 anewsa.com##DIV[id^="subBanner"]
 anewsa.com##DIV[itemprop="articleBody"] > DIV > DIV[style^="padding:0"]
+animoe.me###hd_pop
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 artsnews.mk.co.kr###IDFloatingNZ99
