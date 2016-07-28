@@ -2136,7 +2136,7 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !
 !------ anti-adblock neutralizers -------------------
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
-hayan.tv#%#if(window.location.pathname.indexOf('/close') > -1){  window.addEventListener("load", function() { document.querySelector('a[href^="javascript"]').click(); } ); }
+hayan.tv#%#if(window.location.pathname.indexOf('/close') > -1){  window.addEventListener("load", function() { setTimeout ( function() { document.querySelector('a[href^="javascript"]').click();}, 300); } ); }
 minitoon.net#%#var fuckAdBlock = false;
 linsoo.co.kr#%#var fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#var fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
