@@ -2108,6 +2108,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
+hayan.tv#$#img[src="close.png"] { display:block!important;}
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.gamemeca.com#$##footer { height:138px!important; }
