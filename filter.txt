@@ -757,6 +757,8 @@ asiatoday.co.kr##iframe[src^="/comm/ads/"]
 asiatoday.co.kr##[class^="bm_ad"]
 asiatoday.co.kr##[class^="main_ad"]
 auction.co.kr##.plan-affiliate
+avsnoop.net###adArea
+avsnoop.net##.banner > a[href^="/_ad.php?"]
 baykoreans.com,baykoreans.net##.boardRead > DIV > .clear
 baykoreans.com,baykoreans.net##.board > .clear
 baykoreans.com,baykoreans.net##.viewDocument > .clear
