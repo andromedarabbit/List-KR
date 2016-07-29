@@ -653,6 +653,7 @@
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
+@@||hayan.tv^
 @@||hayan.tv^$generichide
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
