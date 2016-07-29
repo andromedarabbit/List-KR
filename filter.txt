@@ -1998,6 +1998,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||ctc.news.nate.com/ctc.tiff?
 ||cv.mklaud.com^
 ||dable.io/logs^
+||daum.net*/logcollector/log/map?
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
