@@ -650,6 +650,7 @@
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
+@@||hayan.tv^$generichide
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
 @@||netmarble.net/resources/scripts/adcontroller.js
@@ -1887,7 +1888,6 @@ zum.com##.box_bottom_banner
 ! Section contains list of element hiding exception rules
 !
 auction.co.kr#@#.side-ads
-hayan.tv#@##zergnet
 i.orbi.kr#@#.gridAd
 persnacons.tistory.com#@#.adsbygoogle
 sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2139,7 +2139,6 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !
 !------ anti-adblock neutralizers -------------------
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
-hayan.tv#%#if(window.location.pathname.indexOf('/close') > -1){  window.addEventListener("load", function() { setTimeout ( function() { document.querySelector('a[href^="javascript"]').click();}, 300); } ); }
 minitoon.net#%#var fuckAdBlock = false;
 linsoo.co.kr#%#var fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#var fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
