@@ -2002,6 +2002,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
+||gargoyle.daum.net^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
 ||global.apis.naver.com/etc/pc.nhn^
@@ -2039,6 +2040,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||logger.co.kr^$third-party
 ||loginside.co.kr^$third-party
 ||logtracker.cjmall.com^
+||magpie.daum.net/magpie/
 ||makeshop.co.kr/js/clickmap.js^
 ||makeshop.co.kr/js/mslog.js^
 ||medialog.smartmediarep.com/api/*/tracking^
