@@ -34,6 +34,7 @@
 ||218.153.11.175^
 ||2cpu.co.kr/ad_board.php
 ||38.co.kr/images/banner/
+||58.120.226.147^
 ||a.wyzmob.com^
 ||a*.acrosspf.com^$third-party
 ||a*.toup.net/analysis/analysis.js^
@@ -349,6 +350,7 @@
 ||image.munhwa.com/www/banner/
 ||image.wownet.co.kr/static/banner/*/flash/
 ||image2.inews24.com/ad*
+||imaeil.com/image/banner/
 ||img.appstory.co.kr/@files/human_banner/
 ||img.asiatoday.co.kr/adver/
 ||img.asiatoday.co.kr/images/banner/
@@ -1022,6 +1024,7 @@ ilyo.co.kr##.asideSection > DIV[style*="border-top"]
 ilyo.co.kr##.content-box > tbody > tr > td > DIV[style*="250"]
 ilyo.co.kr##.contentView > DIV[style*="250"][style*="right"]
 ilyo.co.kr##.contentView > ul.otherNews
+imaeil.com##embed[src^="http://www.imaeil.com/image/banner/"]
 inews24.com###joynews_7th
 inews24.com##.main_top_banner
 inews24.com##[itemprop="articleBody"] > DIV[style]
