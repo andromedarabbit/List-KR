@@ -857,6 +857,7 @@ dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
 donga.com##.main_AD02
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
+dt.co.kr###gisa > table[width="260"][height="270"]
 dt.co.kr###side_content>div[style$="0px;"][style^="margin-top:"]
 dt.co.kr##.cntWrap>div[style]:not([class]):not([id])
 economy.hankooki.com###ad2uShop
