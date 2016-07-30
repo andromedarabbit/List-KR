@@ -650,6 +650,7 @@
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
+@@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
