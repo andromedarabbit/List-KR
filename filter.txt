@@ -1068,6 +1068,7 @@ jobplanet.co.kr###prism_displayAD
 joins.com###divArticleAdnetworkBanner
 joins.com###gnb_banner
 joins.com###shoppingnews
+joins.com##.ad
 joins.com##div.article_ad200
 joins.com##div.shopping_area
 joins.com##div[class*="biz_link"]
@@ -1397,8 +1398,8 @@ minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
 mnews.joins.com###innerBigBanner
-mnews.joins.com##div.ad
 mnews.joins.com##div.ad_h100
+mnews.joins.com##.ad_h80
 mnews.jtbc.joins.com###player_bottom_ad
 mnews.jtbc.joins.com##div.ad_highlight_270
 mnews.jtbc.joins.com##div.ad_text_2line
@@ -1489,7 +1490,6 @@ news.joins.com##.ab_adtxt_wrap
 news.joins.com##.shpping_life
 news.joins.com##.advertising
 news.joins.com###criteo_network
-news.joins.com##div.ad
 news.joins.com##div[data-widget-type="Ad"]
 news.jtbc.joins.com##.ad_shoppingnlife_bottom
 news.jtbc.joins.com##div.area2>div.secondary
