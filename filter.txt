@@ -327,6 +327,7 @@
 ||humorbook.co.kr/img/banner/
 ||humorbook.co.kr/plugin/real_*.html^
 ||hungryapp.co.kr/banner/banner_*.php^
+||i.popincdn.com/discovery/$image
 ||ichannela.com/ch/*adpost*
 ||ichannela.com/newad/
 ||idnad.co.kr^$third-party
@@ -1472,8 +1473,8 @@ news.chosun.com##div[class^="art_ad_"]
 news.chosun.com##.art_aisde_ads
 news.chosun.com##iframe[class^="art_ad_aside_if"]
 news.cnbnews.com##div[class^="top_bn"]
-news.donga.com###__news.donga.com_aq2
 news.donga.com##.news_list.relationNews
+news.donga.com##._popIn_recommend_article_ad
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="right_AD_"]
 news.donga.com##div[class^="sub_cont_AD"]
@@ -2004,6 +2005,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||cv.mklaud.com^
 ||dable.io/logs^
 ||daum.net*/logcollector/log/map?
+||discoveryplus.popin.cc/popin_discovery/
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
