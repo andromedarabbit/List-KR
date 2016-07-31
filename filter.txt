@@ -1235,6 +1235,8 @@ m.inven.co.kr###boardPart > [style$="50px;"]
 m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
 m.inven.co.kr###page > [style$="height:50px;"]
+m.inven.co.kr##[class*="mobileAd"]
+m.inven.co.kr##[class*="mobileDaNs"]
 m.inven.co.kr##DIV[data-n="widerplanet"]
 m.iworldtoday.com###articleBody > .body > DIV[style*="float:"]
 m.khan.co.kr###article_bottom_ad
@@ -2004,6 +2006,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||ctc.news.nate.com/ctc.tiff?
 ||cv.mklaud.com^
 ||dable.io/logs^
+||dable.io/services/*/expose?
 ||daum.net*/logcollector/log/map?
 ||discoveryplus.popin.cc/popin_discovery/
 ||diycounter.com/?
