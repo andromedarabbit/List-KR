@@ -1473,6 +1473,9 @@ naver.com###promotion2
 naver.com###veta_branding
 naver.com###veta_top
 netmarble.net###divSkinBanner
+newdaily.co.kr###ndArtBody > DIV[style*="250"][style*="height:"]
+newdaily.co.kr##BODY > DIV[style="width:300px;height:250px;margin:10px auto 10px auto;"]
+newdaily.co.kr##DIV[id^="iw_ad"]
 news.chosun.com##div[class^="art_ad_"]
 news.chosun.com##.art_aisde_ads
 news.chosun.com##iframe[class^="art_ad_aside_if"]
