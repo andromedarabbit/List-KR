@@ -977,6 +977,7 @@ hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
 hankyung.com###ad_ti
 hankyung.com##.main-ad-md
+hankyung.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 hankyung.com##aside.ad-newsview
 hankyung.com##aside.ad-top-wide
 hankyung.com##div.article-ad-rec300
@@ -1477,7 +1478,7 @@ news.chosun.com##.art_aisde_ads
 news.chosun.com##iframe[class^="art_ad_aside_if"]
 news.cnbnews.com##div[class^="top_bn"]
 news.donga.com##.news_list.relationNews
-news.donga.com##._popIn_recommend_article_ad
+news.donga.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="right_AD_"]
 news.donga.com##div[class^="sub_cont_AD"]
@@ -2014,7 +2015,6 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||dmcf1.com^$third-party
 ||estat.zum.com^
 ||gargoyle.daum.net^
-||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
 ||global.apis.naver.com/etc/pc.nhn^
 ||global.apis.naver.com/pt.html^
