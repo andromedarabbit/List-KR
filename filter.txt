@@ -1074,10 +1074,12 @@ joins.com###divArticleAdnetworkBanner
 joins.com###gnb_banner
 joins.com###shoppingnews
 joins.com##.ad
+joins.com##.ad_shoppingnlife_bottom
 joins.com##div.article_ad200
 joins.com##div.shopping_area
 joins.com##div[class*="biz_link"]
 joins.com##div[id*="biz_link"]
+joins.com##iframe[src^="http://adv.imadrep.co.kr"]
 joins.com##span#spnAddLinkArticleContent
 joinsmsn.com###shopping_area
 joinsmsn.com###shoppingnews
@@ -1498,7 +1500,6 @@ news.joins.com##.shpping_life
 news.joins.com##.advertising
 news.joins.com###criteo_network
 news.joins.com##div[data-widget-type="Ad"]
-news.jtbc.joins.com##.ad_shoppingnlife_bottom
 news.jtbc.joins.com##div.area2>div.secondary
 news.jtbc.joins.com##div.articleadnetworkbanner
 news.jtbc.joins.com##div.bottom_area_650
