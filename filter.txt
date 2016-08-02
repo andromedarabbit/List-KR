@@ -545,7 +545,6 @@
 ||redir.adap.tv/redir/mobile/mobile-ad-source.html^
 ||res.heraldm.com/iframe/
 ||res.heraldm.com/js/ad/
-||reviewstar.hankooki.com/ad/
 ||rsc.adpies.com/js/
 ||s.pubmine.com/adj/
 ||s*.algovid.com/player/gpv^
@@ -573,7 +572,6 @@
 ||sports.chosun.com/js2/popup_ad.js^
 ||sports.chosun.com/lphoto3.htm^
 ||sports.chosun.com/news/sports_chosun_hns.js^
-||sports.hankooki.com/ad/
 ||srv.bebi.com/public/js/bebi_v1.js^
 ||st.keywordsconnect.com^
 ||static.instiz.net/images/bg_capture.png
