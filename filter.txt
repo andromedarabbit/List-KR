@@ -563,6 +563,7 @@
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
+||sisainlive.com/script/ad_flow
 ||smart.linkprice.com/*.php?$third-party
 ||smartposting.net/keyword/api/
 ||smrmembers-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
@@ -1681,9 +1682,7 @@ seoul.co.kr##div.atic_cnt>div[style="float:right;margin-bottom:20px;"]
 seoul.co.kr##div.atic_cnt>div[style="margin-bottom:20px;float:right;"]
 seoul.co.kr##div.content>table[style="margin-top:10px;"]
 seoul.co.kr##div.hed_ad
-sisainlive.com###TopBanners2
-sisainlive.com###layerBanner
-sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
+sisainlive.com##[itemprop="articleBody"] > table[width="320"][align="right"]
 skyscanner.co.kr##div.mpu-advert
 smartfile.co.kr##.right_slide
 snulife.com##DIV[id=wm_area]
