@@ -630,6 +630,7 @@
 /NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
 /skin/images/fuckadblock.js^$domain=linsoo.co.kr
+||info/files/_etc/etc/$image,domain=tqzoa.info|twzoa.info
 !----------------------------------------------------!
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
