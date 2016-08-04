@@ -2007,6 +2007,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||counter*.joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
 ||crashua.com^$empty
+||csf.mktagt.com^
 ||ctc.news.nate.com/ctc.tiff?
 ||cv.mklaud.com^
 ||dable.io/logs^
@@ -2069,6 +2070,7 @@ naver.com#%#if (window.addEventListener) { window.addEventListener('DOMContentLo
 ||nocutnews.co.kr/js/logger.htm^
 ||nrd.netmarble.net^
 ||pathfinder.lotte.com^
+||pathfinderebiz.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
 ||pullbbang.com*/js/*nlogger.js^
