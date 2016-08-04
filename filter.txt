@@ -831,9 +831,6 @@ dailian.co.kr###view_page > DIV[style*="10px;"]:nth-child(-n+4)
 daily.hankooki.com###luminous
 daily.hankooki.com###MobileLink
 daily.hankooki.com###Page_NewsSponsor
-daily.hankooki.com##.Right_Promo > [id^="slot0"]:not(#slot01):not(#slot03):not(#slot07):not(#slot09)
-daily.hankooki.com##div[id^="Ad_"]
-daily.hankooki.com##div[id^="adText"]
 dailygame.co.kr###BigDDRightSkyID
 dailygame.co.kr###talklink_chatAd
 dailygame.co.kr##.banner_1024_1024
@@ -868,11 +865,7 @@ economy.hankooki.com###ad690120
 economy.hankooki.com###adIssueTrend
 economy.hankooki.com##div.banner300
 economy.hankooki.com##div.banner580
-economy.hankooki.com##div.wrap_over_72890
 economy.hankooki.com##div[class^="ad_line"]
-economy.hankooki.com##div[id^="ad2LineText"]
-economy.hankooki.com##span#AD_GISA_PHOTO_LINE
-economy.hankooki.com##span#AD_GISA_TEXT_LINE
 econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
 edaily.co.kr##[class^="banner"]
 edaily.co.kr##div[id^="w_read"]
@@ -966,11 +959,19 @@ hani.co.kr##.ad-weather-banner
 hani.co.kr##DIV[class^="text-ad"]
 hani.co.kr##DIV[id^="ad_box"]
 hani.co.kr##DIV[id^="ad_home_"]
+hankooki.com###adIssueTrend
+hankooki.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 hankooki.com##.ad300600
 hankooki.com##.adnum
 hankooki.com##.adsum
 hankooki.com##.adsum2
+hankooki.com##.num_pro:not(.golfhk)
 hankooki.com##.wrap_over_72890
+hankooki.com##[id^="AD_"]
+hankooki.com##[id^="Ad_"]
+hankooki.com##div[class^="ad_wrap"]
+hankooki.com##div[id^="ad2LineText"]
+hankooki.com##div[id^="adText"]
 hankooki.com##iframe[src*="/ad/"]
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[class^="adiframe"]
@@ -1490,13 +1491,6 @@ news.donga.com##div[class^="sub_cont_AD"]
 news.donga.com,sports.donga.com##[id^="view_body_middle_iframe"]
 news.donga.com,sports.donga.com##div[class^="aside_AD"]
 news.donga.com,sports.donga.com##div[id^="left_AD_"]
-news.hankooki.com###DrBox
-news.hankooki.com###SponsorLink
-news.hankooki.com###TodayPopInfo
-news.hankooki.com###bnn_26080
-news.hankooki.com###keyword_link
-news.hankooki.com##div[id^="Ad"]
-news.hankooki.com##div[id^="adText"]
 news.joins.com###articeltopbanner
 news.joins.com##.ab_adtxt_wrap
 news.joins.com##.shpping_life
@@ -1703,14 +1697,10 @@ sports.donga.com##div.top_sport_AD
 sports.donga.com##div.ttalk_ad_list
 sports.donga.com##div[class^="ad"]
 sports.donga.com##div[class^="subCont_AD"]
-sports.hankooki.com###AD_GISA_PHOTO_LINE
-sports.hankooki.com###adIssueTrend
 sports.hankooki.com###contents > DIV[style] > DIV[style*="600px"]
 sports.hankooki.com###listLifeSponsor
 sports.hankooki.com###SponsorLink
 sports.hankooki.com##.lifebanner > .w690 > DIV:not(:last-child)
-sports.hankooki.com##.num_pro:not(.golfhk)
-sports.hankooki.com##[id^="ad2LineText"]
 sports.hankooki.com##DIV[style*="695"] > h4[style]:not([class])
 sports.hankooki.com##DIV[style*="695"] > .num3_1
 sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
