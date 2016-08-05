@@ -92,7 +92,7 @@
 ||ad.sponsorad.co.kr^$third-party
 ||ad.tf.co.kr:8080/js.kti/
 ||ad.touchwise.co.kr^
-||ad.tpmn.co.kr/adReq*.tpmn^
+||ad.tpmn.co.kr/*.tpmn^
 ||ad.tving.com^
 ||ad.tvreport.co.kr^
 ||ad.wo.to^
