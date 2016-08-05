@@ -1732,11 +1732,12 @@ star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###divpop
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###s_word>div.section_ol>ol>li>center
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:first-of-type>td:nth-of-type(2)>table>tbody>tr>td>table>tbody>tr>td.dp
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:last-of-type>td:first-of-type>table:first-of-type>tbody>tr:last-of-type
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##td#mw_basic>center
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##td#mw_basic>table:nth-of-type(2)>tbody>tr:last-of-type>td>table>tbody>tr>td:first-of-type
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > center
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.section_ol > ol > li > center > a > img[src^="http://img.imgtong.com"]
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.top_bg + td.dp
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##tr:last-of-type > td[align="center"] > a > img[src^="http://img.imgtong.com"]
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
