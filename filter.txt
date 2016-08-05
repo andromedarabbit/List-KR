@@ -897,6 +897,7 @@ etnews.com##div.left_ad_div
 etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
+etobang.co.kr,etorrent.co.kr##td#mw_basic > table > tbody > tr > td[align="center"] > a[href^="http://"][target="_blank"]
 etoday.co.kr###ad_site_top
 etoday.co.kr##div.news_head>div[style="padding-bottom:25px;margin-left: -12px;border-bottom: 1px solid #ddd;"]
 etoday.co.kr##div.news_head>div[style="position:relative;top:-60px;right:25px;z-index:10;"]
