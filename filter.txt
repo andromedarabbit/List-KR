@@ -2019,6 +2019,7 @@ naver.com#%#AG_onLoad(function() { window.clickcr = function() { }; if ( window.
 ||joins.com/common/SMRMediaLog.aspx?
 ||js.nx.com/*/da/playlog.*min.js
 ||khan.co.kr/gnb/template/_khan_logger.js^
+||kinsight-event.kakao.com^$empty
 ||krtarget.co.kr/tracker/
 ||lezhin-logs.appspot.com^
 ||linkback.contentsfeed.com^
