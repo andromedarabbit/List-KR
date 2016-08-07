@@ -613,6 +613,7 @@
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||viewsnnews.com/image/advert/
+||vop.co.kr/*/realclick_mobilefloating.js^
 ||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
 ! combining ||wikitree.co.kr/_tpl/default/_images/ad/, ||wikitree.co.kr/_tpl/default/ad/, ||wikitree.co.kr/ad/
@@ -1816,19 +1817,9 @@ view.heraldm.com##div[id^="viewright_midad"]
 view.heraldm.com##div[id^="viewright_topad"]
 view.heraldm.com##iframe[id^="iframesrc_viewright_topad"]
 viewsnnews.com##aside.ads
-vop.co.kr###articleBody>div[style="text-align:center; margin:0px 0px 0px 0px"]
-vop.co.kr###articleBody>div[style="text-align:center; margin:0px 0px 20px 0px"]
-vop.co.kr###left_scroll
-vop.co.kr###main>div[style="position:absolute; z-index:100;top:1170px;left:-140px;width:120px;"]
-vop.co.kr###main>div[style="position:absolute; z-index:100;top:160px;left:990px;width:120px;"]
-vop.co.kr###main>div[style="position:absolute; z-index:100;top:1790px;left:-140px;width:120px;"]
-vop.co.kr###main>div[style="position:absolute; z-index:100;top:380px;left:990px;width:160px;"]
-vop.co.kr###main>div[style="position:absolute; z-index:100;top:550px;left:-180px;width:160px;"]
-vop.co.kr###right_scroll
-vop.co.kr##div.adpage-top-ad
-vop.co.kr##div.aside-ad-top
-vop.co.kr##div.bottom-ad
-vop.co.kr##div.listAD
+vop.co.kr##.ad-middle
+vop.co.kr##.articlein_ad
+vop.co.kr##[class*="ad-mobile"]
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
