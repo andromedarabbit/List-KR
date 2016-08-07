@@ -805,13 +805,13 @@ champstudy.co.kr,champstudy.com###lineBannerBottom
 champstudy.co.kr,champstudy.com###nav li > a.banner
 champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##.layer_pop
 champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##[class^="top_line_ban_"]
-clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 chosun.com##.sec_sub > .sec_headline_adbox
 cine21.com##.banner_footer
 cine21.com##.banner_iframe_wrap
 cine21.com##.banner_top
 cine21.com##.main_content_banner
 cine21.com##DIV[class^="banner_han_"]
+clien.net###Recent>div.RecentWrap[style*="margin:"]
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
