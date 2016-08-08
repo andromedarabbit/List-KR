@@ -231,6 +231,7 @@
 ||castbox.shopping.naver.com/index.nhn^
 ||cdn.pandora.tv/_adv_img/
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
+||christiantoday.co.kr/data/banner/$image
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
@@ -361,6 +362,7 @@
 ||img.focus.kr/mnt/webdata/banner/$image
 ||img.ichannela.com/script/ad/*.js
 ||img.ichannela.com/script/playAd.js
+||img.mobon.net/js/$third-party
 ||img.newspim.com/banner/$image
 ||img.ppomppu.co.kr/zboard/*/banner^
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
@@ -828,6 +830,12 @@ consumernews.co.kr##span.brn
 coolenjoy.net,cooln.kr,cooln.net###sidebar > .tab
 coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
 coolenjoy.net,cooln.kr,cooln.net##[role="banner"] > br:nth-child(-n+6)
+christiantoday.co.kr###div_laypopup
+christiantoday.co.kr##.bk-body > div[style^="padding:"]:first-of-type
+christiantoday.co.kr##.bk-contents > DIV[style="margin-top:10px;"]
+christiantoday.co.kr##.unit-banner
+christiantoday.co.kr##BODY > BR:nth-last-of-type(-n+3)
+christiantoday.co.kr##iframe[src^="//adtg.widerplanet.com/delivery"]
 dailian.co.kr###baner_1
 dailian.co.kr###view_page > DIV[style*="10px;"]:nth-child(-n+4)
 daily.hankooki.com###luminous
