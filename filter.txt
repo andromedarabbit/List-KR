@@ -1981,6 +1981,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
 ||analytics-event.kakao.com^$empty
+||api-log.wemakeprice.com/*.php?
 ||asiae.co.kr/js/logging*.js^
 ||asiatoday.co.kr/comm/_counter_check*.php^
 ||asiatoday.co.kr/js/atoo_abc.js^
