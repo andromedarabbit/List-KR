@@ -658,6 +658,7 @@
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
+@@||hayan.tv/a/$stealth
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||img.ichannela.com/images/ad/banner/$image
 @@||netmarble.net/resources/scripts/adcontroller.js
@@ -2117,6 +2118,7 @@ anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hayan.tv#$##screen { overflow: visible!important; }
+hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.gamemeca.com#$##footer { height:138px!important; }
