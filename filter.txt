@@ -1959,9 +1959,8 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 /wloso.html?wlo_so=
 /wlo/Logging^
 /wlo/UserLogging^
-||11st.co.kr/a.st?
-||11st.co.kr/track.st?
 ||112.175.76.*/count/get_count*.php^
+||11st.co.kr/*.st?
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
@@ -2172,7 +2171,6 @@ comic.naver.com,ptware.net#%#AG_onLoad( function() { (function(w){ var arr = ['c
 snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !------ Misc ----------------------------------------
-11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
