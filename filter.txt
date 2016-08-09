@@ -887,9 +887,10 @@ ent.joseilbo.com##div.read_banner
 ent.joseilbo.com##div[class^="adya_shopping"]
 ent.joseilbo.com##div[class^="banner_area"]
 ent.joseilbo.com##li.rank_banner
+etnews.com###articleBody > .tableWrap > DIV[style^="text-align"] > a[href^="http://www.thinkpool.com"]
 etnews.com###articleBody > DIV[style$="20px;"]
-etnews.com###articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
-etnews.com###articleBody>div[style="text-align:center"]
+etnews.com###articleBody > div[style="margin-top:15px;margin-bottom:5px;"]
+etnews.com###articleBody > div[style="text-align:center"]
 etnews.com###banner250_02
 etnews.com###bannerTopmostBox
 etnews.com###promotionBanner
