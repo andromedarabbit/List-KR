@@ -1835,6 +1835,8 @@ web.humoruniv.com###ad_700
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
+windowsforum.kr##.top_banner
+windowsforum.kr##block.adsense
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wowtv.co.kr###absBannerRight
 wowtv.co.kr###article_cont>div[style="clear:both; float:left; width:650px; margin:30px auto 0"]
@@ -2146,6 +2148,7 @@ sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
+windowsforum.kr#$##content > .content { margin-top: 10px!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
 www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
