@@ -537,26 +537,17 @@
 ||pressmarket.co.kr/ShareMaxBanner.php
 ||prism.pandora.tv^
 ||pub.adpnut.com^
-||pubads.g.doubleclick.net^
 ||qcma.qrobo.com/QCMA/common/
 ||quasarzone.co.kr/data/file/qsz_banner/$image
 ||ra.ntwoad.co.kr^
-||rcm.amazon.com/e/cm^
-||rcm-na.amazon-adsystem.com/e/cm^
 ||realmobile.net/myadcom
-||redir.adap.tv/redir/javascript/ad_source.js^
-||redir.adap.tv/redir/mobile/mobile-ad-source.html^
-||res.heraldm.com/iframe/
 ||res.heraldm.com/js/ad/
 ||rsc.adpies.com/js/
-||s.pubmine.com/adj/
-||s*.algovid.com/player/gpv^
 ||sb.trustmedia.co.kr^
 ||sbtrustmedia.com^$third-party
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/
-||scripts.chitika.net^
 ||search.n2s.co.kr/*_ad*.php^
 ||segye.com/Articles/Components/Ad/
 ||semanticrep.com^$third-party
@@ -576,7 +567,6 @@
 ||sports.chosun.com/js2/popup_ad.js^
 ||sports.chosun.com/lphoto3.htm^
 ||sports.chosun.com/news/sports_chosun_hns.js^
-||srv.bebi.com/public/js/bebi_v1.js^
 ||st.keywordsconnect.com^
 ||static.instiz.net/images/bg_capture.png
 ||static.joins.com/isplus/ui/ad/
@@ -619,7 +609,6 @@
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
-! combining ||wikitree.co.kr/_tpl/default/_images/ad/, ||wikitree.co.kr/_tpl/default/ad/, ||wikitree.co.kr/ad/
 ||wikitree.co.kr*/ad/
 ||winktv.co.kr/banner/$image
 ||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
