@@ -304,6 +304,7 @@
 ||fusencead.com^$third-party
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/dc_ad_*_JH.php^
+||gamefocus.co.kr/bncode2/banner_
 ||gametoc.hankyung.com/banner/*rbanner
 ||gesomoon.com/*/ad_*.html^
 ||get.keywordsconnect.com^
@@ -935,6 +936,10 @@ gamechosun.co.kr###leftBoxBanner
 gamechosun.co.kr###over_articleB
 gamechosun.co.kr###topLayoutRight
 gamechosun.co.kr##div.banner_wrap
+gamefocus.co.kr###Layer1
+gamefocus.co.kr###Layer_bnright
+gamefocus.co.kr##DIV[style*="; height=80; border-style:solid; border-width:1px; border-color:#"]
+gamefocus.co.kr##DIV[style^="BORDER-TOP: "][style*=" 1px solid; WIDTH: "][style*="1px solid; HEIGHT: 80px; BORDER-RIGHT: "]
 gamemeca.com##.ads_title_bottom
 gamemeca.com##.aside > .pb32
 gamemeca.com##.blogList > ul > li[class$="Event"]
