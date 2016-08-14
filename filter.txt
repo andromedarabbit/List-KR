@@ -1639,6 +1639,7 @@ playwares.com##.two-column-right > DIV[style^="height:"]
 playwares.com##a[href*="../api/redirectAd.php?document_srl="]
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###search_bbsList + .section
+ppomppu.co.kr###search_bbsList + [style*="padding: 15px 0"]
 ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
