@@ -1915,6 +1915,7 @@ naver.com#%#AG_onLoad(function() { window.clickcr = function() { }; if ( window.
 search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function() { }; });
 !------ naver.com --------------
 ||ace.naver.com/m^$empty
+||ec.naver.com/ec^
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
