@@ -379,6 +379,7 @@
 ||inews24.com/tools/adpresso/
 ||ingfac.co.kr^$third-party
 ||ingrtg.com^$third-party
+||interpark.com/gate/NBPAdPost.jsp^
 ||interich.com^$third-party
 ||interworksmedia.co.kr^$third-party
 ||inven.co.kr/ad/
@@ -2014,6 +2015,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||discoveryplus.popin.cc/popin_discovery/
 ||diycounter.com/?
 ||dmcf1.com^$third-party
+||es.interpark.com/elog^
 ||estat.zum.com^
 ||gargoyle.daum.net^
 ||geolook.tvchosun.com:8888
