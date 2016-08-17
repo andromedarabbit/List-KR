@@ -2096,6 +2096,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||seoul.co.kr/weblog^
 ||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
 ||setting.adzcore.com^$empty
+||shinhan.com^*n_click_logging.shb?
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
