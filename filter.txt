@@ -2046,6 +2046,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||khan.co.kr/gnb/template/_khan_logger.js^
 ||kinsight-event.kakao.com^$empty
 ||krtarget.co.kr/tracker/
+||lcs.modoo.at^
 ||lezhin-logs.appspot.com^
 ||linkback.contentsfeed.com^
 ||livelog.co.kr/js/*.php?
