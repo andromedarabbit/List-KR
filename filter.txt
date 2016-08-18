@@ -532,6 +532,7 @@
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
 ||op.neoad.co.kr/adsearch*
+||osmanias.com/img/banner/$image
 ||outbanner.hu.co.kr/@files/human_banner/
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
@@ -1621,6 +1622,10 @@ osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
 osen.mt.co.kr##div.advertising
 osen.mt.co.kr##div.detailView>ul.articleList
 osen.mt.co.kr##div.mask_div
+osmanias.com###mw_good + DIV[style^="margin:"]
+osmanias.com##.mw_basic_view_content > [id^="view_"] > [style*="box-shadow"]
+osmanias.com##.sidebar > .sidebar-nav
+osmanias.com##.sidebar > .sidebar-nav + * + .block
 pandora.tv##.contents > a.banner > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
 pandora.tv##.sh_top_contact
 pandora.tv##.top100
