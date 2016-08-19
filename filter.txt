@@ -802,6 +802,7 @@ blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
 boannews.com###right_top_banner
+cctoday.co.kr###content > .lo_1.drag_sync2
 champstudy.co.kr,champstudy.com###lineBannerBottom
 champstudy.co.kr,champstudy.com###nav li > a.banner
 champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##.layer_pop
@@ -2181,7 +2182,7 @@ minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,ilyo.co.kr,jjan.kr,mediaus.co.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
