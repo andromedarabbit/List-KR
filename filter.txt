@@ -1238,6 +1238,7 @@ m.hungryapp.co.kr###footer + .fixed-top
 m.hungryapp.co.kr##.m-main-banner
 m.hungryapp.co.kr##.pop_banner
 m.hungryapp.co.kr##A[onclick^="banner_open("]
+m.hungryapp.co.kr##body > .blockUI
 m.ihalla.com###ad_bottom_p
 m.ikoreadaily.co.kr##.body > DIV[style*="height:205px"]
 m.ilyo.co.kr##.adw
