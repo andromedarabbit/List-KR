@@ -2034,6 +2034,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||global.apis.naver.com/pt.html^
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
+||hanlog.co.kr^$third-party
 ||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
 ||hitweb*.chosun.com^
