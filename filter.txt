@@ -665,8 +665,9 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
-@@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+@@||sdjournal.kr/bannerManager/upload/6.dat
+@@||searchad.naver.com$generichide,genericblock
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
