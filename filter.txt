@@ -614,6 +614,7 @@
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
+||web.humoruniv.com/banner/
 ||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
 ||wikitree.co.kr*/ad/
@@ -1840,6 +1841,7 @@ viewsnnews.com##aside.ads
 vop.co.kr##.ad-middle
 vop.co.kr##.articlein_ad
 vop.co.kr##[class*="ad-mobile"]
+web.humoruniv.com###ad_240
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
