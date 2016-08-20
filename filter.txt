@@ -375,6 +375,7 @@
 ||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||imp.mklaud.com/ad^
+||imp.valuepotion.com/mimp^
 ||inews24.com/common/js/ad_*.js
 ||inews24.com/inc/right_file_banner_*.php
 ||inews24.com/tools/adpresso/
@@ -1363,6 +1364,7 @@ m.theappl.com###mw_mobile > DIV[style*="background-color"]
 m.theappl.com##.google_ad_top
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
+m.webtoon.daum.net##[id^="valuepotion-ad-iframe-"]
 m.wikitree.co.kr###contentMidBanner
 m.wikitree.co.kr##.ad50
 m.wikitree.co.kr##.ad60
@@ -1998,6 +2000,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
+||analytics.valuepotion.com^
 ||analytics-event.kakao.com^$empty
 ||api-log.wemakeprice.com/*.php?
 ||asiae.co.kr/js/logging*.js^
