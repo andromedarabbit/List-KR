@@ -1401,12 +1401,14 @@ mbiz.heraldcorp.com##SPAN[id^="mfarm"]
 mbiz.heraldcorp.com##SPAN[id^="lumiText"]
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
+media.daum.net###EXTENSIBLE_WING_WRAP
 media.daum.net###banner250
 media.daum.net###daum-ad-root
 media.daum.net###daum-ad-root-ifrm
 media.daum.net###daumAd
-media.daum.net###mAside > .bnr_ad
-media.daum.net###EXTENSIBLE_WING_WRAP
+media.daum.net###mAside > .wing_shopping
+media.daum.net###mAside > [class^="wing_bnr"]
+media.daum.net##.cont_view > .bnr_social
 media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
 mediatoday.co.kr###banner_header_wide
@@ -2154,6 +2156,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
+media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
 news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
