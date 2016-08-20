@@ -434,7 +434,6 @@
 ||m.inews24.com/bnr/$image
 ||m.joyninfo.com/yna^$domain=yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
-||m.kukinews.com/js/ems.js
 ||m.pandora.tv/?c=api&m=video_url&ch_userid=*&prgid=
 ||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
@@ -1151,9 +1150,6 @@ koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="430"
 koreapas.com##TABLE[background$="grayy.gif"]
 kr.celeb.yahoo.com###leftClickButton
 kr.celeb.yahoo.com###rightClickButton
-kukinews.com##.ad_top_980
-kukinews.com##.bnr_420_60
-kukinews.com##div[class^="bnr_290_"]
 kyeongin.com##.bm_view > .view_left > [class^="viewBottom"]
 kyeongin.com##.main_cont_ad
 kyeongin.com##.menu_box > [class^="menu_ad"]
@@ -1275,8 +1271,7 @@ m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
 m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
-m.kukinews.com##.dw_cnt_vw > DIV[style*="background"]
-m.kukinews.com##.tp_cnt_vw > .bnr
+m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
 m.media.daum.net##.bnr_service
 m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
 m.mk.co.kr##DIV[id^="mainAdSlot"]
@@ -1535,14 +1530,6 @@ news.kmib.co.kr##.NwsCon > DIV[style*="700"][style*="150"]
 news.kmib.co.kr##.NwsCon > DIV[style*="700"][style*="180"]
 news.kmib.co.kr##.side_ifm_area > DIV[style*="height:"]:not([id])
 news.kmib.co.kr##.side_ifm_area>div.bnrct
-news.kukinews.com###ad01_250_250
-news.kukinews.com###lft_top_adplus
-news.kukinews.com###_article > a[href^="http://vod.kukinews.com/"]
-news.kukinews.com##.cnt_lft > DIV[style*="700"][style*="height"]
-news.kukinews.com##div[class^="banner_1024_1024_"] 
-news.kukinews.com##div.bnr_370_60
-news.kukinews.com##div.vw_ad_700
-news.maxmovie.com##ul.news_right_ad
 news.mk.co.kr###viewShopDiv
 news.mk.co.kr##div.ad_viewrolling
 news.mk.co.kr##div.container_left>table>tbody>tr>td>table[style="margin-bottom:30px"]
@@ -2159,13 +2146,11 @@ hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.gamemeca.com#$##footer { height:138px!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
-m.kukinews.com#$#BODY { margin-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
 media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
 news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
-news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
@@ -2192,7 +2177,7 @@ minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,news.kukinews.com,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
