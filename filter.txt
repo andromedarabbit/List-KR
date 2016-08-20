@@ -1445,6 +1445,7 @@ mnews.sbs.co.kr##div.efoot_bnr_ad
 mobile.newsis.com###article > DIV[style="padding:30px 0 0 12px;"]
 mobile.newsis.com##.bxcn[style^="padding:"]
 mosen.mt.co.kr##div[id^="adList"]
+movie.daum.net##.bnr_topside
 mpop.heraldcorp.com##.story > [id^="ad4989"]
 mpop.heraldcorp.com##.story > [id^="newslist"]
 mpop.heraldcorp.com##.story > .shopping
