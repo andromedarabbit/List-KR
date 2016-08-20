@@ -855,6 +855,7 @@ daum.net###adTimeSponsor
 daum.net##.cont_trendshop
 daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
+ddanzi.com##.adblock-on
 ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
 dealbada.com###aside > .dealtabs + DIV[style*="border-bottom"]
