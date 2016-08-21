@@ -173,6 +173,7 @@
 ||adv.mediakeep.co.kr^
 ||adv.segye.com:8080^
 ||adver.clickmon.co.kr^
+||adverweb.cjenm.com^
 ||advod.smartmediarep.com^$third-party
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
 ||adwise.co.kr^$third-party
@@ -1432,6 +1433,7 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
+mnet.com##.rnb_ad
 mnews.joins.com###innerBigBanner
 mnews.joins.com##div.ad_h100
 mnews.joins.com##.ad_h80
