@@ -865,6 +865,7 @@ dealbada.com###container > CENTER > a[href="http://www.dealbada.com/bbs/board_lo
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
+donga.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 donga.com##.main_AD02
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
 dt.co.kr###gisa > table[width="260"][height="270"]
@@ -1509,7 +1510,6 @@ news.chosun.com##.art_aisde_ads
 news.chosun.com##iframe[class^="art_ad_aside_if"]
 news.cnbnews.com##div[class^="top_bn"]
 news.donga.com##.news_list.relationNews
-news.donga.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="right_AD_"]
 news.donga.com##div[class^="sub_cont_AD"]
@@ -2197,3 +2197,4 @@ snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getEleme
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
+@@||mlbpark.donga.com^$generichide
