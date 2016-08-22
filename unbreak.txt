@@ -9,7 +9,6 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
-@@||ad.afreecatv.com/RealMedia/ads/adstream_sx.ads/$domain=play.afreecatv.com
 @@||tvcast.naver.com/resources/*/clickcr_*.js^
 @@||wcs.naver.net/wcslog.js^
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
