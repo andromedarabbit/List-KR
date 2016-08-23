@@ -615,6 +615,7 @@
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
+||vrn.co.kr/banner/rollbanner_
 ||web.humoruniv.com/banner/
 ||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
