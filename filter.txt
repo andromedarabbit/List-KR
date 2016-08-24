@@ -19,7 +19,7 @@
 !----------------------------------------------------!
 /about_*_shopbox.
 !/mobitree_*.js^ - ||js.hnscom.com/etc/hns/mobitree_*.js^ ||mtn.co.kr/news/mobitree_*.js
-/nad/media/
+/nad/media/*
 /naon_*.html^
 /naon_*.jsp^
 /NetInsight/*$match-case
@@ -629,7 +629,7 @@
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 !------ Url components for multiple domains ---------
-/cdsbData_gal/bannerFile/$image,domain=mybogo.net|zipbogo.net
+/cdsbData_gal/bannerFile/*$image,domain=mybogo.net|zipbogo.net
 /NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
 /skin/images/fuckadblock.js^$domain=linsoo.co.kr
