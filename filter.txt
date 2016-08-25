@@ -2133,6 +2133,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||trace.sta1.co.kr^
 ||track.linkprice.com/lpshow.php?
 ||track.maillink.co.kr^
+||tracker.platoon.nhncorp.com^$empty
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
 ||tracking.reeket.com^
