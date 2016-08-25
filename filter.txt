@@ -67,8 +67,7 @@
 ||ad.ilikesponsorad.co.kr^
 ||ad.ilikesponsorad.com^
 ||ad.incruit.com^
-||ad.khan.co.kr/artCnt/
-||ad.khan.co.kr:8080/imp/*_imp.php^ 
+||ad.khan.co.kr^
 ||ad.kmib.co.kr^
 ||ad.koreadaily.com^
 ||ad.linkprice.com/stlink.php^
@@ -798,6 +797,8 @@ biz.heraldcorp.com,news.heraldcorp.com##div.nnews_bottomadlist_area
 biz.heraldcorp.com,news.heraldcorp.com##div.right_side_section>div[class="clear pt_15"]
 biz.heraldcorp.com,news.heraldcorp.com##div.subtop_webzinestyle_hd
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
+biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
+biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 bizn.khan.co.kr##div.topright_bn
 blog.daum.net###blogTopAd
 blog.naver.com##._adPost
@@ -1737,8 +1738,6 @@ sports.hankooki.com###SponsorLink
 sports.hankooki.com##.lifebanner > .w690 > DIV:not(:last-child)
 sports.hankooki.com##DIV[style*="695"] > h4[style]:not([class])
 sports.hankooki.com##DIV[style*="695"] > .num3_1
-sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
-sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr/"]
 sports.mk.co.kr##div[id^="slidemenu"]
 sports.mk.co.kr##iframe[id^="sptb_"]
@@ -1921,9 +1920,9 @@ zum.com##.box_bottom_banner
 ! Section contains list of element hiding exception rules
 !
 auction.co.kr#@#.side-ads
+biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 i.orbi.kr#@#.gridAd
 persnacons.tistory.com#@#.adsbygoogle
-sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -2158,6 +2157,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
+biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hayan.tv#$##screen { overflow: visible!important; }
@@ -2174,7 +2174,6 @@ news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
-sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
