@@ -1437,6 +1437,10 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
+mmzone.co.kr###horiz_text_ad_block_blackbg
+mmzone.co.kr##[id$="_ban3_block"]
+mmzone.co.kr##[id$="_spon_block"]
+mmzone.co.kr##[id^="mmz_support_"]
 mnet.com##.rnb_ad
 mnews.joins.com###innerBigBanner
 mnews.joins.com##div.ad_h100
@@ -2170,6 +2174,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
 media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
+mmzone.co.kr#$##horiz_ad_block { visibility: hidden!important; height:0px!important; padding: 0px!important;}
 news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
