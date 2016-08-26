@@ -1505,6 +1505,7 @@ nate.com##.sidebar_banner
 nate.com##iframe#ifrShopping
 naver.com###promotion1
 naver.com###promotion2
+naver.com###promotion6
 naver.com###veta_branding
 naver.com###veta_top
 netmarble.net###divSkinBanner
