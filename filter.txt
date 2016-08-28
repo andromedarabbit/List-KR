@@ -1398,6 +1398,7 @@ mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com###fbanner
 mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
 manian.com##.top_banner
+map.naver.com##.sr_banner
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
@@ -1954,7 +1955,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
 !------ naver.com search -------
-||er.search.naver.com^
+||er.*.naver.com/er^
 ||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||imagesearch.naver.com/pv.html?rnd=
 ||mac.search.naver.com^
