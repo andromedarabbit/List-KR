@@ -2233,7 +2233,7 @@ snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !------ Misc ----------------------------------------
 auth.spcnetworks.kr#%#Object.defineProperty(window, 'skipAd', { get: function() { return 1; } });
-gall.dcinside.com#%#if(-1!=window.location.href.indexOf("/board/lists")){var a=document.createElement("style");a.type="text/css";a.styleSheet?a.styleSheet.cssText="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 177px 0 0 0!important; }":a.innerHTML="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 190px 0 0 0!important; }";document.getElementsByTagName("head")[0].appendChild(a)};
+gall.dcinside.com#%#if(-1!=window.location.href.indexOf("/board/lists")){var a=document.createElement("style");a.type="text/css";a.styleSheet?a.styleSheet.cssText="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 197px 0 0 0!important; }":a.innerHTML="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 197px 0 0 0!important; }";document.getElementsByTagName("head")[0].appendChild(a)};
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
