@@ -683,6 +683,7 @@
 @@||static.post.naver.net/
 !
 @@||api.dable.io/widgets/id/*/users/*id=dablewidget$stealth
+@@||assets.coupangcdn.com/$script,stealth,domain=coupang.com
 @@||serviceapi.nmv.naver.com/flash/convertIframeTag.nhn^$stealth
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
