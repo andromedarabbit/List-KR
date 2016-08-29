@@ -84,6 +84,7 @@
 ||ad.openmatch.co.kr^
 ||ad.osen.co.kr^$third-party
 ||ad.owra.net^$third-party
+||ad.oyez.co.kr^
 ||ad.pickple.com/widget/
 ||ad.pickple.net/widget/show/
 ||ad.priel.co.kr^$third-party
@@ -132,6 +133,7 @@
 ||adinc.co.kr^
 ||adinsight.co.kr^$third-party
 ||adixs-ad.co.kr^$third-party
+||adixs.co.kr^
 ||adixs.net^$third-party
 ||adlibr.com^$third-party
 ||adlike.co.kr^$third-party
@@ -1471,6 +1473,7 @@ mstoo.asiae.co.kr##.btm_banner
 mt.co.kr###art_ad_top1
 mt.co.kr###news_banner1
 mt.co.kr###news_banner2
+mt.co.kr##.mask_div[id^="mask_ad_"]
 mt.co.kr##div.ad
 mt.co.kr##ul.ad.only_640un
 mtn.co.kr###contentsBody > #banner230
@@ -1644,7 +1647,6 @@ osen.mt.co.kr##.detailBox > DIV[style*="height"]
 osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
 osen.mt.co.kr##div.advertising
 osen.mt.co.kr##div.detailView>ul.articleList
-osen.mt.co.kr##div.mask_div
 osmanias.com###mw_good + DIV[style^="margin:"]
 osmanias.com##.mw_basic_view_content > [id^="view_"] > [style*="box-shadow"]
 osmanias.com##.sidebar > .sidebar-nav
@@ -1733,6 +1735,14 @@ snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
 spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-of-type
 spojoy.com##[class^="banner_ad"]
 spojoy.com##TR:nth-child(2) > TD > TABLE[height="250"][width="970"]
+sportalkorea.mt.co.kr###CmAdContent > p.review_txt
+sportalkorea.mt.co.kr###mk_ad
+sportalkorea.mt.co.kr###reView_ad
+sportalkorea.mt.co.kr###sideBox > DIV[style^="height:"]:first-of-type
+sportalkorea.mt.co.kr##.ad_gigigi
+sportalkorea.mt.co.kr##[itemprop="articleBody"] + .div_15
+sportalkorea.mt.co.kr##[itemprop="articleBody"] ~ DIV[style^="height:"][style*="20px"]
+sportalkorea.mt.co.kr##p.box240_line
 sports.chosun.com##.snb > .bn
 sports.chosun.com##DIV[class^="ad_box"]
 sports.chosun.com##div.thum8_box
@@ -2208,7 +2218,7 @@ minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,newsis.com,nextdaily.co.kr,osen.mt.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
