@@ -236,6 +236,7 @@
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
 ||christiantoday.co.kr/data/banner/$image
 ||cjmooter.xcache.kinxcdn.com/script/
+||clickmon.co.kr/pop/*.php?$third-party
 ||clkads.com^
 ||cm*.joins.com^
 ||cm.keywordsconnect.com^
@@ -468,6 +469,7 @@
 ||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
 ||mt.co.kr/ad/
+||mtag.mman.kr/get_ad.mezzo/$third-party
 ||mtag.mman.kr/js.mezzo/$third-party
 ||mtag.mman.kr/movie.mezzo/?i_request_id=
 ||mtn.co.kr/img/m/banner/m_adbanner_$image
@@ -583,7 +585,7 @@
 ||sunnyworks.co.kr/data/SW*.html^
 ||swf.adget.co.kr/ads/
 ||tab.clickmon.co.kr/ad_img/
-*tab*.clickmon.co.kr/pop/
+!*tab*.clickmon.co.kr/pop/
 ||tag-match.co.kr^$third-party
 ||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
@@ -2203,6 +2205,7 @@ windowsforum.kr#$##content > .content { margin-top: 10px!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
 www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
 www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
+www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 !----------------------------------------------------!
@@ -2229,6 +2232,7 @@ snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !------ Misc ----------------------------------------
 auth.spcnetworks.kr#%#Object.defineProperty(window, 'skipAd', { get: function() { return 1; } });
+gall.dcinside.com#%#if(-1!=window.location.href.indexOf("/board/lists")){var a=document.createElement("style");a.type="text/css";a.styleSheet?a.styleSheet.cssText="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 177px 0 0 0!important; }":a.innerHTML="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 190px 0 0 0!important; }";document.getElementsByTagName("head")[0].appendChild(a)};
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
