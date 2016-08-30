@@ -9,6 +9,7 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
+@@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
 @@||tvcast.naver.com/resources/*/clickcr_*.js^
 @@||wcs.naver.net/wcslog.js^
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
