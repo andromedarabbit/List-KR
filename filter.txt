@@ -291,6 +291,7 @@
 ||ex.mdtoday.co.kr^
 ||ext.apbox.nbp-corp.com/*/adunit^
 ||exttag.about.co.kr^$third-party
+||fancug.com/img/*_banner$image
 ||feeldmc.com^$third-party
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
@@ -313,7 +314,6 @@
 ||get2.keywordsconnect.com^
 ||gsad.gameshot.net^
 ||guide.allblet.net^
-||fancug.com/img/*_banner$image
 ||h*.adscope.co.kr^
 ||hackers.ac/site/*_banner.php^
 ||hackers.gscdn.com/*_baner/
