@@ -324,8 +324,8 @@
 ||hankookilbo.com/*ad300x250*.html^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
 ||hello-dm.kr^$third-party
+||heraldcorp.com/*/herald_*.html?refData=
 ||heraldcorp.com/common_xml/ad/*.json^
-||heraldcorp.com/home/herald_*.html?
 ||hg-times.com/banner/
 ||hg-times.com/Autobox/sns_btn.html^
 ||hiadone.com^$third-party
@@ -776,7 +776,7 @@ baykoreans.com,baykoreans.net##.boardRead > DIV > .clear
 baykoreans.com,baykoreans.net##.board > .clear
 baykoreans.com,baykoreans.net##.viewDocument > .clear
 baykoreans.com,baykoreans.net##DIV[style*="opacity"]
-betanews.heraldcorp.com##iframe[src*="?refData"]
+betanews.heraldcorp.com,mbetanews.heraldcorp.com##iframe[src*="/herald_"][src*="?refData"]
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
 biz.chosun.com###ad2
@@ -2072,7 +2072,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||hanlog.co.kr^$third-party
-||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
 ||hitweb*.chosun.com^
 ||hotclick.netinsight.co.kr^$third-party
@@ -2193,6 +2192,8 @@ hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.gamemeca.com#$##footer { height:138px!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
+mbetanews.heraldcorp.com#$#.navbar-fixed-top { padding: 5px 0px!important; }
+mbetanews.heraldcorp.com#$#body > .container:nth-child(4) { height: 100px; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
 media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
