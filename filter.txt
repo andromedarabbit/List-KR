@@ -1145,6 +1145,7 @@ kookje.co.kr###top > DIV[style^="margin:"]
 kookje.co.kr##.trans_box
 kookje.co.kr##DIV[id^="bnr_"]
 kookje.co.kr##DIV[id^="news_relGisa"] > p[style*="height:"]
+kookje.co.kr##embed[src*="/banner/"]
 koreadaily.com###google_ad1
 koreadaily.com##div.right_b_banner
 koreadaily.com##div.shopping2
