@@ -195,6 +195,7 @@
 ||anewsa.com/img/mainBanner
 ||ap.tnkfactory.com/tnk/$empty
 ||api.ezadsystem.com^
+||api.live.daum.net/gls-svc-ad/*/ad/request|
 ||api.wiseclick.co.kr/api/web_directad/
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
@@ -254,7 +255,7 @@
 ||cwstatic.heraldm.com/adcont/
 ||cyad*.nate.com/js.kti/
 ||d.a1comm.co.kr^
-||daumkakao-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
+||daumkakao-smr.smartmediarep.com/smc/*/smr/contents/video/
 ||d1hn8mrtxasu7m.cloudfront.net^
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
@@ -499,7 +500,7 @@
 ||nasmedia.co.kr^$third-party
 ||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
-||naver-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
+||naver-smr.smartmediarep.com/smc/*/smr/contents/video/
 ||naver.com/api/adpostRelay.nhn?
 ||ndsoft.co.kr/namecheck/ad/$third-party
 ||networkad.nate.com^
@@ -570,7 +571,8 @@
 ||sisainlive.com/script/ad_flow
 ||smart.linkprice.com/*.php?$third-party
 ||smartposting.net/keyword/api/
-||smrmembers-smr.smartmediarep.com/smc/*/smr/*/video/$third-party
+||smr.tvpot.daum.net^
+||smrmembers-smr.smartmediarep.com/smc/*/smr/contents/video/
 !----------------------- reviewed up to here -------------------------------------
 ||sports.chosun.com/banner/
 ||sports.chosun.com/js/scrollBanner*.js^
@@ -615,6 +617,7 @@
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
+||vads-api.daumkakao.com^
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||vrn.co.kr/banner/rollbanner_
