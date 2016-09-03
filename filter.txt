@@ -2230,9 +2230,12 @@ ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
+cafe.daum.net#$#body,body *{ -moz-user-focus:normal!important; user-focus:normal!important;  -moz-user-select: auto!important; -webkit-user-select:auto!important; user-select:auto!important; }
+cafe.daum.net#%#var _ae = window.addEventListener; window.addEventListener = function(a,b,c){if(b.toString().indexOf("addEvent(document.body,'keydown'") === -1){_ae(a,b,c);} return;};
 cafe.naver.com,tistory.com#%#Object.defineProperty( document, 'oncontextmenu', { set: function(i) { } }); Object.defineProperty( document, 'onselectstart', { set: function(i) { } }); Object.defineProperty( document, 'ondragstart', { set: function(i) { } });
 cafe.naver.com,m.etnews.com,ptware.net,snulife.com#$#* { -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; -moz-user-select: auto!important;}
 comic.naver.com,ptware.net#%#AG_onLoad( function() { (function(w){ var arr = ['contextmenu','copy','cut','paste','mousedown','mouseup','beforeunload','beforeprint','dragstart','selectstart']; for(var i = 0, x; x = arr[i]; i++){ if(w['on' + x])w['on' + x] = null; w.addEventListener(x, function(e){e.stopPropagation()}, true); }; for(var j = 0, f; f = w.frames[j]; j++){try{arguments.callee(f)}catch(e){}}})(window); } );
+m.cafe.daum.net#%#Object.defineProperty( window, 'setCopyNotAllowed', {get: function(){ return function() { }; } });
 snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !------ Misc ----------------------------------------
