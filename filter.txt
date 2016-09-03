@@ -679,6 +679,7 @@
 @@||cafefiles.naver.net^$stealth
 @@||cafethumb.naver.net/*?type=$stealth
 @@||dicimg.naver.net^$stealth
+@@||nid.naver.com/oauth2.0/authorize?$stealth
 @@||phinf.naver.net/$stealth
 @@||postfiles*.naver.net^$stealth
 @@||static.post.naver.net^$stealth
