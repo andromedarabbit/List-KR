@@ -676,12 +676,12 @@
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
 ! naver.com
-@@||cafefiles.naver.net^$image
-@@||cafe*thumb*.phinf.naver.net/*?type=
-@@||cafethumb.naver.net/*?type=
-@@||dicimg.naver.net^
-@@||postfiles*.naver.net^
-@@||static.post.naver.net/
+@@||cafefiles.naver.net^$stealth
+@@||cafethumb.naver.net/*?type=$stealth
+@@||dicimg.naver.net^$stealth
+@@||phinf.naver.net/$stealth
+@@||postfiles*.naver.net^$stealth
+@@||static.post.naver.net^$stealth
 !
 @@||api.dable.io/widgets/id/*/users/*id=dablewidget$stealth
 @@||assets.coupangcdn.com/$script,stealth,domain=coupang.com
