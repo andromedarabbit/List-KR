@@ -10,7 +10,10 @@
 ! ---------------------------------------------------------------
 ! Url exception rules
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
+@@||com/js/ads.js^$domain=anigod.com|anigod.gryfindor.com
 @@||tvcast.naver.com/resources/*/clickcr_*.js^
 @@||wcs.naver.net/wcslog.js^
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
 ! Element hiding exception rules
+@@||anigod.com^$generichide
+@@||anigod.gryfindor.com^$generichide
