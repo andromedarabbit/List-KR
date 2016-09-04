@@ -656,7 +656,7 @@
 !
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
-@@||adtg.widerplanet.com/delivery/wfr.php?*zoneid=18486&$domain=hayan.tv
+@@||adtg.widerplanet.com/delivery/wfr.php?*%252Fhayan.tv$domain=hayan.tv
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
