@@ -2045,6 +2045,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
+||analytics.daumdn.com^$empty
 ||analytics.valuepotion.com^
 ||analytics-event.kakao.com^$empty
 ||api-log.wemakeprice.com/*.php?
