@@ -742,6 +742,9 @@ anewsa.com##DIV[id^="ir_bnr"]
 anewsa.com##DIV[id^="subBanner"]
 anewsa.com##DIV[itemprop="articleBody"] > DIV > DIV[style^="padding:0"]
 anigod.com##.episode-video-ad-container
+anigod.gryfindor.com##.clickmon
+anigod.gryfindor.com##.container > .article
+anigod.gryfindor.com##.realclick
 animoe.me###hd_pop
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
