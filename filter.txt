@@ -664,6 +664,7 @@
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
+@@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
 @@||hayan.tv/a/$stealth
@@ -2096,6 +2097,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||imp*.auction.co.kr^
 ||joins.com/common/SMRMediaLog.aspx?
 ||js.nx.com/*/da/playlog.*min.js
+||kakao.com/front/logcollect/
 ||khan.co.kr/gnb/template/_khan_logger.js^
 ||kinsight-event.kakao.com^$empty
 ||krtarget.co.kr/tracker/
