@@ -1188,6 +1188,7 @@ kyeongin.com##.view_right > .today_kyeongin + DIV[style*="250px"]
 kyeongin.com##BODY > DIV > #layerBanner
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
+lolog.kr##[class^="google"]
 m.acrofan.com###aside > .whiteBox
 m.asiae.co.kr###container > .shop_wrap2
 m.asiae.co.kr###container > .more_news
