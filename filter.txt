@@ -148,6 +148,7 @@
 ||adpick.co.kr^$third-party
 ||adpingpong.co.kr^$third-party
 ||adpingpong1.co.kr^$third-party
+||adpingpong2.co.kr^$third-party
 ||adpingpong3.co.kr^$third-party
 ||adpnut.com^$third-party
 ||adpopcorn.com^$empty
