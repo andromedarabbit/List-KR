@@ -1543,6 +1543,7 @@ naver.com###promotion2
 naver.com###promotion6
 naver.com###veta_branding
 naver.com###veta_top
+naver.com##iframe[src^="http://ad.naver.com/adshow"]
 netmarble.net###divSkinBanner
 newdaily.co.kr###ndArtBody > DIV[style*="250"][style*="height:"]
 newdaily.co.kr##BODY > DIV[style="width:300px;height:250px;margin:10px auto 10px auto;"]
