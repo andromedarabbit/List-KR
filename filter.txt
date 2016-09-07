@@ -1376,6 +1376,7 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
+m.shopping.naver.com###_power_link
 m.sportschosun.com###caulyad
 m.sportschosun.com###caulyad + DIV[style*="height"]
 m.sportschosun.com##.ac_cont > DIV[style*="right;"][style*="width:"]
@@ -2071,7 +2072,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||cdn-exchange.toastoven.net/cdn/adx/js/rta_all.js^
 ||chalog.ichannela.com^
 ||checkout.naver.net/*/analysis.js^
-||checkout.naver.net/*/nclk_evt.js^
 ||chosun.com/dhtm/js/common/collecter*.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
