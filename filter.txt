@@ -240,6 +240,7 @@
 ||christiantoday.co.kr/data/banner/$image
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clickmon.co.kr/pop/*.php?$third-party
+||clien.net/cs3/nbpad/
 ||clkads.com^
 ||cm*.joins.com^
 ||cm.keywordsconnect.com^
@@ -1217,6 +1218,8 @@ m.chosun.com##.article_wrap > .ctl > iframe[height="50"]
 m.chosun.com##DIV[class^="ad iad"]
 m.cine21.com##.hanad_area
 m.clien.net##.tb_lst_normal TD[style*="center"][style^="text-align:"]
+m.clien.net##div[style="clear:both;width:90%; margin:0 auto;"]
+m.clien.net##div[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
 m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
