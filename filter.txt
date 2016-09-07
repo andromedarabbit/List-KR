@@ -1358,6 +1358,7 @@ m.ppomppu.co.kr##.menu + DIV[style^="text-align"]
 m.ppomppu.co.kr##FORM + DIV[style^="padding-top"]
 m.pressian.com##.flick-container > DIV[style^="clear:both; width"]
 m.ruliweb.com##.fixed_ad_wrapper
+m.search.naver.com##section.sp_power
 m.search.zum.com###sc_sponsor
 m.segye.com###textbanner
 m.segye.com###wide_wrap>div[style="float:left; width:100%; height:50px; clear:both; margin:-9px -9px 0 -9px; padding:0; text-align:center; background-color:#E7E7E7;"]
