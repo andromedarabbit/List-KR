@@ -32,7 +32,7 @@
 ||211.233.4.20^$third-party
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
-||2cpu.co.kr/ad_board.php
+||2cpu.co.kr/data/banner/
 ||38.co.kr/images/banner/
 ||58.120.226.147^
 ||a.wyzmob.com^
@@ -728,6 +728,8 @@
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
+2cpu.co.kr###view_header > .table-bordered
+2cpu.co.kr###view_header > .text-right[style*="-3px"]
 acrofan.com###secWrap > .viewBannerW
 acrofan.com##.viewAddW
 acrofan.com##DIV[itemprop="articleBody"] > DIV > div[style*="left"]
@@ -2207,6 +2209,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
+2cpu.co.kr#$#header > .container-fluid > .row { height: 60px; }
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 auth.spcnetworks.kr#$##reBackground { display: block!important; }
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
