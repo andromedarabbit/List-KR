@@ -800,27 +800,17 @@ biz.chosun.com###ad2
 biz.chosun.com###CENTER_340_ad
 biz.chosun.com###TopBanner
 biz.chosun.com##div[style="padding:20px 0 0 0; width:298px;text-align:center;"]
-biz.heraldcorp.com,news.heraldcorp.com###HB_COMMOM_TOPINT001
-biz.heraldcorp.com,news.heraldcorp.com###HB_LEFTSLIDER001
-biz.heraldcorp.com,news.heraldcorp.com###HB_SUB_SIDEER001
-biz.heraldcorp.com,news.heraldcorp.com###HB_SUB_TOP001
-biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_MIDTOP02
-biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_MidEnd01
-biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Right3_105
-biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Right4_105
-biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Top_253
-biz.heraldcorp.com,news.heraldcorp.com###HBSUB_ABOUTAD001
-biz.heraldcorp.com,news.heraldcorp.com###adshow
-biz.heraldcorp.com,news.heraldcorp.com###articleText > CENTER > SPAN[style*="640px;"] 
-biz.heraldcorp.com,news.heraldcorp.com###photo_ad_left
-biz.heraldcorp.com,news.heraldcorp.com###photo_ad_right
+biz.heraldcorp.com##.ad_10
+biz.heraldcorp.com##.ad_7
+biz.heraldcorp.com##.ad_8
+biz.heraldcorp.com##.ad_9
+biz.heraldcorp.com##.con_right > .c_r_top:nth-child(6)
+biz.heraldcorp.com##.con_right > script + .c_r_top
+biz.heraldcorp.com,news.heraldcorp.com###articleText > CENTER > SPAN[style*="640px;"]
 biz.heraldcorp.com,news.heraldcorp.com##.news_content > DIV[style*="padding-left"] 
 biz.heraldcorp.com,news.heraldcorp.com##.news_detail_area > DIV[style*="699px;"] 
 biz.heraldcorp.com,news.heraldcorp.com##.subpg_news_body > DIV[style*="200"]
-biz.heraldcorp.com,news.heraldcorp.com##div.nnews_bottomadlist_area
-biz.heraldcorp.com,news.heraldcorp.com##div.right_side_section>div[class="clear pt_15"]
-biz.heraldcorp.com,news.heraldcorp.com##div.subtop_webzinestyle_hd
-biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
+biz.heraldcorp.com,news.heraldcorp.com##[class^="h_banner"]
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr##.ad_movFocus
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr##.banner_main
 bizn.khan.co.kr##div.topright_bn
