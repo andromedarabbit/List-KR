@@ -537,6 +537,7 @@
 ||nv*.veta.naver.com/dr^
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com^$third-party
+||oeker.net/data/snb_$image
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
 ||op.neoad.co.kr/adsearch*
@@ -1656,6 +1657,8 @@ nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
+oeker.net##.botttom_line ~ div > img[width="640"]
+oeker.net##[class^="criteo_"]
 ohmynews.com##div.ad_area620
 ohmynews.com##div.ad_scroll
 ohmynews.com##div.ad_scroll_rt
