@@ -1241,6 +1241,7 @@ m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
 m.hackers.co.kr###app_down_wrap
+m.hani.co.kr##.text > div[style="width:300px;height:250px;margin:0 auto;"]
 m.hankooki.com###ad_img_div
 m.hankooki.com##.rank_ad
 m.hankooki.com##.shopping[class*="ads_"]
