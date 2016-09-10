@@ -580,7 +580,6 @@
 !----------------------- reviewed up to here -------------------------------------
 ||sports.chosun.com/banner/
 ||sports.chosun.com/js/scrollBanner*.js^
-||sports.chosun.com/js2/popup_ad.js^
 ||sports.chosun.com/lphoto3.htm^
 ||sports.chosun.com/news/sports_chosun_hns.js^
 ||st.keywordsconnect.com^
@@ -590,7 +589,6 @@
 ||static.tpmn.co.kr/sb^$third-party
 ||static.tpmn.co.kr/sf^$third-party
 ||sunnyworks.co.kr/data/SW*.html^
-||swf.adget.co.kr/ads/
 ||tab.clickmon.co.kr/ad_img/
 !*tab*.clickmon.co.kr/pop/
 ||tag-match.co.kr^$third-party
@@ -630,10 +628,7 @@
 ||wec.co.kr/banner/
 ||wikitree.co.kr*/ad/
 ||winktv.co.kr/banner/$image
-||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
 ||wowtv.co.kr/AD/
-||wstatic.dcinside.com/gallery/top/ad_top/
-||xportsnews.hankyung.com/contents/upload/pds/2012/0425/1335335866605.jpg^
 ||ygosu.com/realclick/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
@@ -930,7 +925,6 @@ etnews.com##div.left_ad_div
 etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
-etobang.co.kr,etorrent.co.kr##td#mw_basic > table > tbody > tr > td[align="center"] > a[href^="http://"][target="_blank"]
 etoday.co.kr###ad_site_top
 etoday.co.kr##div.news_head>div[style="padding-bottom:25px;margin-left: -12px;border-bottom: 1px solid #ddd;"]
 etoday.co.kr##div.news_head>div[style="position:relative;top:-60px;right:25px;z-index:10;"]
@@ -1657,6 +1651,7 @@ nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
+oeker.net###criteo_banner
 oeker.net##.botttom_line ~ div > img[width="640"]
 oeker.net##[class^="criteo_"]
 ohmynews.com##div.ad_area620
