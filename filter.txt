@@ -677,7 +677,7 @@
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
-@@||static.exoclick.com/$image,domain=anigod.com|anigod.gryfindor.com
+@@||static.exoclick.com/$image,domain=anigod.com|gryfindor.com|netmics.com
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
@@ -746,9 +746,9 @@ anewsa.com##DIV[id^="ir_bnr"]
 anewsa.com##DIV[id^="subBanner"]
 anewsa.com##DIV[itemprop="articleBody"] > DIV > DIV[style^="padding:0"]
 anigod.com##.episode-video-ad-container
-anigod.gryfindor.com##.clickmon
-anigod.gryfindor.com##.container > .article
-anigod.gryfindor.com##.realclick
+gryfindor.com##.clickmon
+gryfindor.com##.container > .article
+gryfindor.com##.realclick
 animoe.me###hd_pop
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
@@ -1538,6 +1538,7 @@ naver.com###veta_branding
 naver.com###veta_top
 naver.com##iframe[src^="http://ad.naver.com/adshow"]
 netmarble.net###divSkinBanner
+netmics.com##.fullscreen-ad-container
 newdaily.co.kr###ndArtBody > DIV[style*="250"][style*="height:"]
 newdaily.co.kr##BODY > DIV[style="width:300px;height:250px;margin:10px auto 10px auto;"]
 newdaily.co.kr##DIV[id^="iw_ad"]
@@ -1958,7 +1959,7 @@ zum.com##.box_bottom_banner
 !
 ! Section contains list of element hiding exception rules
 !
-anigod.gryfindor.com#@#.ads-link
+gryfindor.com#@#.ads-link
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2239,8 +2240,8 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-anigod.com,anigod.gryfindor.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-anigod.com,anigod.gryfindor.com#%#window.canRunAds = !0;
+anigod.com,gryfindor.com,netmics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,gryfindor.com,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
