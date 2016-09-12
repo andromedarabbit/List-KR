@@ -608,8 +608,7 @@
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||ts.2beon.co.kr/nad/media/
 ||tv.sbs.co.kr/common/common_ad.jsp^
-||tvchosun.com/front/ad/tc_m_b.html
-||tvchosun.com/front/ad/pan_ad.html
+||tvchosun.com/front/ad/
 ||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
 ||tvple.com/ab/MW-
@@ -1615,6 +1614,7 @@ news.tf.co.kr##.readRight > .mg_b30 > DIV[id$="_INSERT_SLOT_ID_HERE"]
 news.tf.co.kr##.readTopAd
 news.tf.co.kr##DIV[id^="AD_LIVE_AREA"]
 news.tvchosun.com##.leftWrap > iframe[name="rank"] + iframe[src*="/ad/"]
+news.tvchosun.com##.native_box
 news.tvchosun.com##.news_body + * + .article
 news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
 news.tvchosun.com##iframe[src*="front/rnbAdplex"]
@@ -2223,7 +2223,6 @@ orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
-vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 windowsforum.kr#$##content > .content { margin-top: 10px!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: inline!important; }
