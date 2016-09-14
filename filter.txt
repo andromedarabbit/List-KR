@@ -935,6 +935,8 @@ ezday.co.kr###contentsContainer > .pb5
 ezday.co.kr###rightCircleBannerDiv
 ezkorry.tistory.com##.adblock-on
 fancug.com###ad_front_popup
+fastpost.oceanmate.co.kr##body > table[width="980"][style^="border:"]
+fastpost.oceanmate.co.kr##td[colspan="2"] > table[style^="border:"]
 fnnews.com###bylineaAd1
 fnnews.com##div.fn_ad_part
 fnnews.com##div.fn_left_side
