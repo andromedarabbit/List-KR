@@ -187,6 +187,7 @@
 ||afreecatv.com/player/videoad*.swf^
 ||aladdin.co.kr/ad_ttb.aspx^$third-party
 ||aladin.co.kr/ad_ttb.aspx^$third-party
+||albn.altools.com/albn
 ||alea.adam.ad.daum.net/mobilead^
 ||alea.adam.daum.net/imp
 ||allblet.net^$third-party
