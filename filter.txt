@@ -2268,3 +2268,4 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
 @@||mlbpark.donga.com^$generichide
+||adbasket.kr^$domain=tvple.com
