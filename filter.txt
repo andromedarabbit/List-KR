@@ -439,7 +439,7 @@
 ||m.chosun.com/*ad.html^
 ||m.chosun.com/*ad2.html^
 ||m.inews24.com/bnr/$image
-||m.joyninfo.com/yna^$domain=yonhapnews.co.kr
+||m.joyninfo.com/yna^$domain=yonhapnews.co.kr|yna.co.kr
 ||m.kmib.co.kr/banner/
 ||m.pandora.tv/?c=api&m=video_url&ch_userid=*&prgid=
 ||m.pann.nate.com/da/
@@ -475,9 +475,7 @@
 ||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
 ||mt.co.kr/ad/
-||mtag.mman.kr/get_ad.mezzo/$third-party
-||mtag.mman.kr/js.mezzo/$third-party
-||mtag.mman.kr/movie.mezzo/?i_request_id=
+||mtag.mman.kr/*.mezzo/$third-party
 ||mtn.co.kr/img/m/banner/m_adbanner_$image
 ||mtn.co.kr/program/native.mtn^
 ||mtree.ad.wich.kr/sand.eat^
@@ -2117,6 +2115,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||log.kcisa.kr/tag/
 ||log.kmplayer.com^
 ||log.news.joins.com^
+||log.sunnyworks.co.kr^
 ||log.sv.pandora.tv^
 ||log.tving.com^
 ||log-aggregator.vcnc.co.kr^
