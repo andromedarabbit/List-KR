@@ -5,7 +5,7 @@
 
 
 
-이 필터는 Adguard Windows, Mac, Android 버전에 최적화되어 있습니다. 대다수의 룰은 [Adblock Plus][]의 문법을 따르고 있으나, 몇몇 까다로운 필터링을 위한 규칙은 Adguard에서 제공하는 확장된 기능을 이용하고 있으며 다른 툴로는 활성화되지 않습니다. 또한 Adblock plus와 필터 처리 방식에 차이가 있어, 이를 사용할 경우 광고가 차단된 자리에 빈 공간이 나타날 수 있습니다. [ublock origin][]은 비록 Adguard의 모든 기능을 지원하진 않지만 일부 규칙과 호환되어 이 필터를 사용할 수 있습니다.
+이 필터는 Adguard Windows, Mac, Android 버전에 최적화되어 있습니다. 대다수의 룰은 [Adblock Plus][]의 문법을 따르고 있으나, 몇몇 까다로운 필터링을 위한 규칙은 Adguard에서 제공하는 확장된 기능을 이용하고 있으며 다른 툴로는 활성화되지 않습니다. Adblock plus는 현재 지원하지 않으며, [ublock origin][]은 비록 Adguard의 모든 기능을 지원하진 않지만 일부 규칙과 호환되어 이 필터를 사용할 수 있습니다.
 
 이 필터에서는 한국어 웹 사이트에만 집중하기 때문에, EasyList등 영어권 필터와 같이 사용하는 것을 권장합니다.
 
@@ -37,7 +37,7 @@ This is a web filter for websites in Korean language, to be used with [Adguard][
 
 This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock, automatic scrolling, and disabling context menu).
 
-This filter is optimized for Adguard Windows, Mac, and Android versions. Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between Adguard and ABP, and if you use it, you may see blank areas at the place of ads. [ublock origin] is known to be compatible with part of the Adguard syntax, and can be used with this filter.
+This filter is optimized for Adguard Windows, Mac, and Android versions. Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. This filter does not currently support ABP. [ublock origin] is known to be compatible with part of the Adguard's syntax, and can be used with this filter.
 
 This filter is focused on Korean websites, and it is recommended to use this filter together with English filter.
 
