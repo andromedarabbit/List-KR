@@ -428,7 +428,7 @@
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkspot.net^$third-party
-||lithium.*/trendad.min.js^
+||lithium.*ad.min.js^$domain=daum.net|nate.com
 ||loadnet.co.kr^$third-party
 ||longkeyone.co.kr^
 ||lsinfo.co.kr$third-party
