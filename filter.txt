@@ -2043,7 +2043,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||a*.smlog.co.kr^
 ||aceclick.co.kr^$third-party
 ||action.adzcore.com^$empty
-||ad*-kant.kakao.com/web/track.gif?
+||ad1-kant.kakao.com^
 ||adlc-exchange.toast.com/log^$third-party
 ||ams.rmcnmv.naver.com/*/tracking/
 ||analysis.afreecatv.com^
@@ -2067,6 +2067,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||checkout.naver.net/*/analysis.js^
 ||chosun.com/dhtm/js/common/collecter*.js
 ||clicklog.gmarket.co.kr/click_log/
+||clog-aggregator.kakao.com^$empty
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/gather$empty
 ||counter*.joins.com/bin/
