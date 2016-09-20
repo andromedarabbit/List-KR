@@ -2188,7 +2188,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||tracking.cyad*.nate.com^
 ||tracking.reeket.com^
 ||tracking.sgame.daum.net^*/meerkat/daumgames/tracker?
-||tvcast.naver.com/resources/*/clickcr_*.js^$empty
+!||tvcast.naver.com/resources/*/clickcr_*.js^$empty - until Adguard browser extensions suppport $empty modifier
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||videost.nmv.naver.com/pt.html^
