@@ -1304,10 +1304,11 @@ m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
 m.media.daum.net##.bnr_service
 m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
-m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
 m.mk.co.kr##.new_ad2
+m.mt.co.kr##div[id^="ad_"]
+m.mk.co.kr##div[id^="mainAdSlot"]
 m.mt.co.kr##ul[class^="ad_list_"]
 m.mt.co.kr##ul.list_t2[style]
 m.mtn.co.kr##.m_list > li[style^="padding:"]:not([onclick])
