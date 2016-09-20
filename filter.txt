@@ -666,6 +666,8 @@
 @@||hayan.tv^$jsinject,generichide
 @@||hayan.tv/a/$stealth
 @@||ichannela.com/adtest/adForHtml5/ads*.js
+@@||ilyosisa.co.kr/bannerManager/inc/38.html^
+@@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
 @@||img.ichannela.com/images/ad/banner/$image
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
@@ -1069,6 +1071,9 @@ ilyo.co.kr##.asideSection > DIV[style*="border-top"]
 ilyo.co.kr##.content-box > tbody > tr > td > DIV[style*="250"]
 ilyo.co.kr##.contentView > DIV[style*="250"][style*="right"]
 ilyo.co.kr##.contentView > ul.otherNews
+ilyosisa.co.kr###ND_Warp table[style^="margin-top:"]
+ilyosisa.co.kr###ND_Warp table[width="690"][cellpadding="0"]
+ilyosisa.co.kr##td[width="250"] > div[style^="height:"][style$="10px;"]
 imaeil.com##embed[src^="http://www.imaeil.com/image/banner/"]
 inews24.com###joynews_7th
 inews24.com##.main_top_banner
