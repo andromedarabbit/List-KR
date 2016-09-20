@@ -1177,6 +1177,7 @@ kyeongin.com##.main_cont_ad
 kyeongin.com##.menu_box > [class^="menu_ad"]
 kyeongin.com##.view_right > .today_kyeongin + DIV[style*="250px"]
 kyeongin.com##BODY > DIV > #layerBanner
+land.naver.com##.ad
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
 lolog.kr##[class^="google"]
