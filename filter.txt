@@ -669,6 +669,8 @@
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
 @@||img.ichannela.com/images/ad/banner/$image
+@@||kado.net/bannerManager/inc/120.html^
+@@||kado.net/bannerManager/upload/120.gif^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
