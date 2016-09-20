@@ -794,13 +794,13 @@ biz.chosun.com###ad2
 biz.chosun.com###CENTER_340_ad
 biz.chosun.com###TopBanner
 biz.chosun.com##div[style="padding:20px 0 0 0; width:298px;text-align:center;"]
-biz.heraldcorp.com##.ad_10
-biz.heraldcorp.com##.ad_7
-biz.heraldcorp.com##.ad_8
-biz.heraldcorp.com##.ad_9
-biz.heraldcorp.com##.con_right > .c_r_top:nth-child(6)
-biz.heraldcorp.com##.con_right > script + .c_r_top
 biz.heraldcorp.com,news.heraldcorp.com###articleText > CENTER > SPAN[style*="640px;"]
+biz.heraldcorp.com,news.heraldcorp.com##.ad_10
+biz.heraldcorp.com,news.heraldcorp.com##.ad_7
+biz.heraldcorp.com,news.heraldcorp.com##.ad_8
+biz.heraldcorp.com,news.heraldcorp.com##.ad_9
+biz.heraldcorp.com,news.heraldcorp.com##.con_right > .c_r_top:nth-child(6)
+biz.heraldcorp.com,news.heraldcorp.com##.con_right > script + .c_r_top
 biz.heraldcorp.com,news.heraldcorp.com##.news_content > DIV[style*="padding-left"] 
 biz.heraldcorp.com,news.heraldcorp.com##.news_detail_area > DIV[style*="699px;"] 
 biz.heraldcorp.com,news.heraldcorp.com##.subpg_news_body > DIV[style*="200"]
