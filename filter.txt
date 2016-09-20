@@ -2270,5 +2270,6 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
+@@||cc.naver.com^$app=com.nhn.android.nmap
 @@||mlbpark.donga.com^$generichide
 ||adbasket.kr^$domain=tvple.com
