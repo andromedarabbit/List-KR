@@ -267,6 +267,7 @@
 ||danawa.com/NBP/powerLink.js.php^
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
+||dcinside.com/event/video_play_ad.html^
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
