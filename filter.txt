@@ -1416,6 +1416,7 @@ m.yna.co.kr##section.section-ad-hi
 m.yna.co.kr##section.section-ad-joyinfo
 m.yna.co.kr##section.section-ad-lumi
 m.yna.co.kr##section.section-add
+m.yna.co.kr##section.section-add-fixbt
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
@@ -2229,6 +2230,7 @@ m.betanews.net,mbetanews.heraldcorp.com#$#.navbar-fixed-top { padding: 5px 0px!i
 m.betanews.net,mbetanews.heraldcorp.com#$#body > .container[banner] { display: none!important; }
 m.gamemeca.com#$##footer { height:138px!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
+m.yna.co.kr#$#.n-wrap-ticker { height: 33px!important; } .n-wrap-ticker2 { bottom: 0px!important; } .btn-top.scrolled { bottom:39px!important; } footer { padding-bottom: 30px!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
 media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
