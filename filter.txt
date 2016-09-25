@@ -491,12 +491,7 @@
 ||nadservice.co.kr^$popup,third-party
 ||naeil.com/upload/banner/
 ||nann.co.kr^$third-party
-||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
-||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
-||nanumnews.com/data/nanumnews_com/banner/2011121337586078.gif^
-||nanumnews.com/data/nanumnews_com/banner/2012041630519448.swf^
-||nanumnews.com/data/nanumnews_com/upload/2012042009422130.swf^
-||nanumnews.com/data/nanumnews_com/upload/bn_2012/mireco.gif^
+||nanumnews.com/data/nanumnews_com/banner/*.swf^
 ||nanumnews.com/news_skin/nanumnews_com/main/nanum_ad_*.html^
 ||nasads.com^$third-party
 ||nasmedia.co.kr^$third-party
@@ -1534,9 +1529,8 @@ mydaily.co.kr##div.read_right_ad
 mydaily.co.kr##div[id^="AD_LIVE_AREA_"]
 mydaily.co.kr##div[class^="banner_1024_1024_"]
 naeil.com##DIV[class^="bannerType"]
-nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
-nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
-nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
+nanumnews.com##.bn
+nanumnews.com##a[href*="/ad_link.php?banner_uid="]
 nate.com###adContainer
 nate.com###shopLoading
 nate.com###todaySaleItem
@@ -2266,7 +2260,7 @@ minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,nanumnews.com,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
