@@ -2002,7 +2002,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||er.*.naver.com/er^
 ||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||imagesearch.naver.com/pv.html?rnd=
-||s.search.naver.com^
 ||sp.naver.com^
 !------ daum.net ---------------
 ||tiara.daum.net^
