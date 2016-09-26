@@ -18,7 +18,7 @@
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
 /about_*_shopbox.
-!/mobitree_*.js^ - ||js.hnscom.com/etc/hns/mobitree_*.js^ ||mtn.co.kr/news/mobitree_*.js
+/mobitree_*.js^
 /nad/media/*
 /naon_*.html^
 /naon_*.jsp^
@@ -583,8 +583,6 @@
 ||static.tpmn.co.kr/sb^$third-party
 ||static.tpmn.co.kr/sf^$third-party
 ||sunnyworks.co.kr/data/SW*.html^
-||tab.clickmon.co.kr/ad_img/
-!*tab*.clickmon.co.kr/pop/
 ||tag-match.co.kr^$third-party
 ||talklink.link/ko/ad/*_ad^
 ||te31.com/rgr/ad/
@@ -600,7 +598,6 @@
 ||torrentmade.com/data/zn_banner/
 ||torrentmade.com/js/bpopup/scripting.min.js^
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
-||ts.2beon.co.kr/nad/media/
 ||tv.sbs.co.kr/common/common_ad.jsp^
 ||tvchosun.com/front/ad/
 ||tvdaily.mk.co.kr/ad/
