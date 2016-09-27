@@ -607,8 +607,6 @@
 ||tvple.com/ab/MW-
 ||tvple.com/ab/PC-
 ||typemoon.net/bn/ad/
-||unionpress.co.kr/news/html_tpl/pr_ad.php^
-||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||vads-api.daumkakao.com^
@@ -1881,10 +1879,6 @@ tvreport.co.kr##.cont_area > DIV[style*="130"]
 tvreport.co.kr##iframe[src^="http://a.wyzmob.com/"]
 twonable.com##div.fixed-top
 ucc.blognawa.com###real_pop_bnr_floating
-unionpress.co.kr##div.add
-unionpress.co.kr##div[class^="right_ad"]
-unionpress.co.kr##div[class^="right_detail_ad"]
-unionpress.co.kr##span#FvMainDiv0
 unnya.com##.ad
 view.heraldm.com###biz_view_banner
 view.heraldm.com###hbviewtop_72890id
