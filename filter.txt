@@ -109,6 +109,7 @@
 ||ad4989.co.kr^$third-party
 ||adalba.co.kr^$third-party
 ||adapi.about.co.kr^
+||adbasket.kr/adn?
 ||adclicks.devpia.com/js.kti/devpia
 ||adclixad.daum.net^$third-party
 ||adcr.naver.com^$domain=~search.naver.com
@@ -318,6 +319,7 @@
 ||gesomoon.com/*/ad_*.html^
 ||get.keywordsconnect.com^
 ||get2.keywordsconnect.com^
+||gplayer.kmpmedia.net/kmp_plus/platform/preroll/
 ||gsad.gameshot.net^
 ||guide.allblet.net^
 ||h*.adscope.co.kr^
@@ -663,6 +665,7 @@
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
 @@||img.ichannela.com/images/ad/banner/$image
+@@||imgcdn.pandora.tv/gplayer/ktop100/KoreaTop.swf^
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
 @@||netmarble.net/resources/scripts/adcontroller.js
@@ -971,15 +974,17 @@ gamemeca.com##.google_ad_bottom_728x90
 gamemeca.com##.rBtmBanner
 gamemeca.com##.toastBanner
 gamemeca.com##div.btmBannerTwo
+gesomoon.com##.conLeft > DIV:not([id]):not([style])
+gesomoon.com##.cnt > p + DIV:last-child
+gesomoon.com##[id^="layerBanner"]
+gesomoon.com##P.btmBan
 gigglehd.com###column > a[href="http://coolenjoy.net/"]
 gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com##.boardRead + DIV[align="center"]
 gmarket.co.kr##.m_ad
-gesomoon.com##.conLeft > DIV:not([id]):not([style])
-gesomoon.com##.cnt > p + DIV:last-child
-gesomoon.com##[id^="layerBanner"]
-gesomoon.com##P.btmBan
+gplayer.kmpmedia.net##.banners
+gplayer.kmpmedia.net##.taboola-link-view
 hackers.ac##DIV[class^="footer_layerban"]
 hackers.co.kr###floor_layer_pop
 hackers.co.kr##.sub_menu > TABLE > TBODY > TR > TD.banner
