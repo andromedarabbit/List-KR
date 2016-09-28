@@ -711,7 +711,6 @@
 ###wiseAd
 ##.adsbyadop
 ##div.ezAdsense
-##div.gpt_ad_container
 ##div[id^="sbaAbout"]
 ##ins.daum_ddn_area
 !----- Common iframes (dynamically generated) -----
