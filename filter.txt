@@ -318,6 +318,7 @@
 ||gesomoon.com/*/ad_*.html^
 ||get.keywordsconnect.com^
 ||get2.keywordsconnect.com^
+||globaleconomic.co.kr/banner_add/
 ||gplayer.kmpmedia.net/kmp_plus/platform/preroll/
 ||gsad.gameshot.net^
 ||guide.allblet.net^
@@ -708,6 +709,7 @@
 ###uniqubeAd_area_text
 ###uniqubeFirstDiv
 ###wiseAd
+##.adsbyadop
 ##div.ezAdsense
 ##div.gpt_ad_container
 ##div[id^="sbaAbout"]
@@ -950,6 +952,8 @@ fomos.kr###top_banner
 fomos.kr##.banner_area
 fow.kr###top_pr_google
 fow.tv##.div_main > div[style^="padding:"][style*="10px 30px"]
+g-enews.com##.ad_global
+g-enews.com##.banner:not(.txt_banner)
 gall.dcinside.com###list_right_ad
 gall.dcinside.com###zzbang_div > ._BTN_AD_
 gall.dcinside.com##.box_contents > div > .banner_box
@@ -2086,6 +2090,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||geolook.tvchosun.com:8888
 ||global.apis.naver.com/etc/pc.nhn^
 ||global.apis.naver.com/pt.html^
+||globaleconomic.co.kr/js/logger/
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||hanlog.co.kr^$third-party
@@ -2208,6 +2213,7 @@ auth.spcnetworks.kr#$##reBackground { display: block!important; }
 betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com#$#iframe[src*="/herald_"][src*=".html?refData"][height="50"] { display: none!important; }
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
+g-enews.com#$#article.breraking { top:146px!important; }
 gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hayan.tv#$##screen { overflow: visible!important; }
 hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
