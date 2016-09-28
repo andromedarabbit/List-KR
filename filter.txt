@@ -536,7 +536,6 @@
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
 ||op.neoad.co.kr/adsearch*
-||osmanias.com/img/banner/$image
 ||outbanner.hu.co.kr/@files/human_banner/
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
@@ -1679,10 +1678,6 @@ osen.mt.co.kr##.detailBox > DIV[style*="height"]
 osen.mt.co.kr##.detailBox > DIV[style^="padding-top"][style*="40px"]
 osen.mt.co.kr##div.advertising
 osen.mt.co.kr##div.detailView>ul.articleList
-osmanias.com###mw_good + DIV[style^="margin:"]
-osmanias.com##.mw_basic_view_content > [id^="view_"] > [style*="box-shadow"]
-osmanias.com##.sidebar > .sidebar-nav
-osmanias.com##.sidebar > .sidebar-nav + * + .block
 pandora.tv##.contents > a.banner > img[src^="http://imguser.pandora.tv/pandora/_groups_img"]
 pandora.tv##.sh_top_contact
 pandora.tv##.top100
@@ -1716,6 +1711,7 @@ pressian.com##.remove_ad
 pressian.com##.under_adban
 prod.danawa.com##.content_900 > [class^="banner_"]
 pullbbang.com###main_right_contents_wrap > [style*="250"]
+osmanias.com##.snb > .snb_widgt > a[target="_blank"] > img[width="300"]
 rec.netinsight.co.kr##.side_nw > #netinsight_rec_contents + DIV[style]
 reviewstar.hankooki.com##li.ad_plex_a250
 rpm9.com###promotion
