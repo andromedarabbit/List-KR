@@ -2133,6 +2133,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||makeshop.co.kr/js/mslog.js^
 ||medialog.smartmediarep.com/api/*/tracking^
 ||megadata.co.kr^$third-party
+||melon.com/mlog.js^
 ||mgc.nsm-corp.com^
 ||miraelog.net^$third-party
 ||mt.co.kr/weblog.php?
