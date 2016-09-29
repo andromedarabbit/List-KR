@@ -292,6 +292,7 @@
 ||etnews.com/tools/refresh_script.html^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
+||etoday.co.kr/include/etoday_ad_
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
 ||eventmanager.co.kr^$third-party
@@ -922,11 +923,9 @@ etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
 etoday.co.kr###ad_site_top
-etoday.co.kr##div.news_head>div[style="padding-bottom:25px;margin-left: -12px;border-bottom: 1px solid #ddd;"]
-etoday.co.kr##div.news_head>div[style="position:relative;top:-60px;right:25px;z-index:10;"]
-etoday.co.kr##div.news_wrap>div[style="padding: 30px 0 30px 30px;"]
-etoday.co.kr##div.sectionAD
-etoday.co.kr##div.view_body>div[style="padding: 30px 17px 40px 18px;border-top: 1px solid #ddd;"]
+etoday.co.kr##.cont_left_article + div[style*="500px"]
+etoday.co.kr##.e_real_time_w
+etoday.co.kr##.sectionAD
 ezday.co.kr###bodyContainer > DIV[style*="278px"] > .community_menu + DIV[style*="250px;"]
 ezday.co.kr###contentsContainer > .pb5
 ezday.co.kr###rightCircleBannerDiv
@@ -1238,6 +1237,11 @@ m.edaily.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
+m.etoday.co.kr###view_bottom_ad
+m.etoday.co.kr###view_contents > [style^="float:right;width:"]
+m.etoday.co.kr##.ad_text_dot
+m.etoday.co.kr##.enjoy_article > .ent_spo_c > * > * > * > .a_h35
+m.etoday.co.kr##[class="box"][style*="padding:"]
 m.ezday.co.kr##.board_tit + DIV[style="margin: 0px;padding: 15px"]
 m.focus.kr###article_Content>div[style="margin-top:20px;"]
 m.focus.kr###article_Contet > DIV[style*="height:"]
@@ -2116,6 +2120,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||log.adop.cc^
 ||log.ajunews.com:8881^
 ||log.edgebook.com^
+||log.etoday.co.kr^
 ||log.kcisa.kr/tag/
 ||log.kmplayer.com^
 ||log.news.joins.com^
