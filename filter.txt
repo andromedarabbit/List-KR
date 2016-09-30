@@ -1709,11 +1709,12 @@ ppomppu.co.kr###emart_banner
 ppomppu.co.kr###search_bbsList + .section
 ppomppu.co.kr###search_bbsList + [style*="padding: 15px 0"]
 ppomppu.co.kr###shoppingbox
+ppomppu.co.kr##[align="center"] > #header_box + #result_box
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
 ppomppu.co.kr##div.banner_336
 ppomppu.co.kr##div[id^="pp_ban_"]
-ppomppu.co.kr##P[class^="banner_"]
+ppomppu.co.kr##p[class^="banner_"]
 pressian.com##.remove_ad
 pressian.com##.under_adban
 prod.danawa.com##.content_900 > [class^="banner_"]
