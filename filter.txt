@@ -44,6 +44,7 @@
 ||ad*.inews24.com^
 ||ad*.netshelter.net/adj/
 ||ad-first.co.kr^$third-party
+||ad.3dpop.kr^
 ||ad.ad-ya.net^
 ||ad.adinc.kr^
 ||ad.adkova.com/media/
@@ -1316,6 +1317,8 @@ m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
 m.media.daum.net##.bnr_service
+m.mediatoday.co.kr##div[style="position:fixed;margin:0 auto;right:0;left:0;bottom:0;max-width:320px;"]
+m.mediatoday.co.kr##iframe[src^="http://adexpert.ad4989.co.kr"]
 m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
 m.mt.co.kr##.mgt10.only_640un
 m.mk.co.kr##.new_ad
