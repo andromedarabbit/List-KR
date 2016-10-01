@@ -269,6 +269,7 @@
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
 ||dcinside.com/event/video_play_ad.html^
+||ddaily.co.kr/data/banner/
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
