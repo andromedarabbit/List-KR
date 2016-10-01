@@ -1109,7 +1109,7 @@ isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 issue.chosun.com##.qzart_article > .qz_art_promo
 it.chosun.com##.m01_arv2 > DIV[style*="10"]:first-child
 it.chosun.com##.newsinfo2
-ittoday.co.kr##dl[class$="top-banner"]
+ittoday.co.kr##table[width="600"][cellpadding="3"] > tbody > tr > td[height="200"]
 iworldtoday.com##.mask_div[id^="mask_ad"]
 jisiklog.com##SPAN.row SPAN[style*="10%"][style*="padding-left"]
 jjan.kr###livereContentsContainer ~ TABLE
