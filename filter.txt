@@ -638,7 +638,7 @@
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
-||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise"(.|\s)*?}\s*\,\s*("share")/\$2/
+||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise":\{/"noopstr":{/
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=*&adi=%5B%7B$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>(.|\s)*?<\/ad>//
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
