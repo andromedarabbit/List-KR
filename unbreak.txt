@@ -11,11 +11,12 @@
 ! Url exception rules
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
 @@||cc.naver.com/cc^$image
-@@||com/js/ads.js^$domain=anigod.com|gryfindor.com|netmics.com
+@@||com/js/ads.js^$domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 !@@||tvcast.naver.com/resources/*/clickcr_*.js^ - until Adguard browser extensions suppport $empty modifier
 @@||wcs.naver.net/wcslog.js^
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
 ! Element hiding exception rules
 @@||anigod.com^$generichide
 @@||gryfindor.com^$generichide
+@@||kflix.tv^$generichide
 @@||netmics.com^$generichide

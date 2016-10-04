@@ -655,12 +655,14 @@
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
+@@||clickmon.co.kr/IMG_server/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
 @@||hayan.tv/a/$stealth
+@@||hcimg.realclick.co.kr/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
@@ -676,7 +678,7 @@
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
-@@||static.exoclick.com/$image,domain=anigod.com|gryfindor.com|netmics.com
+@@||static.exoclick.com/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
@@ -2261,8 +2263,8 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-anigod.com,gryfindor.com,netmics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-anigod.com,gryfindor.com,netmics.com#%#window.canRunAds = !0;
+anigod.com,gryfindor.com,kflix.tv,netmics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
