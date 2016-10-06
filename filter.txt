@@ -111,6 +111,7 @@
 ||adalba.co.kr^$third-party
 ||adapi.about.co.kr^
 ||adbasket.kr/adn?
+||adby.co.kr^$popup
 ||adclicks.devpia.com/js.kti/devpia
 ||adclixad.daum.net^$third-party
 ||adcr.naver.com^$domain=~search.naver.com
