@@ -270,6 +270,7 @@
 ||danawa.com/NBP/powerLink.js.php^
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
+||dcinside.com/api/_ad_search_link.php^
 ||dcinside.com/event/video_play_ad.html^
 ||ddaily.co.kr/data/banner/
 ||dgate.*/hc.aspx^
