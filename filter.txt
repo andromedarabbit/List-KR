@@ -654,6 +654,7 @@
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||adtg.widerplanet.com/delivery/wfr.php?*%252Fhayan.tv$domain=hayan.tv
 @@||api.dable.io/logs/services/*/click_redirect^
+@@||banner.jinhak.com^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
