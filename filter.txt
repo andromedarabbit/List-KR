@@ -1442,7 +1442,7 @@ mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
 manian.com##.top_banner
 map.daum.net##.RecommendThemeListView
 map.daum.net##.TriangleNotice.Forefront
-map.naver.com##.sr_banner
+map.naver.com,maps.naver.com##.sr_banner
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
