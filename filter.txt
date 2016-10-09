@@ -1622,6 +1622,8 @@ news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.naver.com###articleBody > TABLE[align="right"]:first-child
 news.sbs.co.kr###all_vod_banner
+news.sbs.co.kr##.ad_area
+news.sbs.co.kr##.w_article_ad
 news.sportsseoul.com###ntomapDiv
 news.sportsseoul.com###style_250ad9
 news.sportsseoul.com##div[class^="read"][class$="Ad"]
