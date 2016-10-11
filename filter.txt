@@ -268,6 +268,7 @@
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
+||dailymedi.com/master/banner/
 ||danawa.com/NBP/powerLink.js.php^
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
@@ -862,6 +863,8 @@ dailygame.co.kr###BigDDRightSkyID
 dailygame.co.kr###talklink_chatAd
 dailygame.co.kr##.banner_1024_1024
 dailygame.co.kr##.sub_rightbox > div[style*="290"][style^="margin:"]
+dailymedi.com##[id^="hnews4_popup_layer"]
+dailymedi.com##embed[src^="master/banner/"]
 danawa.com##.header_banner
 danawa.com##.rnb_unit_banner
 danawa.com##.ttop_ad_banner
