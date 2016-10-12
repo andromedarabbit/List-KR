@@ -2165,6 +2165,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||melon.com/mlog.js^
 ||mgc.nsm-corp.com^
 ||miraelog.net^$third-party
+||mk.co.kr/include/mkNewsLogIframe.php^
 ||mt.co.kr/weblog.php?
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
