@@ -528,7 +528,8 @@
 ||newswave.kr/ad/
 ||newsway.kr/ad/
 ||newsway.kr/banner/banner_
-||nextdaily.co.kr/*/article_count*.html 
+||nextdaily.co.kr/*/article_count*.html
+||nimage.newsway.kr/*/sub/ad_$image
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||nowcom.ad.nowcdn.co.kr^
 ||npian.com/nbox/ad*.swf^
@@ -1357,7 +1358,8 @@ m.news.naver.com##div.ad_area
 m.news1.kr##.article_bottom > .wrap_m_title
 m.news1.kr##[class^="ads_"]
 m.news1.kr##iframe[src^="/template/ads/"]
-m.newsway.co.kr##.news_body > DIV[style^="height:110px;"]
+m.newsway.co.kr##.news_body div[style^="height:85px; overflow:hidden;"]
+m.newsway.co.kr##a[href^="http://m.lottorich.co.kr"]
 m.nocutnews.co.kr###divContent > DIV[style*="200px"]
 m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
@@ -2043,6 +2045,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 /Eclog/main/?*&rserv=$match-case
 /hanbiro.js^
 /InsightTrk/*.do?$match-case
+/js/logcollectscript_
 /realconn.php?*&rserv=
 /tracker.tsp?
 /tracker.*.tsp?
@@ -2179,7 +2182,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||rec.netinsight.co.kr/rec/*/view?
 ||recobell.io/rest/logs^
 ||recopick.com^$third-party
-||res.heraldm.com/js/logcollectscript_*.js^
 ||rlog.popin.cc/*.gif?
 ||rmcnmv.naver.com/vts/trace/
 ||saas.recobell.com/srv/*/track/rblog.js^
