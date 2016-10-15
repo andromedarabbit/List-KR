@@ -62,7 +62,7 @@ Welcome! If you found unblocked ads, ads leftovers or any other objects that are
 #### For IE
 There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would rarely allow some ads to be displayed. (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
 
-[Adguard]: http://adguard.com/?aid=26141
+[Adguard]: http://adguard.com/
 [Adblock Plus]: https://adblockplus.org/
 [ublock origin]: https://github.com/gorhill/uBlock
 [이곳]: https://namu.wiki/w/Adguard
