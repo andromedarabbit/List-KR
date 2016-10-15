@@ -91,6 +91,7 @@
 ||ad.pickple.net/widget/show/
 ||ad.priel.co.kr^$third-party
 ||ad.reople.co.kr^$third-party
+||ad.s99.co.kr^
 ||ad.sponsorad.co.kr^$third-party
 ||ad.tf.co.kr:8080/js.kti/
 ||ad.touchwise.co.kr^
@@ -1456,10 +1457,13 @@ marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 matcl.com##p[align="center"][style*="height:"]
+mbiz.heraldcorp.com###sc_header + div[style="width:100%; height:70px; text-align:center;"]
 mbiz.heraldcorp.com###wrap > .story
 mbiz.heraldcorp.com###wrap > DIV[style*="border-bottom"].section2
 mbiz.heraldcorp.com##.ad
+mbiz.heraldcorp.com##[id^="ad_img"]
 mbiz.heraldcorp.com##DIV[class^="photoAd"]
+mbiz.heraldcorp.com##DIV[id^="ad2016"]
 mbiz.heraldcorp.com##SPAN[id^="adintext"]
 mbiz.heraldcorp.com##SPAN[id^="mfarm"]
 mbiz.heraldcorp.com##SPAN[id^="lumiText"]
