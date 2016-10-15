@@ -908,6 +908,9 @@ economy.hankooki.com##div[class^="ad_line"]
 econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
 edaily.co.kr##[class^="banner"]
 edaily.co.kr##div[id^="w_read"]
+edudonga.com##.main_full_banner
+edudonga.com##.right_banner
+edudonga.com##img[src^="http://edudonga.com/data/banner"][onclick^="goLink("]
 egloos.com##DIV[class^="main_banner_wrap"]
 ent.joseilbo.com##div.adplus_banner
 ent.joseilbo.com##div.news_txt_banner
@@ -1249,6 +1252,7 @@ m.dt.co.kr##.slink + section
 m.edaily.co.kr###ad_view_list
 m.edaily.co.kr##[class^="AD_"]
 m.edaily.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
+m.edu.donga.com###banner03
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
