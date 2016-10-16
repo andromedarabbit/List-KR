@@ -1281,9 +1281,7 @@ m.hankooki.com##.wrap > section.ranking + DIV.promotion
 m.hankooki.com##div.adpromotion
 m.hankooki.com##div[class^="ads_"]
 m.headlinejeju.co.kr##.m_min_size > .not_print
-m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
-m.huffpost.com##div.advertisement.mobileweb_taboola
-m.huffpost.com##div.advertisement.mobileweb_top
+m.huffpost.com##div.advertisement
 m.humoruniv.com###about_ad
 m.humoruniv.com###ad_320x50
 m.humoruniv.com###cauly_ad
