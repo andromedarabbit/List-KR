@@ -1213,7 +1213,7 @@ m.asiae.co.kr##DIV[class="photo_slide photo_slide2"]
 m.asiatoday.co.kr###swipe_center > DIV[class^="ad"]
 m.asiatoday.co.kr###swipe_center > DIV[id^="div-lumi_"]
 m.asiatoday.co.kr##.a5 > .bts_d:first-child
-m.asiatoday.co.kr##.news_bm > TABLE[style*="200px"]
+m.asiatoday.co.kr##.news_bm > TABLE[style*="float:right"][style*="width:"][style*="height:"]
 m.asiatoday.co.kr##DIV[id$="adopadzone"]
 m.boannews.com##.banner-zone
 m.busan.com###NewsContent > DIV[style="float:right; width:205px; height:210px; margin:0px;"]
