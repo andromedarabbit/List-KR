@@ -442,7 +442,7 @@
 ||lithium.*ad.min.js^$domain=daum.net|nate.com
 ||loadnet.co.kr^$third-party
 ||longkeyone.co.kr^
-||lsinfo.co.kr$third-party
+||lsinfo.co.kr$third-party,domain=~lottorich.co.kr|~lottorich.com
 ||luxad.kr^$third-party
 ||m.adtc.daum.net/js/mobilead.js^
 ||m.chosun.com/200.html^
