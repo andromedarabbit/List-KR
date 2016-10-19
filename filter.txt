@@ -889,9 +889,9 @@ dealbada.com###container > CENTER > a[href="http://www.dealbada.com/bbs/board_lo
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
-donga.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 donga.com##.main_AD02
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
+donga.com,hankooki.com,hankyung.com,seoul.co.kr##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 dt.co.kr###gisa > table[width="260"][height="270"]
 dt.co.kr###side_content>div[style$="0px;"][style^="margin-top:"]
 dt.co.kr##.cntWrap>div[style]:not([class]):not([id])
@@ -1016,7 +1016,6 @@ hani.co.kr##DIV[class^="text-ad"]
 hani.co.kr##DIV[id^="ad_box"]
 hani.co.kr##DIV[id^="ad_home_"]
 hankooki.com###adIssueTrend
-hankooki.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 hankooki.com##.ad300600
 hankooki.com##.adnum
 hankooki.com##.adsum
@@ -1034,7 +1033,6 @@ hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
 hankyung.com###ad_ti
 hankyung.com##.main-ad-md
-hankyung.com##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 hankyung.com##aside.ad-newsview
 hankyung.com##aside.ad-top-wide
 hankyung.com##div.article-ad-rec300
