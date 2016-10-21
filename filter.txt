@@ -2305,4 +2305,5 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 !----------------------------------------------------!
 @@||cc.naver.com^$app=com.nhn.android.nmap
 @@||mlbpark.donga.com^$generichide
+tvcast.naver.com#%#"tvcast.naver.com"===window.location.host&&window.addEventListener("load",function(){setInterval(function(){var a=document.querySelector('video[id^="rmcPlayer_"]');a&&a.setAttribute("style",a.getAttribute("style").replace(/display\s*:[^;!]*!\s*important\s*(;|$)/,""))},500)});
 !||adbasket.kr^$domain=tvple.com
