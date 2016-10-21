@@ -17,7 +17,7 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 ```
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
-Adguard 윈도우, 맥, 크롬 확장 프로그램 베타 버전의 경우, 사용 가능한 필터 목록에 List-KR이 포함되어, 이를 찾아서 활성화하면 됩니다.
+Adguard 윈도우, 맥, 확장 프로그램(2.3.9버전 이상), 안드로이드 버전(2.8버전 이상)의 경우, 사용 가능한 필터 목록에 List-KR이 포함되어, 이를 찾아서 활성화하면 됩니다.
 
 ublock (origin)의 경우, 위 기본 필터와 함께 다음 보충 필터도 구독하십시오. 이는 ublock origin에서 지원하지 않는 규칙으로 인해 발생하는 호환성 문제를 보정하기 위해 필요합니다.
 ```
@@ -48,7 +48,7 @@ In the program you would like to use, use the following url to subscribe to or i
 ```
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
-In Adguard Windows, Mac, Chrome browser extension beta (above v2.4), List-KR is included in a list of available filters, so you can activate it without manually adding url above.
+In Adguard Windows, Mac, browser extension (above v2.3.9), Android(above v2.8), List-KR is included in a list of available filters, so you can activate it without manually adding url above.
 
 To use with ublock (origin), add a following url as well. It is needed to fix filtration errors caused by incompatibility of ublock (origin) with Adguard's syntax.
 ```
