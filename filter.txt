@@ -550,6 +550,7 @@
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
+||pic.popkontv.com/bAd/solution/
 ||plugin.2beon.co.kr^
 ||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
