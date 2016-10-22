@@ -729,6 +729,7 @@
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
 ##iframe[src^="http://adv.mediaharbor.co.kr/nad/"]
+##iframe[src^="http://www.dreamsearch.or.kr/servlet/"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
@@ -1230,7 +1231,6 @@ m.cine21.com##.hanad_area
 m.clien.net##.tb_lst_normal TD[style*="center"][style^="text-align:"]
 m.clien.net##div[style="clear:both;width:90%; margin:0 auto;"]
 m.clien.net##div[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
-m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
@@ -1326,7 +1326,6 @@ m.kmib.co.kr##DIV[class^="bnr_cmain"]
 m.kmib.co.kr##div.css_remon_wiki1
 m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
-m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
 m.media.daum.net##.bnr_service
@@ -1479,6 +1478,7 @@ media.daum.net###mAside > [class^="wing_bnr"]
 media.daum.net##.cont_view > .bnr_social
 media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
+mediatoday.co.kr###av_wide_reply > .avwr_1
 mediatoday.co.kr###banner_header_wide
 mediatoday.co.kr##[itemprop="articleBody"] > DIV[style*="float:"]
 mediatoday.co.kr##iframe[src*="/adItem/"]
@@ -1530,7 +1530,6 @@ mt.co.kr##div.ad
 mt.co.kr##ul.ad.only_640un
 mtn.co.kr###contentsBody > #banner230
 mtn.co.kr##.advertisement
-mtvdaily.asiae.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 mule.co.kr##.ad1
 mule.co.kr##.ad6
 mule.co.kr##.ad7
@@ -2085,6 +2084,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||at.artistchai.co.kr^
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
+||beusable.net/r?
 ||brunch.co.kr/static/libraries/js/jennifer.min-*.js^
 ||cafe24.com/weblog.js^
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
