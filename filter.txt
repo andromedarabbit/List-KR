@@ -1844,6 +1844,7 @@ tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
+techholic.co.kr##.ads
 tf.co.kr##.AD_box
 tf.co.kr##SPAN[id$="_spanTag_ad"]
 theappl.com###contentWarp > DIV[style*="background-color"]
