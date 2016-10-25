@@ -112,6 +112,7 @@
 ||adalba.co.kr^$third-party
 ||adapi.about.co.kr^
 ||adbasket.kr/adn?
+||adbrix.igaworks.com^$empty
 ||adby.co.kr^$popup
 ||adclicks.devpia.com/js.kti/devpia
 ||adclixad.daum.net^$third-party
@@ -616,6 +617,7 @@
 ||tvple.com/ab/MW-
 ||tvple.com/ab/PC-
 ||typemoon.net/bn/ad/
+||uncn.jp/*/amPOVobk?$empty
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||vads-api.daumkakao.com^
