@@ -675,6 +675,7 @@
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
 @@||img.ichannela.com/images/ad/banner/$image
+@@||img.ppomppu.co.kr/zboard/*/banner/logo/
 @@||imgcdn.pandora.tv/gplayer/ktop100/KoreaTop.swf^
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
