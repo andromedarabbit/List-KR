@@ -1858,6 +1858,7 @@ theappl.com##.pBanner
 thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
+time.navyism.com##body > * > div[style^="width:"][style*="90px"][style*="height:"]
 tistory.com##div.ad250_outter
 todayhumor.co.kr##.table_container > DIV[style*="1.8"] > DIV[style*="solid"]
 todayhumor.co.kr##div.under_ad_div
@@ -2288,6 +2289,7 @@ baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
+time.navyism.com#%#Object.defineProperty(window,"allstop",{get:function(){return!1},set:function(a){if(1==a)throw"kluelrdgf";}});window.addEventListener("error",function(a){a.message&&-1<a.message.indexOf("kluelrdgf")&&(a.preventDefault(),a.stopImmediatePropagation())});
 !------ disable auto scroll -------------------------
 ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,nanumnews.com,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------

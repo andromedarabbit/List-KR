@@ -20,3 +20,6 @@
 @@||gryfindor.com^$generichide
 @@||kflix.tv^$generichide
 @@||netmics.com^$generichide
+@@||time.navyism.com^$generichide
+! Element hiding rules
+time.navyism.com##div > .adsbygoogle
