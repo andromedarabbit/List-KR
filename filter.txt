@@ -1639,7 +1639,7 @@ news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.naver.com###articleBody > TABLE[align="right"]:first-child
 news.sbs.co.kr###all_vod_banner
-news.sbs.co.kr##.ad_area
+news.sbs.co.kr##div[class^="ad_"]
 news.sbs.co.kr##.w_article_ad
 news.tf.co.kr###right_ad
 news.tf.co.kr##.readRight > .mg_b30 > DIV[id$="_INSERT_SLOT_ID_HERE"]
