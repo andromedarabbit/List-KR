@@ -1239,6 +1239,7 @@ m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.comic.sportsseoul.com##.comics > .comicsBox + DIV[style$="0px;"]
 m.comic.sportsseoul.com##.comicsBox > DIV[style^="margin-top"]
 m.cstimes.com##iframe[src^="http://cm.interworksmedia.co.kr/"]
+m.dailian.co.kr###ad_layer110
 m.daum.net##.bnr_add
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
