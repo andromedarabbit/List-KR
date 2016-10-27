@@ -1837,6 +1837,7 @@ star.mt.co.kr##div.article_area>div[style="margin-top:10px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
+star.ohmynews.com##[class^="ad-"]
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###divpop
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > center
@@ -2275,6 +2276,14 @@ www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
 www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
+!----------------------------------------------------!
+!------ Extended CSS rules --------------------------!
+!----------------------------------------------------!
+!
+! Section contains list of CSS rules
+! that utilizes extended css selectors.
+!
+star.ohmynews.com##li[-ext-has=">.ad-box"]
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!
