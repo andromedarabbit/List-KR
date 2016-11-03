@@ -1842,6 +1842,9 @@ star.ohmynews.com##[class^="ad-"]
 stock.hankyung.com##.ad_view_highlight
 stock.hankyung.com##.ad_view_highlight + .clear_wrap
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
+story369.com##.adpromotion
+story369.com##.gi-btad
+story369.com##div[class^="ads_"]
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###divpop
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > center
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
