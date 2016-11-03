@@ -631,7 +631,7 @@
 ||wikitree.co.kr*/ad/
 ||winktv.co.kr/banner/$image
 ||wowtv.co.kr/AD/
-||ygosu.com/realclick/
+||ygosu.fileofcdn.com/banner_img/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 !------ Url components for multiple domains ---------
@@ -1955,7 +1955,7 @@ xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
 yes24.com##.yPartnerPop
 ygosu.com##.ad700
-ygosu.com##iframe[src^="/realclick/"]
+ygosu.com##div[id^="crt-"]
 yonhapnews.co.kr##div.aside-banner
 yonhapnews.co.kr##.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
