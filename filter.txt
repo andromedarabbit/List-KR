@@ -1248,6 +1248,7 @@ m.daum.net##.float_acm_banner
 m.dcinside.com###div_adnmore_area
 m.dcinside.com###lguplus_ad_banner
 m.dcinside.com###mmaDisplay
+m.dcinside.com##.section_premium
 m.dcinside.com##div[data-adam-elem="banner_wrapper"]
 m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
