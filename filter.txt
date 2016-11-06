@@ -1402,10 +1402,9 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
 m.shopping.naver.com###_power_link
 m.sportschosun.com###caulyad
-m.sportschosun.com###caulyad + DIV[style*="height"]
+m.sportschosun.com##.ac_cont + * + [style="height:150px;"]
+m.sportschosun.com##.ac_cont + [style="margin:0 10px;"]
 m.sportschosun.com##.ac_cont > DIV[style*="right;"][style*="width:"]
-m.sportschosun.com##.atl + * + DIV[style*="150"]
-m.sportschosun.com##.atl + DIV[style*="margin:0 10px;"]
 m.sportsseoul.com###container > DIV[style^="margin-top:5px;"]
 m.sportsseoul.com###photoINAD_area
 m.sportsseoul.com###ssadBottom
