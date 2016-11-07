@@ -435,6 +435,7 @@
 ||koreaportal.com/*/banners/ads_$image
 ||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
+||kyobobook.co.kr/newimages/adcenter^
 ||landingmaker.com^$third-party
 ||lego.zumst.com/*/images/banner/$image
 ||lightad.co.kr/Lightcoms/
@@ -1202,6 +1203,9 @@ kyeongin.com##.main_cont_ad
 kyeongin.com##.menu_box > [class^="menu_ad"]
 kyeongin.com##.view_right > .today_kyeongin + DIV[style*="250px"]
 kyeongin.com##BODY > DIV > #layerBanner
+kyobobook.co.kr###SearchPopup
+kyobobook.co.kr###SearchPopup2
+kyobobook.co.kr##.quick_ad
 land.naver.com##.ad
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
