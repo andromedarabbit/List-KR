@@ -2213,6 +2213,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
 ||stat*.nate.com/stat/*stat*.tiff?
+||static.joins.com/*/JTracker.js^
 ||statistics.news1.kr/logger/
 ||statistics.videofarm.daum.net^
 ||statweb.egloos.com^
