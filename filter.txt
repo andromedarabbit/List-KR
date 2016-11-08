@@ -636,6 +636,7 @@
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 !------ Url components for multiple domains ---------
+/banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr
 /cdsbData_gal/bannerFile/*$image,domain=mybogo.net|zipbogo.net
 /herald_*.html?refData=$domain=heraldcorp.com|betanews.net
 /NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
