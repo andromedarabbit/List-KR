@@ -1861,6 +1861,10 @@ te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
 techholic.co.kr##.ads
+tenasia.hankyung.com##div[class^="mask_div_"]
+tenasia.hankyung.com##iframe[src^="http://ad.about.co.kr"]
+tenasia.hankyung.com##iframe[src^="http://adpingpong"]
+tenasia.hankyung.com##iframe[src^="http://adv.imadrep.co.kr"]
 tf.co.kr##.AD_box
 tf.co.kr##SPAN[id$="_spanTag_ad"]
 theappl.com###contentWarp > DIV[style*="background-color"]
