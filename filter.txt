@@ -533,7 +533,7 @@
 ||newsway.kr/banner/banner_
 ||nextdaily.co.kr/*/article_count*.html
 ||nimage.newsway.kr/*/sub/ad_$image
-||nocutnews.co.kr/banner/2012/ad_right_*.asp^
+||nocutnews.co.kr/ad/adnca.
 ||nowcom.ad.nowcdn.co.kr^
 ||npian.com/nbox/ad*.swf^
 ||nsmartad.com^$third-party
@@ -1375,6 +1375,8 @@ m.newsway.co.kr##.news_body div[style^="height:85px; overflow:hidden;"]
 m.newsway.co.kr##a[href^="http://m.lottorich.co.kr"]
 m.nocutnews.co.kr###divContent > DIV[style*="200px"]
 m.nocutnews.co.kr##.ct1 > .con_b
+m.nocutnews.co.kr##.viewpic > div[style$="height:60px;"]
+m.nocutnews.co.kr##DIV[id^="AD_LIVE_AREA"] 
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
