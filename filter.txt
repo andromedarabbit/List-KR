@@ -240,6 +240,8 @@
 ||cast.wowtv.co.kr/xml_imad.html
 ||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
+||cauly.co.kr/websdk/*/ads.
+||cauly.co.kr^*websdk/caulyad.
 ||cdn.pandora.tv/_adv_img/
 ||cdn*.tnkfactory.com/fad/$empty
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
@@ -364,8 +366,6 @@
 ||imadrep.co.kr^$third-party
 ||imaeil.com/image/banner/ad*.swf^
 ||imaeil.com/wec/
-||image.cauly.co.kr/websdk/*/ads.js^
-||image.cauly.co.kr:15151^
 ||image.devpia.com/*/banner/
 ||image.devpia.com/NewDevpia/AD/
 ||image.devpia.com/NewDevpia/main/*banner/
@@ -1745,6 +1745,7 @@ pressian.com##.remove_ad
 pressian.com##.under_adban
 prod.danawa.com##.content_900 > [class^="banner_"]
 pullbbang.com###main_right_contents_wrap > [style*="250"]
+pullbbang.com###pandoraAd
 osmanias.com##.snb > .snb_widgt > a[target="_blank"] > img[width="300"]
 rec.netinsight.co.kr##.side_nw > #netinsight_rec_contents + DIV[style]
 reviewstar.hankooki.com##li.ad_plex_a250
