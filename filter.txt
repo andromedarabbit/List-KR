@@ -1426,6 +1426,9 @@ m.star.mt.co.kr###content>div[style="text-align:center;"]
 m.star.mt.co.kr###content>div[style="text-align:center; background:#fff"]
 m.star.mt.co.kr##section.bxcn4>div[style="width:300px;height:250px;position:relative;margin:0 auto;"]
 m.star.mt.co.kr##ul#flick-ad
+m.starseoultv.com##.body > div[style^="position: relative"][style*="width: 200px !important; height: 200px !important;"]
+m.starseoultv.com##section[id*="AD"]
+m.starseoultv.com##.body > div[style^="display:inline; float:middle;"]
 m.tf.co.kr###viewarea > DIV[style="padding-top:12px;padding-bottom:12px; width:99%; overflow:hidden;"]
 m.tf.co.kr##.adbox
 m.tf.co.kr##.tbRight>div[style="height:84px; position:relative; left:0px; top:0px; "]
