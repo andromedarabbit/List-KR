@@ -1192,6 +1192,11 @@ koreaherald.com##div.newslist>iframe
 koreaherald.com##div.tbanner
 koreaherald.com##section.gallrym
 koreaherald.com##section.nview>div[style="margin-bottom: 20px;"]
+koreatimes.co.kr##.view_page_news_related_news_wrapper
+koreatimes.co.kr##.view_page_translation_wrapper
+koreatimes.co.kr##a[name="top"] > div[style*="padding-top: 100px;"]
+koreatimes.co.kr##a[name="top"] > div[style$="height: 50px;"]
+koreatimes.co.kr##iframe[src^="http://search.n2s.co.kr/"]
 koreapas.com##DIV:nth-child(2) > DIV:nth-child(2) > DIV:last-child > A:last-child
 koreapas.com##DIV:nth-child(2) > TABLE:first-child > TBODY > TR:nth-child(2) > TD:last-child > A:last-child 
 koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="227"]
