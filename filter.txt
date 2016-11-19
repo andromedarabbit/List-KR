@@ -945,6 +945,7 @@ etnews.com##div.left_ad_div
 etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
+etobang.co.kr,etobang.com,etorrent.co.kr,etorrent.kr###mw_mobile_head3
 etoday.co.kr###ad_site_top
 etoday.co.kr##.cont_left_article + div[style*="500px"]
 etoday.co.kr##.e_real_time_w
