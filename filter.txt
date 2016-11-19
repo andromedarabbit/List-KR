@@ -428,7 +428,6 @@
 ||kado.net/banner/
 ||khan.co.kr/ad/
 ||kimcloud.kr/template/js/fadblock*.js^
-||kmib.co.kr/cp/realclick/
 ||kookje.co.kr/*/banner/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
@@ -1623,8 +1622,7 @@ news.khan.co.kr##.ad_interestInfo
 news.khan.co.kr##div[class^="ad_movFocus"]
 news.kmib.co.kr###article > div[style*="15px 10px"][style*="250px"]
 news.kmib.co.kr##.NwsCon > DIV[style*="688"][style*="110"]
-news.kmib.co.kr##.NwsCon > DIV[style*="700"][style*="150"]
-news.kmib.co.kr##.NwsCon > DIV[style*="700"][style*="180"]
+news.kmib.co.kr##.NwsCon > DIV[style*="700"][style*="370"]
 news.kmib.co.kr##.side_ifm_area > DIV[style*="height:"]:not([id])
 news.kmib.co.kr##.side_ifm_area>div.bnrct
 news.kmib.co.kr##.sub_header > .timgnws + DIV[style*="border-bottom"]
