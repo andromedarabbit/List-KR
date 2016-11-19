@@ -1434,10 +1434,9 @@ m.star.mt.co.kr##ul#flick-ad
 m.starseoultv.com##.body > div[style^="position: relative"][style*="width: 200px !important; height: 200px !important;"]
 m.starseoultv.com##section[id*="AD"]
 m.starseoultv.com##.body > div[style^="display:inline; float:middle;"]
-m.tf.co.kr###viewarea > DIV[style="padding-top:12px;padding-bottom:12px; width:99%; overflow:hidden;"]
 m.tf.co.kr##.adbox
+m.tf.co.kr##.tbLeft > div[style="height:100px; overflow-y:hindden;"]
 m.tf.co.kr##.tbRight>div[style="height:84px; position:relative; left:0px; top:0px; "]
-m.tf.co.kr##iframe[src^="http://adexpert.ad4989.co.kr"]
 m.theappl.com###mw_mobile > DIV[style*="background-color"]
 m.theappl.com##.google_ad_top
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
@@ -1657,10 +1656,10 @@ news.naver.com###articleBody > TABLE[align="right"]:first-child
 news.sbs.co.kr###all_vod_banner
 news.sbs.co.kr##div[class^="ad_"]
 news.sbs.co.kr##.w_article_ad
-news.tf.co.kr###right_ad
-news.tf.co.kr##.readRight > .mg_b30 > DIV[id$="_INSERT_SLOT_ID_HERE"]
+news.tf.co.kr###PrismDisplayBox
+news.tf.co.kr###posLeft > div[style*="468px;"][style*="60px;"]
 news.tf.co.kr##.readTopAd
-news.tf.co.kr##DIV[id^="AD_LIVE_AREA"]
+news.tf.co.kr##.realssp_dv
 news.tvchosun.com##.leftWrap > iframe[name="rank"] + iframe[src*="/ad/"]
 news.tvchosun.com##.native_box
 news.tvchosun.com##.news_body + * + .article
@@ -1876,8 +1875,8 @@ tenasia.hankyung.com##div[class^="mask_div_"]
 tenasia.hankyung.com##iframe[src^="http://ad.about.co.kr"]
 tenasia.hankyung.com##iframe[src^="http://adpingpong"]
 tenasia.hankyung.com##iframe[src^="http://adv.imadrep.co.kr"]
+tf.co.kr###wrapper > div[style^="margin:"][style*="728px; height:"]
 tf.co.kr##.AD_box
-tf.co.kr##SPAN[id$="_spanTag_ad"]
 theappl.com###contentWarp > DIV[style*="background-color"]
 theappl.com##.bnr_info
 theappl.com##.ClickChoice
@@ -2240,6 +2239,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||sublog.co.kr^
 ||tag-log.makeshop.co.kr/*.php^
 ||tagmanager.toast.com/tag^$third-party
+||talk.tf.co.kr/mammoth/
 ||tdisk.co.kr/mod_pagespeed_beacon?
 ||trace.sta1.co.kr^
 ||tiara.kakao.com^
