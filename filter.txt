@@ -1344,7 +1344,7 @@ m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
-m.media.daum.net##.bnr_service
+m.media.daum.net##.bnr_thumb
 m.mediatoday.co.kr##div[style="position:fixed;margin:0 auto;right:0;left:0;bottom:0;max-width:320px;"]
 m.mediatoday.co.kr##iframe[src^="http://adexpert.ad4989.co.kr"]
 m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
@@ -1487,15 +1487,12 @@ mbiz.heraldcorp.com##SPAN[id^="mfarm"]
 mbiz.heraldcorp.com##SPAN[id^="lumiText"]
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
-media.daum.net###EXTENSIBLE_WING_WRAP
 media.daum.net###banner250
 media.daum.net###daum-ad-root
-media.daum.net###daum-ad-root-ifrm
-media.daum.net###daumAd
 media.daum.net###mAside > .wing_shopping
-media.daum.net###mAside > [class^="wing_bnr"]
-media.daum.net##.cont_view > .bnr_social
-media.daum.net##.newsview_ad
+media.daum.net##.aside_ad
+media.daum.net##.wing_bnr1
+media.daum.net##.wing_bnr2
 mediatoday.co.kr###adbnFloating
 mediatoday.co.kr###av_wide_reply > .avwr_1
 mediatoday.co.kr###banner_header_wide
@@ -2286,7 +2283,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.yna.co.kr#$#.n-wrap-ticker { height: 33px!important; } .n-wrap-ticker2 { bottom: 0px!important; } .btn-top.scrolled { bottom:39px!important; } footer { padding-bottom: 30px!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
-media.daum.net#$##mAside > .bnr_ad + .wing_issue { padding-top: 10px; }
+media.daum.net#$##daumBody ~ #mAside > #banner250 + script + .wing_realnews { margin-top: 10px!important; }
 moeni.net#$##ad { height: 1px; display: none!important}
 mmzone.co.kr#$##horiz_ad_block { visibility: hidden!important; height:0px!important; padding: 0px!important;}
 news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
