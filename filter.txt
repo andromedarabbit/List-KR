@@ -1413,6 +1413,7 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
 m.shopping.naver.com###_power_link
+m.sporbiz.co.kr###articleBody > .body > div[style^="float:left"]
 m.sportschosun.com###caulyad
 m.sportschosun.com##.ac_cont + * + [style="height:150px;"]
 m.sportschosun.com##.ac_cont + [style="margin:0 10px;"]
@@ -1794,6 +1795,7 @@ snulife.com##[style*="122px;"] > DIV[style*="120px;"]:not([style*="277px;"])
 spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-of-type
 spojoy.com##[class^="banner_ad"]
 spojoy.com##TR:nth-child(2) > TD > TABLE[height="250"][width="970"]
+sporbiz.co.kr###banner_pos2
 sportalkorea.mt.co.kr###CmAdContent > p.review_txt
 sportalkorea.mt.co.kr###mk_ad
 sportalkorea.mt.co.kr###reView_ad
