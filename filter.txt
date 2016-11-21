@@ -1033,6 +1033,7 @@ hankooki.com##div[class^="ad_wrap"]
 hankooki.com##div[id^="ad2LineText"]
 hankooki.com##div[id^="adText"]
 hankooki.com##iframe[src*="/ad/"]
+hankookilbo.com##.mBanner
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
