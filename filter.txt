@@ -575,6 +575,7 @@
 ||semanticrep.net^$third-party
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
+||shallweadcorp.com^$third-party
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
@@ -1057,6 +1058,7 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_"]
 healthmedi.net##div.imagead-taskbar-anchor
+hellmoney.kr##iframe.realssp
 hentaku.net##a[href^="http://www.netfile.co.kr/banner/ad_banner"]
 heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
 heraldcorp.com###photoINAD_area
