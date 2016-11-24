@@ -301,7 +301,11 @@
 ||etnews.com/tools/refresh_script.html^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
+||etobang.co*/img/banner
+||etobang.co*/img/index_banner
 ||etoday.co.kr/include/etoday_ad_
+||etorrent.*kr/img/banner
+||etorrent.*kr/img/index_banner
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
 ||eventmanager.co.kr^$third-party
@@ -946,6 +950,7 @@ etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
 etobang.co.kr,etobang.com,etorrent.co.kr,etorrent.kr###mw_mobile_head3
+etobang.co.kr,etobang.com,etorrent.co.kr,etorrent.kr##td[bgcolor="#f4f4f4"] img[src*="/index_banner"]
 etoday.co.kr###ad_site_top
 etoday.co.kr##.cont_left_article + div[style*="500px"]
 etoday.co.kr##.e_real_time_w
