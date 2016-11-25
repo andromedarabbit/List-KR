@@ -2213,7 +2213,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ngc*.nsm-corp.com^$third-party
 ||nls.netmarble.net/pv.asp^
 ||nocutnews.co.kr/js/logger.htm^
-||nrd.netmarble.net^
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
 ||pds*.auction.co.kr^
