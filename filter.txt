@@ -1451,6 +1451,10 @@ m.theappl.com###mw_mobile > DIV[style*="background-color"]
 m.theappl.com##.google_ad_top
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
+m.viva100.com##.bm_box > div[style="width:360px; height:65px; margin:5px 0px 5px 0px;"]
+m.viva100.com##.content > div[style^="width:100%;height:"][style*="text-align:center"]
+m.viva100.com##div[class^="m_view_ad"]
+m.viva100.com##div[class^="moblie_ad"]
 m.webtoon.daum.net##[id^="valuepotion-ad-iframe-"]
 m.wikitree.co.kr###contentMidBanner
 m.wikitree.co.kr##.ad50
@@ -1949,6 +1953,10 @@ view.heraldm.com##div[id^="viewright_midad"]
 view.heraldm.com##div[id^="viewright_topad"]
 view.heraldm.com##iframe[id^="iframesrc_viewright_topad"]
 viewsnnews.com##aside.ads
+viva100.com##.left_text_box > div[style*="365px; height:"]
+viva100.com##.view_left_warp > div[style^="height:"][style*="220px"]
+viva100.com##div[class^="view_ad"]
+viva100.com##div[class^="view_view_adv"]
 vop.co.kr##.ad-middle
 vop.co.kr##.articlein_ad
 vop.co.kr##[class*="ad-mobile"]
@@ -2329,7 +2337,7 @@ linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'block
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 time.navyism.com#%#Object.defineProperty(window,"h237",{set:function(){throw"kluelrdgf";}});window.addEventListener("error",function(a){a.message&&-1<a.message.indexOf("kluelrdgf")&&(a.preventDefault(),a.stopImmediatePropagation())});
 !------ disable auto scroll -------------------------
-ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,munhwa.com,nanumnews.com,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
+ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,munhwa.com,nanumnews.com,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr,viva100.com#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
