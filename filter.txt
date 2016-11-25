@@ -2220,7 +2220,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||rmcnmv.naver.com/vts/trace/
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sbs.co.kr/log/clip_log.jsp^
-||sbs.co.kr/mod_pagespeed_beacon^
 ||sbs.co.kr/news/ajax/insert*Log.do^
 ||sc*.cpcguard.com/*.asp
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
@@ -2241,7 +2240,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||tag-log.makeshop.co.kr/*.php^
 ||tagmanager.toast.com/tag^$third-party
 ||talk.tf.co.kr/mammoth/
-||tdisk.co.kr/mod_pagespeed_beacon?
 ||trace.sta1.co.kr^
 ||tiara.kakao.com^
 ||track.linkprice.com/lpshow.php?
