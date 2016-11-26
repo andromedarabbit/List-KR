@@ -697,6 +697,7 @@
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
+@@||starking.sbs.co.kr/send_log_ad.jsp^
 @@||static.exoclick.com/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
@@ -2153,6 +2154,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||es.interpark.com/elog^
 ||estat.zum.com^
 ||gargoyle.daum.net^
+||gateway-log-env.ap-northeast-2.elasticbeanstalk.com/log
 ||geolook.tvchosun.com:8888
 ||global.apis.naver.com/etc/pc.nhn^
 ||global.apis.naver.com/pt.html^
