@@ -81,6 +81,7 @@
 ||ad.medicaltimes.com/MedicalADNew/
 ||ad.naver.com/admobile^
 ||ad.naver.com/adshow^
+||ad.naver.com/fxshow^
 ||ad.newsen.com/banner/
 ||ad.ohmynews.com/adhtmllist/adtv_
 ||ad.openmatch.co.kr^
