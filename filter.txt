@@ -1671,6 +1671,7 @@ news.tvchosun.com##.news_body + * + .article
 news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
 news.tvchosun.com##iframe[src*="front/rnbAdplex"]
 news.tvchosun.com##iframe[src^="http://plugin.2beon.co.kr"]
+news.zum.com##.banner_big
 news1.kr###article_body_content > a[href="http://comic.news1.kr"]
 news1.kr##.ad_wing_l
 news1.kr##.s_news_list > ul > DIV[style*="200px"]
