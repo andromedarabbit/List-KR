@@ -1124,7 +1124,6 @@ instiz.net$$script[type="text/javascript"][tag-content="naverbox"]
 interpark.com###powerLinkBox
 interpark.com###searchSponsorAd
 inven.co.kr##.bbsMiddleAd
-inven.co.kr##div[id$="AdTop"]
 isplus.joins.com##div.ad_area
 isplus.joins.com##div.ad_article_bottom1text
 isplus.joins.com##div.ad_v300
