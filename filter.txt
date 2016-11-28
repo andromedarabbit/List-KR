@@ -1883,6 +1883,7 @@ tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.section_ol > ol > li > center > a > img[src^="http://img.linkoooo.com"]
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.top_bg + td.dp
 tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##tr:last-of-type > td[align="center"] > a > img[src^="http://img.linkoooo.com"]
+te31.com###boy > #content > .box1
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
@@ -2313,6 +2314,7 @@ news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
+te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 windowsforum.kr#$##content > .content { margin-top: 10px!important; }
