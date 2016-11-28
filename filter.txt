@@ -437,6 +437,8 @@
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
 ||koreaportal.com/*/banners/ads_$image
+||ksilbo.co.kr/ad/
+||ksilbo.co.kr/banner/
 ||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
 ||kyobobook.co.kr/newimages/adcenter^
@@ -1215,6 +1217,7 @@ koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="430"
 koreapas.com##TABLE[background$="grayy.gif"]
 kr.celeb.yahoo.com###leftClickButton
 kr.celeb.yahoo.com###rightClickButton
+ksilbo.co.kr###layerPopup_top
 kyeongin.com##.bm_view > .view_left > [class^="viewBottom"]
 kyeongin.com##.main_cont_ad
 kyeongin.com##.menu_box > [class^="menu_ad"]
@@ -1355,6 +1358,8 @@ m.kmib.co.kr##div.css_remon_wiki1
 m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
+m.ksilbo.co.kr###articleBody > .body > section[style^="float:right;"]
+m.ksilbo.co.kr###middleAD
 m.kukinews.com##iframe[src^="http://adkpf.newscloud.or.kr/NetInsight/"]
 m.media.daum.net##.bnr_thumb
 m.mediatoday.co.kr##div[style="position:fixed;margin:0 auto;right:0;left:0;bottom:0;max-width:320px;"]
