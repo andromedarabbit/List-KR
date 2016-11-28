@@ -657,9 +657,9 @@
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise":\{/"noopstr":{/
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=*&adi=%5B%7B$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
-||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"(.|\s)*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
-||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>(.|\s)*?<\/ad>//
-||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)(.|\s)*?<\/field>/\$1<\/field>/
+||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"[\s\S]*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
+||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>[\s\S]*?<\/ad>//
+||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)[\s\S]*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
