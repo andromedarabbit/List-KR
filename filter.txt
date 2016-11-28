@@ -1072,6 +1072,8 @@ heraldcorp.com###photoINAD_area
 heraldcorp.com##[id^="adsmnc"]
 heyheyfriends.com###mvotd
 heyheyfriends.com###real_pop_bnr_floating
+hubnews.co.kr##.brick-vowel:first-child > div.grid1:nth-child(3):not(.id_uio_thumbnail)
+hubnews.co.kr##div[id^="ad_"]
 huffingtonpost.kr###modulous_article_bottom
 huffingtonpost.kr###modulous_leaderboard_flex
 huffingtonpost.kr###modulous_mid_article
