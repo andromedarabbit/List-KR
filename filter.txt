@@ -2306,6 +2306,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.yna.co.kr#$#.n-wrap-ticker { height: 33px!important; } .n-wrap-ticker2 { bottom: 0px!important; } .btn-top.scrolled { bottom:39px!important; } footer { padding-bottom: 30px!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
+m.ppomppu.co.kr#$#html { overflow-x: visible!important; }
 media.daum.net#$##daumBody ~ #mAside > #banner250 + script + .wing_realnews { margin-top: 10px!important; }
 moeni.net#$##ad { height: 1px; display: none!important}
 mmzone.co.kr#$##horiz_ad_block { visibility: hidden!important; height:0px!important; padding: 0px!important;}
