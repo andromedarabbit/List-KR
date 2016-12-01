@@ -1569,8 +1569,12 @@ mstoo.asiae.co.kr##.btm_banner
 mt.co.kr###art_ad_top1
 mt.co.kr###news_banner1
 mt.co.kr###news_banner2
+mt.co.kr##.art_topad_area
+mt.co.kr##.banner_big
 mt.co.kr##.mask_div[id^="mask_ad_"]
+mt.co.kr##.related_ad
 mt.co.kr##div.ad
+mt.co.kr##div.aside_bundle>div.mgt16
 mt.co.kr##ul.ad.only_640un
 mtn.co.kr###contentsBody > #banner230
 mtn.co.kr##.advertisement
@@ -1652,13 +1656,8 @@ news.kmib.co.kr##.side_ifm_area > DIV[style*="height:"]:not([id])
 news.kmib.co.kr##.side_ifm_area>div.bnrct
 news.kmib.co.kr##.sub_header > .timgnws + DIV[style*="border-bottom"]
 news.mk.co.kr###viewShopDiv
-news.mt.co.kr##.art_topad_area
-news.mt.co.kr##.banner_big
-news.mt.co.kr##.related_ad
-news.mt.co.kr##.view_text > div[style^="margin-top:"]:nth-last-child(-n+2)
 news.mk.co.kr##div.ad_viewrolling
 news.mk.co.kr##div.container_left>table>tbody>tr>td>table[style="margin-bottom:30px"]
-news.mt.co.kr##div.aside_bundle>div.mgt16
 news.mtn.co.kr###contentWrap > DIV[style*="text-align:"]
 news.mtn.co.kr##.sideContainer > .common:first-child
 news.nate.com###AdCommerce
