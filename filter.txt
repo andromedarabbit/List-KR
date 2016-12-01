@@ -285,6 +285,7 @@
 ||dn.naver.com/ad3/*.mp4
 ||dp25.kr^
 ||drbig.co.kr^$third-party
+||ebates.kr/static/js/utils/adblocker.
 ||ecoadproject.co.kr^$third-party
 ||edaily.co.kr/adview/
 ||emforce.co.kr^$third-party
@@ -911,6 +912,7 @@ dt.co.kr##.cntWrap>div[style]:not([class]):not([id])
 dvdprime.donga.com###comment_full_size > #cto_async_content.box_shadow_3
 dvdprime.donga.com###comment_full_size > [class="box_shadow_3 mobile_responsive_1_div"]
 dvdprime.donga.com###resContents + .relative[style]
+ebates.kr###ABP-warning-container
 economy.hankooki.com###ad2uShop
 economy.hankooki.com###ad690100
 economy.hankooki.com###ad690120
@@ -2157,6 +2159,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||cv.mklaud.com^
 ||dable.io/logs^
 ||dable.io/services/*/expose?
+||daumdn.com/clt.do?
 ||daum.net*/logcollector/log/map?
 ||discoveryplus.popin.cc/popin_discovery/
 ||diycounter.com/?
