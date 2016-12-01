@@ -597,6 +597,7 @@
 ||sports.chosun.com/js/scrollBanner*.js^
 ||sports.chosun.com/lphoto3.htm^
 ||sports.chosun.com/news/sports_chosun_hns.js^
+||ssp.adpies.com/ssp^
 ||st.keywordsconnect.com^
 ||static.instiz.net/images/bg_capture.png
 ||static.joins.com/isplus/ui/ad/
@@ -1186,6 +1187,8 @@ khan.co.kr##.link_cartoon
 khan.co.kr##.logo_area > .issue
 khan.co.kr##DIV[id^="AD_LIVE_AREA"]
 kin.naver.com##.broadcast_kin
+kns.tv###article-wrap > div[style*="100%; height:"][style*="250px"]
+kns.tv##.height-250.float-left
 kookje.co.kr###hs_bnr
 kookje.co.kr###news_textArea > DIV[style*="border:"][style*="468"]
 kookje.co.kr###news_textArea > DIV[style*="right;"][style*="255"]
