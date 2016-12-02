@@ -2043,11 +2043,12 @@ zum.com##.box_bottom_banner
 !
 ! Section contains list of element hiding exception rules
 !
-gryfindor.com#@#.ads-link
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
+gryfindor.com#@#.ads-link
 i.orbi.kr#@#.gridAd
+kknd2ro.cafe24.com#@##sidead
 persnacons.tistory.com#@#.adsbygoogle
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
