@@ -1077,6 +1077,7 @@ heraldcorp.com###photoINAD_area
 heraldcorp.com##[id^="adsmnc"]
 heyheyfriends.com###mvotd
 heyheyfriends.com###real_pop_bnr_floating
+hotdong.kr###PandoraAd
 hubnews.co.kr##.brick-vowel:first-child > div.grid1:nth-child(3):not(.id_uio_thumbnail)
 hubnews.co.kr##div[id^="ad_"]
 huffingtonpost.kr###modulous_article_bottom
@@ -2236,7 +2237,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
 ||pstatic.net/adimg3.search/adpost/js/
-||pullbbang.com*/js/*nlogger.js^
 ||r.popin.cc/log.gif?
 ||rcv.mklaud.com^
 ||rec.netinsight.co.kr/rec/*/view?
@@ -2287,6 +2287,8 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ygosu.com/empty.yg^
 ||z.o00.kr/*/nsense.js^
 ||zerocounter.com/?
+!------ Url components for multiple domains ---------
+/js/nlogger.js^$domain=hotdong.kr|pullbbang.com
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
