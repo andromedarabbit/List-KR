@@ -1396,6 +1396,7 @@ m.mydaily.co.kr##p.mobitree
 m.naver.com##div.grid_ad
 m.news.naver.com##div.ad_area
 m.news1.kr##.article_bottom > .wrap_m_title
+m.news1.kr##.banner01
 m.news1.kr##[class^="ads_"]
 m.news1.kr##iframe[src^="/template/ads/"]
 m.newsway.co.kr##.news_body div[style^="height:85px; overflow:hidden;"]
@@ -1685,12 +1686,11 @@ news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
 news.tvchosun.com##iframe[src*="front/rnbAdplex"]
 news.tvchosun.com##iframe[src^="http://plugin.2beon.co.kr"]
 news.zum.com##.banner_big
-news1.kr###article_body_content > a[href="http://comic.news1.kr"]
+news1.kr###MostHitNews
+news1.kr###prism_displayAD
 news1.kr##.ad_wing_l
 news1.kr##.s_news_list > ul > DIV[style*="200px"]
-news1.kr##.tit > DIV[style] > a[href="http://comic.news1.kr"]
 news1.kr##[itemprop="articleBody"] + * + DIV[style*="padding-bottom:"]
-news1.kr##a.stat_check_link
 news20.busan.com###clear_div + [style="margin: 0px auto; width: 970px; height: 250px;"]
 news20.busan.com###clear_div + [style="width:970px; height:250px; margin:0 auto;"]
 news20.busan.com###left_con > #topview
