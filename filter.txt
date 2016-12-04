@@ -1364,6 +1364,7 @@ m.kmib.co.kr##DIV[class^="bnr_cmain"]
 m.kmib.co.kr##div.css_remon_wiki1
 m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
+m.kns.tv###articleBody > .body > section[style^="float:right; width:"]
 m.kr.ajunews.com##iframe[src^="http://aj-adkpf.newscloud.or.kr/NetInsight"]
 m.ksilbo.co.kr###articleBody > .body > section[style^="float:right;"]
 m.ksilbo.co.kr###middleAD
