@@ -659,6 +659,7 @@
 !----------------------------------------------------!
 !
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise":\{/"noopstr":{/
