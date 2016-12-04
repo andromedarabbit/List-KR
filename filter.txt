@@ -2330,10 +2330,13 @@ te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 windowsforum.kr#$##content > .content { margin-top: 10px!important; }
-www.daum.net#$#.article_daum { display: inline!important; }
-www.daum.net#$#.cont_sub { display: inline!important; }
-www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; } 
-www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
+! www.daum.net#$#.article_daum { display: inline!important; }
+! www.daum.net#$#.cont_sub { display: inline!important; }
+! www.daum.net#$#.wrap_main { margin-right: auto!important; margin-left: 5px!important; }
+! www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
+www.daum.net#$#.cont_sub { margin-left: 660px!important; }
+www.daum.net#$#.wrap_main { margin-top:-125px!important; }
+www.daum.net#$#.wrap_sub .section_contents { margin-top: 0px!important; }
 www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
