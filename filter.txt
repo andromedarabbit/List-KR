@@ -335,6 +335,7 @@
 ||gesomoon.com/*/ad_*.html^
 ||get.keywordsconnect.com^
 ||get2.keywordsconnect.com^
+||ggilbo.com/banner/banner_
 ||globaleconomic.co.kr/banner_add/
 ||gplayer.kmpmedia.net/kmp_plus/platform/preroll/
 ||gsad.gameshot.net^
