@@ -241,6 +241,7 @@
 ||cast.wowtv.co.kr/xml_imad.html
 ||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
+||cauly.co.kr/richad/
 ||cauly.co.kr/websdk/*/ads.
 ||cauly.co.kr^*websdk/caulyad.
 ||cdn.pandora.tv/_adv_img/
