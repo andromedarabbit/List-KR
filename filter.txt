@@ -657,7 +657,7 @@
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
 !
-||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise":\{/"noopstr":{/
