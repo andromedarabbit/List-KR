@@ -274,7 +274,7 @@
 ||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
 ||dailymedi.com/master/banner/
-||danawa.com/NBP/powerLink.js.php^
+||danawa.com/NBP/powerLink.
 ||dcd.adotsolution.com/dcd/$empty
 ||dcinside.com/_js/ad.js^
 ||dcinside.com/api/_ad_search_link.php^
