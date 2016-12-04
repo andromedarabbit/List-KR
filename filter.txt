@@ -2146,6 +2146,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||asiatoday.co.kr/js/atoo_abc.js^
 ||at.artistchai.co.kr^
 ||at.mklaud.com/at/at_log*.php^
+||ats.auction.co.kr^
 ||auction.co.kr/search/searchlog.aspx?
 ||beusable.net/r?
 ||brunch.co.kr/static/libraries/js/jennifer.min-*.js^
@@ -2282,6 +2283,8 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !||tvcast.naver.com/resources/*/clickcr_*.js^$empty - until Adguard browser extensions suppport $empty modifier
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
+||uts.auction.co.kr^
+||utsssl.auction.co.kr^
 ||videost.nmv.naver.com/pt.html^
 ||wcts.coocha.co.kr^
 ||wl.osen.co.kr/loga/*.php^
