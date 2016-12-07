@@ -1308,6 +1308,8 @@ m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
+m.gomtv.com###pop_gomtvapp
+m.gomtv.com##body > .popup
 m.hackers.co.kr###app_down_wrap
 m.hani.co.kr##.text > div[style="width:300px;height:250px;margin:0 auto;"]
 m.hankooki.com###ad_img_div
@@ -2134,6 +2136,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ad1-kant.kakao.com^
 ||adlc-exchange.toast.com/log^$third-party
 ||ams.rmcnmv.naver.com/*/tracking/
+||ana.gomtv.com^
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
