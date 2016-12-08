@@ -423,6 +423,7 @@
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
 ||joinsmsn.com/_ui/ad/
+||joseilbo.com/Banner/
 ||joy-adstore.co.kr^$third-party
 ||joynews.inews24.com/ad*
 ||joynews.inews24.com/php/ad/
@@ -1178,6 +1179,11 @@ joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
 joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr###id_header_R
+joseilbo.com##.banner_box_wrap
+joseilbo.com##.main_article_banner
+joseilbo.com##.r1_banner
+joseilbo.com##.right_content_wrap > div[style*="300px; height:"]
+joseilbo.com##div[class^="right_list_ban"]
 khan.co.kr###mezzo_ad
 khan.co.kr###photoAD
 khan.co.kr###topLeft
@@ -1363,6 +1369,7 @@ m.inven.co.kr##[class*="mobileAd"]
 m.inven.co.kr##[class*="mobileDaNs"]
 m.inven.co.kr##DIV[data-n="widerplanet"]
 m.iworldtoday.com###articleBody > .body > DIV[style*="float:"]
+m.joseilbo.com##div[class^="google_ban_"]
 m.khan.co.kr###article_bottom_ad
 m.khan.co.kr###photoAD
 m.khan.co.kr##div.contBn
