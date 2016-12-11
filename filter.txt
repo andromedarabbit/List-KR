@@ -2406,5 +2406,5 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 !----------------------------------------------------!
 @@||cc.naver.com^$app=com.nhn.android.nmap
 @@||mlbpark.donga.com^$generichide
-tvcast.naver.com#%#"tvcast.naver.com"===window.location.host&&window.addEventListener("load",function(){setInterval(function(){var a=document.querySelector('video[id^="rmcPlayer_"]');a&&a.setAttribute("style",a.getAttribute("style").replace(/display\s*:[^;!]*!\s*important\s*(;|$)/,""))},500)});
+~m.tvcast.naver.com,tvcast.naver.com#%#function c(a){var f=src+"#",b=0;a.ondurationchange=function(){0==b&&(a.setAttribute("src",f),b++,a.play())}}var d=0,e=new (window.MutationObserver||window.WebKitMutationObserver)(function(a){a&&a.length&&a.forEach(function(a){var b=a.target;b&&"src"==a.attributeName&&"video"==b.tagName.toLowerCase()&&b.id&&0==b.id.indexOf("rmcPlayer_")&&"CONTENT"==b.playingVideoType&&0==d&&(d=1,src=b.getAttribute("src"),c(b),e.disconnect())})});AG_onLoad(function(){e.observe(document.body,{attributes:!0,subtree:!0})});
 !||adbasket.kr^$domain=tvple.com
