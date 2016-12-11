@@ -860,6 +860,7 @@ cine21.com##.banner_iframe_wrap
 cine21.com##.banner_top
 cine21.com##.main_content_banner
 cine21.com##DIV[class^="banner_han_"]
+cine21.com##div[id^="crt-"]
 clien.net###Recent>div.RecentWrap[style*="margin:"]
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
