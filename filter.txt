@@ -2371,6 +2371,7 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 ! that utilizes extended css selectors.
 !
 star.ohmynews.com##li[-ext-has=">.ad-box"]
+torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/page/partner_jump"]']
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!
