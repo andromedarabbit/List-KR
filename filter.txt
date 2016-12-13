@@ -1889,6 +1889,7 @@ slrclub.com###brand-mall
 slrclub.com##.ad
 slrclub.com##.ad2
 slrclub.com##DIV[id^="slrcf"]
+ssulwar.com##real_pop_bnr_floating
 star.mt.co.kr###aside>div[style="position:absolute; top:805px; right:-140px; width:120px;"]
 star.mt.co.kr###textBody>div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:10px;"]
@@ -2378,7 +2379,7 @@ star.ohmynews.com##li[-ext-has=">.ad-box"]
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-anigod.com,gryfindor.com,kflix.tv,netmics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,gryfindor.com,kflix.tv,netmics.com,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;
@@ -2391,7 +2392,7 @@ ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday
 blog.daum.net#%#Object.defineProperty(window, 'isblock', {get: function() { return false; } });
 blog.naver.com#%#Object.defineProperty(window, 'rightClickOpenYn', { get: function() { return false; } });
 cafe.daum.net#$#body,body *{ -moz-user-focus:normal!important; user-focus:normal!important;  -moz-user-select: auto!important; -webkit-user-select:auto!important; user-select:auto!important; }
-cafe.daum.net#%#var _ae = window.addEventListener; window.addEventListener = function(a,b,c){if(b.toString().indexOf("addEvent(document.body,'keydown'") === -1){_ae(a,b,c);} return;};
+cafe.daum.net,ssulwar.com#%#var _ae = window.addEventListener; window.addEventListener = function(a,b,c){if(b.toString().indexOf("addEvent(document.body,'keydown'") === -1){_ae(a,b,c);} return;};
 cafe.naver.com,tistory.com#%#Object.defineProperty( document, 'oncontextmenu', { set: function(i) { } }); Object.defineProperty( document, 'onselectstart', { set: function(i) { } }); Object.defineProperty( document, 'ondragstart', { set: function(i) { } });
 cafe.naver.com,m.etnews.com,ptware.net,snulife.com#$#* { -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; -moz-user-select: auto!important;}
 comic.naver.com,ptware.net#%#AG_onLoad( function() { (function(w){ var arr = ['contextmenu','copy','cut','paste','mousedown','mouseup','beforeunload','beforeprint','dragstart','selectstart']; for(var i = 0, x; x = arr[i]; i++){ if(w['on' + x])w['on' + x] = null; w.addEventListener(x, function(e){e.stopPropagation()}, true); }; for(var j = 0, f; f = w.frames[j]; j++){try{arguments.callee(f)}catch(e){}}})(window); } );
