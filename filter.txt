@@ -687,6 +687,7 @@
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
 @@||clickmon.co.kr/IMG_server/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
+@@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
@@ -2166,6 +2167,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||at.artistchai.co.kr^
 ||at.mklaud.com/at/at_log*.php^
 ||ats.auction.co.kr^
+||ats.gmarket.co.kr^
 ||auction.co.kr/search/searchlog.aspx?
 ||beusable.net/r?
 ||brunch.co.kr/static/libraries/js/jennifer.min-*.js^
@@ -2303,6 +2305,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||uts.auction.co.kr^
+||uts.gmarket.co.kr^
 ||utsssl.auction.co.kr^
 ||videost.nmv.naver.com/pt.html^
 ||wcts.coocha.co.kr^
