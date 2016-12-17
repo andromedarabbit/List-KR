@@ -2168,6 +2168,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||at.mklaud.com/at/at_log*.php^
 ||ats.auction.co.kr^
 ||ats.gmarket.co.kr^
+||atsssl.gmarket.co.kr^
 ||auction.co.kr/search/searchlog.aspx?
 ||beusable.net/r?
 ||brunch.co.kr/static/libraries/js/jennifer.min-*.js^
@@ -2261,7 +2262,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
 ||pds*.auction.co.kr^
-||pds*.gmarket.co.kr^
+||pds*.gmarket.co.kr^$domain=gmarket.co.kr
 ||pstatic.net/adimg3.search/adpost/js/
 ||r.popin.cc/log.gif?
 ||rcv.mklaud.com^
@@ -2307,6 +2308,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||uts.auction.co.kr^
 ||uts.gmarket.co.kr^
 ||utsssl.auction.co.kr^
+||utsssl.gmarket.co.kr^
 ||videost.nmv.naver.com/pt.html^
 ||wcts.coocha.co.kr^
 ||wl.osen.co.kr/loga/*.php^
