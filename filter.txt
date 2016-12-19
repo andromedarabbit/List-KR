@@ -1465,6 +1465,7 @@ m.sportschosun.com##.ac_cont + * + [style="height:150px;"]
 m.sportschosun.com##.ac_cont + [style="margin:0 10px;"]
 m.sportschosun.com##.ac_cont > DIV[style*="right;"][style*="width:"]
 m.sportsseoul.com###container > DIV[style^="margin-top:5px;"]
+m.sportsseoul.com###komsco
 m.sportsseoul.com###photoINAD_area
 m.sportsseoul.com###ssadBottom
 m.sportsseoul.com###wrap > #footer + DIV[style$="4px;"]
@@ -1773,6 +1774,8 @@ persnacons.tistory.com###adhere
 persnacons.tistory.com##[class="article clearfix"] > .adsbygoogle
 persnacons.tistory.com##.adblock-on
 persnacons.tistory.com##.bottomAD > .txc-textbox:first-child
+photo.sportsseoul.com###container > div[style*="90px;"][style*="height:"]:first-child
+photo.sportsseoul.com##.sub-content > div[style*="90px;"][style*="height:"]
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
@@ -1875,13 +1878,13 @@ sports.mk.co.kr##iframe[id^="spttb_"]
 sports.news.naver.com##.aside_inner[id^="right_big_banner"]
 sports.news.naver.com##.main_colgroup > .aside > .banner
 sports.news.naver.com##DIV[class^="home_da"]
-sportsseoul.co.kr,sportsseoul.com###ad_12 + [style$="250px;"]
 sportsseoul.co.kr,sportsseoul.com###ad_6 + [style$="90px;"]
+sportsseoul.com,sportsseoul.co.kr###ad_read_top + div[style$="167px;"]
 sportsseoul.co.kr,sportsseoul.com###div_laypopup
 sportsseoul.co.kr,sportsseoul.com###vod_banner
+sportsseoul.com,sportsseoul.co.kr##.article_newsWrap > #slides
 sportsseoul.co.kr,sportsseoul.com##.topBanner
 sportsseoul.co.kr,sportsseoul.com##[id^="ad_"]
-sportsseoul.co.kr,sportsseoul.com##iframe[src^="http://ads.sportsseoul.com"]
 sportsworldi.com##.dangbu_ad
 sportsworldi.com##.news_ranking > #tabmenu2
 sportsworldi.com##.Rightcon_sub > .news_Rtab
@@ -2354,6 +2357,7 @@ news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
+sportsseoul.com,sportsseoul.co.kr#$#.article_leftWrap + script + div[style$="10px;"] { clear:both!important; }
 te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
