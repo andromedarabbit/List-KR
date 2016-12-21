@@ -1398,6 +1398,7 @@ m.mk.co.kr##.new_ad
 m.mk.co.kr##.new_ad2
 m.mt.co.kr##div[id^="ad_"]
 m.mk.co.kr##div[id^="mainAdSlot"]
+m.mt.co.kr##.conbox6 > .only_640un[style*="-24"]
 m.mt.co.kr##ul[class^="ad_list_"]
 m.mt.co.kr##ul.list_t2[style]
 m.mtn.co.kr##.m_list > li[style^="padding:"]:not([onclick])
