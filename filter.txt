@@ -678,6 +678,8 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
+@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
+@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||adtg.widerplanet.com/delivery/wfr.php?*%252Fhayan.tv$domain=hayan.tv
@@ -686,7 +688,6 @@
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
-@@||clickmon.co.kr/IMG_server/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
@@ -694,7 +695,6 @@
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
 @@||hayan.tv/a/$stealth
-@@||hcimg.realclick.co.kr/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
@@ -712,7 +712,6 @@
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
 @@||starking.sbs.co.kr/send_log_ad.jsp^
-@@||static.exoclick.com/$image,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 !------ Stealth mode fixes ------------------------
