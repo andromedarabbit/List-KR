@@ -1779,6 +1779,11 @@ photo.sportsseoul.com##.sub-content > div[style*="90px;"][style*="height:"]
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
+pinaya.center##.bodybody > .slider_wrap
+pinaya.center##.side_custom a:not([href^="/files/attach/"]) > img[src^="/files/attach/images/"]
+pinaya.center##[style*="33.3"] > a:not([href^="/files/attach/"]) > img[src^="/files/attach/images/"]
+pinaya.center##a[href^="https://pinaya.center/request_payment"] > img[src^="/files/attach/images/"]
+pinaya.center##img[width="320"][alt="Banner Image"]
 player.kmpmedia.net##.taboola-link-view
 playwares.com##.bx-wrapper
 playwares.com##.two-column-right > DIV[style^="height:"]
@@ -2357,6 +2362,8 @@ news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
+pinaya.center#$#.caution-blind { display: none!important; }
+pinaya.center#$#.xe_content { display: block!important; }
 sportsseoul.com,sportsseoul.co.kr#$#.article_leftWrap + script + div[style$="10px;"] { clear:both!important; }
 te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
@@ -2389,7 +2396,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-anigod.com,gryfindor.com,kflix.tv,netmics.com,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,gryfindor.com,kflix.tv,netmics.com,pinaya.center,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;

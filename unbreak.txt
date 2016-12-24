@@ -22,6 +22,7 @@
 @@||gryfindor.com^$generichide
 @@||kflix.tv^$generichide
 @@||netmics.com^$generichide
+@@||pinaya.center^$generichide
 @@||ssulwar.com^$generichide
 @@||time.navyism.com^$generichide
 ! Element hiding rules
