@@ -201,6 +201,7 @@
 ||allsee.co.kr/js/allsee_banner.js$third-party
 ||amazonaws.com/avdbs.new/banner/
 ||amsv2.daum.net/ad/
+||android.kweather.co.kr/xmldata/*/getXML_AdInfo.php^
 ||anewsa.com/_ad/real/
 ||anewsa.com/img/mainBanner
 ||ap.tnkfactory.com/tnk/$empty
