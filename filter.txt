@@ -362,6 +362,7 @@
 ||humor.hani.co.kr/common/banner.html^
 ||humorbook.co.kr/img/banner/
 ||humorbook.co.kr/plugin/real_*.html^
+||humoruniv.com/uad_iframe.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||i.popincdn.com/discovery/$image
 ||ichannela.com/ch/*adpost*
