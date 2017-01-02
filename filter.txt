@@ -614,6 +614,7 @@
 ||static.joinsmsn.com/common/ui/ad/
 ||static.tpmn.co.kr/sb^$third-party
 ||static.tpmn.co.kr/sf^$third-party
+||storage.googleapis.com/moloco-creative-
 ||sunnyworks.co.kr/data/SW*.html^
 ||tag-match.co.kr^$third-party
 ||talklink.link/ko/ad/*_ad^
