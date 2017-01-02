@@ -21,6 +21,7 @@
 @@||anigod.com^$generichide
 @@||gryfindor.com^$generichide
 @@||kflix.tv^$generichide
+@@||minitoon.net^$generichide
 @@||netmics.com^$generichide
 @@||pinaya.center^$generichide
 @@||ssulwar.com^$generichide
