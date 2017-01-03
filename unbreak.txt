@@ -9,6 +9,7 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
+@@/fuckadblock.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@/js/ads.js^$domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||ads-optima.com/www/delivery/ajs.php?zoneid=3686^$domain=sportsseoul.co.kr|sportsseoul.com
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
