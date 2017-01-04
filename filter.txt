@@ -599,6 +599,7 @@
 ||showget.co.kr/*.php?
 ||sisainlive.com/script/ad_flow
 ||smart.linkprice.com/*.php?$third-party
+||smartposting.net/*/campaign/proc/$third-party
 ||smartposting.net/keyword/api/
 ||smr.tvpot.daum.net^
 ||smrmembers-smr.smartmediarep.com/smc/*/smr/contents/video/
@@ -1790,6 +1791,8 @@ pinaya.center##.side_custom a:not([href^="/files/attach/"]) > img[src^="/files/a
 pinaya.center##[style*="33.3"] > a:not([href^="/files/attach/"]) > img[src^="/files/attach/images/"]
 pinaya.center##a[href^="https://pinaya.center/request_payment"] > img[src^="/files/attach/images/"]
 pinaya.center##img[width="320"][alt="Banner Image"]
+play.afreecatv.com##.adcon-area
+play.afreecatv.com##.promotion_area > a
 player.kmpmedia.net##.taboola-link-view
 playwares.com##.bx-wrapper
 playwares.com##.two-column-right > DIV[style^="height:"]
