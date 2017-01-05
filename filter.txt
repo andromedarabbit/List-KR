@@ -646,6 +646,7 @@
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||vrn.co.kr/banner/rollbanner_
+||wasabisyrup.com/template/plugin01.js^
 ||wcorp.co.kr/adbasket^
 ||web.humoruniv.com/banner/
 ||web.n2s.co.kr^$third-party
