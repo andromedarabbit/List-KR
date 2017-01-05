@@ -941,7 +941,8 @@ economy.hankooki.com###adIssueTrend
 economy.hankooki.com##div.banner300
 economy.hankooki.com##div.banner580
 economy.hankooki.com##div[class^="ad_line"]
-econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
+econovill.com##center > table[width^="690"]
+econovill.com##div[itemprop="articleBody"] > DIV[style*="250px; height:"]
 edaily.co.kr##[class^="banner"]
 edaily.co.kr##div[id^="w_read"]
 edudonga.com##.main_full_banner
