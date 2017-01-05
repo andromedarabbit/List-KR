@@ -934,6 +934,9 @@ dvdprime.donga.com###comment_full_size > #cto_async_content.box_shadow_3
 dvdprime.donga.com###comment_full_size > [class="box_shadow_3 mobile_responsive_1_div"]
 dvdprime.donga.com###resContents + .relative[style]
 ebates.kr###ABP-warning-container
+ebn.co.kr###prism_displayAD
+ebn.co.kr##.bn320x200
+ebn.co.kr##iframe[src^="http://ad.adinc.kr"]
 economy.hankooki.com###ad2uShop
 economy.hankooki.com###ad690100
 economy.hankooki.com###ad690120
