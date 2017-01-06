@@ -671,6 +671,7 @@
 !----------------------------------------------------!
 !
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
 ||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
 ||gox.gomtv.com/cgi-bin/gox_play.cgi?*player=ANDROID&*datatype=xml&$replace=/<ENTRY (?:[^>]*?["\s])?type="gomad"[^>]*?>[\s\S]*?<\/ENTRY>//
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
