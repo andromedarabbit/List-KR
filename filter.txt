@@ -421,6 +421,7 @@
 ||inven.co.kr/common/lib/js/adns.js^
 ||jac24.co.kr^$third-party
 ||jboa24.com?u^
+||jdaily.co.kr^$third-party
 ||jisiklog.com/getNBP^
 ||jjan.kr/popupManager*/js/
 ||jjanglive.com/flash/AdShowClient.swf^
