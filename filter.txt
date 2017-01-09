@@ -646,6 +646,7 @@
 ||vads-api.daumkakao.com^
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
+||vop.co.kr/templates/*/mobile_fixed_ad_
 ||vrn.co.kr/banner/rollbanner_
 ||wasabisyrup.com/template/plugin01.js^
 ||wcorp.co.kr/adbasket^
