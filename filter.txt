@@ -672,6 +672,7 @@
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
 !
+://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
 ||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
@@ -2228,6 +2229,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||global.apis.naver.com/etc/pc.nhn^
 ||global.apis.naver.com/pt.html^
 ||globaleconomic.co.kr/js/logger/
+||gomtv-smr.smartmediarep.com/smc/*/smr/contents/video/
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||hanlog.co.kr^$third-party
@@ -2253,6 +2255,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||log.2beon.co.kr^
 ||log.adop.cc^
 ||log.ajunews.com:8881^
+||log.cloud.sbs.co.kr^
 ||log.edgebook.com^
 ||log.etoday.co.kr^
 ||log.kcisa.kr/tag/
@@ -2284,6 +2287,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ngc*.nsm-corp.com^$third-party
 ||nls.netmarble.net/pv.asp^
 ||nocutnews.co.kr/js/logger.htm^
+||olaplog.smartmediarep.com^
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
 ||pds*.auction.co.kr^
