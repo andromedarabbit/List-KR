@@ -2223,6 +2223,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||dmcf1.com^$third-party
 ||es.interpark.com/elog^
 ||estat.zum.com^
+||ga.tworld.co.kr/collect^
 ||gargoyle.daum.net^
 ||gateway-log-env.ap-northeast-2.elasticbeanstalk.com/log
 ||geolook.tvchosun.com:8888
