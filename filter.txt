@@ -288,6 +288,7 @@
 ||dispatch.co.kr/ad/
 ||display.ad.daum.net/imp^
 ||dn.naver.com/ad3/*.mp4
+||downinfo.cauly.co.kr^
 ||dp25.kr^
 ||drbig.co.kr^$third-party
 ||ebates.kr/static/js/utils/adblocker.
@@ -342,6 +343,7 @@
 ||ggilbo.com/banner/banner_
 ||globaleconomic.co.kr/banner_add/
 ||gplayer.kmpmedia.net/kmp_plus/platform/preroll/
+||graph.facebook.com^$app=com.dcinside.app
 ||gsad.gameshot.net^
 ||guide.allblet.net^
 ||h*.adscope.co.kr^
@@ -439,6 +441,7 @@
 ||js.keywordsconnect.com^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
+||json.dcinside.com/App/app_ad_setting.php^
 ||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||kado.net/banner/
