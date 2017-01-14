@@ -1563,8 +1563,8 @@ mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
 media.daum.net###banner250
 media.daum.net###daum-ad-root
+media.daum.net###kakaoContent:not(.cont_home) .aside_ad
 media.daum.net###mAside > .wing_shopping
-media.daum.net##.aside_ad
 media.daum.net##.wing_bnr1
 media.daum.net##.wing_bnr2
 mediatoday.co.kr###adbnFloating
