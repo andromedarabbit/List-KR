@@ -829,8 +829,10 @@ asiatoday.co.kr##div.mask_div
 asiatoday.co.kr##iframe[src^="/comm/ads/"]
 auction.co.kr##.plan-affiliate
 auth.spcnetworks.kr###adBackground
-avsnoop.net###adArea
-avsnoop.net##.banner > a[href^="/_ad.php?"]
+avsnoop.co.uk###adArea 
+avsnoop.co.uk##.banner > a[href^="/_ad.php?"] 
+avsnoop.co.uk##.infobox > .p2 + .p4
+avsnoop.co.uk##tr.ad
 baykoreans.com,baykoreans.net##.boardRead > DIV > .clear
 baykoreans.com,baykoreans.net##.board > .clear
 baykoreans.com,baykoreans.net##.viewDocument > .clear
