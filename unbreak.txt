@@ -27,5 +27,6 @@
 @@||pinaya.center^$generichide
 @@||ssulwar.com^$generichide
 @@||time.navyism.com^$generichide
+@@||wasabisyrup.com^$generichide
 ! Element hiding rules
 time.navyism.com##div > .adsbygoogle

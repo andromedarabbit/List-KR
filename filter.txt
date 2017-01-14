@@ -651,7 +651,7 @@
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||vop.co.kr/templates/*/mobile_fixed_ad_
 ||vrn.co.kr/banner/rollbanner_
-||wasabisyrup.com/template/plugin01.js^
+||wasabisyrup.com/template/plugin02.js^
 ||wcorp.co.kr/adbasket^
 ||web.humoruniv.com/banner/
 ||web.n2s.co.kr^$third-party
@@ -2030,6 +2030,8 @@ viva100.com##div[class^="view_view_adv"]
 vop.co.kr##.ad-middle
 vop.co.kr##.articlein_ad
 vop.co.kr##[class*="ad-mobile"]
+wasabisyrup.com##footer > .bottom-group
+wasabisyrup.com##header > .top-group
 web.humoruniv.com###ad_240
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
@@ -2430,6 +2432,7 @@ minitoon.net#%#window.fuckAdBlock = false;
 linsoo.co.kr#%#window.fuckAdBlock = false; Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 ruinses.tistory.com#%#window.fuckAdBlock = false; Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 time.navyism.com#%#Object.defineProperty(window,"h237",{set:function(){throw"kluelrdgf";}});window.addEventListener("error",function(a){a.message&&-1<a.message.indexOf("kluelrdgf")&&(a.preventDefault(),a.stopImmediatePropagation())});
+wasabisyrup.com#%#(function(){var b=window.addEventListener;window.addEventListener=function(c,a,d){-1==a.toString().indexOf("self._creatBait()")&&b(c,a,d)}.bind(window)})();
 !------ disable auto scroll -------------------------
 ajunews.com,anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,busan.com,cctoday.co.kr,ilyo.co.kr,jjan.kr,mediaus.co.kr,mt.co.kr,munhwa.com,nanumnews.com,newsis.com,nextdaily.co.kr,rpm9.com,spojoy.com,stoo.asiae.co.kr,viva100.com#%#Object.defineProperty( window, 'rc_ad_display', { set: function() { throw new TypeError(); }.bind() });
 !------ context menu enablers -----------------------
