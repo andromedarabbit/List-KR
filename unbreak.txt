@@ -28,5 +28,7 @@
 @@||ssulwar.com^$generichide
 @@||time.navyism.com^$generichide
 @@||wasabisyrup.com^$generichide
+! Url blocking rules
+||melon.com/mlog.js^
 ! Element hiding rules
 time.navyism.com##div > .adsbygoogle

@@ -2268,6 +2268,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||log.etoday.co.kr^
 ||log.kcisa.kr/tag/
 ||log.kmplayer.com^
+||log.melon.com^$~script,empty
 ||log.news.joins.com^
 ||log.sunnyworks.co.kr^
 ||log.sv.pandora.tv^
@@ -2283,7 +2284,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||makeshop.co.kr/js/mslog.js^
 ||medialog.smartmediarep.com/api/*/tracking^
 ||megadata.co.kr^$third-party
-||melon.com/mlog.js^
 ||mgc.nsm-corp.com^
 ||miraelog.net^$third-party
 ||mk.co.kr/include/mkNewsLogIframe.php^
