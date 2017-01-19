@@ -607,6 +607,7 @@
 ||smartposting.net/keyword/api/
 ||smr.tvpot.daum.net^
 ||smrmembers-smr.smartmediarep.com/smc/*/smr/contents/video/
+||soriaudio.com/files/attach/banner_images/
 !----------------------- reviewed up to here -------------------------------------
 ||sports.chosun.com/banner/
 ||sports.chosun.com/js/scrollBanner*.js^
@@ -726,6 +727,7 @@
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
+@@||soriaudio.com/page/banner.php?mid=m_eqp$domain=soriaudio.com
 @@||starking.sbs.co.kr/send_log_ad.jsp^
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
@@ -1873,6 +1875,7 @@ snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
 snulife.com###comment > DIV:first-child > [style*="2% 2% 1%"]
 snulife.com###wm_area
 snulife.com##[style*="122px;"] > DIV[style*="120px;"]:not([style*="277px;"])
+soriaudio.com###adBannerID
 spojoy.com###bodyWrapper > TABLE:nth-child(2) > TBODY > TR > TD > TABLE[height="94"]:last-of-type
 spojoy.com##[class^="banner_ad"]
 spojoy.com##TR:nth-child(2) > TD > TABLE[height="250"][width="970"]
