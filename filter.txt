@@ -325,6 +325,7 @@
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
+||filter.geto.co.kr/new_lewd_stop.asp^
 ||fmkorea.com/_adpage/
 ||fnnews.com/control^
 ||fnnews.com/include2011/section/google.jsp^
