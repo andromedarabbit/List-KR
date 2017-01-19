@@ -1683,6 +1683,7 @@ news.donga.com##div[class^="sub_cont_AD"]
 news.donga.com,sports.donga.com##[id^="view_body_middle_iframe"]
 news.donga.com,sports.donga.com##div[class^="aside_AD"]
 news.donga.com,sports.donga.com##div[id^="left_AD_"]
+news.ichannela.com##.relative_bt_ad
 news.joins.com###articeltopbanner
 news.joins.com##.ab_adtxt_wrap
 news.joins.com##.shpping_life
