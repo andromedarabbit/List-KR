@@ -288,6 +288,7 @@
 ||dispatch.co.kr/ad/
 ||display.ad.daum.net/imp^
 ||dn.naver.com/ad3/*.mp4
+||dn.naver.net/ad3/*.mp4
 ||downinfo.cauly.co.kr^
 ||dp25.kr^
 ||drbig.co.kr^$third-party
@@ -682,8 +683,8 @@
 ||gox.gomtv.com/cgi-bin/gox_play.cgi?*player=ANDROID&*datatype=xml&$replace=/<ENTRY (?:[^>]*?["\s])?type="gomad"[^>]*?>[\s\S]*?<\/ENTRY>//
 ||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
 ||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
-||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=*&adi=%5B%7B$replace=/"advertise":\{/"noopstr":{/
-||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=*&adi=%5B%7B$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=$replace=/"advertise":\{/"noopstr":{/
+||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"[\s\S]*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
 ||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>[\s\S]*?<\/ad>//
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)[\s\S]*?<\/field>/\$1<\/field>/
