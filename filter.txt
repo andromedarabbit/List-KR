@@ -2195,6 +2195,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||analytics.bandi.so^
 ||analytics.bandisoft.co.kr^
 ||analytics.daumdn.com^$empty
+||analytics.nexon.com^
 ||analytics.valuepotion.com^
 ||analytics-event.kakao.com^$empty
 ||api-log.wemakeprice.com/*.php?
@@ -2295,6 +2296,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||mywebtrends.co.kr^$third-party
 ||nastg.widerplanet.com^
 ||nelo*-col.navercorp.com/_store^
+||nexon.com/act.nhs^
 ||nextdaily.co.kr/tools/article_count*.html
 ||ngc*.nsm-corp.com^$third-party
 ||nls.netmarble.net/pv.asp^
