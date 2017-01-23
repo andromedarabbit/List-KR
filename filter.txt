@@ -1385,6 +1385,7 @@ m.inews24.com##[style$="#ebebeb;"]
 m.inews24.com##.ad-container
 m.inews24.com##.ad_myadcom
 m.inews24.com##iframe[src^="http://adv.realclick.co.kr/ad_headcopy/"]
+m.insight.co.kr###search + div[style*="height: 50px;"]
 m.insight.co.kr##.ad-google-0
 m.insight.co.kr##.page-detail-text-ad
 m.insight.co.kr##.page-more-ad
