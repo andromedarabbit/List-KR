@@ -1939,13 +1939,10 @@ stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
 story369.com##.adpromotion
 story369.com##.gi-btad
 story369.com##div[class^="ads_"]
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###divpop
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > center
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.section_ol > ol > li > center > a > img[src^="http://img.linkoooo.com"]
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##.top_bg + td.dp
-tcafe.net,tcafe1.com,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcaferr.com,tcafex.com,tcafez.net##tr:last-of-type > td[align="center"] > a > img[src^="http://img.linkoooo.com"]
+tcafe1.com,tcafe2.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
+tcafe1.com,tcafe2.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
+tcafe1.com,tcafe2.com###mw_basic > table[width^="100"] > tbody >  tr:nth-child(6) > td:not([class]):not([height]):not([width])
+tcafe1.com,tcafe2.com##div[id^="divpop"]
 te31.com###boy > #content > .box1
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
