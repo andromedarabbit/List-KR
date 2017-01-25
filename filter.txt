@@ -1318,6 +1318,7 @@ m.daum.net##.float_acm_banner
 m.dcinside.com###mmaDisplay
 m.dcinside.com###set_list_bottom
 m.dcinside.com###set_list_middle_ad
+m.dcinside.com###set_list_top
 m.dcinside.com###set_comment_bottom
 m.dcinside.com###set_prevNextList_bottom
 m.dcinside.com###set_view_middle
