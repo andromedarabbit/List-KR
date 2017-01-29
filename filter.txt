@@ -629,6 +629,7 @@
 ||tf.co.kr/*/ad/ad_*.html^
 ||tf.co.kr/*/tf.ad.js^
 ||tf.co.kr/js/ss_ad.js^
+||theappl.com/api/toon.world.api.new.php?flag=new_and_native^
 ||theappl.com/images/banner/
 ||theprimead.co.kr^$third-party
 ||ti-center.co.kr^$third-party
@@ -689,6 +690,7 @@
 ||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"[\s\S]*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
 ||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>[\s\S]*?<\/ad>//
+||theappl.com/api/toon.world.api.new.php?flag=ver|$replace=/"(start_pop|end_pop)"\:"yes"/"\$1":"no"/
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)[\s\S]*?<\/field>/\$1<\/field>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
