@@ -18,6 +18,8 @@
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
 /about_*_shopbox.
+/asset/squid/css/wine.css^
+/asset/squid/js/dev_wine.js^
 /mobitree_*.js^
 /nad/media/*
 /naon_*.html^
@@ -763,6 +765,7 @@
 ###uniqubeAd_area_iframe
 ###uniqubeAd_area_text
 ###uniqubeFirstDiv
+###wineareaPlanty
 ###wiseAd
 ##.adsbyadop
 ##div.ezAdsense
