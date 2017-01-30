@@ -1039,6 +1039,7 @@ gall.dcinside.com##.box_contents > div > .banner_box
 gall.dcinside.com##.gallmain_minor .mtop_right
 gall.dcinside.com##.google_banner
 gall.dcinside.com##.re_gall_box_1 > .con_banner
+game.donga.com##.banner
 gamechosun.co.kr###ad_overture_sky
 gamechosun.co.kr###leftBoxBanner
 gamechosun.co.kr###over_articleB
