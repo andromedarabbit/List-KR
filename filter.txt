@@ -153,6 +153,7 @@
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
 ||adp.adpies.com/adp/$empty
+||adpica.mediaweb.co.kr^$empty,important
 ||adpick.co.kr^$third-party
 ||adpingpong.co.kr^$third-party
 ||adpingpong1.co.kr^$third-party
@@ -253,6 +254,8 @@
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
 ||christiantoday.co.kr/data/banner/$image
 ||cjmooter.xcache.kinxcdn.com/script/
+||cl.smart-manager.co.kr^
+||clk.touchnclick.co.kr^
 ||clickmon.co.kr/pop/*.php?$third-party
 ||clien.net/cs3/nbpad/
 ||clkads.com^
@@ -445,6 +448,7 @@
 ||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||kado.net/banner/
+||keywordt.tabbar.co.kr^$popup
 ||khan.co.kr/ad/
 ||kimcloud.kr/template/js/fadblock*.js^
 ||kookje.co.kr/*/banner/
@@ -552,6 +556,7 @@
 ||newswave.kr/ad/
 ||newsway.kr/ad/
 ||newsway.kr/banner/banner_
+||nextsearch.co.kr^$popup
 ||nextdaily.co.kr/*/article_count*.html
 ||nimage.newsway.kr/*/sub/ad_$image
 ||nocutnews.co.kr/ad/adnca.
