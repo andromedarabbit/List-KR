@@ -1796,6 +1796,10 @@ ohmynews.com##div.wing_gallery_banner
 ohmynews.com##div[class^="aside_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
+ondemandkorea.com###floating_banner_item
+ondemandkorea.com###odk_player > #overlay_div
+ondemandkorea.com###programs > #list > li[style^="width:"][style*="!important"] 
+ondemandkorea.com##.main_banner
 onlifezone.com##.gpe_pm_conban_code
 osen.mt.co.kr###aside2 > DIV[style*="height:"]
 osen.mt.co.kr##.detailBox > DIV[style*="height"]
@@ -2126,6 +2130,7 @@ biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 gryfindor.com#@#.ads-link
 i.orbi.kr#@#.gridAd
 kknd2ro.cafe24.com#@##sidead
+ondemandkorea.com#@#.afs_ads
 persnacons.tistory.com#@#.adsbygoogle
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
@@ -2291,6 +2296,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||log.kmplayer.com^
 ||log.melon.com^$~script,empty
 ||log.news.joins.com^
+||log.ondemandkorea.com^
 ||log.sunnyworks.co.kr^
 ||log.sv.pandora.tv^
 ||log.tving.com^
@@ -2318,10 +2324,12 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||nls.netmarble.net/pv.asp^
 ||nocutnews.co.kr/js/logger.htm^
 ||olaplog.smartmediarep.com^
+||ondemandkorea.com/includes/adblock_count.php^
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^$domain=gmarket.co.kr
+||playlog.ondemandkorea.com^
 ||pstatic.net/adimg3.search/adpost/js/
 ||r.popin.cc/log.gif?
 ||rcv.mklaud.com^
