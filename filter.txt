@@ -2053,6 +2053,8 @@ viva100.com##div[class^="view_view_adv"]
 vop.co.kr##.ad-middle
 vop.co.kr##.articlein_ad
 vop.co.kr##[class*="ad-mobile"]
+wasabisyrup.com##.article-gallery-group.viewer-hidden:first-child
+wasabisyrup.com##.article-gallery-group.viewer-hidden:last-child
 wasabisyrup.com##footer > .bottom-group
 wasabisyrup.com##header > .top-group
 web.humoruniv.com###ad_240
