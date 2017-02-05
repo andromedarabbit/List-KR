@@ -1623,6 +1623,7 @@ mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
 mobile.newsis.com###article > DIV[style="padding:30px 0 0 12px;"]
 mobile.newsis.com##.bxcn[style^="padding:"]
+mongri.net##ins.adsbygoogle
 mosen.mt.co.kr##div[id^="adList"]
 movie.daum.net##.bnr_topside
 mpop.heraldcorp.com##.story > [id^="ad4989"]
@@ -2131,6 +2132,7 @@ biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
 gryfindor.com#@#.ads-link
 i.orbi.kr#@#.gridAd
 kknd2ro.cafe24.com#@##sidead
+mongri.net#@#.adsbygoogle
 ondemandkorea.com#@#.afs_ads
 persnacons.tistory.com#@#.adsbygoogle
 !-------------------------------------------------------------------------------!
@@ -2456,7 +2458,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,anigod.com,gryfindor.com,kflix.tv,money2015.tistory.com,netmics.com,pinaya.center,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+10games.tistory.com,anigod.com,gryfindor.com,kflix.tv,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#window.fuckAdBlock = false;
