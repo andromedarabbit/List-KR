@@ -796,6 +796,7 @@ afbbs.afreecatv.com###div_video_ad_banner
 agora.daum.net###rBanner
 agora.daum.net##.bnr_agora
 agora.daum.net##A.bnr_livboard
+airtravelinfo.kr##ins.adsbygoogle
 ajunews.com###articleBody DIV[style*="200px"][style*="right"]
 ajunews.com###page-body > .blk675 > .inner-float + .ofw
 ajunews.com##.layer_popup[id^="POPUP_"]
@@ -2129,6 +2130,7 @@ zum.com##.box_bottom_banner
 !
 ! Section contains list of element hiding exception rules
 !
+airtravelinfo.kr#@#.adsbygoogle
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
