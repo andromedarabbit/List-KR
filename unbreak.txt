@@ -22,6 +22,7 @@
 ! Element hiding exception rules
 @@||10games.tistory.com^$generichide
 @@||anigod.com^$generichide
+@@||caskers.tistory.com^$generichide
 @@||gryfindor.com^$generichide
 @@||jimnong.tistory.com^$generichide
 @@||kflix.tv^$generichide
