@@ -352,6 +352,7 @@
 ||h*.adscope.co.kr^
 ||hackers.ac/site/*_banner.php^
 ||hackers.gscdn.com/*_baner/
+||hangulogame.com/js/axuddy.
 ||hani.co.kr/section-adv/
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
