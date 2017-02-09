@@ -729,6 +729,7 @@
 @@||imgcdn.pandora.tv/gplayer/ktop100/KoreaTop.swf^
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
+@@||moeni.net/adBanner.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
