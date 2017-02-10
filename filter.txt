@@ -1065,10 +1065,8 @@ gesomoon.com##.conLeft > DIV:not([id]):not([style])
 gesomoon.com##.cnt > p + DIV:last-child
 gesomoon.com##[id^="layerBanner"]
 gesomoon.com##P.btmBan
-gigglehd.com###column > a[href="http://coolenjoy.net/"]
-gigglehd.com###column > DIV:not([style]) > A[href]
-gigglehd.com###column > DIV > DIV > .nw_box
-gigglehd.com##.boardRead + DIV[align="center"]
+gigglehd.com##.nw_box
+gigglehd.com##.widget_banner_skin
 gmarket.co.kr##.m_ad
 gplayer.kmpmedia.net##.banners
 gplayer.kmpmedia.net##.taboola-link-view
@@ -2415,7 +2413,6 @@ betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com#$#iframe[src*="/he
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
 g-enews.com#$#article.breraking { top:146px!important; }
-gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 hayan.tv#$##screen { overflow: visible!important; }
 hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
 hungryapp.co.kr#$#BODY { background: none!important; }
@@ -2460,6 +2457,7 @@ www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 ! Section contains list of CSS rules
 ! that utilizes extended css selectors.
 !
+gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/page/partner_jump"]']
 !----------------------------------------------------!
