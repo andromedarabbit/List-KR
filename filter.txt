@@ -2319,6 +2319,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||logger.co.kr^$third-party
 ||loginside.co.kr^$third-party
 ||logtracker.cjmall.com^
+||lottecard.co.kr/js/seetoc.js^
 ||magpie.daum.net/magpie/
 ||makeshop.co.kr/js/clickmap.js^
 ||makeshop.co.kr/js/mslog.js^
