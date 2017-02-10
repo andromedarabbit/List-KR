@@ -45,6 +45,7 @@
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.inews24.com^
 ||ad*.netshelter.net/adj/
+||ad-api.band.us^
 ||ad-first.co.kr^$third-party
 ||ad.3dpop.kr^
 ||ad.ad-ya.net^
