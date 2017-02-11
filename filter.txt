@@ -1341,6 +1341,7 @@ m.dcinside.com###set_prevNextList_bottom
 m.dcinside.com###set_view_middle
 m.dcinside.com###set_view_recomm
 m.dcinside.com###set_view_top
+m.dcinside.com##.section_premium
 m.dcinside.com##div[style^="margin-top:1px;margin-bottom:1px;text-align:center;height:"]
 m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
