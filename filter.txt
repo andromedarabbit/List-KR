@@ -1061,6 +1061,7 @@ gamemeca.com##.google_ad_bottom_728x90
 gamemeca.com##.rBtmBanner
 gamemeca.com##.toastBanner
 gamemeca.com##div.btmBannerTwo
+gasengi.com###warring_tops
 gesomoon.com##.conLeft > DIV:not([id]):not([style])
 gesomoon.com##.cnt > p + DIV:last-child
 gesomoon.com##[id^="layerBanner"]
