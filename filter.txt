@@ -269,6 +269,7 @@
 ||contentlink.co.kr^$third-party
 ||contentsbridge.com^$third-party
 ||contextads.net^
+||corearoadbike.com/banner/*.php^
 ||crossmedia.co.kr^$third-party
 ||cstimes.com/banner/rbanner_*.html^
 ||cwdata.itplay.co.kr/ol/
@@ -910,6 +911,8 @@ consumernews.co.kr##span.brn
 coolenjoy.kr,coolenjoy.net,cooln.kr,cooln.net###sidebar > .tab
 coolenjoy.kr,coolenjoy.net,cooln.kr,cooln.net##.simple_banner_wrap
 coolenjoy.kr,coolenjoy.net,cooln.kr,cooln.net##[role="banner"] > br:nth-child(-n+6)
+corearoadbike.com##[valign="top"] > table[height="200"][bgcolor="#dddddd"]:first-child
+corearoadbike.com##body > table[width="1000"]:not(.main_bg):nth-child(2)
 christiantoday.co.kr###div_laypopup
 christiantoday.co.kr##.bk-body > div[style^="padding:"]:first-of-type
 christiantoday.co.kr##.bk-contents > DIV[style="margin-top:10px;"]
@@ -1327,6 +1330,8 @@ m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.comic.sportsseoul.com##.comics > .comicsBox + DIV[style$="0px;"]
 m.comic.sportsseoul.com##.comicsBox > DIV[style^="margin-top"]
+m.corearoadbike.com###sticky-footer
+m.corearoadbike.com###vpbannerbig
 m.cstimes.com##iframe[src^="http://cm.interworksmedia.co.kr/"]
 m.dailian.co.kr###ad_layer110
 m.daum.net##.bnr_add
