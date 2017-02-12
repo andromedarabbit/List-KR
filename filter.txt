@@ -195,6 +195,7 @@
 ||adx.turl.co.kr/toast.wif^
 ||adx-exchange.toast.com/*pub_code=$third-party
 ||adxv.zum.com^
+||afreecatv.com/data/af_app_ad_mobile.js^
 ||afreecatv.com/player/videoad*.swf^
 ||aladdin.co.kr/ad_ttb.aspx^$third-party
 ||aladin.co.kr/ad_ttb.aspx^$third-party
@@ -580,6 +581,7 @@
 ||outbanner.hu.co.kr/@files/human_banner/
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
+||pa.afreecatv.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||pic.popkontv.com/bAd/solution/
 ||plugin.2beon.co.kr^
@@ -666,6 +668,7 @@
 ||web.humoruniv.com/banner/
 ||web.n2s.co.kr^$third-party
 ||wec.co.kr/banner/
+||white.contentsfeed.com^
 ||wikitree.co.kr*/ad/
 ||winktv.co.kr/banner/$image
 ||wowtv.co.kr/AD/
