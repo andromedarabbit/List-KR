@@ -1072,7 +1072,7 @@ gesomoon.com##.conLeft > DIV:not([id]):not([style])
 gesomoon.com##.cnt > p + DIV:last-child
 gesomoon.com##[id^="layerBanner"]
 gesomoon.com##P.btmBan
-gigglehd.com##.nw_box
+gigglehd.com##.section > .xe-widget-wrapper > div > .nw_box
 gigglehd.com##.widget_banner_skin
 gmarket.co.kr##.m_ad
 gplayer.kmpmedia.net##.banners
