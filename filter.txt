@@ -692,6 +692,7 @@
 !----------------------------------------------------!
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
+://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
@@ -959,7 +960,7 @@ dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
 donga.com##.main_AD02
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
-donga.com,hankooki.com,hankyung.com,news.kmib.co.kr,segye.com,seoul.co.kr##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
+donga.com,hankooki.com,hankyung.com,news.kmib.co.kr,segye.com,seoul.co.kr,sisaone.kr##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 dt.co.kr###gisa > table[width="260"][height="270"]
 dt.co.kr###side_content>div[style$="0px;"][style^="margin-top:"]
 dt.co.kr##.cntWrap>div[style]:not([class]):not([id])
@@ -2301,6 +2302,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||humoruniv.com/pv^
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ||imp*.auction.co.kr^
+||inrecsys.popin.cc/*/Logs/
 ||joins.com/common/SMRMediaLog.aspx?
 ||js.nx.com/*/da/playlog.*min.js
 ||kakao.com/front/logcollect/
