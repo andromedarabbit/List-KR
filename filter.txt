@@ -234,6 +234,7 @@
 ||boannews.com/main_files/main_banner*.asp^ 
 ||boannews.com/main_files/main_right.asp^
 ||boannews.com/media/include/media_view_banner.asp^
+||boardplugin.com/js/rsbLast.js^
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -1158,6 +1159,7 @@ ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; wi
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
 ikoreadaily.co.kr##.mask_div[id^="mask_ad"]
 ilbe.com###board_top_dummy
+ilbe.com###openXdummy
 ilbe.com###shoppingbox
 ilbe.com##[id^="madlayer_"]
 ilwar.com##.welcome > .wrap + .ash.w
