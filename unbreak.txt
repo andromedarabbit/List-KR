@@ -39,3 +39,5 @@
 ! Element hiding rules
 mongri.net##.sidebar_adsense
 time.navyism.com##div > .adsbygoogle
+zangsisi.net###head-menu > .wrapper > a[href$="=zangsisi"]
+zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]

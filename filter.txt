@@ -2127,14 +2127,10 @@ ytn.co.kr##div[class^="ad_zone"]
 ytn.co.kr##div[class^="sub_adbox"]
 ytn.co.kr##iframe[name="AdtopBanner"]
 ytn.co.kr##ul[class^="adnew"]
-zangsisi.net###fixed-top > a[style*="right:"]
-zangsisi.net###manga-list > a[href="http://zangsisi.net/"]
-zangsisi.net###menu.coop
-zangsisi.net###recent-post > a[href="http://zangsisi.net/"]
-zangsisi.net##A[href^="http://empire.goodgamestudios.com"]
-zangsisi.net##A[href^="http://partner.zzamtoon.com/event/"]
-zangsisi.net##A[href^="http://www.bananamall.co.kr/Alinker/"]
-zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]
+zangsisi.net###head-menu > .wrapper:nth-child(n+6)
+zangsisi.net##.fixed-top > #fixed-top
+zangsisi.net##.fixed-top > center > a
+zangsisi.net##body > center > a
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##.ad_txt
 zdnet.co.kr##.right_cont > .power_center
@@ -2469,6 +2465,8 @@ www.daum.net#$#.wrap_sub .section_contents { margin-top: 0px!important; }
 www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
+zangsisi.net#$##head-menu > .wrapper > a[href$="=zangsisi"] {visibility:hidden!important;}
+zangsisi.net#$#A[href^="http://www.bondisk.com/?ad=zangsisi"] {visibility:hidden!important;}
 !----------------------------------------------------!
 !------ Extended CSS rules --------------------------!
 !----------------------------------------------------!
