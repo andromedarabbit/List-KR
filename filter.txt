@@ -244,6 +244,7 @@
 ||cad.donga.com/*.js^
 ||cad.donga.com/M/
 ||cadvv.heraldm.com/hb/imad/
+||campaigns-assets-vp.daumcdn.net^$script,other
 ||candy.ad9.kr^
 ||care-health.co.kr^
 ||cast.wowtv.co.kr/xml_imad.html
@@ -1346,6 +1347,7 @@ m.comic.sportsseoul.com##.comics > .comicsBox + DIV[style$="0px;"]
 m.comic.sportsseoul.com##.comicsBox > DIV[style^="margin-top"]
 m.corearoadbike.com###sticky-footer
 m.corearoadbike.com###vpbannerbig
+m.corearoadbike.com##td[valign="top"]:not([align]) > form[name="form_list"] > table:not([bgcolor]):nth-last-child(n+7)
 m.cstimes.com##iframe[src^="http://cm.interworksmedia.co.kr/"]
 m.dailian.co.kr###ad_layer110
 m.daum.net##.bnr_add
