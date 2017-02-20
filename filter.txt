@@ -2341,6 +2341,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||logapi.tvcast.naver.com/api/
 ||logger.bizzaru.com^
 ||logger.co.kr^$third-party
+||logging-tv.kakao.com^
 ||loginside.co.kr^$third-party
 ||logtracker.cjmall.com^
 ||lottecard.co.kr/js/seetoc.js^
@@ -2365,6 +2366,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ondemandkorea.com/includes/adblock_count.php^
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
+||play.kakao.com/*/medialog?
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^$domain=gmarket.co.kr
 ||playlog.ondemandkorea.com^
