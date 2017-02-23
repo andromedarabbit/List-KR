@@ -729,6 +729,7 @@
 @@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
+@@||google-analytics.com/analytics.js^$domain=cgv.co.kr
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
@@ -893,6 +894,9 @@ bloter.net##.network-ad__wrapper
 boannews.com###right_top_banner
 busan.com###body_wrap > [id^="subdivpop"]
 cctoday.co.kr###content > .lo_1.drag_sync2
+cgv.co.kr###ticket_bottom_banner.banner
+cgv.co.kr##.cgv-ad-wrap
+cgv.co.kr##.sect-ad
 champstudy.co.kr,champstudy.com###lineBannerBottom
 champstudy.co.kr,champstudy.com###nav li > a.banner
 champstudy.co.kr,champstudy.com,hackers.ac,hackers.co.kr##.layer_pop
@@ -1328,6 +1332,7 @@ m.busan.com###NewsContent > DIV[style="float:right; width:205px; height:210px; m
 m.busan.com###wrap > DIV[style^="width:300px; height:250px; margin:0 auto; padding:"]
 m.busan.com##DIV[style*="margin:0 auto;"][style^="width:320px; height:"]
 m.cafe.naver.com##div.area_sa
+m.cgv.co.kr##.common_banner
 m.champstudy.com###free_popup
 m.champstudy.com##.header > DIV[class^="pop_"]
 m.chosun.com##div.art_sub_news_box
