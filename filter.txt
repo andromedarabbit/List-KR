@@ -803,6 +803,7 @@
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
+1boon.daum.net##.wrap_adfit_item
 2cpu.co.kr###view_header > .table-bordered
 2cpu.co.kr###view_header > .text-right[style*="-3px"]
 acrofan.com###secWrap > .viewBannerW
