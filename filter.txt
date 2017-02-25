@@ -98,6 +98,7 @@
 ||ad.s99.co.kr^
 ||ad.sponsorad.co.kr^$third-party
 ||ad.tf.co.kr:8080/js.kti/
+||ad.tjtune.com^
 ||ad.touchwise.co.kr^
 ||ad.tpmn.co.kr/*.tpmn^
 ||ad.tving.com^
@@ -1988,6 +1989,10 @@ star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
 star.ohmynews.com##[class^="ad-"]
+starjn.com###ad_link_read
+starjn.com###r_aside > center > div[style*="250px; height:"][style*="z-index:"]
+starjn.com##a[href^="/ad_link.php?"]
+starjn.com##div[id^="treer"]
 stock.hankyung.com##.ad_view_highlight
 stock.hankyung.com##.ad_view_highlight + .clear_wrap
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
