@@ -1360,6 +1360,7 @@ m.daum.net##.bnr_add
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
 m.dcinside.com###mmaDisplay
+m.dcinside.com###search_layer > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
 m.dcinside.com###set_list_bottom
 m.dcinside.com###set_list_middle_ad
 m.dcinside.com###set_list_top
@@ -1368,8 +1369,9 @@ m.dcinside.com###set_prevNextList_bottom
 m.dcinside.com###set_view_middle
 m.dcinside.com###set_view_recomm
 m.dcinside.com###set_view_top
+m.dcinside.com##.cont_gall > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
+m.dcinside.com##.section_noti > .box_top > a[href^="http://addc.dcinside.com"]
 m.dcinside.com##.section_premium
-m.dcinside.com##div[style^="margin-top:1px;margin-bottom:1px;text-align:center;height:"]
 m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
 m.dt.co.kr##.slink + section
@@ -2498,6 +2500,7 @@ zangsisi.net#$#A[href^="http://www.bondisk.com/?ad=zangsisi"] {visibility:hidden
 ! that utilizes extended css selectors.
 !
 gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
+m.dcinside.com##.section_noti > .box_top[-ext-has='a[href^="http://addc.dcinside.com"]']
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/page/partner_jump"]']
 !----------------------------------------------------!
