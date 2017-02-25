@@ -1496,6 +1496,7 @@ m.news1.kr##.article_bottom > .wrap_m_title
 m.news1.kr##.banner01
 m.news1.kr##[class^="ads_"]
 m.news1.kr##iframe[src^="/template/ads/"]
+m.newspim.com##iframe[src^="http://ad.adinc.kr"]
 m.newsway.co.kr##.news_body div[style^="height:85px; overflow:hidden;"]
 m.newsway.co.kr##a[href^="http://m.lottorich.co.kr"]
 m.nocutnews.co.kr###divContent > DIV[style*="200px"]
