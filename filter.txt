@@ -584,7 +584,6 @@
 ||outbanner.hu.co.kr/@files/human_banner/
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
-||pa.afreecatv.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||pic.popkontv.com/bAd/solution/
 ||plugin.2beon.co.kr^
