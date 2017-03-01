@@ -2516,7 +2516,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 linsoo.co.kr#%#Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
-prettygom.com,ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
+prettygom.com,ruinses.tistory.com,whria.net#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 time.navyism.com#%#Object.defineProperty(window,"h237",{set:function(){throw"kluelrdgf";}});window.addEventListener("error",function(a){a.message&&-1<a.message.indexOf("kluelrdgf")&&(a.preventDefault(),a.stopImmediatePropagation())});
 wasabisyrup.com#%#(function(){var b=window.addEventListener;window.addEventListener=function(c,a,d){-1==a.toString().indexOf("self._creatBait()")&&b(c,a,d)}.bind(window)})();
 !------ disable auto scroll -------------------------

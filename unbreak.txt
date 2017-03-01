@@ -35,8 +35,8 @@
 @@||time.navyism.com^$generichide
 @@||wasabisyrup.com^$generichide
 !
-prettygom.com#@#.adsbygoogle
-prettygom.com#@#.adsense
+prettygom.com,whria.net#@#.adsbygoogle
+prettygom.com,whria.net#@#.adsense
 ! Url blocking rules
 ||melon.com/mlog.js^
 ! Element hiding rules
