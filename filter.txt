@@ -2174,6 +2174,7 @@ airtravelinfo.kr#@#.adsbygoogle
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
+est0que.tistory.com#@#.adSquare
 gryfindor.com#@#.ads-link
 i.orbi.kr#@#.gridAd
 jimnong.tistory.com#@#.adsbygoogle
