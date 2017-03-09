@@ -719,6 +719,7 @@
 @@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
+@@||ads.netinsight.co.kr/crossdomain.xml^
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||adtg.widerplanet.com/delivery/wfr.php?*%252Fhayan.tv$domain=hayan.tv
 @@||api.dable.io/logs/services/*/click_redirect^
