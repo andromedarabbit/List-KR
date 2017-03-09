@@ -1519,10 +1519,9 @@ m.ohmynews.com##div.ad_box_outline
 m.pandora.tv###native_ad
 m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
-m.ppomppu.co.kr###if_bbs_view_bn
-m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
-m.ppomppu.co.kr##.menu + DIV[style^="text-align"]
-m.ppomppu.co.kr##FORM + DIV[style^="padding-top"]
+m.ppomppu.co.kr##form > .power-link
+m.ppomppu.co.kr###wrap > .ct ~ div[style="padding-top:10px;text-align:center;"]:not([id]):not([class])
+m.ppomppu.co.kr##div[class="emoticon-popup"]
 m.pressian.com##.flick-container > DIV[style^="clear:both; width"]
 m.ruliweb.com##.fixed_ad_wrapper
 m.search.naver.com##section.sp_power
@@ -2473,7 +2472,6 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.yna.co.kr#$#.n-wrap-ticker { height: 33px!important; } .n-wrap-ticker2 { bottom: 0px!important; } .btn-top.scrolled { bottom:39px!important; } footer { padding-bottom: 30px!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
-m.ppomppu.co.kr#$#html { overflow-x: visible!important; }
 media.daum.net#$##daumBody ~ #mAside > #banner250 + script + .wing_realnews { margin-top: 10px!important; }
 moeni.net#$##ad { height: 1px; display: none!important}
 mmzone.co.kr#$##horiz_ad_block { visibility: hidden!important; height:0px!important; padding: 0px!important;}
