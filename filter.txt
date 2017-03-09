@@ -1519,7 +1519,6 @@ m.ohmynews.com##div.ad_box_outline
 m.pandora.tv###native_ad
 m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
-m.ppomppu.co.kr##form > .power-link
 m.ppomppu.co.kr###wrap > .ct ~ div[style="padding-top:10px;text-align:center;"]:not([id]):not([class])
 m.ppomppu.co.kr##div[class="emoticon-popup"]
 m.pressian.com##.flick-container > DIV[style^="clear:both; width"]
