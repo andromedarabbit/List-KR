@@ -687,6 +687,7 @@
 /img/freebody$~third-party,image,domain=cucudas.com|kukudas.com
 /img/index_banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /img/tvnori$~third-party,image,domain=cucudas.com|kukudas.com
+/index.php?mid=*&search_target=*&search_keyword=$script,domain=juventus.kr
 /NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
 /skin/images/fuckadblock.js^$domain=linsoo.co.kr
