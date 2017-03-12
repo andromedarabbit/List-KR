@@ -2547,4 +2547,4 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 @@||cc.naver.com^$app=com.nhn.android.nmap
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
-!||adbasket.kr^$domain=tvple.com
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
