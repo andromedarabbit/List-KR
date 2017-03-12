@@ -2011,11 +2011,11 @@ suyongso.com##.lnb > .side_b1
 suyongso.com##.rd_body + .rd_ft > .rd_vote + div[class^="bd_"]
 suyongso.com##.rd_ft  > div[style^="width:320px;height:50px;"]
 suyongso.com##[class^="bd_"] > span[style^="position:absolute;opacity:0.8;font-size:"]
-tcafe1.com,tcafe2.com,tcafe3.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
-tcafe1.com,tcafe2.com,tcafe3.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
-tcafe1.com,tcafe2.com,tcafe3.com,tcaferr.com###mw_basic > table[width^="100"] > tbody >  tr:nth-child(6) > td:not([class]):not([height]):not([width])
-tcafe1,tcafe2,tcafe3.com,tcaferr.com##a[href*=".linkoooo.com/?u="]
-tcafe1.com,tcafe2.com,tcafe3.com,tcaferr.com##div[id^="divpop"]
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table[width^="100"] > tbody >  tr:nth-child(6) > td:not([class]):not([height]):not([width])
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##a[href*=".linkoooo.com/?u="]
+tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##div[id^="divpop"]
 te31.com###boy > #content > .box1
 te31.com###left > A
 te31.com##BODY > CENTER > DIV[style*="fixed;"]
