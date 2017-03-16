@@ -754,6 +754,7 @@
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
+@@||sisapress.com/common/js/common_ad.js
 @@||soriaudio.com/page/banner.php?mid=m_eqp$domain=soriaudio.com
 @@||starking.sbs.co.kr/send_log_ad.jsp^
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
