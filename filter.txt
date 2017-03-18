@@ -759,6 +759,7 @@
 @@||starking.sbs.co.kr/send_log_ad.jsp^
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
+@@||view.teafone.com/tpview/main?bannerId=
 !------ Stealth mode fixes ------------------------
 ! naver.com
 @@||cafefiles.naver.net^$stealth
