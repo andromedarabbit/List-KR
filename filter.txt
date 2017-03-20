@@ -1833,6 +1833,8 @@ nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
+nzkoreapost.com###sidebar-left
+nzkoreapost.com##.agnb-bottom
 oeker.net###criteo_banner
 oeker.net##.botttom_line ~ div > img[width="640"]
 oeker.net##[class^="criteo_"]
