@@ -1071,6 +1071,7 @@ gall.dcinside.com##.box_contents > div > .banner_box
 gall.dcinside.com##.gallmain_minor .mtop_right
 gall.dcinside.com##.google_banner
 gall.dcinside.com##.re_gall_box_1 > .con_banner
+gall.dcinside.com##body > .pop_useinfo_layer + div[style*="z-index: 9999;"]
 game.donga.com##.banner
 gamechosun.co.kr###ad_overture_sky
 gamechosun.co.kr###leftBoxBanner
