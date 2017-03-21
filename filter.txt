@@ -762,8 +762,10 @@
 @@||view.teafone.com/tpview/main?bannerId=
 !------ Stealth mode fixes ------------------------
 ! naver.com
+@@||blogfiles.naver.net^$stealth
 @@||cafefiles.naver.net^$stealth
 @@||cafethumb.naver.net/*?type=$stealth
+@@||cafethumb.pstatic.net^$stealth
 @@||dicimg.naver.net^$stealth
 @@||nid.naver.com/oauth2.0/authorize?$stealth
 @@||phinf.naver.net/$stealth
