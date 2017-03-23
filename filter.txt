@@ -2030,8 +2030,9 @@ tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##a[href*=".linkoooo.com/
 tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##div[id^="divpop"]
 te31.com###boy > #content > .box1
 te31.com###left > A
-te31.com##BODY > CENTER > DIV[style*="fixed;"]
-te31.com##TABLE[bgcolor][background="black.png"]
+te31.com##body > div > div[style*="1000"][style*="50px;"][style*="z-index:"]
+te31.com##center > table[height="54"]:nth-child(2)
+te31.com##table[bgcolor][background="black.png"]
 techholic.co.kr##.ads
 tenasia.hankyung.com##div[class^="mask_div_"]
 tenasia.hankyung.com##iframe[src^="http://ad.about.co.kr"]
@@ -2494,6 +2495,7 @@ pinaya.center#$#.caution-blind { display: none!important; }
 pinaya.center#$#.xe_content { display: block!important; }
 sportsseoul.com,sportsseoul.co.kr#$#.article_leftWrap + script + div[style$="10px;"] { clear:both!important; }
 te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
+te31.com#$#table[bgcolor="#0c2140"] > tbody > tr > td[height="100"] { height: 20px!important; }
 tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 windowsforum.kr#$##content > .content { margin-top: 10px!important; }
@@ -2528,7 +2530,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,anigod.com,caskers.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+10games.tistory.com,anigod.com,caskers.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 linsoo.co.kr#%#Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
