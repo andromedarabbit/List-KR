@@ -414,6 +414,7 @@
 ||img.mobon.net/js/$third-party
 ||img.newspim.com/banner/$image
 ||img.ppomppu.co.kr/zboard/*/banner^
+||img.ppomppu1.co.kr/zboard/*/banner^
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.soramall.kr/banner/$image
 ||img.zzamtoon.com/upload/banner$third-party,image
@@ -589,6 +590,7 @@
 ||plugin.2beon.co.kr^
 ||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
+||ppomppu1.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
 ||prism.pandora.tv^
 ||pub.adpnut.com^
@@ -740,11 +742,11 @@
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
 @@||img.ichannela.com/images/ad/banner/$image
-@@||img.ppomppu.co.kr/zboard/*/banner/logo/
 @@||imgcdn.pandora.tv/gplayer/ktop100/KoreaTop.swf^
 @@||js.ad4989.co.kr/etc/tjtune/toast/m_common.js^$domain=cucudas.com|kukudas.com
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
+@@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr,ppomppu1.co.kr
 @@||moeni.net/adBanner.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
@@ -1891,15 +1893,15 @@ player.kmpmedia.net##.taboola-link-view
 playwares.com##.bx-wrapper
 playwares.com##.two-column-right > DIV[style^="height:"]
 playwares.com##a[href*="../api/redirectAd.php?document_srl="]
-ppomppu.co.kr###emart_banner
-ppomppu.co.kr###shoppingbox
-ppomppu.co.kr##.container > div[style*="padding: 15px 0"][style*="100px; text-align:"]:first-child
-ppomppu.co.kr##.power-link
-ppomppu.co.kr##div.ad
-ppomppu.co.kr##div.banner
-ppomppu.co.kr##div.banner_336
-ppomppu.co.kr##div[id^="pp_ban_"]
-ppomppu.co.kr##p[class^="banner_"]
+ppomppu.co.kr,ppomppu1.co.kr###emart_banner
+ppomppu.co.kr,ppomppu1.co.kr###shoppingbox
+ppomppu.co.kr,ppomppu1.co.kr##.container > div[style*="padding: 15px 0"][style*="100px; text-align:"]:first-child
+ppomppu.co.kr,ppomppu1.co.kr##.power-link
+ppomppu.co.kr,ppomppu1.co.kr##div.ad
+ppomppu.co.kr,ppomppu1.co.kr##div.banner
+ppomppu.co.kr,ppomppu1.co.kr##div.banner_336
+ppomppu.co.kr,ppomppu1.co.kr##div[id^="pp_ban_"]
+ppomppu.co.kr,ppomppu1.co.kr##p[class^="banner_"]
 pressian.com##.remove_ad
 pressian.com##.under_adban
 prod.danawa.com##.content_900 > [class^="banner_"]
