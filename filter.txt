@@ -1740,6 +1740,7 @@ naver.com###promotion2
 naver.com###promotion6
 naver.com###veta_branding
 naver.com###veta_top
+naver.com##.column_banner > .section_rbn
 naver.com##iframe[src^="http://ad.naver.com/adshow"]
 netmarble.net###divSkinBanner
 netmics.com##.fullscreen-ad-container
@@ -2512,6 +2513,7 @@ www.daum.net#$#.wrap_main { margin-top:-125px!important; }
 www.daum.net#$#.wrap_sub .section_contents { margin-top: 0px!important; }
 www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
+www.naver.com#$##news_cast.section_newscast {padding-top:0px!important;}
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 zangsisi.net#$##head-menu > .wrapper > a[href$="=zangsisi"] {visibility:hidden!important;}
 zangsisi.net#$#A[href^="http://www.bondisk.com/?ad=zangsisi"] {visibility:hidden!important;}
