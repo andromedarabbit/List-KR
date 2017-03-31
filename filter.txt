@@ -2333,7 +2333,8 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||es.interpark.com/elog^
-||estat.zum.com^
+||estat.zum.com/at.gif?
+||estat.zum.com/collect^
 ||ga.tworld.co.kr/collect^
 ||gargoyle.daum.net^
 ||gateway-log-env.ap-northeast-2.elasticbeanstalk.com/log
