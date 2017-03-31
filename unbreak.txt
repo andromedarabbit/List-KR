@@ -26,6 +26,7 @@
 @@||gryfindor.com^$generichide
 @@||jimnong.tistory.com^$generichide
 @@||kflix.tv^$generichide
+@@||lalawin.com^$generichide
 @@||lalawin.tistory.com^$generichide
 @@||minitoon.net^$generichide
 @@||money2015.tistory.com^$generichide
@@ -42,7 +43,7 @@ prettygom.com,whria.net#@#.adsense
 ! Url blocking rules
 ||melon.com/mlog.js^
 ! Element hiding rules
-lalawin.tistory.com##.adsbygoogle
+lalawin.com,lalawin.tistory.com##.adsbygoogle
 mongri.net##.sidebar_adsense
 time.navyism.com##div > .adsbygoogle
 zangsisi.net###head-menu > .wrapper > a[href$="=zangsisi"]
