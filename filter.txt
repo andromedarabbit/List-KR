@@ -702,6 +702,7 @@
 !----------------------------------------------------!
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
+://dev.livere.co.kr/livereDataLoad_kr?$replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
@@ -904,9 +905,11 @@ blog.daum.net###blogTopAd
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
+boannews.com###media_right_bn_area
 boannews.com###right_top_banner
 busan.com###body_wrap > [id^="subdivpop"]
 cctoday.co.kr###content > .lo_1.drag_sync2
+cdn-city.livere.com##.contents-list > .tenping-title
 cgv.co.kr###ticket_bottom_banner.banner
 cgv.co.kr##.cgv-ad-wrap
 cgv.co.kr##.sect-ad
