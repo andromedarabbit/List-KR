@@ -702,7 +702,7 @@
 !----------------------------------------------------!
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
-://dev.livere.co.kr/livereDataLoad_kr?$replace=/"tenping_ad":/"x":/
+://dev.livere.co.kr/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
@@ -2184,6 +2184,9 @@ zangsisi.net##.fixed-top > center > a
 zangsisi.net##body > center > a
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##.ad_txt
+zdnet.co.kr##.m_container > *:first-child > .hide_bk[style^="height:"]
+zdnet.co.kr##.m_container > *:first-child > .con_bn_box[style*="1024px; height:"]
+zdnet.co.kr##.m_container > *:first-child > .hide_bt[style*="20; cursor:"]
 zdnet.co.kr##.right_cont > .power_center
 zdnet.co.kr##div.ad
 zdnet.co.kr##div[class^="right_bn"]
