@@ -1416,6 +1416,7 @@ m.focus.kr##.inner_article_banner
 m.focus.kr##.left_wrapper > DIV[style*="height:70"]
 m.focus.kr##.right_wrapper > div[style$="text-align:center;"]:last-child
 m.focus.kr##.right_wrapper > .comp_interval:nth-last-child(2)
+m.focus.kr##DIV[id^="AD_LIVE_AREA"]
 m.focus.kr##iframe[id^="adv_banner"]
 m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
