@@ -704,6 +704,7 @@
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
 ://dev.livere.co.kr/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
+://m.gomtv.com/ajax.gom?ajax_source_url=gvp_play|$xmlhttprequest,replace=/<ENTRY (?:[^>]*?["\s])?type=\\"gomad\\"[^>]*?>[\s\S]*?<\\\/ENTRY>//
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
@@ -1423,6 +1424,8 @@ m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
 m.gomtv.com###pop_gomtvapp
+m.gomtv.com##.bnr_lyr
+m.gomtv.com##.detailwrap > .mbnbox
 m.gomtv.com##body > .popup
 m.hackers.co.kr###app_down_wrap
 m.hani.co.kr##.text > div[style="width:300px;height:250px;margin:0 auto;"]
@@ -2392,6 +2395,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||loginside.co.kr^$third-party
 ||logtracker.cjmall.com^
 ||lottecard.co.kr/js/seetoc.js^
+||m.gomtv.com/ajax.gom?ajax_source_url=sendUrl&url=http%3A%2F%2Fana.gomtv.com%2F
 ||magpie.daum.net/magpie/
 ||makeshop.co.kr/js/clickmap.js^
 ||makeshop.co.kr/js/mslog.js^
