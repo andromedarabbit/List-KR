@@ -2058,6 +2058,7 @@ theappl.com###contentWarp > DIV[style*="background-color"]
 theappl.com##.bnr_info
 theappl.com##.ClickChoice
 theappl.com##.pBanner
+theqoo.net###adTopChange
 thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
