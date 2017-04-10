@@ -2522,6 +2522,11 @@ windowsforum.kr#$##content > .content { margin-top: 10px!important; }
 www.daum.net#$##daumHead ~ main#daumContent > #cMain > #mArticle > .main_tmp{margin-top: -142px;}
 www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
+www.nate.com#$#body > #mainContainer > #container > #content > #shopping.area_shopping > #todaySale { display:none; }
+www.nate.com#$#body > #mainContainer > #container > #content > #shopping.area_shopping { top:290px; height:523px; }
+www.nate.com#$#body > #mainContainer > #container > #content > .area_ranking { top: 825px; }
+www.nate.com#$#body > #mainContainer > #container > #footer { margin-top:20px; }
+www.nate.com#$#body > #mainContainer > #container > #header { margin-bottom:0px; }
 www.naver.com#$##news_cast.section_newscast {padding-top:0px!important;}
 www.ygosu.com#$#.btn_bottom { overflow: hidden!important; }
 zangsisi.net#$##head-menu > .wrapper > a[href$="=zangsisi"] {visibility:hidden!important;}
