@@ -1391,6 +1391,8 @@ m.dcinside.com###set_view_middle
 m.dcinside.com###set_view_recomm
 m.dcinside.com###set_view_top
 m.dcinside.com##.cont_gall > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
+m.dcinside.com##.gall_mnrlist + div[style="text-align: center; height: 101px; margin-top: 1px;"]
+m.dcinside.com##.sec_concept_gallery div[style^="margin-top:1px;margin-bottom:1px;text-align:center;"]
 m.dcinside.com##.section_noti > .box_top > a[href^="http://addc.dcinside.com"]
 m.dcinside.com##.section_premium
 m.devpia.com##DIV.bn_wrap
