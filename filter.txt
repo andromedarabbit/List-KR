@@ -1528,6 +1528,7 @@ m.mydaily.co.kr##div.read_view>div[style="text-align:left; margin:-20px 0 -10px;
 m.mydaily.co.kr##div.read_wrap>div[style="background:#fff; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; "]
 m.mydaily.co.kr##p.mobitree
 m.nate.com##.new_ad
+m.naver.com##.id_ad
 m.naver.com##div.grid_ad
 m.news.naver.com##div.ad_area
 m.news1.kr##.article_bottom > .wrap_m_title
