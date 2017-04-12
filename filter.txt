@@ -1379,6 +1379,7 @@ m.dailian.co.kr###ad_layer110
 m.daum.net##.bnr_add
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
+m.dcinside.com###list_more_foot > div[style$="height:250px;"]
 m.dcinside.com###mmaDisplay
 m.dcinside.com###search_layer > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
 m.dcinside.com###set_list_bottom
