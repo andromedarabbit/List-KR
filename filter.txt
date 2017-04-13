@@ -2499,6 +2499,7 @@ auth.spcnetworks.kr#$##reBackground { display: block!important; }
 betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com#$#iframe[src*="/herald_"][src*=".html?refData"][height="50"] { display: none!important; }
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
+gall.dcinside.com#$##list_right_ad {height:0px!important;}
 g-enews.com#$#article.breraking { top:146px!important; }
 hayan.tv#$##screen { overflow: visible!important; }
 hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
@@ -2583,6 +2584,10 @@ snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getEleme
 auth.spcnetworks.kr#%#Object.defineProperty(window, 'skipAd', { get: function() { return 1; } });
 gall.dcinside.com#%#if(-1!=window.location.href.indexOf("/board/lists")){var b="#dgn_gallery_left > .gallery_box { height: 172px!important; } #dgn_gallery_left > .gallery_list { padding: 197px 0 0 0!important; }", a=document.createElement("style");a.type="text/css";a.styleSheet?a.styleSheet.cssText=b:a.innerHTML=b;document.getElementsByTagName("head")[0].appendChild(a)};
 m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.removeAttribute("data-ad_click_url");a.removeAttribute("data-ad_source_url");a.removeAttribute("data-ad_url");a.setAttribute("src",a.getAttribute("data-video_url"))});
+!----------------------------------------------------!
+!------ HTML filtration rules -----------------------!
+!----------------------------------------------------!
+dcinside.com$$script[tag-content="function adBlockDetected()"]
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
