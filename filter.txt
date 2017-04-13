@@ -933,6 +933,7 @@ clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
 clien.net##.srch > li:not([class="mytr"])
+clien.xyz##div[id^="div-rs-"]:not(#div-rs-header)
 cnews.co.kr##.leftBanner
 cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
 cnews.co.kr##.rightBanner
@@ -2324,7 +2325,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||ats.gmarket.co.kr^
 ||atsssl.gmarket.co.kr^
 ||auction.co.kr/search/searchlog.aspx?
-||beusable.net/r?
 ||brunch.co.kr/static/libraries/js/jennifer.min-*.js^
 ||cafe24.com/weblog.js^
 ||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
@@ -2439,6 +2439,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||recopick.com^$third-party
 ||rlog.popin.cc/*.gif?
 ||rmcnmv.naver.com/vts/trace/
+||rum.beusable.net^
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/news/ajax/insert*Log.do^
