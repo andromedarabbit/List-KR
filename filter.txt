@@ -755,6 +755,7 @@
 @@||moeni.net/adBanner.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
+@@||nstatic.dcinside.com/ad/$image,domain=dcinside.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
@@ -2563,6 +2564,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
+dcinside.com#%#Object.defineProperty(window,'adBlockDetected',{value:function(){}});
 linsoo.co.kr#%#Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 prettygom.com,ruinses.tistory.com,whria.net#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 time.navyism.com#%#Object.defineProperty(window,"h237",{set:function(){throw"kluelrdgf";}});window.addEventListener("error",function(a){a.message&&-1<a.message.indexOf("kluelrdgf")&&(a.preventDefault(),a.stopImmediatePropagation())});
