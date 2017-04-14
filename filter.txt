@@ -752,6 +752,7 @@
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
 @@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr,ppomppu1.co.kr
+@@||m.dcinside.com/js/ads.js^
 @@||moeni.net/adBanner.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
@@ -979,6 +980,7 @@ daum.net##.cont_trendshop
 daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com###js-popadblock
+dcinside.com###taboola-right-rail-thumbnails
 ddanzi.com##.adblock-on
 ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
@@ -1080,13 +1082,14 @@ fow.tv##.div_main > div[style^="padding:"][style*="10px 30px"]
 g-enews.com##.ad_global
 g-enews.com##.banner:not(.txt_banner)
 !gall.dcinside.com###list_right_ad
+gall.dcinside.com###tit_no_adblock
 gall.dcinside.com###zzbang_div > ._BTN_AD_
 gall.dcinside.com##.ad_esmplus
 gall.dcinside.com##.box_contents > div > .banner_box
 gall.dcinside.com##.gallmain_minor .mtop_right
 gall.dcinside.com##.google_banner
 gall.dcinside.com##.re_gall_box_1 > .con_banner
-gall.dcinside.com##body > .pop_useinfo_layer + div[style*="z-index: 9999;"]
+gall.dcinside.com##iframe[src^="http://adex.ednplus.com/"]
 gall.dcinside.com$$div[class="ad_esmplus"][max-length="15000"]
 game.donga.com##.banner
 gamechosun.co.kr###ad_overture_sky
@@ -2531,7 +2534,7 @@ tv.ichannela.com#$#.iframe_h { height: auto!important; min-height: 1000px!import
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 windowsforum.kr#$##content > .content { margin-top: 10px!important; }
 www.daum.net#$##daumHead ~ main#daumContent > #cMain > #mArticle > .main_tmp{margin-top: -142px;}
-www.dcinside.com#$#.content_top, .content_top > .column_left { height: 1329px!important; }
+www.dcinside.com#$#.dcContent > .content_top { height:1583px; }
 www.edaily.co.kr#$##rightwrap { height:auto!important; min-height: 1100px!important; }
 www.nate.com#$#body > #mainContainer > #container > #content > #shopping.area_shopping > #todaySale { display:none; }
 www.nate.com#$#body > #mainContainer > #container > #content > #shopping.area_shopping { top:290px; height:523px; }
