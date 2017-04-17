@@ -397,6 +397,7 @@
 ||image.devpia.com/*/banner/
 ||image.devpia.com/NewDevpia/AD/
 ||image.devpia.com/NewDevpia/main/*banner/
+||image.edaily.co.kr/banner/banner_
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
 ||image.munhwa.com/www/banner/
 ||image.sportsseoul.com/images/banner/
