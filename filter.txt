@@ -351,6 +351,7 @@
 ||get2.keywordsconnect.com^
 ||ggilbo.com/banner/banner_
 ||globaleconomic.co.kr/banner_add/
+||gmarket.co.kr/*/neo_include/AdNbpExternalLinkGate.
 ||gplayer.kmpmedia.net/kmp_plus/platform/preroll/
 ||graph.facebook.com^$app=com.dcinside.app
 ||gsad.gameshot.net^
