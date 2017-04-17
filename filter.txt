@@ -1845,6 +1845,7 @@ news20.busan.com###left_con > #topview
 news20.busan.com###news_write + [style*="250px"][style*="650px"]
 news20.busan.com###right_con > [style*="300px"][style*="250px"]
 news20.busan.com###wrap > [style*="970px"]
+newscj.com##td[width="640"] > div[style*="620px; height: 265px; b"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com###div_ad1
