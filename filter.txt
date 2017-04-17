@@ -2442,6 +2442,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||recopick.com^$third-party
 ||rlog.popin.cc/*.gif?
 ||rmcnmv.naver.com/vts/trace/
+||rt.buzzni.com^
 ||rum.beusable.net^
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sbs.co.kr/log/clip_log.jsp^
