@@ -1200,9 +1200,9 @@ ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; wi
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
 ikoreadaily.co.kr##.mask_div[id^="mask_ad"]
 ilbe.com###board_top_dummy
-ilbe.com###openXdummy
 ilbe.com###shoppingbox
 ilbe.com##[id^="madlayer_"]
+ilbe.com##div[id^="openXdummy"]
 ilwar.com##.welcome > .wrap + .ash.w
 ilyo.co.kr##.ad_asideArea
 ilyo.co.kr##.ad_naver_stand
