@@ -1606,6 +1606,9 @@ m.tf.co.kr##.tbLeft > div[style="height:100px; overflow-y:hindden;"]
 m.tf.co.kr##.tbRight>div[style="height:84px; position:relative; left:0px; top:0px; "]
 m.theappl.com###mw_mobile > DIV[style*="background-color"]
 m.theappl.com##.google_ad_top
+m.thisisgame.com###ad_new_bottom
+m.thisisgame.com##.google-ad-part
+m.thisisgame.com##[itemprop="articleBody"] > div[style$="width:350px;height:120px;"]
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
 m.viva100.com##.bm_box > div[style="width:360px; height:65px; margin:5px 0px 5px 0px;"]
