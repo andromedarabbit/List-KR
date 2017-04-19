@@ -654,6 +654,7 @@
 ||torrentkim*.net/banner/$image
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||torrentwiz4.com/data/zn_banner/
+||tube-box.co.kr^
 ||tv.sbs.co.kr/common/common_ad.jsp^
 ||tvchosun.com/front/ad/
 ||tvdaily.mk.co.kr/ad/
