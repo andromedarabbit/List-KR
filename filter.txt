@@ -1079,6 +1079,7 @@ fomos.kr###top_banner
 fomos.kr##.banner_area
 fow.kr###top_pr_google
 fow.tv##.div_main > div[style^="padding:"][style*="10px 30px"]
+frostfire.tistory.com##ins.adsbygoogle
 g-enews.com##.ad_global
 g-enews.com##.banner:not(.txt_banner)
 !gall.dcinside.com###list_right_ad
@@ -2219,7 +2220,7 @@ zum.com##.box_bottom_banner
 !
 ! Section contains list of element hiding exception rules
 !
-airtravelinfo.kr#@#.adsbygoogle
+airtravelinfo.kr,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2227,11 +2228,8 @@ est0que.tistory.com#@#.adSquare
 gall.dcinside.com#@##dc_advertisement
 gryfindor.com#@#.ads-link
 i.orbi.kr#@#.gridAd
-jimnong.tistory.com#@#.adsbygoogle
 kknd2ro.cafe24.com#@##sidead
-mongri.net#@#.adsbygoogle
 ondemandkorea.com#@#.afs_ads
-persnacons.tistory.com#@#.adsbygoogle
 persnacons.tistory.com#@#.topAD
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
@@ -2567,7 +2565,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,anigod.com,caskers.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+10games.tistory.com,anigod.com,caskers.tistory.com,frostfire.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
