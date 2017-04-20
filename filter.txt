@@ -1408,8 +1408,8 @@ m.devpia.com##DIV.bn_wrap
 m.devpia.com##P.bn_shadow
 m.dt.co.kr##.slink + section
 m.edaily.co.kr###ad_view_list
+m.edaily.co.kr##.newsContentView > DIV[style^="float:"]
 m.edaily.co.kr##[class^="AD_"]
-m.edaily.co.kr##[itemprop="articleBody"] > DIV[style^="float:"]
 m.edu.donga.com###banner03
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
