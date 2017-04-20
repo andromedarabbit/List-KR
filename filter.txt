@@ -1622,14 +1622,15 @@ m.wikitree.co.kr##.ad60
 m.wikitree.co.kr##.ad70
 m.wikitree.co.kr##.ad80
 m.wikitree.co.kr##.contBanner
+m.yna.co.kr##.ad-yna-homelist
+m.yna.co.kr##.section-add-fixbt
 m.yna.co.kr##div.ad-Cauly-wrap
-m.yna.co.kr##div.section-txt>div[style="display:inline-block;width:150px;height:150px;float:right;margin-left:10px;border:1px solid #f2ebd6"]
+m.yna.co.kr##iframe[src^="http://ad.ad4989.co.kr"]
 m.yna.co.kr##section.section-ad-adtive
 m.yna.co.kr##section.section-ad-hi
 m.yna.co.kr##section.section-ad-joyinfo
 m.yna.co.kr##section.section-ad-lumi
 m.yna.co.kr##section.section-add
-m.yna.co.kr##section.section-add-fixbt
 m.ytn.co.kr##.banner_module
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
