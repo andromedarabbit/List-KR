@@ -809,6 +809,7 @@
 ##.adsbyadop
 ##div.ezAdsense
 ##div[id^="sbaAbout"]
+##iframe.realssp
 ##ins.daum_ddn_area
 !----- Common iframes (dynamically generated) -----
 ##iframe[name="ifrad"]
@@ -1169,7 +1170,6 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_"]
 healthmedi.net##div.imagead-taskbar-anchor
-hellmoney.kr##iframe.realssp
 hentaku.net##a[href^="http://www.netfile.co.kr/banner/ad_banner"]
 heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
 heraldcorp.com###photoINAD_area
@@ -1650,7 +1650,6 @@ map.naver.com,maps.naver.com##.sr_banner
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
-marumaru.in##iframe.realssp
 matcl.com##p[align="center"][style*="height:"]
 mbiz.heraldcorp.com###sc_header + div[style="width:100%; height:70px; text-align:center;"]
 mbiz.heraldcorp.com###wrap > .story
@@ -2106,7 +2105,6 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net$$li[tag-content="/img/icon_hot.gif"][max-length="256"]
-topstarnews.net##.realssp
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvchosun.com##iframe[src$="front/ad/tc_b.html"]
 tvchosun.com##iframe[src$="front/ad/tc_m_b.html"]
