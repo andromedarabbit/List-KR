@@ -2448,7 +2448,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/news/ajax/insert*Log.do^
 ||sc*.cpcguard.com/*.asp
-||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seetoc.com/logging/log.do^
 ||seoul.co.kr/weblog^
 ||serviceapi.rmcnmv.naver.com/etc/pc.nhn^
