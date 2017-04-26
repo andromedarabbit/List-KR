@@ -2431,8 +2431,6 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||pathfinder.lotte.com^
 ||pathfinderebiz.lotte.com^
 ||play.kakao.com/*/medialog?
-||pds*.auction.co.kr^
-||pds*.gmarket.co.kr^$domain=gmarket.co.kr
 ||playlog.ondemandkorea.com^
 ||pstatic.net/adimg3.search/adpost/js/
 ||r.popin.cc/log.gif?
