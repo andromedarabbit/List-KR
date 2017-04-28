@@ -2063,8 +2063,10 @@ starjn.com##div[id^="treer"]
 stock.hankyung.com##.ad_view_highlight
 stock.hankyung.com##.ad_view_highlight + .clear_wrap
 stoo.asiae.co.kr##iframe[src^="http://ad.ad4989.co.kr/"]
+story369.com##.ad46860
 story369.com##.adpromotion
 story369.com##.gi-btad
+story369.com##.promotion
 story369.com##div[class^="ads_"]
 suyongso.com##.lnb > .side_b1
 suyongso.com##.rd_body + .rd_ft > .rd_vote + div[class^="bd_"]
