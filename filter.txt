@@ -1237,6 +1237,7 @@ innak.kr##table[width="640"][height="80"]
 innak.kr##td[width="990"][height="58"]
 innak.kr##td[width="990"][height="80"]
 innak.kr##title + div[align="center"] > table[width="650"][height="60"]
+insight.co.kr##.adsbyinsight
 instiz.net###powerlink
 instiz.net##.board_img_foot
 instiz.net##.imgbox
