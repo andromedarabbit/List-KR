@@ -342,6 +342,7 @@
 ||focus.kr/images/banner/$image
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
+||full.co.kr/banner/$image,third-party
 ||fun-adstore.co.kr/ad/
 ||fusencead.com^$third-party
 ||gaihn.co.kr/eventbanner/
