@@ -706,6 +706,7 @@
 !----------------------------------------------------!
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
+://api-city.livere.com/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/  
 ://dev.livere.co.kr/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ://m.gomtv.com/ajax.gom?ajax_source_url=gvp_play|$xmlhttprequest,replace=/<ENTRY (?:[^>]*?["\s])?type=\\"gomad\\"[^>]*?>[\s\S]*?<\\\/ENTRY>//
@@ -1872,10 +1873,9 @@ news20.busan.com###wrap > [style*="970px"]
 newscj.com##td[width="640"] > div[style*="620px; height: 265px; b"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
-newsis.com###div_ad1
-newsis.com###div_ad2
-newsis.com##TABLE:nth-child(4) > TBODY > TR > TD > TABLE[bgcolor="#fcf9f9"][style*="background-image"]
-newsis.com##TD[style*="bold;"][style*="font-weight"][width="18"]
+newsis.com###shuffle
+newsis.com##.ad_border_top
+newsis.com##div[id^="detail"]
 newsjoy.co.kr##a[href^="http://www.ilikesponsorad.com"]
 newspim.com##.banner_wrap
 newspim.com##.bodynews > DIV[style^="width:455px;"]
