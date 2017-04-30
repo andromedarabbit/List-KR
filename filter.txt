@@ -741,6 +741,7 @@
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js^$domain=cgv.co.kr
+@@||google-analytics.com/analytics.js^$domain=moeni.net
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide
@@ -755,7 +756,6 @@
 @@||kado.net/bannerManager/upload/120.gif^
 @@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr,ppomppu1.co.kr
 @@||m.dcinside.com/js/ads.js^
-@@||moeni.net/adBanner.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif^$domain=newscj.com
 @@||nstatic.dcinside.com/ad/$image,domain=dcinside.com
@@ -2536,7 +2536,6 @@ m.yna.co.kr#$#.n-wrap-ticker { height: 33px!important; } .n-wrap-ticker2 { botto
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; }
 www.mule.co.kr#$#.group_ad4 { visibility: hidden!important; }
 media.daum.net#$##daumBody ~ #mAside > #banner250 + script + .wing_realnews { margin-top: 10px!important; }
-moeni.net#$##ad { height: 1px; display: none!important}
 mmzone.co.kr#$##horiz_ad_block { visibility: hidden!important; height:0px!important; padding: 0px!important;}
 news.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#BODY { background-position: inherit!important; }
 news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
