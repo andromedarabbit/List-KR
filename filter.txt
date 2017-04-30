@@ -255,6 +255,7 @@
 ||cauly.co.kr/websdk/*/ads.
 ||cauly.co.kr^*websdk/caulyad.
 ||cdn.pandora.tv/_adv_img/
+||cdn.mklaud.com^
 ||cdn*.tnkfactory.com/fad/$empty
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
 ||christiantoday.co.kr/data/banner/$image
@@ -422,7 +423,7 @@
 ||img.soramall.kr/banner/$image
 ||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
-||imp.mklaud.com/ad^
+||imp.mklaud.com^
 ||imp.valuepotion.com/mimp^
 ||inews24.com/common/js/ad_*.js
 ||inews24.com/inc/right_file_banner_*.php
@@ -458,6 +459,7 @@
 ||json.dcinside.com/App/app_ad_setting.php^
 ||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
+||k-starshop.com^$third-party
 ||kado.net/banner/
 ||keywordt.tabbar.co.kr^$popup
 ||khan.co.kr/ad/
@@ -1638,6 +1640,10 @@ m.wikitree.co.kr##.ad60
 m.wikitree.co.kr##.ad70
 m.wikitree.co.kr##.ad80
 m.wikitree.co.kr##.contBanner
+m.xportsnews.com###article-ad-area
+m.xportsnews.com##.in_10lines
+m.xportsnews.com##.in_200_200
+m.xportsnews.com##div[class^="ad_"]
 m.yna.co.kr##.ad-yna-homelist
 m.yna.co.kr##.section-add-fixbt
 m.yna.co.kr##div.ad-Cauly-wrap
