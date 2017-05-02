@@ -457,7 +457,7 @@
 ||js.keywordsconnect.com^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
-||json.dcinside.com/App/app_ad_setting.php^
+||json.dcinside.com/*/app_ad_setting.php^ 
 ||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||k-starshop.com^$third-party
