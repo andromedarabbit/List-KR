@@ -550,6 +550,7 @@
 ||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
 ||naver-smr.smartmediarep.com/smc/*/smr/contents/video/
+||naver.com/api/adpost.nhn^
 ||naver.com/api/adpostRelay.nhn?
 ||ndsoft.co.kr/namecheck/ad/$third-party
 ||networkad.nate.com^
