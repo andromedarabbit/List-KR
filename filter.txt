@@ -2366,6 +2366,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||chalog.ichannela.com^
 ||checkout.naver.net/*/analysis.js^
 ||chosun.com/dhtm/js/common/collecter*.js
+||click.media.daum.net/ct.php^
 ||clicklog.gmarket.co.kr/click_log/
 ||clog-aggregator.kakao.com^$empty
 ||cloudfront.net$domain=inews24.com
