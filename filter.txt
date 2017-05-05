@@ -1786,6 +1786,7 @@ nate.com###todaySaleItem
 nate.com##.area_shopping_today
 nate.com##.sidebar_banner
 nate.com##iframe#ifrShopping
+naver.com###adPostArea
 naver.com###promotion1
 naver.com###promotion2
 naver.com###promotion6
