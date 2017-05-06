@@ -596,6 +596,7 @@
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||pic.popkontv.com/bAd/solution/
 ||plugin.2beon.co.kr^
+||podgate.com/content/adpick/
 ||postman.co.kr^$third-party
 ||ppomppu.co.kr/banner/
 ||ppomppu1.co.kr/banner/
