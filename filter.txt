@@ -944,6 +944,7 @@ cine21.com##div[id^="crt-"]
 clien.net###m_naverAd
 clien.net###naverAd
 clien.net##.header-banner
+clien.net##.list-row.list-banner
 clien.net##div[class^="div-rs-"]
 cnews.co.kr##.leftBanner
 cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
