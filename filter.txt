@@ -264,7 +264,7 @@
 ||clk.touchnclick.co.kr^
 ||clickmon.co.kr/pop/*.php?$third-party
 ||clien.net/cs3/nbpad/
-||clien.net/service/api/hongbo^
+||clien.net/service/api/hongbo/pop^
 ||clien.net/service/api/naverAd^
 ||clkads.com^
 ||cm*.joins.com^
