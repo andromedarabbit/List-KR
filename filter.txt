@@ -264,6 +264,7 @@
 ||clk.touchnclick.co.kr^
 ||clickmon.co.kr/pop/*.php?$third-party
 ||clien.net/cs3/nbpad/
+||clien.net/service/api/hongbo^
 ||clien.net/service/api/naverAd^
 ||clkads.com^
 ||cm*.joins.com^
@@ -2377,6 +2378,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||cv.mklaud.com^
 ||dable.io/logs^
 ||dable.io/services/*/expose?
+||daumcdn.net/kaan/kaan.js^
 ||daumdn.com/clt.do?
 ||daum.net*/logcollector/log/map?
 ||discoveryplus.popin.cc/popin_discovery/
