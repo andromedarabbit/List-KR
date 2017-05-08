@@ -772,6 +772,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
+@@||pstatic.net/adimg3.search/adpost/js/$domain=m.store.naver.com
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
