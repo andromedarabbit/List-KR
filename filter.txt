@@ -2126,6 +2126,10 @@ topstarnews.net###idnad_floatingDiv
 torrentgum.net###div1
 torrentgum.net###divpop1
 torrentgum.net##.outlogin + a > img
+torrenthaja.com##.left > div[style*="margin-bottom:"][style*="4px;"]:first-child
+torrenthaja.com##.main_box1
+torrenthaja.com##.main_box2
+torrenthaja.com##.sidebar_banner
 torrentmoa.com##body>b
 torrentmoa.com##body>center
 torrentmoa.com##div.content_widget_bar
