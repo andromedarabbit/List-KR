@@ -763,6 +763,7 @@
 @@||js.ad4989.co.kr/etc/tjtune/toast/m_common.js^$domain=cucudas.com|kukudas.com
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
+@@||kmong.com/img/seller/advertisement_$image
 @@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr,ppomppu1.co.kr
 @@||m.dcinside.com/js/ads.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
@@ -2277,7 +2278,7 @@ naver.com#%#AG_onLoad(function() { window.clickcr = function() { }; if ( window.
 search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function() { }; });
 !------ naver.com --------------
 ||ace.naver.com/m^$empty
-||cc.naver.com/cc^$image
+! ||cc.naver.com/cc^$image
 ||ec.naver.com/ec^
 ||l.m.naver.
 ||lcs.naver.
