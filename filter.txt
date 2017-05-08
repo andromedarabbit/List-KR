@@ -471,6 +471,7 @@
 ||kookje.co.kr/*/banner/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
+||koreapas.com/bbs/no_unicorn/$image
 ||koreaportal.com/*/banners/ads_$image
 ||ksilbo.co.kr/ad/
 ||ksilbo.co.kr/banner/
@@ -1345,6 +1346,7 @@ koreaherald.com##div.newslist>iframe
 koreaherald.com##div.tbanner
 koreaherald.com##section.gallrym
 koreaherald.com##section.nview>div[style="margin-bottom: 20px;"]
+koreapas.com##img[src^="https://www.koreapas.com/bbs/no_unicorn/"]
 koreatimes.co.kr##.view_page_news_related_news_wrapper
 koreatimes.co.kr##.view_page_translation_wrapper
 koreatimes.co.kr##a[name="top"] > div[style*="padding-top: 100px;"]
@@ -2599,7 +2601,7 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,anigod.com,caskers.tistory.com,frostfire.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+10games.tistory.com,anigod.com,caskers.tistory.com,frostfire.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
