@@ -693,9 +693,10 @@
 ||ygosu.fileofcdn.com/banner_img/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
+||zipbogo.net/cdsbData_gal/bannerFile/
+||zipbogo.net/js/NMNPOPUNDER.js^
 !------ Url components ---------
 /banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
-/cdsbData_gal/bannerFile/*$image,domain=mybogo.net|zipbogo.net
 /herald_*.html?refData=$domain=heraldcorp.com|betanews.net
 /img/banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /img/call300.$~third-party,image,domain=cucudas.com|kukudas.com
@@ -704,7 +705,6 @@
 /img/tvnori$~third-party,image,domain=cucudas.com|kukudas.com
 /index.php?mid=*&search_target=*&search_keyword=$~third-party,script,domain=issuein.com|juventus.kr
 /\/innak_banner\/(?!bottom)/$domain=innak.kr
-/NMNPOPUNDER.js^$domain=mybogo.net|zipbogo.net
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
 /skin/images/fuckadblock.js^$domain=linsoo.co.kr
 ||info/files/_etc/etc/$image,domain=tqzoa.info|twzoa.info
@@ -1767,10 +1767,7 @@ mule.co.kr##[class^="group_ad"]:not([class$="4"])
 munhwa.com##iframe[name="denta_adv"]
 munhwa.com##table[width="680"] > tbody > tr > td[valign="top"][width="120"]
 music.daum.net##div.banner_250
-mybogo.net,zipbogo.net##.sidebar > ul > li:nth-of-type(2)
-mybogo.net,zipbogo.net###sidebar1 > ul > li:nth-of-type(3)
-mybogo.net,zipbogo.net###sidebar2 > ul > li > a[href="http://filecast.co.kr/?p_id=bogo"]
-mybogo.net,zipbogo.net###logo-ad
+mybogo.net,zipbogo.net##a[href="http://filecast.co.kr/?p_id=bogo"]
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
 mydaily.co.kr###ad_left_wing
 mydaily.co.kr###article > div[style^="float:"]
@@ -2252,6 +2249,7 @@ zdnet.co.kr##.right_cont > .power_center
 zdnet.co.kr##div.ad
 zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##ul.ad_list
+zipbogo.net###logo-ad
 zipbogo.net##.sidebar > ul > [id^="popup_"]
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
@@ -2599,6 +2597,7 @@ gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
 m.dcinside.com##.section_noti > .box_top[-ext-has='a[href^="http://addc.dcinside.com"]']
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/page/partner_jump"]']
+zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!
