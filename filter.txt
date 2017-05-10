@@ -1717,6 +1717,7 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
+mlbpark.donga.com##.left_cont > div[style*="1px solid "][style*="10px 20px 0"]:not([class])
 mmzone.co.kr###horiz_text_ad_block_blackbg
 mmzone.co.kr##[id$="_ban3_block"]
 mmzone.co.kr##[id$="_spon_block"]
