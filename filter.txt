@@ -602,6 +602,7 @@
 ||plugin.2beon.co.kr^
 ||podgate.com/content/adpick/
 ||postman.co.kr^$third-party
+||powerclick.about.co.kr^
 ||ppomppu.co.kr/banner/
 ||ppomppu1.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
