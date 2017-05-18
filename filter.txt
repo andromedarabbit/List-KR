@@ -1911,6 +1911,7 @@ nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
+nsbu.co.kr##iframe[src^="http://deliverys.n2s.co.kr/"]
 nzkoreapost.com###sidebar-left
 nzkoreapost.com##.agnb-bottom
 oeker.net###criteo_banner
