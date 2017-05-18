@@ -670,6 +670,7 @@
 ||tvchosun.com/front/ad/
 ||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
+||tvetamovie.dn.naver.net^
 ||tvple.com/ab/MW-
 ||tvple.com/ab/PC-
 ||typemoon.net/bn/ad/
@@ -716,18 +717,18 @@
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
 ://api-city.livere.com/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/  
+://apis.naver.com/rmcnmv/rmcnmv/vod/play/v2.0/*&ver=2.0&devt=html5_pc&doct=json&*&adi=*&cc=$replace=/"advertise":\{/"noopstr":{/
 ://dev.livere.co.kr/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ://m.gomtv.com/ajax.gom?ajax_source_url=gvp_play|$xmlhttprequest,replace=/<ENTRY (?:[^>]*?["\s])?type=\\"gomad\\"[^>]*?>[\s\S]*?<\\\/ENTRY>//
+://play.rmcnmv.naver.com/vod/play/*&doct=xml&*&devt=flash&$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
+://play.rmcnmv.naver.com/vod/play/v2.0/*.rd?key=*&ver=2.0&devt=html5_*&doct=json&*&rd=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
+://play.rmcnmv.naver.com/vod/play/v2.0/*&ver=2.0&devt=html5_*&doct=json&*&adi=*&cc=$replace=/"advertise":\{/"noopstr":{/
 ||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
 ||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\,cache:false\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
 ||gox.gomtv.com/cgi-bin/gox_play.cgi?*player=ANDROID&*datatype=xml&$replace=/<ENTRY (?:[^>]*?["\s])?type="gomad"[^>]*?>[\s\S]*?<\/ENTRY>//
-||play.rmcnmv.naver.com/vod/play/*&doct=json*&ctls=*&adu=$replace=/("advertiseInfo":)[\s\S]*"advertiseUrl": "[\s\S]*?"/\$1""\,"advertiseUrl":""/
-||play.rmcnmv.naver.com/vod/play/*&doct=xml*&ctls=*&adu=$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
-||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_mo*&ctrls=$replace=/"advertise":\{/"noopstr":{/
-||play.rmcnmv.naver.com/vod/play/v2.0/*&devt=html5_pc*&ctrls=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"[\s\S]*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
 ||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>[\s\S]*?<\/ad>//
 ||theappl.com/api/toon.world.api.new.php?flag=ver|$replace=/"(start_pop|end_pop)"\:"yes"/"\$1":"no"/
@@ -2374,6 +2375,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||analytics.valuepotion.com^
 ||analytics-event.kakao.com^$empty
 ||api-log.wemakeprice.com/*.php?
+||apis.naver.com/rmcnmv/rmcvts/vts/trace/
 ||asiae.co.kr/js/logging*.js^
 ||asiatoday.co.kr/comm/_counter_check*.php^
 ||asiatoday.co.kr/js/atoo_abc.js^
