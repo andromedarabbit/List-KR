@@ -2570,6 +2570,7 @@ hayan.tv#$##screen { overflow: visible!important; }
 hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
+ilsangt.tistory.com#$#.adsense-area{height:1px!important;}
 innak.kr#$##wrap > #header { height: 100px; }
 m.betanews.net,mbetanews.heraldcorp.com#$#.navbar-fixed-top { padding: 5px 0px!important; }
 m.betanews.net,mbetanews.heraldcorp.com#$#body > .container[banner] { display: none!important; }

@@ -16,6 +16,7 @@
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
 @@||cc.naver.com/cc^$image
 @@||pagead2.googlesyndication.com/pagead/show_ads.js^$domain=sportsseoul.co.kr|sportsseoul.com
+@@||tab2.clickmon.co.kr/pop/wp_ad_728_js.php^$domain=ilsangt.tistory.com
 !@@||tvcast.naver.com/resources/*/clickcr_*.js^ - until Adguard browser extensions suppport $empty modifier
 @@||wcs.naver.net/wcslog.js^
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
