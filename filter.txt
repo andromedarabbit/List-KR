@@ -2279,6 +2279,7 @@ airtravelinfo.kr,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
+communitymoa.com#@#.adsbygoogle
 est0que.tistory.com#@#.adSquare
 gall.dcinside.com#@##dc_advertisement
 gryfindor.com#@#.ads-link
