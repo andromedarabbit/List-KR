@@ -662,6 +662,7 @@
 ||theprimead.co.kr^$third-party
 ||ti-center.co.kr^$third-party
 ||tistoly.com^$third-party
+||torrenthaja.com/data/banner/
 ||torrentkim*.net/banner/$image
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||torrentwiz4.com/data/zn_banner/
@@ -2141,10 +2142,8 @@ topstarnews.net###idnad_floatingDiv
 torrentgum.net###div1
 torrentgum.net###divpop1
 torrentgum.net##.outlogin + a > img
-torrenthaja.com##.left > div[style*="margin-bottom:"][style*="4px;"]:first-child
-torrenthaja.com##.main_box1
-torrenthaja.com##.main_box2
-torrenthaja.com##.sidebar_banner
+torrenthaja.com##.side-banner
+torrenthaja.com##table.torrent > tbody > tr:last-child
 torrentmoa.com##body>b
 torrentmoa.com##body>center
 torrentmoa.com##div.content_widget_bar
