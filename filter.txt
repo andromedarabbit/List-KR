@@ -702,10 +702,9 @@
 /banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /herald_*.html?refData=$domain=heraldcorp.com|betanews.net
 /img/banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
-/img/call300.$~third-party,image,domain=cucudas.com|kukudas.com
-/img/freebody$~third-party,image,domain=cucudas.com|kukudas.com
+/img/cting$~third-party,domain=cucudas.com|kukudas.com
 /img/index_banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
-/img/tvnori$~third-party,image,domain=cucudas.com|kukudas.com
+/img/jotv$~third-party,domain=cucudas.com|kukudas.com
 /index.php?mid=*&search_target=*&search_keyword=$~third-party,script,domain=bluewings.me|issuein.com|juventus.kr
 /\/innak_banner\/(?!bottom)/$domain=innak.kr
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
@@ -975,6 +974,8 @@ cucudas.com,kukudas.com##a[href^="http://ffxitrack.com/"][href*="?source="]
 cucudas.com,kukudas.com##a[href^="http://www.bananamall.co.kr/Alinker/?ALK_Cpr="]
 cucudas.com,kukudas.com##div[id^="AD_LIVE_AREA_"]
 cucudas.com,kukudas.com##div[id^="adMall_"]
+cucudas.com,kukudas.com##div[style*="100%; height:"][style*="255px;"]
+cucudas.com,kukudas.com##div[style*="100%; height:"][style*="305px;"]
 dailian.co.kr###baner_1
 dailian.co.kr###view_page > DIV[style*="10px;"]:nth-child(-n+4)
 daily.hankooki.com###luminous
