@@ -739,8 +739,8 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
-@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
-@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|gryfindor.com|kflix.tv|netmics.com
+@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|deeppanda.com|gryfindor.com|kflix.tv|netmics.com
+@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|deeppanda.com|gryfindor.com|kflix.tv|netmics.com
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.netinsight.co.kr/crossdomain.xml^
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
@@ -1017,6 +1017,7 @@ ddanzi.com##div.right_banner
 dealbada.com###aside > .dealtabs + DIV[style*="border-bottom"]
 dealbada.com###aside > a[href="http://www.dealbada.com/bbs/board_lotto.php"]
 dealbada.com###container > CENTER > a[href="http://www.dealbada.com/bbs/board_lotto.php"]
+deeppanda.com##.container > article:first-child
 diodeo.com###newsFloatingBanner
 dispatch.co.kr##.innerNewsAD
 dispatch.co.kr##div[id^="ad"][id$="Cover"]
@@ -2276,6 +2277,7 @@ zum.com##.box_bottom_banner
 ! Section contains list of element hiding exception rules
 !
 airtravelinfo.kr,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
+anigod.com,deeppanda.com#@##banner_ad
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2628,8 +2630,8 @@ zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBa
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,anigod.com,caskers.tistory.com,frostfire.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-anigod.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
+10games.tistory.com,anigod.com,caskers.tistory.com,deeppanda.com,frostfire.tistory.com,gryfindor.com,jimnong.tistory.com,kflix.tv,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,netmics.com,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,deeppanda.com,gryfindor.com,kflix.tv,netmics.com#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
 dcinside.com#%#Object.defineProperty(window,'adBlockDetected',{value:function(){}});
