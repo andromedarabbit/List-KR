@@ -330,6 +330,7 @@
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
 ||eventmanager.co.kr^$third-party
+||everyon.tv/main/proc/get_preroll.php^
 ||ex.mdtoday.co.kr^
 ||ext.apbox.nbp-corp.com/*/adunit^
 ||exttag.about.co.kr^$third-party
@@ -588,6 +589,7 @@
 ||ntomap.com^$third-party
 ||nuriclick.co.kr^$third-party
 ||nv*.veta.naver.com/dr^
+||nvod.wcorp.co.kr/adn/*/adbasket.
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com^$third-party
 ||oeker.net/data/snb_$image
@@ -683,6 +685,7 @@
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||vop.co.kr/templates/*/mobile_fixed_ad_
+||vplayer.dawin.tv/*/dawinapi.js^
 ||vrn.co.kr/banner/rollbanner_
 ||wasabisyrup.com/template/plugin02.js^
 ||wcorp.co.kr/adbasket^
@@ -1083,6 +1086,7 @@ etoday.co.kr###ad_site_top
 etoday.co.kr##.cont_left_article + div[style*="500px"]
 etoday.co.kr##.e_real_time_w
 etoday.co.kr##.sectionAD
+everyon.tv##.iv_banner
 ezday.co.kr###bodyContainer > DIV[style*="278px"] > .community_menu + DIV[style*="250px;"]
 ezday.co.kr###contentsContainer > .pb5
 ezday.co.kr###rightCircleBannerDiv
