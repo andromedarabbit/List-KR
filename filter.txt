@@ -227,6 +227,7 @@
 ||autobrain.khan.co.kr/banner/
 ||bayabar.com/adworking/
 ||betanews.net/banner.html^
+||bit.ly^$domain=smp.lc
 ||biz.chosun.com/dhtm/js/2012_ad_biz.js^
 ||bizon.kr/bar/adon_banner.js^
 ||bizon.kr/bizon_ad/
@@ -630,6 +631,7 @@
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
 ||shallweadcorp.com^$third-party
+||shop-monkey.co.kr/partner.html^$domain=smp.lc
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
 ||showget.co.kr/*.php?
@@ -2031,6 +2033,7 @@ siren24.com##A[onclick^="go_AD("]
 sisainlive.com##[itemprop="articleBody"] > table[width="320"][align="right"]
 skyscanner.co.kr##div.mpu-advert
 smartfile.co.kr##.right_slide
+smp.lc##div.realssp
 snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
 snulife.com###comment > DIV:first-child > [style*="2% 2% 1%"]
 snulife.com###wm_area
@@ -2294,6 +2297,7 @@ kknd2ro.cafe24.com#@##sidead
 kmong.com#@#.ad-border
 ondemandkorea.com#@#.afs_ads
 persnacons.tistory.com#@#.topAD
+smp.lc#@#.myTestAd
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
