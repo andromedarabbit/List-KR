@@ -56,6 +56,15 @@ prettygom.com,whria.net#@#.adsense
 koreapas.com##ins.adsbygoogle
 lalawin.com,lalawin.tistory.com##.adsbygoogle
 mongri.net##.sidebar_adsense
+reblogit.tistory.com#@##AD2line
+reblogit.tistory.com#@##ADbox
+reblogit.tistory.com#@##ad_close
+reblogit.tistory.com#@##ads
+reblogit.tistory.com#@##adsense
+reblogit.tistory.com#@##adsimage
+reblogit.tistory.com#@##pencil-ad
+reblogit.tistory.com#@##vListAds
+reblogit.tistory.com#@##vid-left-ad
 time.navyism.com##div > .adsbygoogle
 zangsisi.net###head-menu > .wrapper > a[href$="=zangsisi"]
 zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]

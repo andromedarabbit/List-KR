@@ -2599,6 +2599,8 @@ orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 pinaya.center#$#.caution-blind { display: none!important; }
 pinaya.center#$#.xe_content { display: block!important; }
+reblogit.tistory.com#$##p64a ~ div {display:inherit;}
+reblogit.tistory.com#$##p64a {display:block!important;}
 sportsseoul.com,sportsseoul.co.kr#$#.article_leftWrap + script + div[style$="10px;"] { clear:both!important; }
 te31.com#$##content > .box1 + table[width="540"] { margin-top: -5px; }
 te31.com#$#table[bgcolor="#0c2140"] > tbody > tr > td[height="100"] { height: 20px!important; }
