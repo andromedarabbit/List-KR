@@ -1002,6 +1002,8 @@ daissue.kr###grid3
 daissue.kr###SHOWUP2
 daissue.kr##.at-main > div[align="center"] > h1[style^="font-size: 25px;"]
 daissue.kr##a[onclick^="u_info_banner"]
+danawa.com###floatAdLayer
+danawa.com##.comty_wrap_link[href]
 danawa.com##.header_banner
 danawa.com##.rnb_unit_banner
 danawa.com##.ttop_ad_banner
@@ -2575,6 +2577,7 @@ cine21.com#$##wrap > #header { padding-top: 0px!important; }
 clien.net#$#.nav-mobile ~ .nav-container #div-main-center{display:table;margin:0px;}
 daissue.kr#$##back{display:none!important;}
 daissue.kr#$#body{overflow:visible!important;}
+danawa.com#$#.comty_wrapper > .comty_wrap_bg { background-image:none!important;}
 gall.dcinside.com#$##list_right_ad {height:0px!important;}
 g-enews.com#$#article.breraking { top:146px!important; }
 hayan.tv#$##screen { overflow: visible!important; }
