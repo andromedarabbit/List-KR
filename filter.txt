@@ -2139,6 +2139,7 @@ theqoo.net###adTopChange
 thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
+ticketmonster.co.kr###topline_banner
 time.navyism.com##body > * > div[style^="width:"][style*="90px"][style*="height:"]
 tistory.com##div.ad250_outter
 todayhumor.co.kr##.table_container > DIV[style*="1.8"] > DIV[style*="solid"]
