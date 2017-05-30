@@ -2220,9 +2220,10 @@ wasabisyrup.com##.article-gallery-group.viewer-hidden:last-child
 wasabisyrup.com##footer > .bottom-group
 wasabisyrup.com##header > .top-group
 web.humoruniv.com###ad_240
-web.humoruniv.com###ad_700 
-web.humoruniv.com###CmAdView2 
+web.humoruniv.com###ad_700
+web.humoruniv.com###CmAdView2
 web.humoruniv.com###microad_728x90
+wemakeprice.com##.global_ban
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 windowsforum.kr##.top_banner
 windowsforum.kr##block.adsense
