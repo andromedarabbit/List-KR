@@ -433,7 +433,7 @@
 ||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||imp.mklaud.com^
-||imp.valuepotion.com/mimp^
+||imp.valuepotion.com^
 ||inews24.com/common/js/ad_*.js
 ||inews24.com/inc/right_file_banner_*.php
 ||inews24.com/tools/adpresso/
