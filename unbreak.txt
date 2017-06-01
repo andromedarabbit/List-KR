@@ -9,8 +9,8 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
-@@/fuckadblock.js^$~third-party,domain=anigod.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|kflix.tv|netmics.com
-@@/js/ads.js^$domain=anigod.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|kflix.tv|netmics.com
+@@/fuckadblock.js^$~third-party,domain=anigod.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|kflix.tv|netmics.com|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com
+@@/js/ads.js^$domain=anigod.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|kflix.tv|netmics.com|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com
 @@/skin/images/fuckadblock.js^$domain=10games.tistory.com|money2015.tistory.com|mongri.net
 @@||ads-optima.com/www/delivery/ajs.php?zoneid=3686^$domain=sportsseoul.co.kr|sportsseoul.com
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
@@ -46,6 +46,10 @@
 @@||ssulwar.com^$generichide
 @@||te31.com^$generichide
 @@||time.navyism.com^$generichide
+@@||twitter0.unknowncdn.com^$generichide
+@@||twitter0.oderk.com^$generichide
+@@||twitter0.teslacdn.com^$generichide
+@@||twitter0.awscontent.com^$generichide
 @@||wasabisyrup.com^$generichide
 !
 prettygom.com,whria.net#@#.adsbygoogle
