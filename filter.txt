@@ -2188,6 +2188,7 @@ tvple.com##.col-info > .bg-google-plus
 tvple.com##.col-playlist > [style$="100px;"]
 tvple.com##.container > .text-center
 tvple.com##.container-fluid > [style$="300px;"]
+tvple.com##.ranking > div[class^="side-"]
 tvple.com##.video-player-overlay
 tvple.com##.visible-box
 tvreport.co.kr###firstimgwrapper > #imgbot1
