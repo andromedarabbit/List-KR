@@ -1,0 +1,45 @@
+! domain_shortcut(anigod_trans)
+deepanda.com
+deepanda.io
+deepanda.net
+deepanda.org
+deeppanda.com
+deeppanda.io
+deeppanda.net
+deeppanda.org
+twitter0.unknowncdn.com
+twitter0.oderk.com
+twitter0.teslacdn.com
+twitter0.awscontent.com
+twitter0.facebooook.website
+twitter0.youtubbe.website
+twitter0.goooooooogle.website
+twitter0.teslaaa.website
+twitter0.kakaooo.website
+twitter0.twittter.website
+twitter0.netflixxx.website
+twitter0.apppple.website
+twitter0.iiinstagram.website
+twitter0.amazooon.website
+! domain_shortcut(anigod)
+anigod.com
+kflix.tv
+netmics.com
+{anigod_trans}
+! domain_shortcut(fuckadblock)
+10games.tistory.com
+caskers.tistory.com
+frostfire.tistory.com
+jimnong.tistory.com
+koreapas.com
+lalawin.com
+lalawin.tistory.com
+linsoo.co.kr
+minitoon.net
+money2015.tistory.com
+mongri.net
+pinaya.center
+ruinses.tistory.com
+ssulwar.com
+te31.com
+{anigod}

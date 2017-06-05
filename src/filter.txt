@@ -746,8 +746,8 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
-@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com|twitter0.facebooook.website|twitter0.youtubbe.website|twitter0.goooooooogle.website|twitter0.teslaaa.website|twitter0.kakaooo.website|twitter0.twittter.website|twitter0.netflixxx.website|twitter0.apppple.website|twitter0.iiinstagram.website|twitter0.amazooon.website
-@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com|twitter0.facebooook.website|twitter0.youtubbe.website|twitter0.goooooooogle.website|twitter0.teslaaa.website|twitter0.kakaooo.website|twitter0.twittter.website|twitter0.netflixxx.website|twitter0.apppple.website|twitter0.iiinstagram.website|twitter0.amazooon.website
+@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain={anigod}
+@@/js/ads.exoclick.com.js^$~third-party,domain={anigod}
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.netinsight.co.kr/crossdomain.xml^
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
@@ -2290,8 +2290,8 @@ zum.com##.box_bottom_banner
 ! Section contains list of element hiding exception rules
 !
 airtravelinfo.kr,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
-anigod.com,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,twitter0.unknowncdn.com,twitter0.oderk.com,twitter0.teslacdn.com,twitter0.awscontent.com,twitter0.facebooook.website,twitter0.youtubbe.website,twitter0.goooooooogle.website,twitter0.teslaaa.website,twitter0.kakaooo.website,twitter0.twittter.website,twitter0.netflixxx.website,twitter0.apppple.website,twitter0.iiinstagram.website,twitter0.amazooon.website#@##banner_ad
-deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,twitter0.unknowncdn.com,twitter0.oderk.com,twitter0.teslacdn.com,twitter0.awscontent.com,twitter0.facebooook.website,twitter0.youtubbe.website,twitter0.goooooooogle.website,twitter0.teslaaa.website,twitter0.kakaooo.website,twitter0.twittter.website,twitter0.netflixxx.website,twitter0.apppple.website,twitter0.iiinstagram.website,twitter0.amazooon.website#@#.adsbygoogle
+{anigod}#@##banner_ad
+{anigod_trans}#@#.adsbygoogle
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2572,7 +2572,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
-deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,twitter0.unknowncdn.com,twitter0.oderk.com,twitter0.teslacdn.com,twitter0.awscontent.com,twitter0.facebooook.website,twitter0.youtubbe.website,twitter0.goooooooogle.website,twitter0.teslaaa.website,twitter0.kakaooo.website,twitter0.twittter.website,twitter0.netflixxx.website,twitter0.apppple.website,twitter0.iiinstagram.website,twitter0.amazooon.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
+{anigod_trans}#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
 2cpu.co.kr#$#header > .container-fluid > .row { height: 60px; }
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 auth.spcnetworks.kr#$##reBackground { display: block!important; }
@@ -2648,8 +2648,8 @@ zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBa
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,caskers.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com,anigod.com,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,twitter0.unknowncdn.com,twitter0.oderk.com,twitter0.teslacdn.com,twitter0.awscontent.com,twitter0.facebooook.website,twitter0.youtubbe.website,twitter0.goooooooogle.website,twitter0.teslaaa.website,twitter0.kakaooo.website,twitter0.twittter.website,twitter0.netflixxx.website,twitter0.apppple.website,twitter0.iiinstagram.website,twitter0.amazooon.website#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-anigod.com,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,twitter0.unknowncdn.com,twitter0.oderk.com,twitter0.teslacdn.com,twitter0.awscontent.com,twitter0.facebooook.website,twitter0.youtubbe.website,twitter0.goooooooogle.website,twitter0.teslaaa.website,twitter0.kakaooo.website,twitter0.twittter.website,twitter0.netflixxx.website,twitter0.apppple.website,twitter0.iiinstagram.website,twitter0.amazooon.website#%#window.canRunAds = !0;
+{fuckadblock}#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+{anigod}#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
 dcinside.com#%#Object.defineProperty(window,'adBlockDetected',{value:function(){}});

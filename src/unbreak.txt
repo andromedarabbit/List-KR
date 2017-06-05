@@ -1,0 +1,47 @@
+! Title: List-KR unbreak
+!
+! Filter that fixes filtration errors in an alternative way
+! due to limitations of adblockers other than Adguard
+! or those using Webkit content blocker API.
+!
+! Homepage: https://List-KR.github.io
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
+!
+! ---------------------------------------------------------------
+! Url exception rules
+@@/fuckadblock.js^$~third-party,domain={anigod}
+@@/js/ads.js^$domain={anigod}
+@@/skin/images/fuckadblock.js^$domain=10games.tistory.com|money2015.tistory.com|mongri.net
+@@||ads-optima.com/www/delivery/ajs.php?zoneid=3686^$domain=sportsseoul.co.kr|sportsseoul.com
+@@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
+@@||cc.naver.com/cc^$image
+@@||pagead2.googlesyndication.com/pagead/show_ads.js^$domain=sportsseoul.co.kr|sportsseoul.com
+@@||tab2.clickmon.co.kr/pop/wp_ad_728_js.php^$domain=ilsangt.tistory.com
+!@@||tvcast.naver.com/resources/*/clickcr_*.js^ - until Adguard browser extensions suppport $empty modifier
+@@||wcs.naver.net/wcslog.js^
+@@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
+! Element hiding exception rules
+@@||{fuckadblock}^$generichide
+@@||time.navyism.com^$generichide
+@@||wasabisyrup.com^$generichide
+!
+prettygom.com,whria.net#@#.adsbygoogle
+prettygom.com,whria.net#@#.adsense
+! Url blocking rules
+||melon.com/mlog.js^
+! Element hiding rules
+koreapas.com##ins.adsbygoogle
+lalawin.com,lalawin.tistory.com##.adsbygoogle
+mongri.net##.sidebar_adsense
+reblogit.tistory.com#@##AD2line
+reblogit.tistory.com#@##ADbox
+reblogit.tistory.com#@##ad_close
+reblogit.tistory.com#@##ads
+reblogit.tistory.com#@##adsense
+reblogit.tistory.com#@##adsimage
+reblogit.tistory.com#@##pencil-ad
+reblogit.tistory.com#@##vListAds
+reblogit.tistory.com#@##vid-left-ad
+time.navyism.com##div > .adsbygoogle
+zangsisi.net###head-menu > .wrapper > a[href$="=zangsisi"]
+zangsisi.net##A[href^="http://www.bondisk.com/?ad=zangsisi"]
