@@ -504,6 +504,7 @@
 ||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
+||malbn.altools.com^
 ||manian.com/images/banner/$image
 ||mat.adpies.com/mat/$empty
 ||maxmovie.com/banner/img/lotte630x88.jpg^
