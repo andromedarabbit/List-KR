@@ -23,6 +23,7 @@
 ! Element hiding exception rules
 @@||10games.tistory.com^$generichide
 @@||caskers.tistory.com^$generichide
+@@||fmgunzo.tistory.com^$generichide
 @@||frostfire.tistory.com^$generichide
 @@||jimnong.tistory.com^$generichide
 @@||koreapas.com^$generichide

@@ -1101,6 +1101,7 @@ ezkorry.tistory.com##.adblock-on
 fancug.com###ad_front_popup
 fastpost.oceanmate.co.kr##body > table[width="980"][style^="border:"]
 fastpost.oceanmate.co.kr##td[colspan="2"] > table[style^="border:"]
+fmgunzo.tistory.com##ins.adsbygoogle
 fnnews.com###bylineaAd1
 fnnews.com##div.fn_ad_part
 fnnews.com##div.fn_left_side
@@ -2291,7 +2292,7 @@ zum.com##.box_bottom_banner
 !
 ! Section contains list of element hiding exception rules
 !
-airtravelinfo.kr,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
+airtravelinfo.kr,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
 {anigod}#@##banner_ad
 {anigod_trans}#@#.adsbygoogle
 auction.co.kr#@#.side-ads
