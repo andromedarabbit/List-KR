@@ -1560,6 +1560,7 @@ m.media.daum.net##.bnr_thumb
 m.mediatoday.co.kr##div[style="position:fixed;margin:0 auto;right:0;left:0;bottom:0;max-width:320px;"]
 m.mediatoday.co.kr##iframe[src^="http://adexpert.ad4989.co.kr"]
 m.mediaus.co.kr###articleBody > .body > DIV[style^="float:right;"]
+m.menupan.com##.cid_google_adsense_warp
 m.mk.co.kr##.new_ad
 m.mk.co.kr##.new_ad2
 m.mk.co.kr##div[id^="mainAdSlot"]
@@ -2301,6 +2302,7 @@ gall.dcinside.com#@##dc_advertisement
 i.orbi.kr#@#.gridAd
 kknd2ro.cafe24.com#@##sidead
 kmong.com#@#.ad-border
+m.menupan.com#@#.google_adsense
 ondemandkorea.com#@#.afs_ads
 persnacons.tistory.com#@#.topAD
 smp.lc#@#.myTestAd
