@@ -9,8 +9,8 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
-@@/fuckadblock.js^$~third-party,domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com|twitter0.facebooook.website|twitter0.youtubbe.website|twitter0.goooooooogle.website|twitter0.teslaaa.website|twitter0.kakaooo.website|twitter0.twittter.website|twitter0.netflixxx.website|twitter0.apppple.website|twitter0.iiinstagram.website|twitter0.amazooon.website
-@@/js/ads.js^$domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|twitter0.unknowncdn.com|twitter0.oderk.com|twitter0.teslacdn.com|twitter0.awscontent.com|twitter0.facebooook.website|twitter0.youtubbe.website|twitter0.goooooooogle.website|twitter0.teslaaa.website|twitter0.kakaooo.website|twitter0.twittter.website|twitter0.netflixxx.website|twitter0.apppple.website|twitter0.iiinstagram.website|twitter0.amazooon.website
+@@/fuckadblock.js^$~third-party,domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
+@@/js/ads.js^$domain=anigod.com|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
 @@/skin/images/fuckadblock.js^$domain=10games.tistory.com|money2015.tistory.com|mongri.net
 @@||ads-optima.com/www/delivery/ajs.php?zoneid=3686^$domain=sportsseoul.co.kr|sportsseoul.com
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
@@ -47,20 +47,20 @@
 @@||deeppanda.io^$generichide
 @@||deeppanda.net^$generichide
 @@||deeppanda.org^$generichide
-@@||twitter0.unknowncdn.com^$generichide
-@@||twitter0.oderk.com^$generichide
-@@||twitter0.teslacdn.com^$generichide
-@@||twitter0.awscontent.com^$generichide
-@@||twitter0.facebooook.website^$generichide
-@@||twitter0.youtubbe.website^$generichide
-@@||twitter0.goooooooogle.website^$generichide
-@@||twitter0.teslaaa.website^$generichide
-@@||twitter0.kakaooo.website^$generichide
-@@||twitter0.twittter.website^$generichide
-@@||twitter0.netflixxx.website^$generichide
-@@||twitter0.apppple.website^$generichide
-@@||twitter0.iiinstagram.website^$generichide
-@@||twitter0.amazooon.website^$generichide
+@@||amazooon.website^$generichide
+@@||apppple.website^$generichide
+@@||awscontent.com^$generichide
+@@||facebooook.website^$generichide
+@@||goooooooogle.website^$generichide
+@@||iiinstagram.website^$generichide
+@@||kakaooo.website^$generichide
+@@||netflixxx.website^$generichide
+@@||oderk.com^$generichide
+@@||teslaaa.website^$generichide
+@@||teslacdn.com^$generichide
+@@||twittter.website^$generichide
+@@||unknowncdn.com^$generichide
+@@||youtubbe.website^$generichide
 @@||time.navyism.com^$generichide
 @@||wasabisyrup.com^$generichide
 !
