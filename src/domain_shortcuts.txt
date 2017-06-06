@@ -23,6 +23,7 @@ unknowncdn.com
 youtubbe.website
 ! domain_shortcut(anigod)
 anigod.com
+anigod.org
 kflix.tv
 netmics.com
 {anigod_trans}
