@@ -1630,6 +1630,7 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
 m.shopping.naver.com###_power_link
+m.slist.kr##[itemprop="articleBody"] > .body > div[style*="200px !important; height:"]
 m.sporbiz.co.kr###articleBody > .body > div[style^="float:left"]
 m.sportschosun.com###caulyad
 m.sportschosun.com##.ac_cont + * + [style="height:150px;"]
