@@ -765,7 +765,7 @@
 @@||google-analytics.com/analytics.js^$domain=moeni.net
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
-@@||hayan.tv^$jsinject,generichide
+@@||hayan.tv^$jsinject,generichide,content
 @@||hayan.tv/a/$stealth
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
@@ -2591,7 +2591,7 @@ danawa.com#$#.comty_wrapper > .comty_wrap_bg { background-image:none!important;}
 gall.dcinside.com#$##list_right_ad {height:0px!important;}
 g-enews.com#$#article.breraking { top:146px!important; }
 hayan.tv#$##screen { overflow: visible!important; }
-hayan.tv#$#iframe[src^="http://adtg.widerplanet.com/delivery"] { opacity: 0 }
+hayan.tv#$#iframe[width="728"][height="90"] {z-index:-1!important;visibility:hidden;}
 hungryapp.co.kr#$#BODY { background: none!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 ilsangt.tistory.com#$#.adsense-area{height:1px!important;}
@@ -2640,6 +2640,7 @@ zangsisi.net#$#A[href^="http://www.bondisk.com/?ad=zangsisi"] {visibility:hidden
 ! that utilizes extended css selectors.
 !
 gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
+hayan.tv#$#div[id][style*="-364px"][-ext-has='>iframe[width="728"][height="90"]']{z-index:-1!important;}
 m.dcinside.com##.section_noti > .box_top[-ext-has='a[href^="http://addc.dcinside.com"]']
 mybogo.net###move_sub_1 > div[style*="hidden"][-ext-has='div[id$="_INSERT_SLOT_ID_HERE"]']
 star.ohmynews.com##li[-ext-has=">.ad-box"]
