@@ -747,8 +747,8 @@
 !
 ! URL exception rules. Fixing filtration errors (false-positive)
 !
-@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
-@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
+@@/cdn-dgi/pe/bag2?r[]=*%2Fjs%2Fads.exoclick.com.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
+@@/js/ads.exoclick.com.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
 @@||ad.smartmediarep.com/NetInsight/video/*?enc=jwt^$domain=player.sbs.co.kr
 @@||ads.netinsight.co.kr/crossdomain.xml^
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
@@ -763,6 +763,7 @@
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js^$domain=cgv.co.kr
 @@||google-analytics.com/analytics.js^$domain=moeni.net
+@@||google-analytics.com/analytics.js^$domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide,content
@@ -2294,8 +2295,8 @@ zum.com##.box_bottom_banner
 ! Section contains list of element hiding exception rules
 !
 airtravelinfo.kr,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
-anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,unknowncdn.com,youtubbe.website#@##banner_ad
-deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,unknowncdn.com,youtubbe.website#@#.adsbygoogle
+anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@##banner_ad
+deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@#.adsbygoogle
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2577,7 +2578,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
-deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,unknowncdn.com,youtubbe.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
+deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
 2cpu.co.kr#$#header > .container-fluid > .row { height: 60px; }
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
 auth.spcnetworks.kr#$##reBackground { display: block!important; }
@@ -2654,8 +2655,8 @@ zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBa
 ! that are commonly achieved by third party userscripts.
 !
 !------ anti-adblock neutralizers -------------------
-10games.tistory.com,caskers.tistory.com,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com,anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,unknowncdn.com,youtubbe.website#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
-anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,unknowncdn.com,youtubbe.website#%#window.canRunAds = !0;
+10games.tistory.com,caskers.tistory.com,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,pinaya.center,ruinses.tistory.com,ssulwar.com,te31.com,anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
 dcinside.com#%#Object.defineProperty(window,'adBlockDetected',{value:function(){}});
@@ -2691,3 +2692,31 @@ dcinside.com$$script[tag-content="function adBlockDetected()"]
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
 1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
+@@||anigod.com^$urlblock
+@@||anigod.org^$urlblock
+@@||kflix.tv^$urlblock
+@@||netmics.com^$urlblock
+@@||deepanda.com^$urlblock
+@@||deepanda.io^$urlblock
+@@||deepanda.net^$urlblock
+@@||deepanda.org^$urlblock
+@@||deeppanda.com^$urlblock
+@@||deeppanda.io^$urlblock
+@@||deeppanda.net^$urlblock
+@@||deeppanda.org^$urlblock
+@@||amazooon.website^$urlblock
+@@||apppple.website^$urlblock
+@@||awscontent.com^$urlblock
+@@||facebooook.website^$urlblock
+@@||goooooooogle.website^$urlblock
+@@||gryfindor.com^$urlblock
+@@||iiinstagram.website^$urlblock
+@@||kakaooo.website^$urlblock
+@@||netflixxx.website^$urlblock
+@@||oderk.com^$urlblock
+@@||teslaaa.website^$urlblock
+@@||teslacdn.com^$urlblock
+@@||twittter.website^$urlblock
+@@||twitttter.website^$urlblock
+@@||unknowncdn.com^$urlblock
+@@||youtubbe.website^$urlblock

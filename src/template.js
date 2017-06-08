@@ -46,19 +46,19 @@ for(file of ['filter.txt', 'unbreak.txt']) {
     let rules = fs.readFileSync(file, 'utf8').toString().split(/\r?\n/);
 
     for(i = 0, l = rules.length; i < l; i++) {
-        let rule = rules[i];
-        if(reWhitespace.test(rule) || reComment.test(rule)) continue;
+        line = rules[i];
+        if(reWhitespace.test(line) || reComment.test(line)) continue;
         for(shortcut in map) {
-            rule = rule.replace(new RegExp('\\{' + shortcut + '\\}'), () => {
+            line = line.replace(new RegExp('\\{' + shortcut + '\\}'), () => {
                 let l = RegExp.leftContext, r = RegExp.rightContext, splitter;
                 if(reInstruction.test(r)) splitter = ',';
                 else if(reDomainModifier.test(l)) splitter = '|';
-                else if(l == '@@||' && r == '^$generichide') splitter = '^$generichide\n@@||';
+                else if(l == '@@||') splitter = r + '\n@@||';
                 else makeError();
                 return map[shortcut].join(splitter);
             });
         }
-        rules[i] = rule;
+        rules[i] = line;
     }
 
     fs.writeFileSync('../' + file, rules.join('\n'), 'utf8');

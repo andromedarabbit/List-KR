@@ -9,8 +9,8 @@
 !
 ! ---------------------------------------------------------------
 ! Url exception rules
-@@/fuckadblock.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
-@@/js/ads.js^$domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|unknowncdn.com|youtubbe.website
+@@/fuckadblock.js^$~third-party,domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
+@@/js/ads.js^$domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
 @@/skin/images/fuckadblock.js^$domain=10games.tistory.com|money2015.tistory.com|mongri.net
 @@||ads-optima.com/www/delivery/ajs.php?zoneid=3686^$domain=sportsseoul.co.kr|sportsseoul.com
 @@||adverweb.cjenm.com/vod.mezzo/$domain=m.tving.com
@@ -54,6 +54,7 @@
 @@||awscontent.com^$generichide
 @@||facebooook.website^$generichide
 @@||goooooooogle.website^$generichide
+@@||gryfindor.com^$generichide
 @@||iiinstagram.website^$generichide
 @@||kakaooo.website^$generichide
 @@||netflixxx.website^$generichide
@@ -61,6 +62,7 @@
 @@||teslaaa.website^$generichide
 @@||teslacdn.com^$generichide
 @@||twittter.website^$generichide
+@@||twitttter.website^$generichide
 @@||unknowncdn.com^$generichide
 @@||youtubbe.website^$generichide
 @@||time.navyism.com^$generichide

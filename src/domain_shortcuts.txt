@@ -12,6 +12,7 @@ apppple.website
 awscontent.com
 facebooook.website
 goooooooogle.website
+gryfindor.com
 iiinstagram.website
 kakaooo.website
 netflixxx.website
@@ -19,6 +20,7 @@ oderk.com
 teslaaa.website
 teslacdn.com
 twittter.website
+twitttter.website
 unknowncdn.com
 youtubbe.website
 ! domain_shortcut(anigod)

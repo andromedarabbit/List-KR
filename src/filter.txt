@@ -763,6 +763,7 @@
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js^$domain=cgv.co.kr
 @@||google-analytics.com/analytics.js^$domain=moeni.net
+@@||google-analytics.com/analytics.js^$domain={anigod}
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide,content
@@ -2691,3 +2692,4 @@ dcinside.com$$script[tag-content="function adBlockDetected()"]
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
 1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
+@@||{anigod}^$urlblock
