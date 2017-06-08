@@ -762,9 +762,11 @@
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js^$domain=cgv.co.kr
+@@||google-analytics.com/analytics.js^$domain=lottedfs.com
 @@||google-analytics.com/analytics.js^$domain=moeni.net
-@@||google-analytics.com/analytics.js^$domain=anigod.com|anigod.org|kflix.tv|netmics.com|deepanda.com|deepanda.io|deepanda.net|deepanda.org|deeppanda.com|deeppanda.io|deeppanda.net|deeppanda.org|amazooon.website|apppple.website|awscontent.com|facebooook.website|goooooooogle.website|gryfindor.com|iiinstagram.website|kakaooo.website|netflixxx.website|oderk.com|teslaaa.website|teslacdn.com|twittter.website|twitttter.website|unknowncdn.com|youtubbe.website
+@@||google-analytics.com/plugins/ua/ec.js^$domain=lottedfs.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
+@@||googletagmanager.com/gtm.js^$domain=lottedfs.com
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||hayan.tv^$jsinject,generichide,content
 @@||hayan.tv/a/$stealth
@@ -2286,6 +2288,7 @@ zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##ul.ad_list
 zipbogo.net###logo-ad
 zipbogo.net##.sidebar > ul > [id^="popup_"]
+zum.com###d_lefttop_banner_default
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
@@ -2552,6 +2555,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 ||tracker.platoon.nhncorp.com^$empty
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
+||tracking.icomas.co.kr^
 ||tracking.reeket.com^
 ||tracking.sgame.daum.net^*/meerkat/daumgames/tracker?
 !||tvcast.naver.com/resources/*/clickcr_*.js^$empty - until Adguard browser extensions suppport $empty modifier
