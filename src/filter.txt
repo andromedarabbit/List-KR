@@ -2286,6 +2286,7 @@ zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##ul.ad_list
 zipbogo.net###logo-ad
 zipbogo.net##.sidebar > ul > [id^="popup_"]
+zum.com###d_lefttop_banner_default
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
 !-------------------------------------------------------------------------------!
