@@ -2299,7 +2299,8 @@ zum.com##.box_bottom_banner
 !
 airtravelinfo.kr,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
 {anigod}#@##banner_ad
-{anigod_trans}#@#.adsbygoogle
+{anigod}#@#.adsbygoogle
+{anigod}#@#.table-ad
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2583,6 +2584,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
+{anigod}#$#.adsbygoogle{height:1px;}
 {anigod_trans}#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
 2cpu.co.kr#$#header > .container-fluid > .row { height: 60px; }
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
@@ -2697,4 +2699,4 @@ dcinside.com$$script[tag-content="function adBlockDetected()"]
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
 1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
-@@||{anigod}^$urlblock
+!@@||{anigod}^$urlblock

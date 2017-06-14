@@ -2299,7 +2299,8 @@ zum.com##.box_bottom_banner
 !
 airtravelinfo.kr,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,mongri.net,persnacons.tistory.com#@#.adsbygoogle
 anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@##banner_ad
-deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@#.adsbygoogle
+anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@#.adsbygoogle
+anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#@#.table-ad
 auction.co.kr#@#.side-ads
 auth.spcnetworks.kr#@#.ad-display
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#@##ad_banner
@@ -2583,6 +2584,7 @@ search.naver.com#%#AG_onLoad( function() { window.goCR = window.tCR = function()
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
+anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#$#.adsbygoogle{height:1px;}
 deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#$#.container > article:first-child {visibility:hidden!important;height:0px!important;padding:0px!important;}
 2cpu.co.kr#$#header > .container-fluid > .row { height: 60px; }
 anewsa.com#$##mainSec0405 { margin-top: auto!important; }
@@ -2697,31 +2699,4 @@ dcinside.com$$script[tag-content="function adBlockDetected()"]
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
 1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
-@@||anigod.com^$urlblock
-@@||anigod.org^$urlblock
-@@||kflix.tv^$urlblock
-@@||netmics.com^$urlblock
-@@||deepanda.com^$urlblock
-@@||deepanda.io^$urlblock
-@@||deepanda.net^$urlblock
-@@||deepanda.org^$urlblock
-@@||deeppanda.com^$urlblock
-@@||deeppanda.io^$urlblock
-@@||deeppanda.net^$urlblock
-@@||deeppanda.org^$urlblock
-@@||amazooon.website^$urlblock
-@@||apppple.website^$urlblock
-@@||awscontent.com^$urlblock
-@@||facebooook.website^$urlblock
-@@||goooooooogle.website^$urlblock
-@@||gryfindor.com^$urlblock
-@@||iiinstagram.website^$urlblock
-@@||kakaooo.website^$urlblock
-@@||netflixxx.website^$urlblock
-@@||oderk.com^$urlblock
-@@||teslaaa.website^$urlblock
-@@||teslacdn.com^$urlblock
-@@||twittter.website^$urlblock
-@@||twitttter.website^$urlblock
-@@||unknowncdn.com^$urlblock
-@@||youtubbe.website^$urlblock
+!@@||{anigod}^$urlblock
