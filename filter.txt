@@ -669,6 +669,7 @@
 ||theprimead.co.kr^$third-party
 ||ti-center.co.kr^$third-party
 ||tistoly.com^$third-party
+||tomovie.net/img/banner/
 ||torrenthaja.com/data/banner/
 ||torrentkim*.net/banner/$image
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
@@ -1993,6 +1994,8 @@ ppomppu.co.kr,ppomppu1.co.kr##div.banner
 ppomppu.co.kr,ppomppu1.co.kr##div.banner_336
 ppomppu.co.kr,ppomppu1.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr,ppomppu1.co.kr##p[class^="banner_"]
+ppss.kr###text-11.widget_text:first-child
+ppss.kr###text-6.widget_text:nth-child(2)
 pressian.com##.news_body_area > div[style^="margin-bottom:"][style*="50px;"]
 pressian.com##.po_warp
 pressian.com##.remove_ad
