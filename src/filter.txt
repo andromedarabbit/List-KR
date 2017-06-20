@@ -2597,6 +2597,7 @@ betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com#$#iframe[src*="/he
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
 clien.net#$#.nav-mobile ~ .nav-container #div-main-center{display:table;margin:0px;}
+clien.net#$#.viewListArea > #listDiv > .board-foot {margin-top:0px;}
 daissue.kr#$##back{display:none!important;}
 daissue.kr#$#body{overflow:visible!important;}
 danawa.com#$#.comty_wrapper > .comty_wrap_bg { background-image:none!important;}
