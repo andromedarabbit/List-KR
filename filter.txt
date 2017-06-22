@@ -1356,6 +1356,7 @@ khan.co.kr##DIV[id^="AD_LIVE_AREA"]
 kin.naver.com##.broadcast_kin
 kns.tv###article-wrap > div[style*="100%; height:"][style*="250px"]
 kns.tv##.height-250.float-left
+kookje.co.kr###con_text > div[style*="10px 8px;"][style*="200px;"]
 kookje.co.kr###hs_bnr
 kookje.co.kr###news_textArea > DIV[style*="border:"][style*="468"]
 kookje.co.kr###news_textArea > DIV[style*="right;"][style*="255"]
