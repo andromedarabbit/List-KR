@@ -608,6 +608,8 @@
 ||plugin.2beon.co.kr^
 ||podgate.com/content/adpick/
 ||postman.co.kr^$third-party
+||postshare.co.kr/wp/wp-content/themes/viralnova/js/adt_bottom_
+||postshare.co.kr/wp/wp-content/themes/viralnova/js/ad_toast_pop.js^
 ||powerclick.about.co.kr^
 ||ppomppu.co.kr/banner/
 ||ppomppu1.co.kr/banner/
@@ -1987,6 +1989,8 @@ player.kmpmedia.net##.taboola-link-view
 playwares.com##.bx-wrapper
 playwares.com##.two-column-right > DIV[style^="height:"]
 playwares.com##a[href*="../api/redirectAd.php?document_srl="]
+postshare.co.kr###sky
+postshare.co.kr##iframe[src^="http://adv.imadrep.co.kr"]
 ppomppu.co.kr,ppomppu1.co.kr###emart_banner
 ppomppu.co.kr,ppomppu1.co.kr###shoppingbox
 ppomppu.co.kr,ppomppu1.co.kr##.container > div[style*="padding: 15px 0"][style*="100px; text-align:"]:first-child
@@ -2698,6 +2702,7 @@ m.tving.com#%#AG_onLoad(function(){var a=document.getElementById("player");a.rem
 !------ HTML filtration rules -----------------------!
 !----------------------------------------------------!
 dcinside.com$$script[tag-content="function adBlockDetected()"]
+postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
