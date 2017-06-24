@@ -206,6 +206,7 @@
 ||allblet.net^$third-party
 ||allsee.co.kr/js/allsee_banner.js$third-party
 ||amazonaws.com/avdbs.new/banner/
+||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=
 ||amsv2.daum.net/ad/
 ||android.kweather.co.kr/xmldata/*/getXML_AdInfo.php^
 ||anewsa.com/_ad/real/
@@ -216,6 +217,7 @@
 ||api.ezadsystem.com^
 ||api.live.daum.net/gls-svc-ad/*/ad/request|
 ||api.wiseclick.co.kr/api/web_directad/
+||apis.naver.com/rmcnmv/rmcams/item/create*^ams_ctgr=*&ams_chnl=*&ams_videoId=
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
 ||asiatoday.co.kr/comm/ads/
@@ -728,14 +730,13 @@
 !
 ://ad.smartmediarep.com/NetInsight/video/$replace=/"ads"/"x"/,xmlhttprequest,other,app=kr.co.sbs.videoplayer,important
 ://api-city.livere.com/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/  
-://apis.naver.com/rmcnmv/rmcnmv/vod/play/v2.0/*&ver=2.0&devt=html5_pc&doct=json&*&adi=*&cc=$replace=/"advertise":\{/"noopstr":{/
+://apis.naver.com/rmcnmv/rmcnmv/vod/play/v2.0/*&ver=2.0&devt=html5_pc&doct=json&*&adi=*$replace=/"advertise":\{/"noopstr":{/
 ://dev.livere.co.kr/livereDataLoad*&livereCallback=$other,replace=/"tenping_ad":/"x":/
 ://kr.popin.cc/popin_discovery/recommend?mode=new&*&ad=$replace=/"(ad|ad_video|ad_reserved|ad_reserved_video)"\s*?\:/"x\$1"\:/,script
 ://m.gomtv.com/ajax.gom?ajax_source_url=gvp_play|$xmlhttprequest,replace=/<ENTRY (?:[^>]*?["\s])?type=\\"gomad\\"[^>]*?>[\s\S]*?<\\\/ENTRY>//
 ://play.rmcnmv.naver.com/vod/play/*&doct=xml&*&devt=flash&$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ://play.rmcnmv.naver.com/vod/play/v2.0/*.rd?key=*&ver=2.0&devt=html5_*&doct=json&*&rd=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ://play.rmcnmv.naver.com/vod/play/v2.0/*&ver=2.0&devt=html5_*&doct=json&*&adi=*&cc=$replace=/"advertise":\{/"noopstr":{/
-||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
 ||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\,cache:false\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
