@@ -875,7 +875,6 @@ anewsa.com##.viewAddW
 anewsa.com##DIV[id^="ir_bnr"]
 anewsa.com##DIV[id^="subBanner"]
 anewsa.com##DIV[itemprop="articleBody"] > DIV > DIV[style^="padding:0"]
-anigod.com##.episode-video-ad-container
 animoe.me###hd_pop
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
@@ -2301,6 +2300,7 @@ zipbogo.net##.sidebar > ul > [id^="popup_"]
 zum.com###d_lefttop_banner_default
 zum.com###wrap_ad_main > a[href^="http://advert.estsoft.com"]
 zum.com##.box_bottom_banner
+{anigod}##.episode-video-ad-container
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding exception rules -----------------------------!
 !-------------------------------------------------------------------------------!
