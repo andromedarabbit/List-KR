@@ -799,6 +799,7 @@
 @@||sisapress.com/common/js/common_ad.js
 @@||soriaudio.com/page/banner.php?mid=m_eqp$domain=soriaudio.com
 @@||starking.sbs.co.kr/send_log_ad.jsp^
+@@||syndication.exdynsrv.com/splash.php^$domain=moeni.net
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tvple.com^$generichide
 @@||view.teafone.com/tpview/main?bannerId=
