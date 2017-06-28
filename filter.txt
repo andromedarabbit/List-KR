@@ -330,7 +330,7 @@
 ||etnews.com/tools/refresh_script.html^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
-||etobang.co.kr/etorrent/320_100_mobile.php
+||etobang.co.kr/etoad/
 ||etoday.co.kr/include/etoday_ad_
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
