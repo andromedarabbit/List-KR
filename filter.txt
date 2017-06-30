@@ -801,6 +801,7 @@
 @@||starking.sbs.co.kr/send_log_ad.jsp^
 @@||syndication.exdynsrv.com/splash.php^$domain=moeni.net
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
+@@||tags.bkrtx.com/js/bk-coretag.js^$domain=item.gmarket.co.kr
 @@||tvple.com^$generichide
 @@||view.teafone.com/tpview/main?bannerId=
 !------ Stealth mode fixes ------------------------
