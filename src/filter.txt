@@ -964,8 +964,8 @@ cine21.com##DIV[class^="banner_han_"]
 cine21.com##div[id^="crt-"]
 clien.net###m_naverAd
 clien.net###naverAd
+clien.net##.board-list > .list-banner
 clien.net##.header-banner
-clien.net##.list-row.list-banner
 clien.net##div[class^="div-rs-"]:not(#div-main-center)
 clien.net##nav.nav + .nav-container #div-main-center
 cnews.co.kr##.leftBanner
