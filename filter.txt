@@ -206,7 +206,6 @@
 ||allblet.net^$third-party
 ||allsee.co.kr/js/allsee_banner.js$third-party
 ||amazonaws.com/avdbs.new/banner/
-||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=
 ||amsv2.daum.net/ad/
 ||android.kweather.co.kr/xmldata/*/getXML_AdInfo.php^
 ||anewsa.com/_ad/real/
@@ -217,7 +216,6 @@
 ||api.ezadsystem.com^
 ||api.live.daum.net/gls-svc-ad/*/ad/request|
 ||api.wiseclick.co.kr/api/web_directad/
-||apis.naver.com/rmcnmv/rmcams/item/create*^ams_ctgr=*&ams_chnl=*&ams_videoId=
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
 ||asiatoday.co.kr/comm/ads/
@@ -737,8 +735,10 @@
 ://play.rmcnmv.naver.com/vod/play/*&doct=xml&*&devt=flash&$replace=/<advertise[\s\S]*?>[\s\S]*<\/advertise>//
 ://play.rmcnmv.naver.com/vod/play/v2.0/*.rd?key=*&ver=2.0&devt=html5_*&doct=json&*&rd=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ://play.rmcnmv.naver.com/vod/play/v2.0/*&ver=2.0&devt=html5_*&doct=json&*&adi=*&cc=$replace=/"advertise":\{/"noopstr":{/
+||ams.rmcnmv.naver.com/item/create/*^ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||api.band.us/*/get_band_list|$replace=/"ads"\:\s*\[/"x":\[/
 ||api.tving.com/v1/media/stream/info?*&streamtype=hls&$replace=/"ad"\:/"noopstr":/
+||apis.naver.com/rmcnmv/rmcams/item/create*^ams_ctgr=*&ams_chnl=*&ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||device.freezm.net/authFiles/scripts/freezm.page.$script,replace=/^[\s\S]*\$/\$.ajax\(\{url:"\/proc\/internal\/activate.nts"\,data:\{\}\,cache:false\}\).done\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has succeeded"\);\}\).fail\(function\(\)\{\$\('body'\).html\("Wi-Fi connection has failed"\);\}\);/
 ||gox.gomtv.com/cgi-bin/gox_play.cgi?*player=ANDROID&*datatype=xml&$replace=/<ENTRY (?:[^>]*?["\s])?type="gomad"[^>]*?>[\s\S]*?<\/ENTRY>//
 ||samsungmilkradio.com/radio/audio/advertisement?$replace=/"trackTitle"[\s\S]*?"audioType"/"albumArtUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/1x1_tr\.gif"\,"audioUrl":"https:\/\/raw\.githubusercontent\.com\/List-KR\/0\/master\/2000_48k\.aac"\,"bitrate":""\,"audioType"/
