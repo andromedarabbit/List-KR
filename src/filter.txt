@@ -627,6 +627,7 @@
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/
+||search.gmarket.co.kr/challenge/neo_include/ad_nbp_external_link_gate_search.asp^
 ||search.n2s.co.kr/*_ad*.php^
 ||segye.com/Articles/Components/Ad/
 ||semanticrep.com^$third-party
