@@ -2022,6 +2022,7 @@ rpm9.com##.ad_right300x250
 ruliweb.com##.ad
 ruliweb.com##.board_main_top > .right_wrapper
 ruliweb.com##.comment_element_ad_wrapper
+ruliweb.com##.nbp_container
 search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
