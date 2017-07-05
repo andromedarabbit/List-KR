@@ -1030,6 +1030,7 @@ daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com###js-popadblock
 dcinside.com###taboola-right-rail-thumbnails
+dcinside.com##[data-ad]
 ddanzi.com##.adblock-on
 ddanzi.com##.bxbanner_single
 ddanzi.com##div.left_banner
@@ -2709,6 +2710,7 @@ sshdd.co.kr#%#Object.defineProperties(window, { _wm: { get: function(){ return n
 !------ HTML filtration rules -----------------------!
 !----------------------------------------------------!
 dcinside.com$$script[tag-content="function adBlockDetected()"]
+gall.dcinside.com$$tr[class="tb"][tag-content="t_subject""><a href='http://addc.dcinside.com"]
 postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
