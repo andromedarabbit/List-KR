@@ -968,6 +968,7 @@ cine21.com##div[id^="crt-"]
 clien.net###m_naverAd
 clien.net###naverAd
 clien.net##.board-list > .list-banner
+clien.net##.footer-banner
 clien.net##.header-banner
 clien.net##div[class^="div-rs-"]:not(#div-main-center)
 clien.net##nav.nav + .nav-container #div-main-center
