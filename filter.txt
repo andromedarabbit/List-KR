@@ -288,6 +288,7 @@
 ||cyad*.nate.com/js.kti/
 ||d.a1comm.co.kr^
 ||daumkakao-smr.smartmediarep.com/smc/*/smr/contents/video/
+||dawinvad.fms.wecandeo.com^
 ||d1hn8mrtxasu7m.cloudfront.net^
 ||dable.io/*checksum^
 ||dailygame.co.kr/ad/
@@ -651,6 +652,7 @@
 ||sports.chosun.com/js/scrollBanner*.js^
 ||sports.chosun.com/lphoto3.htm^
 ||sports.chosun.com/news/sports_chosun_hns.js^
+||ss.dawin.tv^
 ||ssp.adpies.com/ssp^
 ||st.keywordsconnect.com^
 ||static.instiz.net/images/bg_capture.png
