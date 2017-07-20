@@ -1828,6 +1828,7 @@ mydaily.co.kr##div[class^="banner_1024_1024_"]
 naeil.com##DIV[class^="bannerType"]
 nanumnews.com##.bn
 nanumnews.com##a[href*="/ad_link.php?banner_uid="]
+nas.moe###adblock_screen
 nate.com###adContainer
 nate.com###shopLoading
 nate.com###todaySaleItem
