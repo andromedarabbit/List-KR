@@ -225,6 +225,7 @@
 ||auction.co.kr/mail/mailcounter.html^
 ||auction.co.kr/wlas_code.html^
 ||autobrain.khan.co.kr/banner/
+||bamtoki.com/assets/banner/
 ||bayabar.com/adworking/
 ||betanews.net/banner.html^
 ||bit.ly^$domain=smp.lc
@@ -916,6 +917,7 @@ avsnoop.co.uk###adArea
 avsnoop.co.uk##.banner > a[href^="/_ad.php?"] 
 avsnoop.co.uk##.infobox > .p2 + .p4
 avsnoop.co.uk##tr.ad
+bamtoki.com##[id^="banner_"]
 baykoreans.com,baykoreans.link,baykoreans.net##.boardRead > DIV > .clear
 baykoreans.com,baykoreans.link,baykoreans.net##.board > .clear
 baykoreans.com,baykoreans.link,baykoreans.net##.viewDocument > .clear
