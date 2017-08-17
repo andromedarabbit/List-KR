@@ -774,13 +774,10 @@
 @@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
 @@||eyenews.hankooki.com/*_300.htm|
-@@||google-analytics.com/analytics.js^$domain=cgv.co.kr
-@@||google-analytics.com/analytics.js^$domain=lottedfs.com
-@@||google-analytics.com/analytics.js^$domain=moeni.net
+@@||google-analytics.com/analytics.js^$domain=cgv.co.kr|hypebeast.com|lottedfs.com|moeni.net
 @@||google-analytics.com/plugins/ua/ec.js^$domain=lottedfs.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
-@@||googletagmanager.com/gtm.js^$domain=lottedfs.com
-@@||googletagmanager.com/gtm.js$domain=tvchosun.com
+@@||googletagmanager.com/gtm.js^$domain=hypebeast.com|lottedfs.com|tvchosun.com
 @@||hayan.tv^$jsinject,generichide,content
 @@||hayan.tv/a/$stealth
 @@||ichannela.com/adtest/adForHtml5/ads*.js
