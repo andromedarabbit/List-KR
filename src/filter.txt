@@ -2028,6 +2028,7 @@ rpm9.com##.ad_bottom728x90
 rpm9.com##.ad_maintextWrap
 rpm9.com##.ad_right300x250
 ruliweb.com##.ad
+ruliweb.com##.ad_header_wrapper
 ruliweb.com##.board_main_top > .right_wrapper
 ruliweb.com##.comment_element_ad_wrapper
 ruliweb.com##.nbp_container
