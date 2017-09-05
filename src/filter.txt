@@ -1051,7 +1051,7 @@ dispatch.co.kr##div[id^="sidebarad"]
 dkbnews.donga.com###idol_ban
 donga.com###aside > .promotion
 donga.com##.banner
-donga.com##.main_AD02
+donga.com##div[class*="_AD"]
 donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
 donga.com,hankooki.com,hankyung.com,news.kmib.co.kr,segye.com,seoul.co.kr,sisaone.kr##._popIn_recommend_article_ad > DIV[class^="_popIn_recommend_art_"]
 dt.co.kr###gisa > table[width="260"][height="270"]
@@ -1858,9 +1858,7 @@ news.donga.com##.news_list.relationNews
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="ad_"]
 news.donga.com##div[id^="right_AD_"]
-news.donga.com##div[class^="sub_cont_AD"]
 news.donga.com,sports.donga.com##[id^="view_body_middle_iframe"]
-news.donga.com,sports.donga.com##div[class^="aside_AD"]
 news.donga.com,sports.donga.com##div[id^="left_AD_"]
 news.ichannela.com##.relative_bt_ad
 news.joins.com###articeltopbanner
@@ -2087,10 +2085,8 @@ sports.chosun.com##.snb > .bn
 sports.chosun.com##DIV[class^="ad_box"]
 sports.chosun.com##div.thum8_box
 sports.chosun.com##div.top_banner
-sports.donga.com##div.top_sport_AD
 sports.donga.com##div.ttalk_ad_list
 sports.donga.com##div[class^="ad"]
-sports.donga.com##div[class^="subCont_AD"]
 sports.hankooki.com###contents > DIV[style] > DIV[style*="600px"]
 sports.hankooki.com###listLifeSponsor
 sports.hankooki.com###SponsorLink
