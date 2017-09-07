@@ -2488,7 +2488,6 @@ naver.com,vlive.tv#%#(function() { var _nclk, noop = function() { return true; }
 ||imp*.auction.co.kr^
 ||inrecsys.popin.cc/*/Logs/
 ||joins.com/common/SMRMediaLog.aspx?
-||js.nx.com/*/da/playlog.*min.js
 ||kakao.com/front/logcollect/
 ||khan.co.kr/gnb/template/_khan_logger.js^
 ||kinsight-event.kakao.com^$empty
