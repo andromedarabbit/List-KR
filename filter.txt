@@ -2356,7 +2356,7 @@ naver.com#%#(function() { var _clickcr, noop = function(a, b) { if (typeof b ===
 naver.com,vlive.tv#%#(function() { var _nclk, noop = function() { return true; }, restore = function() { window.nclk = _nclk; }, swap = function() { if (typeof nclk === 'function' && nclk !== noop) { _nclk = window.nclk; window.nclk = noop; setTimeout(restore); } }; window.addEventListener('click', swap, true); })();
 !------ naver.com --------------
 ||ace.naver.com/m^$empty
-!+ NOT_PLATFORM(ios)
+!+ NOT_PLATFORM(ios, ext_android_cb)
 ||cc.naver.com/cc^$image
 ||ec.naver.com/ec^
 ||l.m.naver.
