@@ -797,7 +797,6 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=realhd.co.kr
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
-@@||pstatic.net/adimg3.search/adpost/js/$domain=m.store.naver.com
 @@||saedu.naver.com$generichide,genericblock
 @@||sdjournal.kr/bannerManager/upload/6.dat
 @@||searchad.naver.com$generichide,genericblock
@@ -2546,7 +2545,6 @@ naver.com,vlive.tv#%#(function() { var _nclk, noop = function() { return true; }
 ||pathfinderebiz.lotte.com^
 ||play.kakao.com/*/medialog?
 ||playlog.ondemandkorea.com^
-||pstatic.net/adimg3.search/adpost/js/
 ||r.popin.cc/log.gif?
 ||rcv.mklaud.com^
 ||rec.netinsight.co.kr/rec/*/view?
@@ -2568,6 +2566,7 @@ naver.com,vlive.tv#%#(function() { var _nclk, noop = function() { return true; }
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
+||ssl.pstatic.net/adimg3.search/adpost/js/event_tracker.js^
 ||stat*.nate.com/stat/*stat*.tiff?
 ||static.joins.com/*/JTracker.js^
 ||statistics.news1.kr/logger/
