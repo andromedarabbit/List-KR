@@ -2142,12 +2142,7 @@ suyongso.com##.lnb > .side_b1
 suyongso.com##.rd_body + .rd_ft > .rd_vote + div[class^="bd_"]
 suyongso.com##.rd_ft  > div[style^="width:320px;height:50px;"]
 suyongso.com##[class^="bd_"] > span[style^="position:absolute;opacity:0.8;font-size:"]
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td > li
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table > tbody > tr > td > table > tbody > tr > td[width^="330"]:first-child
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com###mw_basic > table[width^="100"] > tbody >  tr:nth-child(6) > td:not([class]):not([height]):not([width])
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##.tbl_type a[href^="http://goo.gl"] > img[src^="http://img.imgtong.com"]
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##a[href*=".linkoooo.com/?u="]
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com##div[id^="divpop"]
+tcafe.me##style + .carousel .item[style^="background"]
 te31.com###boy > #content > .box1
 te31.com###left > A
 te31.com##body > div > div[style*="1000"][style*="50px;"][style*="z-index:"]
@@ -2732,5 +2727,4 @@ postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
 @@||cc.naver.com^$app=com.nhn.android.nmap
 @@||mlbpark.donga.com^$generichide
 ||image.cauly.co.kr^
-1tcafe.com,2tcafe.com,tcafe1.com,tcafe2.com,tcafe3.com,tcafe4.com,tcaferr.com$$meta[http-equiv="X-UA-Compatible"][content="IE=8"]
 !@@||{anigod}^$urlblock
