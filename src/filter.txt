@@ -752,6 +752,7 @@
 ||tag-info.makeshop.co.kr/player/basic?*media%5Fid=$replace=/<ad>[\s\S]*?<\/ad>//
 ||theappl.com/api/toon.world.api.new.php?flag=ver|$replace=/"(start_pop|end_pop)"\:"yes"/"\$1":"no"/
 ||tv.ichannela.com/playerData/channela_player_flash_xml.php^$replace=/(<field name="ad_url">)[\s\S]*?<\/field>/\$1<\/field>/
+||vads-api.ad.daum.net/xylophone/adrequest/$replace=/^[\s\S]*\$//,important
 ||voda.donga.com/OPENAPI/voda/getad|$replace=/"AD":/"AD":null\,"noop":/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
