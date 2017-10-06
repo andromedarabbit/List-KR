@@ -1229,6 +1229,7 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_"]
 healthmedi.net##div.imagead-taskbar-anchor
+hellven.net##a.thumbnail[href*="/adver_link.php"]
 hentaku.net##a[href^="http://www.netfile.co.kr/banner/ad_banner"]
 heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
 heraldcorp.com###photoINAD_area
