@@ -401,6 +401,7 @@
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
 !||ilikeclick.com^$third-party
+||ilikeview.com/aclk^$third-party
 ||im.obel.kr/file/
 ||imadrep.co.kr^$third-party
 ||imaeil.com/image/banner/ad*.swf^
@@ -2209,6 +2210,7 @@ tvdaily.mk.co.kr###STATICMENU
 tvdaily.mk.co.kr###readtopad
 tvdaily.mk.co.kr##div[class="read"]>table
 tvdaily.mk.co.kr##div[id="joinskmbox"]>table
+tvnamu.net##.each_adv_center
 tvple.com##.bnp-stream-logo
 tvple.com##.col-info > .bg-google-plus
 tvple.com##.col-playlist > [style$="100px;"]
