@@ -1818,6 +1818,8 @@ mule.co.kr##.read_con > TABLE[width="620"]
 mule.co.kr##[class^="group_ad"]:not([class$="4"])
 munhwa.com##iframe[name="denta_adv"]
 munhwa.com##table[width="680"] > tbody > tr > td[valign="top"][width="120"]
+munpia.com###topBanner
+munpia.com##[id^="ADS-"]
 music.daum.net##div.banner_250
 mybogo.net,zipbogo.net##a[href="http://filecast.co.kr/?p_id=bogo"]
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
