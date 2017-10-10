@@ -1210,7 +1210,9 @@ hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##iframe[class^="adiframe"]
 hankyung.com###ad_main_middle
 hankyung.com###ad_ti
+hankyung.com##.joy_info
 hankyung.com##.main-ad-md
+hankyung.com##[class^="ad_"]
 hankyung.com##aside.ad-newsview
 hankyung.com##aside.ad-top-wide
 hankyung.com##div.article-ad-rec300
@@ -1867,6 +1869,7 @@ news.donga.com##div[id^="ad_"]
 news.donga.com##div[id^="right_AD_"]
 news.donga.com,sports.donga.com##[id^="view_body_middle_iframe"]
 news.donga.com,sports.donga.com##div[id^="left_AD_"]
+news.hankyung.com##article > .hash_wrap + .wrap_list
 news.ichannela.com##.relative_bt_ad
 news.joins.com###articeltopbanner
 news.joins.com##.ab_adtxt_wrap
