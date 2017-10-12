@@ -721,6 +721,7 @@
 ||zipbogo.net/js/NMNPOPUNDER.js^
 !------ Url components ---------
 /\/img\/\d+_\d+/$~third-party,domain=sshdd.co.kr
+/:\/\/(ggobbo.com)\/img\/\d{3}x?\d{3}/$image,domain=ggobbo.com
 /banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /herald_*.html?refData=$domain=heraldcorp.com|betanews.net
 /img/banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
@@ -1178,6 +1179,7 @@ gesomoon.com##.conLeft > DIV:not([id]):not([style])
 gesomoon.com##.cnt > p + DIV:last-child
 gesomoon.com##[id^="layerBanner"]
 gesomoon.com##P.btmBan
+ggobbo.com##a[href^="http://bit.ly/"] > img
 gigglehd.com##.section > .xe-widget-wrapper > div > .nw_box
 gigglehd.com##.widget_banner_skin
 gmarket.co.kr##.m_ad
