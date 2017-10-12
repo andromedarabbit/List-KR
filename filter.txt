@@ -713,6 +713,7 @@
 ||winktv.co.kr/banner/$image
 ||wowtv.co.kr/AD/
 ||xconf.cauly.co.kr^
+||yanorja.com/data/apms/background/$image
 ||ygosu.fileofcdn.com/banner_img/
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/AdServerChange.php^
@@ -2282,6 +2283,7 @@ wowtv.co.kr##div[class^="common_AD"]
 xportsnews.hankyung.com##div.btn_event
 xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
+yanorja.com##.basic-banner
 yes24.com##.yPartnerPop
 ygosu.com##.ad700
 ygosu.com##div[id^="crt-"]
