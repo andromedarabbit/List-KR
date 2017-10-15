@@ -812,6 +812,7 @@
 @@||tag-static.makeshop.co.kr/flash/player/ADMain.swf^
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=item.gmarket.co.kr
 @@||tvple.com^$generichide
+@@||vads-api.daumkakao.com/xylophone/adrequest/vmap|$app=com.kakao.playball
 @@||view.teafone.com/tpview/main?bannerId=
 !------ Stealth mode fixes ------------------------
 ! naver.com
