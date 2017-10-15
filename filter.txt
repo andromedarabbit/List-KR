@@ -732,7 +732,7 @@
 /\/innak_banner\/(?!bottom)/$domain=innak.kr
 /skin/images/adblockblock.js^$domain=ruinses.tistory.com
 /skin/images/fuckadblock.js^$domain=linsoo.co.kr
-||info/files/_etc/etc/$image,domain=tqzoa.info|twzoa.info
+||info/files/_etc/etc/$image,domain=tczoa.info|tqzoa.info|twzoa.info
 !----------------------------------------------------!
 !------ $replace rules ------------------------------!
 !----------------------------------------------------!
