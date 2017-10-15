@@ -781,6 +781,7 @@
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js$domain=cgv.co.kr|hypebeast.com|lottedfs.com|moeni.net
 @@||google-analytics.com/plugins/ua/ec.js$domain=lottedfs.com
+@@||google-analytics.com/|$app=kr.co.sbs.videoplayer
 @@||googleadservices.com/pagead/conversion_async.js$domain=style.kakao.com
 @@||googletagmanager.com/gtm.js$domain=hypebeast.com|lottedfs.com|tvchosun.com
 @@||hayan.tv^$jsinject,generichide,content
