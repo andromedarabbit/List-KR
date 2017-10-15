@@ -1573,7 +1573,9 @@ m.inven.co.kr###mobileTailAd_LayerDummy
 m.inven.co.kr###page > [style$="height:50px;"]
 m.inven.co.kr##[class*="mobileAd"]
 m.inven.co.kr##[class*="mobileDaNs"]
-m.inven.co.kr##DIV[data-n="widerplanet"]
+m.inven.co.kr##div[data-n="widerplanet"]
+m.inven.co.kr##div[style='height:41px;']
+m.inven.co.kr##iframe[src^="http://adtg.widerplanet.com/delivery/"]
 m.iworldtoday.com###articleBody > .body > DIV[style*="float:"]
 m.joseilbo.com##div[class^="google_ban_"]
 m.khan.co.kr###article_bottom_ad
