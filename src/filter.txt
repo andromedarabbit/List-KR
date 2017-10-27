@@ -2081,6 +2081,7 @@ seoul.co.kr##div.atic_cnt>div[style="float:right;margin-bottom:20px;"]
 seoul.co.kr##div.atic_cnt>div[style="margin-bottom:20px;float:right;"]
 seoul.co.kr##div.content>table[style="margin-top:10px;"]
 seoul.co.kr##div.hed_ad
+shopping.naver.com##.goods_list > .ad._itemSection
 siren24.com##A[onclick^="go_AD("]
 sisainlive.com##[itemprop="articleBody"] > table[width="320"][align="right"]
 skyscanner.co.kr##div.mpu-advert
