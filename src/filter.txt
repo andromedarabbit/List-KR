@@ -1647,6 +1647,7 @@ m.pandora.tv###native_ad
 m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###wrap > .ct ~ div[style="padding-top:10px;text-align:center;"]:not([id]):not([class])
+m.ppomppu.co.kr##.bbsList > div[style^="text-align: center; padding-top: 5px; border-bottom"]
 m.ppomppu.co.kr##div[class="emoticon-popup"]
 m.pressian.com##.flick-container > DIV[style^="clear:both; width"]
 m.ruliweb.com##.fixed_ad_wrapper
