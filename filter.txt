@@ -480,7 +480,7 @@
 ||kookje.co.kr/*/banner/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
-||koreapas.com/bbs/no_unicorn/$image
+||koreapas.com/bbs/anti_block/$image
 ||koreaportal.com/*/banners/ads_$image
 ||ksilbo.co.kr/ad/
 ||ksilbo.co.kr/banner/
@@ -1408,16 +1408,12 @@ koreaherald.com##div.newslist>iframe
 koreaherald.com##div.tbanner
 koreaherald.com##section.gallrym
 koreaherald.com##section.nview>div[style="margin-bottom: 20px;"]
-koreapas.com##img[src^="https://www.koreapas.com/bbs/no_unicorn/"]
 koreatimes.co.kr##.view_page_news_related_news_wrapper
 koreatimes.co.kr##.view_page_translation_wrapper
 koreatimes.co.kr##a[name="top"] > div[style*="padding-top: 100px;"]
 koreatimes.co.kr##a[name="top"] > div[style$="height: 50px;"]
 koreatimes.co.kr##iframe[src^="http://search.n2s.co.kr/"]
-koreapas.com##DIV:nth-child(2) > DIV:nth-child(2) > DIV:last-child > A:last-child
-koreapas.com##DIV:nth-child(2) > TABLE:first-child > TBODY > TR:nth-child(2) > TD:last-child > A:last-child 
-koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="227"]
-koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="430"]
+koreapas.com##img[src^="https://www.koreapas.com/bbs/anti_block/"]
 koreapas.com##TABLE[background$="grayy.gif"]
 kr.celeb.yahoo.com###leftClickButton
 kr.celeb.yahoo.com###rightClickButton
