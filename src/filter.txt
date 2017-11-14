@@ -2302,6 +2302,7 @@ yanorja.com##.basic-banner
 yes24.com##.yPartnerPop
 ygosu.com##.ad700
 ygosu.com##div[id^="crt-"]
+ygosu.com##iframe[src^="http://deliverys.n2s.co.kr/"]
 yonhapnews.co.kr##div.aside-banner
 yonhapnews.co.kr##.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
