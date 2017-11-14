@@ -1276,6 +1276,10 @@ ilbe.com###bannerXX
 ilbe.com###board_top_dummy
 ilbe.com###shoppingbox
 ilbe.com##.mainFixedBanner
+ilbe.com##.mainRecommendContainer
+ilbe.com##.mainRecommendContainer ~ #a + table
+ilbe.com##.widgetBoxHeader > a + a[target="_blank"] > img
+ilbe.com##[id^="bannaer"]
 ilbe.com##[id^="madlayer_"]
 ilbe.com##div[id^="openXdummy"]
 ilwar.com##.welcome > .wrap + .ash.w
