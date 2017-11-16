@@ -1987,6 +1987,7 @@ ohmynews.com##div.wing_gallery_banner
 ohmynews.com##div[class^="aside_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
+okky.kr##.main-banner-wrapper
 ondemandkorea.com###floating_banner_item
 ondemandkorea.com###odk_player > #overlay_div
 ondemandkorea.com###programs > #list > li[style^="width:"][style*="!important"] 
