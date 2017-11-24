@@ -379,6 +379,7 @@
 ||hankookilbo.com/*ad300x250*.html^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
 ||hello-dm.kr^$third-party
+||hellven.net/data/apms/banner/
 ||heraldcorp.com/common_xml/ad/*.json^
 ||hg-times.com/banner/
 ||hg-times.com/Autobox/sns_btn.html^
@@ -1242,6 +1243,7 @@ health.chosun.com##.contents_newsq:nth-last-child(3)
 health.chosun.com##.left_banner
 health.chosun.com##dd[class^="rel_"]
 healthmedi.net##div.imagead-taskbar-anchor
+hellven.net##.container > .row > .col-md-3 > a.thumbnail[target="_blank"]
 hellven.net##a.thumbnail[href*="/adver_link.php"]
 hentaku.net##a[href^="http://www.netfile.co.kr/banner/ad_banner"]
 heraldcorp.com###articleText > DIV[id^="ad"][style^="float:"]
