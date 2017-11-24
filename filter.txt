@@ -662,6 +662,7 @@
 ||static.instiz.net/images/bg_capture.png
 ||static.joins.com/isplus/ui/ad/
 ||static.joinsmsn.com/common/ui/ad/
+||static.kin.naver.net/static/*/js/min/naver.kin.Banner.js^
 ||static.tpmn.co.kr/sb^$third-party
 ||static.tpmn.co.kr/sf^$third-party
 ||storage.googleapis.com/moloco-creative-
@@ -1387,6 +1388,7 @@ khan.co.kr##.adBanner
 khan.co.kr##.link_cartoon
 khan.co.kr##.logo_area > .issue
 khan.co.kr##DIV[id^="AD_LIVE_AREA"]
+kin.naver.com###pc_detail_bottom
 kin.naver.com##.broadcast_kin
 kns.tv###article-wrap > div[style*="100%; height:"][style*="250px"]
 kns.tv##.height-250.float-left
