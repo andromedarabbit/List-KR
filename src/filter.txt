@@ -1134,6 +1134,7 @@ fancug.com###ad_front_popup
 fastpost.oceanmate.co.kr##body > table[width="980"][style^="border:"]
 fastpost.oceanmate.co.kr##td[colspan="2"] > table[style^="border:"]
 fmgunzo.tistory.com##ins.adsbygoogle
+fmkorea.com###adpost
 fnnews.com###bylineaAd1
 fnnews.com##div.fn_ad_part
 fnnews.com##div.fn_left_side
