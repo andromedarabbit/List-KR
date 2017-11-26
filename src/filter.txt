@@ -2051,7 +2051,9 @@ pressian.com##.remove_ad
 prod.danawa.com##.content_900 > [class^="banner_"]
 pullbbang.com###main_right_contents_wrap > [style*="250"]
 pullbbang.com###pandoraAd
+osmanias.com##.banner > a > img
 osmanias.com##.snb > .snb_widgt > a[target="_blank"] > img[width="300"]
+osmanias.com##a > img[style*="350px;"][style*="90px;"]
 rec.netinsight.co.kr##.side_nw > #netinsight_rec_contents + DIV[style]
 reviewstar.hankooki.com##li.ad_plex_a250
 rpm9.com###promotion
