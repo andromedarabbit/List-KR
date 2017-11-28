@@ -779,6 +779,7 @@
 @@||betanews.heraldcorp.com/js/ad.js
 @@||ad.ad4989.co.kr/cgi-bin/PelicanC.dll?*pageid=00AY^$domain=dailian.co.kr
 @@||ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20523&width=728&height=90$domain=hayan.tv
+@@||cdn.enuri.mcrony.com/ad-resources/adimg/$domain=enuri.mcrony.com
 @@||cr.acecounter.com/Web/AceCounter_AW.js^$domain=lgservice.co.kr
 @@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
