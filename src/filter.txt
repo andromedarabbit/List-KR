@@ -727,6 +727,7 @@
 /\/img\/\d+_\d+/$~third-party,domain=sshdd.co.kr
 /:\/\/(ggobbo.com)\/img\/\d{3}x?\d{3}/$image,domain=ggobbo.com
 /banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
+/etoad/*$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /herald_*.html?refData=$domain=heraldcorp.com|betanews.net
 /img/banner$~third-party,domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
 /img/cting$~third-party,domain=cucudas.com|kukudas.com
