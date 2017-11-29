@@ -210,6 +210,7 @@
 ||android.kweather.co.kr/xmldata/*/getXML_AdInfo.php^
 ||anewsa.com/_ad/real/
 ||anewsa.com/img/mainBanner
+||ani24.org/ani/agag
 ||aniclass.com/toy_b_$image
 ||anipong.com/banner/
 ||ap.tnkfactory.com/tnk/$empty
