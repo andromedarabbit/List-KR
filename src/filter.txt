@@ -283,6 +283,7 @@
 ||contentsbridge.com^$third-party
 ||contextads.net^
 ||corearoadbike.com/banner/*.php^
+||cpv.veta.naver.com/fxshow?$empty
 ||crossmedia.co.kr^$third-party
 ||cstimes.com/banner/rbanner_*.html^
 ||cwdata.itplay.co.kr/ol/
@@ -550,6 +551,7 @@
 ||mtn.co.kr/program/native.mtn^
 ||mtree.ad.wich.kr/sand.eat^
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
+||mv.veta.naver.com^
 ||mydaily.co.kr/news/ad_news*.htm^
 ||mydaily.co.kr/ad/ad_*.php^
 ||mydaily.co.kr/ad/center_ad*.php^
@@ -602,6 +604,7 @@
 ||ntomap.com^$third-party
 ||nuriclick.co.kr^$third-party
 ||nv*.veta.naver.com/dr^
+||nv.veta.naver.com^
 ||nvod.wcorp.co.kr/adn/*/adbasket.
 ||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com^$third-party
@@ -703,7 +706,6 @@
 ||uplus.kr/cd/cdNavi/retreieveHtml*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||vads-api.daumkakao.com^
-||veta.naver.com/fxshow^
 ||viewsnnews.com/image/advert/
 ||vop.co.kr/*/realclick_mobilefloating.js^
 ||vop.co.kr/templates/*/mobile_fixed_ad_
