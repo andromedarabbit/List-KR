@@ -2026,11 +2026,6 @@ photo.sportsseoul.com##.sub-content > div[style*="90px;"][style*="height:"]
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
-pinaya.center##.bodybody > .slider_wrap
-pinaya.center##.side_custom a:not([href^="/files/attach/"]) > img[src^="/files/attach/images/"]
-pinaya.center##[style*="33.3"] > a:not([href^="/files/attach/"]) > img[src^="/files/attach/images/"]
-pinaya.center##a[href^="https://pinaya.center/request_payment"] > img[src^="/files/attach/images/"]
-pinaya.center##img[width="320"][alt="Banner Image"]
 play.afreecatv.com##.adcon-area
 play.afreecatv.com##.promotion_area > a
 player.kmpmedia.net##.taboola-link-view
@@ -2687,8 +2682,6 @@ news.kmib.co.kr#$##netinsight_recommend_articles { height: 290px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
-pinaya.center#$#.caution-blind { display: none!important; }
-pinaya.center#$#.xe_content { display: block!important; }
 reblogit.tistory.com#$##p64a ~ div {display:inherit;}
 reblogit.tistory.com#$##p64a {display:block!important;}
 sportsseoul.com,sportsseoul.co.kr#$#.article_leftWrap + script + div[style$="10px;"] { clear:both!important; }
