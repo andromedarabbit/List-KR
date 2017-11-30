@@ -2074,6 +2074,7 @@ ruliweb.com##.nbp_container
 search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
+search.naver.com##[data-more-link] > * > .bx._ad
 search.naver.com##div.ad_section
 search.zum.com###search_result > .sponsor_sc
 section.blog.naver.com##.area_advertisement
