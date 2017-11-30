@@ -18,6 +18,7 @@
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
 /about_*_shopbox.
+/addons/document_contents_blind_advertise/*/blind.min.$~third-party
 /asset/squid/css/wine.css^
 /asset/squid/js/dev_wine.js^
 /mobitree_*.js^
@@ -2307,6 +2308,8 @@ wowtv.co.kr##div[class^="common_AD"]
 xportsnews.hankyung.com##div.btn_event
 xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
+yabang.org##.side_custom
+yabang.org##.ss_ad_center
 yanorja.com##.basic-banner
 yes24.com##.yPartnerPop
 ygosu.com##.ad700
