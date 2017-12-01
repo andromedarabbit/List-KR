@@ -424,11 +424,11 @@
 ||image.wownet.co.kr/static/banner/*/flash/
 ||image2.inews24.com/ad*
 ||imaeil.com/image/banner/
+||img.adulti01.com//data/banner/
 ||img.appstory.co.kr/@files/human_banner/
 ||img.asiatoday.co.kr/adver/
 ||img.asiatoday.co.kr/images/banner/
 ||img.asiatoday.co.kr/popup/
-||imgcdn.pandora.tv/_ptv_all/m/xml/prism_japan_custion.xml
 ||img.coolenjoy.net/banner/upfile/
 ||img.focus.kr/mnt/webdata/banner/$image
 ||img.ichannela.com/script/ad/*.js
@@ -441,6 +441,7 @@
 ||img.soramall.kr/banner/$image
 ||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
+||imgcdn.pandora.tv/_ptv_all/m/xml/prism_japan_custion.xml
 ||imp.mklaud.com^
 ||imp.valuepotion.com^
 ||inews24.com/common/js/ad_*.js
