@@ -218,6 +218,7 @@
 ||api.ezadsystem.com^
 ||api.live.daum.net/gls-svc-ad/*/ad/request|
 ||api.wiseclick.co.kr/api/web_directad/
+||apihub.daum.net/search-keyword-affiliate/$domain=dcinside.com
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
 ||asiatoday.co.kr/comm/ads/
@@ -360,6 +361,7 @@
 ||fun-adstore.co.kr/ad/
 ||fusencead.com^$third-party
 ||gaihn.co.kr/eventbanner/
+||gall.dcinside.com/board/getKeyword/
 ||gamefocus.co.kr/bncode2/banner_
 ||gametoc.hankyung.com/banner/*rbanner
 ||gesomoon.com/*/ad_*.html^
@@ -1056,6 +1058,7 @@ daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com###js-popadblock
 dcinside.com###taboola-right-rail-thumbnails
+dcinside.com##.kakao_schAlliance
 dcinside.com##[data-ad]
 ddanzi.com##.adblock-on
 ddanzi.com##.bxbanner_single
