@@ -252,7 +252,7 @@
 ||cad.donga.com/*.js^
 ||cad.donga.com/M/
 ||cadvv.heraldm.com/hb/imad/
-||campaigns-assets-vp.daumcdn.net^$script,other
+||campaigns-assets-vp.daumcdn.net^$script,other,domain=~myktoon.com
 ||candy.ad9.kr^
 ||care-health.co.kr^
 ||cast.wowtv.co.kr/xml_imad.html
