@@ -407,6 +407,7 @@
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
+||ilbe.com/layouts/elkha_ilbe/js/teamcsp_ad_
 !||ilikeclick.com^$third-party
 ||ilikeview.com/aclk^$third-party
 ||im.obel.kr/file/
@@ -485,6 +486,7 @@
 ||keywordt.tabbar.co.kr^$popup
 ||khan.co.kr/ad/
 ||kimcloud.kr/template/js/fadblock*.js^
+||kmarusins.com^$third-party
 ||kookje.co.kr/*/banner/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
@@ -731,6 +733,7 @@
 ||zipbogo.net/cdsbData_gal/bannerFile/
 ||zipbogo.net/js/NMNPOPUNDER.js^
 !------ Url components ---------
+/\.com\/images\/.+?_(?:shopbox|popup|JJ|overlayTop)[\d_]+\./$~third-party,image,domain=ilbe.com
 /\/img\/\d+_\d+/$~third-party,domain=sshdd.co.kr
 /:\/\/(ggobbo.com)\/img\/\d{3}x?\d{3}/$image,domain=ggobbo.com
 /banner/banner_etorrent_$domain=etobang.co.kr|etobang.com|etorrent.co.kr|etorrent.kr|tvcafe.co.kr
