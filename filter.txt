@@ -1742,6 +1742,7 @@ m.ytn.co.kr##div.photo_bottom_ad
 m.zdnet.co.kr##.sub_view_cont > DIV[style*="200px"]
 m.zdnet.co.kr##DIV[class^="view_ad_"]
 m.zum.com##.da_banner
+m-chosun-com.cdn.ampproject.org##.wrap_ad_inner
 manaa.space##.ad-box
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
