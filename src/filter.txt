@@ -118,6 +118,7 @@
 ||adalba.co.kr^$third-party
 ||adapi.about.co.kr^
 ||adbasket.kr/adn?
+||adbiz.co.kr^$third-party
 ||adbrix.igaworks.com^$empty
 ||adby.co.kr^$popup
 ||adclicks.devpia.com/js.kti/devpia
@@ -1170,6 +1171,9 @@ frostfire.tistory.com##ins.adsbygoogle
 g-enews.com##.ad_global
 g-enews.com##.banner:not(.txt_banner)
 !gall.dcinside.com###list_right_ad
+g-enews.com##.ad1d
+g-enews.com##.ad2d
+g-enews.com##iframe[src^='http://adbiz.co.kr']
 gall.dcinside.com###tit_no_adblock
 gall.dcinside.com###zzbang_div > ._BTN_AD_
 gall.dcinside.com##.ad_esmplus
@@ -1544,6 +1548,7 @@ m.focus.kr##.right_wrapper > div[style$="text-align:center;"]:last-child
 m.focus.kr##.right_wrapper > .comp_interval:nth-last-child(2)
 m.focus.kr##DIV[id^="AD_LIVE_AREA"]
 m.focus.kr##iframe[id^="adv_banner"]
+m.g-enews.com##iframe[width="320"][height="100"]
 m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
