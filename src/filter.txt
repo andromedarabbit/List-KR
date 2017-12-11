@@ -17,6 +17,7 @@
 !----------------------------------------------------!
 !------ General URL Filters -------------------------!
 !----------------------------------------------------!
+.co.kr/ad/
 /about_*_shopbox.
 /addons/document_contents_blind_advertise/*/blind.min.$~third-party
 /asset/squid/css/wine.css^
@@ -297,7 +298,6 @@
 ||dawinvad.fms.wecandeo.com^
 ||d1hn8mrtxasu7m.cloudfront.net^
 ||dable.io/*checksum^
-||dailygame.co.kr/ad/
 ||dailymail.kr/data/banner/
 ||dailymedi.com/master/banner/
 ||daissue.kr/banner/
@@ -310,7 +310,6 @@
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||dispatch.cdnser.be/ad/
-||dispatch.co.kr/ad/
 ||display.ad.daum.net/imp^
 ||dn.naver.com/ad3/*.mp4
 ||dn.naver.net/ad3/*.mp4
@@ -359,7 +358,6 @@
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
 ||full.co.kr/banner/$image,third-party
-||fun-adstore.co.kr/ad/
 ||fusencead.com^$third-party
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/board/getKeyword/
@@ -456,7 +454,6 @@
 ||interpark.com/gate/NBPAdPost.jsp^
 ||interich.com^$third-party
 ||interworksmedia.co.kr^$third-party
-||inven.co.kr/ad/
 ||inven.co.kr/common/lib/js/ad.slot.js^
 ||inven.co.kr/common/lib/js/adns.js^
 ||jac24.co.kr^$third-party
@@ -485,7 +482,6 @@
 ||k-starshop.com^$third-party
 ||kado.net/banner/
 ||keywordt.tabbar.co.kr^$popup
-||khan.co.kr/ad/
 ||kimcloud.kr/template/js/fadblock*.js^
 ||kmarusins.com^$third-party
 ||kookje.co.kr/*/banner/
@@ -493,7 +489,6 @@
 ||koreapas.com/bbs/ad/$image
 ||koreapas.com/bbs/anti_block/$image
 ||koreaportal.com/*/banners/ads_$image
-||ksilbo.co.kr/ad/
 ||ksilbo.co.kr/banner/
 ||kukinews.*/data/banner/$image
 ||kyeongin.com/*/webdata/ad/
@@ -517,7 +512,6 @@
 ||m.kmib.co.kr/banner/
 ||m.pandora.tv/?c=api&m=video_url&ch_userid=*&prgid=
 ||m.pann.nate.com/da/
-||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
 ||malbn.altools.com^
 ||manian.com/images/banner/$image
@@ -551,17 +545,12 @@
 ||mmnneo.com^$third-party
 ||mncmedia.co.kr^$third-party
 ||mobi.luxad.net/ad/
-||mt.co.kr/ad/
 ||mtag.mman.kr/*.mezzo/$third-party
 ||mtn.co.kr/img/m/banner/m_adbanner_$image
 ||mtn.co.kr/program/native.mtn^
 ||mtree.ad.wich.kr/sand.eat^
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
 ||mv.veta.naver.com^
-||mydaily.co.kr/news/ad_news*.htm^
-||mydaily.co.kr/ad/ad_*.php^
-||mydaily.co.kr/ad/center_ad*.php^
-||mydaily.co.kr/ad/right_ad*.php^
 ||mymyad.co.kr^
 ||myvip.feeldmc.com/code.ems/
 ||nad1.mklaud.com/ad^
@@ -590,7 +579,6 @@
 ||news.maxmovie.com/movie_info/Realclick/
 ||news.maxmovie.com/movie_info/sha_news_view_tlinkAD.asp^
 ||news.nate.com/etc/ad*
-||news.tf.co.kr/ad/
 ||news1.kr/system/ads_*/
 ||news1.kr/template/ads/
 ||newscomm.nate.com/Etc/SocialAD^
@@ -601,7 +589,6 @@
 ||nextsearch.co.kr^$popup
 ||nextdaily.co.kr/*/article_count*.html
 ||nimage.newsway.kr/*/sub/ad_$image
-||nocutnews.co.kr/ad/adnca.
 ||nowcom.ad.nowcdn.co.kr^
 ||npian.com/nbox/ad*.swf^
 ||nsmartad.com^$third-party
@@ -650,7 +637,6 @@
 ||segye.com/Articles/Components/Ad/
 ||semanticrep.com^$third-party
 ||semanticrep.net^$third-party
-||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
 ||shallweadcorp.com^$third-party
 ||shop-monkey.co.kr/partner.html^$domain=smp.lc
@@ -702,7 +688,6 @@
 ||tube-box.co.kr^
 ||tv.sbs.co.kr/common/common_ad.jsp^
 ||tvchosun.com/front/ad/
-||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
 ||tvetamovie.dn.naver.net^
 ||tvple.com/ab/MW-
@@ -1643,17 +1628,10 @@ m.munhwa.com###news_content > DIV[style*="200"][style*="float:right;"]
 m.munhwa.com###newstar_ad_area
 m.munhwa.com##BODY > .footer ~ .footer_white
 m.munhwa.com##[class^="article_ad"]
-m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
-m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
-m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
-m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:15px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
-m.mydaily.co.kr##body>div[style="background:#fff; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd;"]
-m.mydaily.co.kr##body>div[style="background:#fff; padding-top:5px; border-bottom:1px solid #dddddd;"]
-m.mydaily.co.kr##div.read_view>div[style="float:right; width:202px; height:202px; margin:0 !important; padding:0 !important; background:#fff; border:1px solid #ccc;"]
-m.mydaily.co.kr##div.read_view>div[style="margin-top:10px; margin-bottom:10px; text-align:center;"]
-m.mydaily.co.kr##div.read_view>div[style="text-align:left; margin:-20px 0 -10px; -30px;"]
-m.mydaily.co.kr##div.read_wrap>div[style="background:#fff; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; "]
-m.mydaily.co.kr##p.mobitree
+m.mydaily.co.kr###menu + div[style="background:#fff; padding-top:5px; border-bottom:1px solid #dddddd;"]
+m.mydaily.co.kr##.read_view > div[style*="202px; height"]
+m.mydaily.co.kr##.read_wrap a[href^="http://www.targetview.com/article"]
+m.mydaily.co.kr##body > div[style*="border-bottom:1px solid #dddddd; border-top:1px solid #dddddd;"]:not([class]):not([id])
 m.nate.com##.new_ad
 m.naver.com##.id_ad
 m.naver.com##div.grid_ad
@@ -1870,18 +1848,12 @@ munpia.com###topBanner
 munpia.com##[id^="ADS-"]
 music.daum.net##div.banner_250
 mybogo.net,zipbogo.net##a[href="http://filecast.co.kr/?p_id=bogo"]
-mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
-mydaily.co.kr###ad_left_wing
-mydaily.co.kr###article > div[style^="float:"]
-mydaily.co.kr###read_left>div[style="margin-left:5px;"]
-mydaily.co.kr###read_left>div[style="width:680px; border:1px solid #dddddd; background:#ffffff; /**/overflow:hidden; margin-bottom:10px; padding:10px 13px;"]
-mydaily.co.kr###read_left>div[style="width:706px; /**/overflow:hidden; margin-bottom:10px; padding:10px 0;"]
-mydaily.co.kr###read_left>div[style="width:706px; border:1px solid #dddddd; background:#f6f6f6; /**/overflow:hidden; margin:10px 0; "]
-mydaily.co.kr###wrap>div[style="width:160px; height:600px; position:absolute; top:1420px; left:50%; margin-left:520px; color:#e6e6e6"]
-mydaily.co.kr###wrap>div[style="width:160px; height:600px; position:absolute; top:425px; left:50%; margin-left:520px;"]
-mydaily.co.kr##div.read_right_ad
-mydaily.co.kr##div[id^="AD_LIVE_AREA_"]
-mydaily.co.kr##div[class^="banner_1024_1024_"]
+mydaily.co.kr##.hotnews_wrap + div[style*="-20px; margin-"][style*="10px 0"]
+mydaily.co.kr##.read_right_ad
+mydaily.co.kr##[id^="dablewidget_"] iframe[title="클릭많은 정보"]
+mydaily.co.kr##[id^="dablewidget_"] iframe[title="추천뉴스"]
+mydaily.co.kr###read_left > div[style*="px; border: 1px solid rgb(221, 221, 221); border-image: none; width: "]
+mydaily.co.kr###read_left > div[style*="px; border:1px solid #dddddd; background:#f"]
 naeil.com##DIV[class^="bannerType"]
 nanumnews.com##.bn
 nanumnews.com##a[href*="/ad_link.php?banner_uid="]
