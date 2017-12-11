@@ -991,14 +991,14 @@ cine21.com##.banner_top
 cine21.com##.main_content_banner
 cine21.com##DIV[class^="banner_han_"]
 cine21.com##div[id^="crt-"]
-clien.net###m_naverAd
-clien.net###naverAd
-clien.net##.board-list > .list-banner
-clien.net##.footer-banner
-clien.net##.header-banner
-clien.net##div[class^="div-rs-"]:not(.div-rs-under)
-clien.net##.div-rs-under::after
-clien.net##nav.nav + .nav-container #div-main-center
+clien.net###hongboInfoList.list_item
+clien.net##.list_bottom_ad
+clien.net##.list_center_ad
+clien.net##.list_top_ad
+clien.net##.main_top_ad
+clien.net##.main_center_ad
+clien.net##.view_bottom_ad
+clien.net##.view_center_ad
 cnews.co.kr##.leftBanner
 cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
 cnews.co.kr##.rightBanner
@@ -2669,10 +2669,6 @@ auth.spcnetworks.kr#$##reBackground { display: block!important; }
 betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com#$#iframe[src*="/herald_"][src*=".html?refData"][height="50"] { display: none!important; }
 biz.khan.co.kr,sports.khan.co.kr,weekly.khan.co.kr#$#.ad_movFocus2,.ad_interestInfo { height: 0px!important; visibility: hidden!important; }
 cine21.com#$##wrap > #header { padding-top: 0px!important; }
-clien.net#$#.div-rs-under { display:none!important; }
-clien.net#$#.nav-mobile ~ .nav-container #div-main-center{display:table;margin:0px;}
-clien.net#$#.viewListArea > #listDiv > .board-foot {margin-top:0px;}
-clien.net#$#div.board-foot.bottom > .board-pagination {top:0px;}
 daissue.kr#$##back{display:none!important;}
 daissue.kr#$#body{overflow:visible!important;}
 danawa.com#$#.comty_wrapper > .comty_wrap_bg { background-image:none!important;}
