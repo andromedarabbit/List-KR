@@ -1150,6 +1150,8 @@ fnnews.com##div.tit_banner
 focus.kr##.g_area > DIV[style*="314"][style*="height:"]
 fomos.kr###top_banner
 fomos.kr##.banner_area
+footsell.com##[id^="cto_async"]
+footsell.com,nbamania.com##[id^="ad_"]
 fow.kr###top_pr_google
 fow.tv##.div_main > div[style^="padding:"][style*="10px 30px"]
 frostfire.tistory.com##ins.adsbygoogle
