@@ -1785,6 +1785,7 @@ mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##iframe[src^="http://adv.realclick.co.kr/ad_headcopy/"]
 medipana.com##[id^="Banner_"]
 medipana.com##[id^="banner_"]
+medwide.net##.vannerImage
 metroseoul.co.kr###adop_top_banner
 metroseoul.co.kr##.ad-box
 metroseoul.co.kr##.body-right-box > DIV[style$="eaeaea;"]
