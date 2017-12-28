@@ -1049,6 +1049,7 @@ dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;t
 dcinside.com###js-popadblock
 dcinside.com###taboola-right-rail-thumbnails
 dcinside.com##.kakao_schAlliance
+dcinside.com##.power_click
 dcinside.com##[data-ad]
 ddanzi.com##.adblock-on
 ddanzi.com##.bxbanner_single
