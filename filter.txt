@@ -784,6 +784,7 @@
 @@||cr.acecounter.com/Web/AceCounter_AW.js^$domain=lgservice.co.kr
 @@||dadispapi.gmarket.co.kr/cpp/gmkt/display/getAd?$domain=escrow.gmarket.co.kr
 @@||daumcdn.net/tiara/js/td.min.js^$domain=m.sports.media.daum.net
+@@||detectadblock.com/ads.js^$domain=frostfire.tistory.com
 @@||eyenews.hankooki.com/*_300.htm|
 @@||google-analytics.com/analytics.js$domain=29cm.co.kr|cgv.co.kr|hypebeast.com|interpark.com|lottedfs.com|moeni.net
 @@||google-analytics.com/plugins/ua/ec.js$domain=interpark.com|lottedfs.com
