@@ -544,6 +544,7 @@
 ||mktag.mt.co.kr/event.ems/
 ||mmnneo.com^$third-party
 ||mncmedia.co.kr^$third-party
+||moatoon.com/data/file/t1/$image
 ||mobi.luxad.net/ad/
 ||mtag.mman.kr/*.mezzo/$third-party
 ||mtn.co.kr/img/m/banner/m_adbanner_$image
@@ -1820,6 +1821,7 @@ mnews.sbs.co.kr###ggadsense1
 mnews.sbs.co.kr###ggadsense2
 mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
+moatoon.com##.advertisement
 mobile.newsis.com###article > DIV[style="padding:30px 0 0 12px;"]
 mobile.newsis.com##.bxcn[style^="padding:"]
 mongri.net##ins.adsbygoogle
