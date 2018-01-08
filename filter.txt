@@ -1493,7 +1493,9 @@ m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
 m.dcinside.com###Minor_view_middle
 m.dcinside.com###Minor_view_recomm
+m.dcinside.com###_popIn_recommend
 m.dcinside.com###list_more_foot > div[style$="height:250px;"]
+m.dcinside.com###minor_list_top
 m.dcinside.com###mmaDisplay
 m.dcinside.com###search_layer > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
 m.dcinside.com###set_list_bottom
@@ -1504,6 +1506,7 @@ m.dcinside.com###set_prevNextList_bottom
 m.dcinside.com###set_view_middle
 m.dcinside.com###set_view_recomm
 m.dcinside.com###set_view_top
+m.dcinside.com##.article_list > div[style="text-align: center; height:100px;"]:last-child:not([id]):not([class])
 m.dcinside.com##.cont_gall > div[style^="margin-top:1px;margin-bottom:1px;"][style*="text-align:center;height:"]
 m.dcinside.com##.gall_mnrlist + div[style="text-align: center; height: 101px; margin-top: 1px;"]
 m.dcinside.com##.sec_concept_gallery div[style^="margin-top:1px;margin-bottom:1px;text-align:center;"]
