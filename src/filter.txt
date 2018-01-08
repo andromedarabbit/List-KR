@@ -680,6 +680,7 @@
 ||ti-center.co.kr^$third-party
 ||tistoly.com^$third-party
 ||tomovie.net/img/banner/
+||toonipang1.com/img/banner/$image
 ||torrenthaja.com/data/banner/
 ||torrentkim*.net/banner/$image
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
