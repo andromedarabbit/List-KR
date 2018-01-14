@@ -796,6 +796,7 @@
 @@||ichannela.com/adtest/adForHtml5/ads*.js
 @@||ilyosisa.co.kr/bannerManager/inc/38.html^
 @@||ilyosisa.co.kr/bannerManager/upload/38.jpg^
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pandora.tv
 @@||img.ichannela.com/images/ad/banner/$image
 @@||imgcdn.pandora.tv/gplayer/ktop100/KoreaTop.swf^
 @@||js.ad4989.co.kr/etc/tjtune/toast/m_common.js$domain=cucudas.com|kukudas.com
