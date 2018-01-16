@@ -1941,6 +1941,7 @@ news.nate.com##.adtive
 news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.naver.com###articleBody > TABLE[align="right"]:first-child
+news.naver.com##.aside > .da
 news.sbs.co.kr###all_vod_banner
 news.sbs.co.kr##div[class^="ad_"]
 news.sbs.co.kr##.w_article_ad
