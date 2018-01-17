@@ -1483,6 +1483,8 @@ m.chosun.com##.art_txt iframe[width="200"]
 m.chosun.com##.article_wrap > .ctl > iframe[height="50"]
 m.chosun.com##DIV[class^="ad iad"]
 m.cine21.com##.hanad_area
+m.comic.naver.com##.band_banner
+m.comic.naver.com##.bnr_area
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
