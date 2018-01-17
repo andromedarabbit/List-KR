@@ -1811,6 +1811,10 @@ mmzone.co.kr##[id$="_ban3_block"]
 mmzone.co.kr##[id$="_spon_block"]
 mmzone.co.kr##[id^="mmz_support_"]
 mnet.com##.rnb_ad
+mnews-joins-com.cdn.ampproject.org##.ad
+mnews-joins-com.cdn.ampproject.org##.ad_h80
+mnews-joins-com.cdn.ampproject.org##.ad_h100
+mnews-joins-com.cdn.ampproject.org##.hotclick_wrap
 mnews.joins.com###innerBigBanner
 mnews.joins.com##div.ad_h100
 mnews.joins.com##.ad_h80
