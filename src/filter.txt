@@ -2187,6 +2187,13 @@ story369.com##.adpromotion
 story369.com##.gi-btad
 story369.com##.promotion
 story369.com##div[class^="ads_"]
+sunbrisbane.com##table[width="178"][border="1"] > tbody > tr > td > table[width="200"]
+sunbrisbane.com##table[width="649"][height="200"]
+sunbrisbane.com##td[background^="/queens/both_bg"] img[width="177"][height="130"]
+sunbrisbane.com##td[background^="/queens/both_bg"] img[width="180"][height="124"]
+sunbrisbane.com##td[background^="/queens/both_bg"] img[width="180"][height="134"]
+sunbrisbane.com##td[background^="/queens/both_bg"] table[width="178"][bordercolor][border="1"]
+sunbrisbane.com##td[background^="/queens/both_bg"] table[width="180"][bordercolor][border="1"]
 suyongso.com##.lnb > .side_b1
 suyongso.com##.rd_body + .rd_ft > .rd_vote + div[class^="bd_"]
 suyongso.com##.rd_ft  > div[style^="width:320px;height:50px;"]
