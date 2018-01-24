@@ -68,6 +68,7 @@
 @@||twitttter.website^$generichide
 @@||unknowncdn.com^$generichide
 @@||youtubbe.website^$generichide
+@@||singingdalong.blogspot.kr^$generichide
 @@||time.navyism.com^$generichide
 @@||wasabisyrup.com^$generichide
 !

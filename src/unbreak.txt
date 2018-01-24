@@ -24,6 +24,7 @@
 @@||web.n2s.co.kr/js/_n2s_ygosu_$domain=ygosu.com
 ! Element hiding exception rules
 @@||{fuckadblock}^$generichide
+@@||singingdalong.blogspot.kr^$generichide
 @@||time.navyism.com^$generichide
 @@||wasabisyrup.com^$generichide
 !
