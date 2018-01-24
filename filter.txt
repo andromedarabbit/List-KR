@@ -803,7 +803,7 @@
 @@||kado.net/bannerManager/inc/120.html^
 @@||kado.net/bannerManager/upload/120.gif^
 @@||kmong.com/img/seller/advertisement_$image
-@@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr,ppomppu1.co.kr
+@@||kr/zboard/*/banner/logo/$domain=ppomppu.co.kr|ppomppu1.co.kr
 @@||m.dcinside.com/js/ads.js^
 @@||netmarble.net/resources/scripts/adcontroller.js
 @@||newscj.com/bannerManager/upload/376.gif$domain=newscj.com
