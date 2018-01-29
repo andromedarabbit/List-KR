@@ -2235,7 +2235,7 @@ torrentgum.net###div1
 torrentgum.net###divpop1
 torrentgum.net##.outlogin + a > img
 torrenthaja.com##.side-banner
-torrenthaja.com##table.torrent > tbody > tr:last-
+torrenthaja.com##a[id^=banner_]
 torrentleea.com,torrentleex.com##a[href*="cm_id=torrentlee"]
 torrentmoa.com##body>b
 torrentmoa.com##body>center
