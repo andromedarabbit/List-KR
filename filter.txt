@@ -937,6 +937,7 @@ baykoreans.com,baykoreans.link,baykoreans.net##.board > .clear
 baykoreans.com,baykoreans.link,baykoreans.net##.viewDocument > .clear
 baykoreans.com,baykoreans.link,baykoreans.net##.viewDocument > div[style*="opacity"]
 baykoreans.com,baykoreans.link,baykoreans.net$$script[tag-content="$(""div.adsbygoogle"")"]
+betanews.heraldcorp.com:8080##[id^=banner_]
 betanews.heraldcorp.com,betanews.net,mbetanews.heraldcorp.com##iframe[src*="/herald_"][src*="?refData"]:not([height="50"])
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
