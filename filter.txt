@@ -1979,6 +1979,8 @@ news20.busan.com###left_con > #topview
 news20.busan.com###news_write + [style*="250px"][style*="650px"]
 news20.busan.com###right_con > [style*="300px"][style*="250px"]
 news20.busan.com###wrap > [style*="970px"]
+news2day.co.kr##div[class*=banner]
+news2day.co.kr##div[id*=banner]
 newscj.com##td[width="640"] > div[style*="620px; height: 265px; b"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
